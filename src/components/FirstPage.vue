@@ -1,23 +1,30 @@
 <template>
-  <VuePDF :pdf="pdf" :page="1" />
+  <div class="main">
+    <vue-pdf-embed :source="source1" class="canvas"/>
+  </div>
 </template>
 
 <script>
-import {usePDF, VuePDF} from '@tato30/vue-pdf'
+import VuePdfEmbed from 'vue-pdf-embed'
 
 export default {
   components: {
-    VuePDF
+    VuePdfEmbed,
   },
-  setup(){
-    const { pdf, pages, info } = usePDF("./and.pdf")
-
-    console.log(`Document has ${pages} pages`)
-    console.log(`Document info: ${info}`)
-
+  data() {
     return {
-      pdf
+      source1: 'and2.pdf',
+      showAllPages: true
     }
-  }
+  },
 }
 </script>
+
+<style scoped>
+.main{
+  
+}
+.canvas{
+  margin: auto;
+}
+</style>
