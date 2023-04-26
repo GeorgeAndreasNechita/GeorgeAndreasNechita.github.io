@@ -25,6 +25,9 @@ export default {
   
 }
 .canvas{
-  margin: auto;
+  width: 100%;
+  height: 90vh;
+  overflow-x: none; /* enable vertical scrolling */
+  overflow-y: scroll; /* enable vertical scrolling */
 }
 </style>

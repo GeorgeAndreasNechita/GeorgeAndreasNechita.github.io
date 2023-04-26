@@ -1,6 +1,6 @@
 <script setup>
 import TheWelcome from '../components/TheWelcome.vue'
-import FirstPage from '../components/FirstPage.vue'
+import FirstPage from '../components/Lebenslauf.vue'
 </script>
 
 <template>
