@@ -13,7 +13,7 @@ export default {
   },
   data() {
     return {
-      source1: 'and2.pdf',
+      source1: 'George Andreas Nechita - Lebenslauf.pdf',
       showAllPages: true
     }
   },
