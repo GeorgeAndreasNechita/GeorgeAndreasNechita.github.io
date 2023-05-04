@@ -4,39 +4,35 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-  <header class="" id="header">
-    <nav id="nav">
-        <ul class="nav_list" id="navlist">
+        <ul id="nav_ul">
           <li><RouterLink class="nav_item" to="/">Home</RouterLink></li>
           <li><RouterLink class="nav_item" to="/lebenslauf">Lebenslauf</RouterLink></li>
           <li><RouterLink class="nav_item" to="/project1">Project1</RouterLink></li>
         </ul>
-    </nav>
-  </header>
 </template>
 
 
 <style scoped>
-#header{
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+#nav_ul{
   display: grid;
+  padding-left:40%;
+  padding-right:20%;
+  grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   background-color: #1f1f1f;
-  height: 80px;
+  height: 60px;
 }
-#nav{
-  margin: 0 10%;
-}
-#navlist{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
+
 li {
   text-align: center;
 }
 .nav_item{
+  font-family: 'Poppins', sans-serif;
   color: white;
   font-weight: 600;
-  font-size: 21px;
+  font-size: 19px;
   text-align: center;
 }
 .router-link-active{
