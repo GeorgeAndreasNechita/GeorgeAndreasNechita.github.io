@@ -35,7 +35,7 @@ li {
   font-size: 19px;
   text-align: center;
 }
-.router-link-active{
+.router-link-active, .nav_item:hover{
   text-decoration: underline;  
   text-decoration-color: red;  
   text-decoration-thickness: 3px;
