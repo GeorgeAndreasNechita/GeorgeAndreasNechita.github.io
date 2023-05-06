@@ -3,56 +3,76 @@
 </script>
 
 <template>
-  <main id="main">
-
-    <section id="about-me">
-      <div id="left-hero-side"><img id="me-img-circle" src="@/assets/me2-modified.png" alt=""></div>
-      <div id="right-hero-side">
-        <div id="title">George Andreas Nechita - Full Stack Web Developer</div>
-        <div id="description">Autodidaktischer Webentwickler mit fast 2 Jahren Berufserfahrung. Ich wohne seit 4 Jahren in Stuttgart.. Derzeit suche ich nach einem Job, nachdem ich 1 Jahr lang pausiert habe, um mich um persönliche Angelegenheiten zu kümmern.</div>
-        <!-- <img class="planguage" src="@/assets/languages.png" alt=""> -->
+  <main>
+    <section id="mountain">
+      <div class="header">
+        <div class="info">
+          <img src="@/assets/try1.png" id="me1" alt="">
+          <div class="description-text">
+            <h1>George Andreas Nechita - Full Stack Web Entwickler</h1>
+            <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.<br> Ich wohne
+              seit 4 Jahren in Stuttgart.
+              Derzeit auf der Suche nach einem neuen Job nach einer Pause von 1 Jahr, um einige persönliche
+              Angelegenheiten zu regeln.</h2>
+          </div>
+        </div>
       </div>
     </section>
+    <!-- <img class="planguage" src="@/assets/languages.png" alt=""> -->
   </main>
 </template>
 
 <style scoped>
-#about-me{
-  display: grid;
-  grid-template-columns: 30% 70%;
-  padding: 5% 5% 5% 5%;
+@import '../css/mountain-animation.css';
+
+#me1 {
+  margin: auto;
+  margin-bottom: 20px;
+  width: 250px;
+  border-radius: 950px;
 }
-#me-img-circle{
-  width: 20vmax;
-}
-#main{
+
+#main {
   background: rgb(29, 29, 29);
+  z-index: -99;
   height: 100vh;
 }
-#title{
+
+#title {
   margin-top: 2%;
 }
-#title,#description{
+
+.info {
+  width: 100%;
+  padding: 0% 22% 0 22%;
+}
+
+.description-text {
+  border-radius: 200px;
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+h1,
+h2 {
   display: grid;
   align-items: center;
   text-align: center;
   font-size: 27px;
-    letter-spacing: 0px;
-    color: #fff;
-    font-weight: 400;
-    line-height: 35px;
-    text-decoration: none;
+  letter-spacing: 0px;
+  line-height: 35px;
+  text-decoration: none;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
-#description{
-  margin-top: 1%;
+
+h1 {
+  color: #ffffff;
+  font-weight: 800;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  line-height: 58px;
 }
-#left-hero-side{
-  display: grid;
-  place-items: center;
-}
-.planguage{
-  background: #fff;
-  height: 8vmax;
-  border-radius: 1vmax;
+h2{
+  color:powderblue;
 }
 </style>
