@@ -21,10 +21,16 @@ import { RouterLink, RouterView } from 'vue-router'
   padding-right:20%;
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
-  background-color: #1f1f1f;
-  height: 60px;
-}
+  /* background-color: #1f1f1f; */
+  background-color: #181818;
 
+  height: 60px;
+
+    border-bottom: 1px solid #1a1a1a;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 4px 4px rgba(0,0,0,0.3);
+    z-index: 99999999999;
+}
 li {
   text-align: center;
 }
