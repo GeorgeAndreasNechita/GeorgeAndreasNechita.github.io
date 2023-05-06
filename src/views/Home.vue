@@ -11,9 +11,11 @@
         <div class="info">
           <img src="@/assets/try1.png" id="me-photo" alt="">
           <div class="description-text">
-            <h1>George Andreas Nechita - Full Stack Web Entwickler</h1>
-            <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.<br> Seit 4 Jahren lebe ich in Stuttgart.
-              Derzeit auf der Suche nach einem neuen Job nach einer Pause von 1 Jahr, um einige persönliche
+            <h1>George Andreas Nechita</h1>
+            <h1>Full Stack Web Entwickler</h1>
+            <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.</h2>
+            <h2>Seit 4 Jahren lebe ich in Stuttgart.</h2>
+            <h2>Derzeit auf der Suche nach einem neuen Job nach einer Pause von 1 Jahr, um einige persönliche
               Angelegenheiten zu regeln.</h2>
           </div>
         </div>
@@ -28,8 +30,7 @@
 
 #me-photo {
   margin: auto;
-  margin-bottom: 60px;
-  width: 250px;
+  width: 45vmin;
   border-radius: 950px;
   border: 5px solid #fff;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
@@ -42,6 +43,7 @@
   transform: scale(1.2);
   filter: brightness(85%);
 }
+
 #main {
   background: rgb(29, 29, 29);
   z-index: -99;
@@ -53,52 +55,48 @@
 }
 
 .info {
-width: 100%;
-padding: 0% 22% 0 22%;
-z-index: 999;
-animation: fadeIn 1.5s ease-out;
+  width: 100%;
+  padding: 0% 2% 0 2%;
+  z-index: 999;
+  animation: fadeIn 1.5s ease-out;
 }
 
 .description-text {
-border-radius: 200px;
-padding: 50px;
-background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 80px;
+  padding: 50px 1px;
+  /* background-color: rgba(0, 0, 0, 0.6); */
 }
 
 h1,
 h2 {
-display: grid;
-align-items: center;
-text-align: center;
-font-size: 27px;
-letter-spacing: 0px;
-line-height: 35px;
-text-decoration: none;
-text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+  text-align: center;
+
+  line-height: 35px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 h1 {
-color: #ffffff;
-font-weight: 800;
-font-size: 30px;
-line-height: 58px;
-animation: pulse 7s ease-in-out infinite alternate;
+  color: #ffffff;
+  font-weight: 800;
+  font-size: 1.4rem;
+  line-height: 58px;
+  animation: pulse 7s ease-in-out infinite alternate;
 }
 
-h2{
-color:powderblue;
-font-weight: 600;
-font-size: 24px;
-letter-spacing: 1px;
-margin-top: 15px;
-animation: slideInRight 1.5s ease-out;
+h2 {
+  color: powderblue;
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  margin-top: 15px;
+  animation: slideInRight 1.5s ease-out;
 }
 
 h1 {
   display: grid;
   align-items: center;
   text-align: center;
-  font-size: 27px;
   letter-spacing: 0px;
   line-height: 35px;
   text-decoration: none;
@@ -114,6 +112,7 @@ h1 {
     opacity: 0;
     transform: translateY(-20px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -125,6 +124,7 @@ h1 {
     opacity: 0;
     transform: translateY(-20px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -147,6 +147,7 @@ h1 {
   0% {
     transform: scale(1);
   }
+
   100% {
     transform: scale(1.05);
   }
@@ -161,6 +162,4 @@ h1 {
     opacity: 1;
   }
 }
-
-
 </style>
