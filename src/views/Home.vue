@@ -10,8 +10,7 @@
           <img src="@/assets/try1.png" id="me-photo" alt="">
           <div class="description-text">
             <h1>George Andreas Nechita - Full Stack Web Entwickler</h1>
-            <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.<br> Ich wohne
-              seit 4 Jahren in Stuttgart.
+            <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.<br> Seit 4 Jahren lebe ich in Stuttgart.
               Derzeit auf der Suche nach einem neuen Job nach einer Pause von 1 Jahr, um einige persönliche
               Angelegenheiten zu regeln.</h2>
           </div>
@@ -27,11 +26,19 @@
 
 #me-photo {
   margin: auto;
-  margin-bottom: 20px;
+  margin-bottom: 60px;
   width: 250px;
   border-radius: 950px;
+  border: 5px solid #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  filter: brightness(80%);
+  transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
 }
 
+#me-photo:hover {
+  transform: scale(1.2);
+  filter: brightness(85%);
+}
 #main {
   background: rgb(29, 29, 29);
   z-index: -99;
@@ -45,6 +52,7 @@
 .info {
   width: 100%;
   padding: 0% 22% 0 22%;
+  z-index: 999;
 }
 
 .description-text {
