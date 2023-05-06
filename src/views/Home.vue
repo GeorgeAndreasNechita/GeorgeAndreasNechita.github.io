@@ -7,7 +7,7 @@
     <section id="mountain">
       <div class="header">
         <div class="info">
-          <img src="@/assets/try1.png" id="me1" alt="">
+          <img src="@/assets/try1.png" id="me-photo" alt="">
           <div class="description-text">
             <h1>George Andreas Nechita - Full Stack Web Entwickler</h1>
             <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.<br> Ich wohne
@@ -25,7 +25,7 @@
 <style scoped>
 @import '../css/mountain-animation.css';
 
-#me1 {
+#me-photo {
   margin: auto;
   margin-bottom: 20px;
   width: 250px;
