@@ -30,6 +30,7 @@
 
 #me-photo {
   margin: auto;
+  margin-bottom: 3vmin;
   width: 50vmin;
   border-radius: 950px;
   border: 5px solid #fff;
