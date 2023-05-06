@@ -14,9 +14,9 @@
             <h1>George Andreas Nechita</h1>
             <h1>Full Stack Web Entwickler</h1>
             <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.</h2>
-            <h2>Seit 4 Jahren lebe ich in Stuttgart.</h2>
             <h2>Derzeit auf der Suche nach einem neuen Job nach einer Pause von 1 Jahr, um einige persönliche
               Angelegenheiten zu regeln.</h2>
+            <h2>Ich wohne in Stuttgart seit April 2019</h2>
           </div>
         </div>
       </div>

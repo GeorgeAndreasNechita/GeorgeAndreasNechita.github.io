@@ -7,7 +7,8 @@ import { RouterLink, RouterView } from 'vue-router'
         <ul id="nav_ul">
           <li><RouterLink class="nav_item" to="/">Home</RouterLink></li>
           <li><RouterLink class="nav_item" to="/lebenslauf">Lebenslauf</RouterLink></li>
-          <li><RouterLink class="nav_item" to="/project1">Project1</RouterLink></li>
+          <li><RouterLink class="nav_item" to="/project1">....</RouterLink></li>
+          <li><RouterLink class="nav_item" to="/project1">...</RouterLink></li>
         </ul>
 </template>
 
@@ -17,9 +18,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 #nav_ul{
   display: grid;
-  padding-left:40%;
-  padding-right:20%;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   align-items: center;
   /* background-color: #1f1f1f; */
   background-color: #181818;
@@ -38,7 +37,7 @@ li {
   font-family: 'Poppins', sans-serif;
   color: white;
   font-weight: 600;
-  font-size: 19px;
+  font-size: 1rem;
   text-align: center;
 }
 .router-link-active, .nav_item:hover{
