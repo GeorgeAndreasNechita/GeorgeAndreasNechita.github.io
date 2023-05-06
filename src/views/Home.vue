@@ -10,7 +10,7 @@
       <div class="header">
         <div class="info">
           <img src="@/assets/try1.png" id="me-photo" alt="">
-          <div class="description-text">
+          <div class="description-text-div">
             <h1>George Andreas Nechita</h1>
             <h1>Full Stack Web Entwickler</h1>
             <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.</h2>
@@ -30,7 +30,7 @@
 
 #me-photo {
   margin: auto;
-  width: 45vmin;
+  width: 50vmin;
   border-radius: 950px;
   border: 5px solid #fff;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
@@ -61,9 +61,9 @@
   animation: fadeIn 1.5s ease-out;
 }
 
-.description-text {
+.description-text-div {
   border-radius: 80px;
-  padding: 50px 1px;
+  padding: 30px 1px 0px 1px;
   /* background-color: rgba(0, 0, 0, 0.6); */
 }
 
