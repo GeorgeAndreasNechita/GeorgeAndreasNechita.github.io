@@ -1,12 +1,19 @@
 <template>
   <div class="main">
     <div class="button-parent">
-      <button class="button-64" @click="changeDocument">
+      <button class="button-64 mt-8" @click="changeDocument">
         <span class="text">{{ buttonText }}</span>
       </button>
     </div>
+    <div class="button-parent">
+      <button class="button-64 mt-8 mb-6">
+        <span class="text">
+          <a href="George Andreas Nechita - Lebenslauf.pdf" download>Lebenslauf Herunterladen</a>
+        </span>
+      </button>
+    </div>
   </div>
-  <a href="George Andreas Nechita - Lebenslauf.pdf" download>Lebenslauf Herunterladen</a>
+
   <vue-pdf-embed :source="source" class="canvas" />
 </template>
 
@@ -56,7 +63,6 @@ export default {
 /* CSS */
 .button-64 {
   display: grid;
-  margin: 5%;
   justify-self: center;
   height: 3rem;
   align-items: center;
