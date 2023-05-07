@@ -6,6 +6,7 @@
       </button>
     </div>
   </div>
+  <a href="George Andreas Nechita - Lebenslauf.pdf" download>Lebenslauf Herunterladen</a>
   <vue-pdf-embed :source="source" class="canvas" />
 </template>
 
