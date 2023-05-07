@@ -1,15 +1,15 @@
 <template>
   <div class="main">
     <div class="button-parent">
-      <button class="button-64 mt-8" @click="changeDocument">
-        <span class="text">{{ buttonText }}</span>
-      </button>
-    </div>
-    <div class="button-parent">
-      <button class="button-64 mt-8 mb-6">
+      <button class="button-64 mt-8">
         <span class="text">
           <a href="George Andreas Nechita - Lebenslauf.pdf" download>Lebenslauf Herunterladen</a>
         </span>
+      </button>
+    </div>
+    <div class="button-parent">
+      <button class="button-64 mt-8 mb-6" @click="changeDocument">
+        <span class="text">{{ buttonText }}</span>
       </button>
     </div>
   </div>
@@ -26,20 +26,20 @@ export default {
   },
   data() {
     return {
-      buttonText: 'Arbeitszeugnis von 91Interactive',
+      buttonText: 'Arbeitszeugnis von 91Interactive anzeigen',
       source: 'George Andreas Nechita - Lebenslauf.pdf',
       showAllPages: true
     }
   },
   methods: {
     changeDocument() {
-      if (this.buttonText == 'Arbeitszeugnis von 91Interactive') {
+      if (this.buttonText == 'Arbeitszeugnis von 91Interactive anzeigen') {
         this.source = 'George Andreas Nechita - Arbeitszeugnis.pdf'
-        this.buttonText = 'Lebenslauf'
+        this.buttonText = 'Lebenslauf anzeigen'
         return
       }
       this.source = 'George Andreas Nechita - Lebenslauf.pdf'
-      this.buttonText = 'Arbeitszeugnis von 91Interactive'
+      this.buttonText = 'Arbeitszeugnis von 91Interactive anzeigen'
       return
     }
   }
@@ -47,6 +47,16 @@ export default {
 </script>
 
 <style scoped>
+.text {
+  display: flex;
+  font-size: 0.8rem;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
 .canvas {
   width: 100%;
   height: 90vh;
