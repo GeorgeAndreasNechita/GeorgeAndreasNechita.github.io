@@ -28,21 +28,6 @@
 <style scoped>
 @import '../css/mountain-animation.css';
 
-#me-photo {
-  margin: auto;
-  width: 50vmin;
-  border-radius: 950px;
-  border: 5px solid #fff;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
-  filter: brightness(80%);
-  transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
-  animation: fadeInImage 1.5s ease-out;
-}
-
-#me-photo:hover {
-  transform: scale(1.2);
-  filter: brightness(85%);
-}
 
 #main {
   background: rgb(29, 29, 29);
@@ -59,6 +44,23 @@
   padding: 0% 2% 0 2%;
   z-index: 999;
   animation: fadeIn 1.5s ease-out;
+}
+
+
+#me-photo {
+  margin: auto;
+  width: 50vmin;
+  border-radius: 950px;
+  border: 5px solid #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+  filter: brightness(80%);
+  transition: transform 0.2s ease-in-out, filter 0.2s ease-in-out;
+  animation: fadeInImage 1.5s ease-out;
+}
+
+#me-photo:hover {
+  transform: scale(1.2);
+  filter: brightness(85%);
 }
 
 .description-text-div {
@@ -161,5 +163,18 @@ h1 {
   to {
     opacity: 1;
   }
+}
+
+
+@media only screen and (min-device-width: 320px) and (orientation: landscape) {
+  #me-photo{
+    margin-top: 5vmax;
+  }
+ .header{
+  height: auto;
+  padding-bottom: 10vmax;
+ } 
+
+
 }
 </style>
