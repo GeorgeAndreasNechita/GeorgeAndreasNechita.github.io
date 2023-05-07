@@ -59,7 +59,7 @@ export default {
 
 .canvas {
   width: 100%;
-  height: 90vh;
+  /* height: 90vh; */
   overflow-x: none;
   /* enable vertical scrolling */
   overflow-y: scroll;
