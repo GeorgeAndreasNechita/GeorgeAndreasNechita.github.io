@@ -7,8 +7,8 @@ import { RouterLink, RouterView } from 'vue-router'
         <ul id="nav_ul">
           <li><RouterLink class="nav_item" to="/">Home</RouterLink></li>
           <li><RouterLink class="nav_item" to="/lebenslauf">Lebenslauf</RouterLink></li>
-          <li><RouterLink class="nav_item" to="/project1">....</RouterLink></li>
-          <li><RouterLink class="nav_item" to="/project1">...</RouterLink></li>
+          <li><RouterLink class="nav_item" to="/arbeitszeugnis">Arbeitszeugnis</RouterLink></li>
+          <!-- <li><RouterLink class="nav_item" to="/">huehueheu</RouterLink></li> -->
         </ul>
 </template>
 
@@ -18,7 +18,8 @@ import { RouterLink, RouterView } from 'vue-router'
 
 #nav_ul{
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto auto auto;
   align-items: center;
   /* background-color: #1f1f1f; */
   background-color: #181818;
