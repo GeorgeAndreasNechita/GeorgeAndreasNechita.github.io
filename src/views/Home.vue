@@ -49,7 +49,9 @@
 
 #me-photo {
   margin: auto;
-  width: 50vmin;
+  height: auto;
+  width: 100%;
+  max-width: 200px;
   border-radius: 950px;
   border: 5px solid #fff;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
