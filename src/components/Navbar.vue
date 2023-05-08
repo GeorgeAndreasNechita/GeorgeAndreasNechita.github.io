@@ -47,5 +47,12 @@ li {
   text-decoration-thickness: 3px;
   text-underline-offset: 8px;
 }
-
+@media only screen and (min-width: 1024px) {
+  #nav_ul{
+    padding: 0 25%;
+  }
+  .nav_item{
+    font-size: 1.2rem;
+  }
+ }
 </style>

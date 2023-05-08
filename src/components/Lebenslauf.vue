@@ -3,7 +3,7 @@
     <div class="button-parent">
       <button class="button-64 mt-8">
         <span class="text">
-          <a href="George Andreas Nechita - Lebenslauf.pdf" download>Lebenslauf Herunterladen</a>
+          <a href="George Andreas Nechita - Lebenslauf.pdf" download>Lebenslauf als PDF Herunterladen</a>
         </span>
       </button>
     </div>
@@ -123,4 +123,9 @@ export default {
     min-width: 196px;
   }
 }
+@media only screen and (min-width: 1024px) {
+  .text{
+    font-size: 1.2rem;
+  }
+ }
 </style>
