@@ -47,6 +47,9 @@ export default {
 </script>
 
 <style scoped>
+.main{
+  background-color: aliceblue;
+}
 .text {
   display: flex;
   font-size: 0.8rem;
