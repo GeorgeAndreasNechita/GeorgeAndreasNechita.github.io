@@ -130,5 +130,12 @@ export default {
   .text{
     font-size: 1.2rem;
   }
+  .vue-pdf-embed>div{
+    display: grid;
+    justify-items: center;
+  }
+  canvas{
+    width: 60% !important;
+  }
  }
 </style>

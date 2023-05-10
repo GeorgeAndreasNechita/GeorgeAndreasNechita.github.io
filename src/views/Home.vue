@@ -51,7 +51,7 @@
   margin: auto;
   height: auto;
   width: 100%;
-  max-width: 200px;
+  max-width: 230px;
   border-radius: 950px;
   border: 5px solid #fff;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
@@ -169,14 +169,67 @@ h1 {
 
 
 @media only screen and (min-device-width: 320px) and (orientation: landscape) {
-  #me-photo{
-    margin-top: 5vmax;
+  #me-photo {
+    margin-top: 3vmax;
   }
- .header{
-  height: auto;
-  padding-bottom: 10vmax;
- } 
 
+  .header {
+    height: auto;
+    padding-bottom: 10vmax;
+  }
+}
 
+@media only screen and (max-device-height: 750px) {
+  #me-photo {
+    width: 200px;
+    max-width: 160px;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+    line-height: 2rem;
+  }
+
+  h2 {
+    font-size: 0.8rem;
+    line-height: 2rem;
+  }
+}
+
+@media only screen and (min-device-width: 1080px) {
+  #me-photo {
+    width: 70vmax;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+  }
+
+  h2 {
+    line-height: 2rem;
+    font-size: 1.3rem;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  #me-photo {
+    width: 330px;
+    max-width: 1000px;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+    line-height: 3.6rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+    line-height: 3.2rem;
+  }
+}
+
+/* Tablets - Landscape */
+@media screen and (min-width: 1025px) and (max-width: 1280px) {
+  /* CSS rules for tablets in landscape mode */
 }
 </style>
