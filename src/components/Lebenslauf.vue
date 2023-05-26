@@ -14,7 +14,7 @@
     </div>
   </div>
 
-  <vue-pdf-embed :source="source" class="canvas" />
+  <div class="pdf-canvas-parent"><vue-pdf-embed :source="source" class="canvas" /></div>
 </template>
 
 <script>
@@ -137,5 +137,9 @@ export default {
   canvas{
     width: 60% !important;
   }
+  .pdf-canvas-parent{
+  width: 700px;
+  margin: auto;
+}
  }
 </style>
