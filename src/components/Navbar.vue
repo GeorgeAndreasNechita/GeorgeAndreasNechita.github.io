@@ -6,13 +6,13 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <ul id="nav_ul">
     <li>
-      <RouterLink class="nav_item" to="/">Home</RouterLink>
+      <RouterLink class="nav_item" to="/">Startseite</RouterLink>
     </li>
     <li>
       <RouterLink class="nav_item" to="/lebenslauf">Lebenslauf</RouterLink>
     </li>
     <li>
-      <RouterLink class="nav_item" to="/arbeitszeugnis">....</RouterLink>
+      <RouterLink class="nav_item" to="/arbeitszeugnis">( In Bearbeitung )</RouterLink>
     </li>
     <!-- <li><RouterLink class="nav_item" to="/">huehueheu</RouterLink></li> -->
   </ul>

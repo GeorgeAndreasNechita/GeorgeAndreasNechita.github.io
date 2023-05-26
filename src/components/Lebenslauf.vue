@@ -12,9 +12,9 @@
         <span class="text">{{ buttonText }}</span>
       </button>
     </div>
+    <div class="pdf-canvas-parent"><vue-pdf-embed :source="source" class="canvas" /></div>
   </div>
 
-  <div class="pdf-canvas-parent"><vue-pdf-embed :source="source" class="canvas" /></div>
 </template>
 
 <script>
@@ -126,6 +126,7 @@ export default {
     min-width: 196px;
   }
 }
+ /* Desktop screens */
 @media only screen and (min-width: 1024px) {
   .text{
     font-size: 1.2rem;
@@ -141,5 +142,8 @@ export default {
   width: 700px;
   margin: auto;
 }
+ .main{
+  padding-bottom: 80px;
+ }
  }
 </style>
