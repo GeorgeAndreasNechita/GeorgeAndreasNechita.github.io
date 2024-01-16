@@ -56,6 +56,7 @@ li {
   text-decoration-color: red;
   text-decoration-thickness: 5px;
   text-underline-offset: 8px;
+  transition: text-decoration-color 0.3s ease-in-out;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
