@@ -11,9 +11,9 @@ import { RouterLink, RouterView } from 'vue-router'
     <li>
       <RouterLink class="nav_item" to="/lebenslauf">Lebenslauf</RouterLink>
     </li>
-    <li>
+    <!-- <li>
       <RouterLink class="nav_item" to="/arbeitszeugnis">( In Bearbeitung )</RouterLink>
-    </li>
+    </li> -->
     <!-- <li><RouterLink class="nav_item" to="/">huehueheu</RouterLink></li> -->
   </ul>
 </template>
@@ -24,8 +24,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
 #nav_ul {
   display: grid;
-  grid-template-columns: auto auto auto auto;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: auto auto;
   align-items: center;
   /* background-color: #1f1f1f; */
   background-color: #181818;
