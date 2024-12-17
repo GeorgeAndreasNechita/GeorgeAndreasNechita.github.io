@@ -13,9 +13,7 @@
           <div class="description-text-div">
             <h1>George Andreas Nechita</h1>
             <h1>Full Stack Web Entwickler</h1>
-            <h2>Ich bin ein autodidaktischer Web Entwickler mit fast 2 Jahren Berufserfahrung.</h2>
-            <h2>Derzeit auf der Suche nach einem neuen Job nach einer Pause von 1 Jahr, um einige persönliche
-              Angelegenheiten zu regeln.</h2>
+            <h2>Ich bin ein autodidaktischer Web Entwickler (Front und Backend) mit spezialisierung auf Vue und Laravel seit 2020.</h2>
             <h2>Ich wohne in Stuttgart seit April 2019</h2>
           </div>
         </div>

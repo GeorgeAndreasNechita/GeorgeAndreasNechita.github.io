@@ -7,10 +7,10 @@
         </span>
       </button>
     </div>
-    <div class="button-parent">
-      <button class="button-64 mt-8 mb-6" @click="changeDocument">
-        <span class="text">{{ buttonText }}</span>
-      </button>
+    <div class="button-parent mb-6">
+<!--      <button class="button-64 mt-8" @click="changeDocument">-->
+<!--        <span class="text">{{ buttonText }}</span>-->
+<!--      </button>-->
     </div>
     <div class="pdf-canvas-parent"><vue-pdf-embed :source="source" class="canvas" /></div>
   </div>
