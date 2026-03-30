@@ -1,7 +1,4 @@
-Bitte diesen text in kleine stücken trennen und übersetzen, und genau auf diesen Format übergeben, mit maximal 7 Wörter auf Italienisch für jeden Eintrag:
-        {
-          it: "L'epistemologia contemporanea analizza i limiti della conoscenza.",
-          de: "Die zeitgenössische Erkenntnistheorie analysiert die Grenzen des Wissens.",
-        },
-
-Der Text:
+Bitte ein solche json erstellen, mit 300 Fortgeschrittene Docker Konzepte oder Befehle oder Kenntnisse:  {
+    "it": "Kubernetes orchestra i container in modo automatico.",
+    "de": "Kubernetes orchestriert Container automatisch."
+  },

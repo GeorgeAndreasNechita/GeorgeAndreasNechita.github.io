@@ -1,387 +1,102 @@
-[
-  {
-    "it": "Kubernetes orchestra i container in modo automatico1.",
-    "de": "Kubernetes orchestriert Container automatisch."
-  },
-  {
-    "it": "Un cluster Kubernetes è composto da nodi.",
-    "de": "Ein Kubernetes-Cluster besteht aus Nodes."
-  },
-  {
-    "it": "Il nodo master gestisce l'intero cluster.",
-    "de": "Der Master-Node verwaltet den gesamten Cluster."
-  },
-  {
-    "it": "I worker node eseguono i carichi di lavoro.",
-    "de": "Worker-Nodes führen die Workloads aus."
-  },
-  {
-    "it": "Un Pod è l'unità più piccola di Kubernetes.",
-    "de": "Ein Pod ist die kleinste Einheit in Kubernetes."
-  },
-  {
-    "it": "Ogni Pod può contenere uno o più container.",
-    "de": "Jeder Pod kann einen oder mehrere Container enthalten."
-  },
-  {
-    "it": "I container in un Pod condividono lo stesso network.",
-    "de": "Container in einem Pod teilen dasselbe Netzwerk."
-  },
-  {
-    "it": "Kubernetes bilancia automaticamente il carico tra i Pod.",
-    "de": "Kubernetes verteilt die Last automatisch zwischen Pods."
-  },
-  {
-    "it": "Un Deployment gestisce la creazione dei Pod.",
-    "de": "Ein Deployment verwaltet die Erstellung von Pods."
-  },
-  {
-    "it": "Il ReplicaSet garantisce il numero desiderato di Pod.",
-    "de": "Das ReplicaSet stellt die gewünschte Anzahl von Pods sicher."
-  },
-  {
-    "it": "Kubernetes riavvia automaticamente i Pod che falliscono.",
-    "de": "Kubernetes startet fehlgeschlagene Pods automatisch neu."
-  },
-  {
-    "it": "Un Service espone i Pod all'interno del cluster.",
-    "de": "Ein Service macht Pods innerhalb des Clusters zugänglich."
-  },
-  {
-    "it": "Il kube-apiserver è il componente centrale del control plane.",
-    "de": "Der kube-apiserver ist die zentrale Komponente der Control Plane."
-  },
-  {
-    "it": "etcd memorizza lo stato dell'intero cluster.",
-    "de": "etcd speichert den Zustand des gesamten Clusters."
-  },
-  {
-    "it": "Il kube-scheduler assegna i Pod ai nodi disponibili.",
-    "de": "Der kube-scheduler weist Pods verfügbaren Nodes zu."
-  },
-  {
-    "it": "Il controller manager gestisce i cicli di riconciliazione.",
-    "de": "Der Controller Manager verwaltet die Abstimmungszyklen."
-  },
-  {
-    "it": "kubelet è l'agente che gira su ogni nodo.",
-    "de": "kubelet ist der Agent, der auf jedem Node läuft."
-  },
-  {
-    "it": "kube-proxy gestisce le regole di rete sui nodi.",
-    "de": "kube-proxy verwaltet die Netzwerkregeln auf den Nodes."
-  },
-  {
-    "it": "Un Namespace isola le risorse logicamente nel cluster.",
-    "de": "Ein Namespace isoliert Ressourcen logisch im Cluster."
-  },
-  {
-    "it": "I label permettono di raggruppare e selezionare risorse.",
-    "de": "Labels ermöglichen das Gruppieren und Auswählen von Ressourcen."
-  },
-  {
-    "it": "Un Selector filtra le risorse tramite i loro label.",
-    "de": "Ein Selector filtert Ressourcen anhand ihrer Labels."
-  },
-  {
-    "it": "Le Annotation aggiungono metadati non identificativi alle risorse.",
-    "de": "Annotations fügen Ressourcen nicht-identifizierende Metadaten hinzu."
-  },
-  {
-    "it": "Un ConfigMap memorizza configurazioni non sensibili come coppie chiave-valore.",
-    "de": "Eine ConfigMap speichert nicht-sensible Konfigurationen als Schlüssel-Wert-Paare."
-  },
-  {
-    "it": "Un Secret memorizza dati sensibili in modo protetto.",
-    "de": "Ein Secret speichert sensible Daten geschützt."
-  },
-  {
-    "it": "I Secret vengono codificati in base64 per impostazione predefinita.",
-    "de": "Secrets werden standardmäßig in Base64 kodiert."
-  },
-  {
-    "it": "Un Volume permette ai Pod di persistere i dati.",
-    "de": "Ein Volume ermöglicht Pods das Persistieren von Daten."
-  },
-  {
-    "it": "Un PersistentVolume rappresenta storage fisico nel cluster.",
-    "de": "Ein PersistentVolume repräsentiert physischen Speicher im Cluster."
-  },
-  {
-    "it": "Un PersistentVolumeClaim richiede storage per un Pod.",
-    "de": "Ein PersistentVolumeClaim fordert Speicher für einen Pod an."
-  },
-  {
-    "it": "StorageClass definisce come il storage viene provisionato dinamicamente.",
-    "de": "StorageClass definiert, wie Speicher dynamisch bereitgestellt wird."
-  },
-  {
-    "it": "Il rolling update aggiorna i Pod senza interruzione del servizio.",
-    "de": "Das Rolling Update aktualisiert Pods ohne Dienstunterbrechung."
-  },
-  {
-    "it": "Kubernetes esegue il rollback automaticamente in caso di errore.",
-    "de": "Kubernetes führt bei Fehlern automatisch ein Rollback durch."
-  },
-  {
-    "it": "Un DaemonSet esegue un Pod su ogni nodo del cluster.",
-    "de": "Ein DaemonSet führt einen Pod auf jedem Node des Clusters aus."
-  },
-  {
-    "it": "Un StatefulSet gestisce applicazioni con stato persistente.",
-    "de": "Ein StatefulSet verwaltet Anwendungen mit persistentem Zustand."
-  },
-  {
-    "it": "Ogni Pod in un StatefulSet ha un'identità stabile e unica.",
-    "de": "Jeder Pod in einem StatefulSet hat eine stabile und eindeutige Identität."
-  },
-  {
-    "it": "Un Job esegue un task fino al suo completamento.",
-    "de": "Ein Job führt einen Task bis zu seinem Abschluss aus."
-  },
-  {
-    "it": "Un CronJob pianifica l'esecuzione di Job in modo periodico.",
-    "de": "Ein CronJob plant die periodische Ausführung von Jobs."
-  },
-  {
-    "it": "L'Ingress gestisce l'accesso HTTP esterno ai servizi del cluster.",
-    "de": "Der Ingress verwaltet den externen HTTP-Zugriff auf Cluster-Services."
-  },
-  {
-    "it": "Un Ingress Controller implementa le regole definite dall'Ingress.",
-    "de": "Ein Ingress Controller implementiert die vom Ingress definierten Regeln."
-  },
-  {
-    "it": "Il Service di tipo LoadBalancer espone il servizio esternamente.",
-    "de": "Ein Service vom Typ LoadBalancer macht den Service extern zugänglich."
-  },
-  {
-    "it": "Il Service di tipo NodePort apre una porta su ogni nodo.",
-    "de": "Ein Service vom Typ NodePort öffnet einen Port auf jedem Node."
-  },
-  {
-    "it": "Il Service di tipo ClusterIP è accessibile solo internamente.",
-    "de": "Ein Service vom Typ ClusterIP ist nur intern zugänglich."
-  },
-  {
-    "it": "Il DNS interno risolve i nomi dei Service nel cluster.",
-    "de": "Das interne DNS löst Service-Namen im Cluster auf."
-  },
-  {
-    "it": "CoreDNS è il server DNS predefinito in Kubernetes moderno.",
-    "de": "CoreDNS ist der Standard-DNS-Server im modernen Kubernetes."
-  },
-  {
-    "it": "Le risorse CPU e memoria si definiscono nei Pod spec.",
-    "de": "CPU- und Speicherressourcen werden in der Pod-Spec definiert."
-  },
-  {
-    "it": "I Requests definiscono le risorse minime garantite per un container.",
-    "de": "Requests definieren die garantierten Mindestressourcen für einen Container."
-  },
-  {
-    "it": "I Limits definiscono il massimo di risorse che un container può usare.",
-    "de": "Limits definieren das Maximum an Ressourcen, das ein Container nutzen darf."
-  },
-  {
-    "it": "Il QoS class determina la priorità di un Pod durante la pressione.",
-    "de": "Die QoS-Klasse bestimmt die Pod-Priorität unter Ressourcendruck."
-  },
-  {
-    "it": "Kubernetes supporta tre classi QoS: Guaranteed, Burstable, BestEffort.",
-    "de": "Kubernetes unterstützt drei QoS-Klassen: Guaranteed, Burstable und BestEffort."
-  },
-  {
-    "it": "L'Horizontal Pod Autoscaler scala i Pod in base al carico.",
-    "de": "Der Horizontal Pod Autoscaler skaliert Pods basierend auf der Last."
-  },
-  {
-    "it": "Il Vertical Pod Autoscaler regola i request di risorse automaticamente.",
-    "de": "Der Vertical Pod Autoscaler passt Ressourcenanfragen automatisch an."
-  },
-  {
-    "it": "Il Cluster Autoscaler aggiunge o rimuove nodi in base al carico.",
-    "de": "Der Cluster Autoscaler fügt Nodes hinzu oder entfernt sie je nach Last."
-  },
-  {
-    "it": "kubectl è il tool da riga di comando per interagire con Kubernetes.",
-    "de": "kubectl ist das Kommandozeilentool zur Interaktion mit Kubernetes."
-  },
-  {
-    "it": "Il comando kubectl apply applica la configurazione da un file YAML.",
-    "de": "Der Befehl kubectl apply wendet Konfigurationen aus einer YAML-Datei an."
-  },
-  {
-    "it": "Il comando kubectl get mostra lo stato delle risorse nel cluster.",
-    "de": "Der Befehl kubectl get zeigt den Status der Ressourcen im Cluster."
-  },
-  {
-    "it": "Il comando kubectl describe mostra i dettagli di una risorsa.",
-    "de": "Der Befehl kubectl describe zeigt Details einer Ressource."
-  },
-  {
-    "it": "Il comando kubectl logs mostra i log di un container.",
-    "de": "Der Befehl kubectl logs zeigt die Logs eines Containers."
-  },
-  {
-    "it": "Il comando kubectl exec apre una shell dentro un container.",
-    "de": "Der Befehl kubectl exec öffnet eine Shell in einem Container."
-  },
-  {
-    "it": "Il comando kubectl delete rimuove risorse dal cluster.",
-    "de": "Der Befehl kubectl delete entfernt Ressourcen aus dem Cluster."
-  },
-  {
-    "it": "Helm è il package manager per Kubernetes.",
-    "de": "Helm ist der Paketmanager für Kubernetes."
-  },
-  {
-    "it": "Un Helm Chart definisce un'applicazione Kubernetes completa.",
-    "de": "Ein Helm Chart definiert eine vollständige Kubernetes-Anwendung."
-  },
-  {
-    "it": "I values in Helm rendono i Chart riutilizzabili e configurabili.",
-    "de": "Values in Helm machen Charts wiederverwendbar und konfigurierbar."
-  },
-  {
-    "it": "Il tiller era il componente server di Helm v2.",
-    "de": "Tiller war die Server-Komponente von Helm v2."
-  },
-  {
-    "it": "Helm v3 ha rimosso tiller migliorando la sicurezza.",
-    "de": "Helm v3 hat Tiller entfernt und damit die Sicherheit verbessert."
-  },
-  {
-    "it": "RBAC controlla chi può fare cosa nel cluster.",
-    "de": "RBAC steuert, wer was im Cluster tun darf."
-  },
-  {
-    "it": "Un Role definisce permessi all'interno di un Namespace.",
-    "de": "Eine Role definiert Berechtigungen innerhalb eines Namespaces."
-  },
-  {
-    "it": "Un ClusterRole definisce permessi a livello di intero cluster.",
-    "de": "Eine ClusterRole definiert Berechtigungen auf gesamtem Cluster-Niveau."
-  },
-  {
-    "it": "Un RoleBinding associa un Role a un utente o ServiceAccount.",
-    "de": "Ein RoleBinding verknüpft eine Role mit einem Benutzer oder ServiceAccount."
-  },
-  {
-    "it": "Un ServiceAccount fornisce un'identità ai Pod nel cluster.",
-    "de": "Ein ServiceAccount gibt Pods eine Identität im Cluster."
-  },
-  {
-    "it": "Le NetworkPolicy controllano il traffico tra i Pod.",
-    "de": "NetworkPolicies steuern den Datenverkehr zwischen Pods."
-  },
-  {
-    "it": "Per default tutti i Pod possono comunicare tra loro.",
-    "de": "Standardmäßig können alle Pods miteinander kommunizieren."
-  },
-  {
-    "it": "Una NetworkPolicy restrictiva blocca tutto il traffico non esplicitamente permesso.",
-    "de": "Eine restriktive NetworkPolicy blockiert allen nicht explizit erlaubten Datenverkehr."
-  },
-  {
-    "it": "Il Container Network Interface definisce come configurare il networking.",
-    "de": "Das Container Network Interface definiert, wie Networking konfiguriert wird."
+[{
+    "it": "Il comando 'git reflog' registra ogni spostamento dell'HEAD, permettendo di recuperare commit apparentemente persi.",
+    "de": "Der Befehl 'git reflog' zeichnet jede Bewegung von HEAD auf und ermöglicht es, scheinbar verlorene Commits wiederherzustellen."
   },
   {
-    "it": "Flannel e Calico sono popolari plugin CNI per Kubernetes.",
-    "de": "Flannel und Calico sind beliebte CNI-Plugins für Kubernetes."
+    "it": "L'opzione '--force-with-lease' è più sicura di '--force' perché impedisce di sovrascrivere il lavoro altrui sul server.",
+    "de": "Die Option '--force-with-lease' ist sicherer als '--force', da sie verhindert, dass die Arbeit anderer auf dem Server überschrieben wird."
   },
   {
-    "it": "Calico supporta anche NetworkPolicy per la sicurezza della rete.",
-    "de": "Calico unterstützt auch NetworkPolicy für Netzwerksicherheit."
+    "it": "Il comando 'git bisect' esegue una ricerca binaria nella cronologia per individuare il commit esatto che ha introdotto un bug.",
+    "de": "Der Befehl 'git bisect' führt eine binäre Suche in der Historie durch, um den exakten Commit zu finden, der einen Bug eingeführt hat."
   },
   {
-    "it": "Un Sidecar container estende le funzionalità del container principale.",
-    "de": "Ein Sidecar-Container erweitert die Funktionalität des Hauptcontainers."
+    "it": "I 'Git Hooks' sono script personalizzati che vengono eseguiti automaticamente prima o dopo azioni come commit o push.",
+    "de": "Git Hooks sind benutzerdefinierte Skripte, die automatisch vor oder nach Aktionen wie Commit oder Push ausgeführt werden."
   },
   {
-    "it": "Il pattern Sidecar è fondamentale nell'architettura a service mesh.",
-    "de": "Das Sidecar-Muster ist grundlegend in der Service-Mesh-Architektur."
+    "it": "'git rerere' (Reuse Recorded Resolution) ricorda come sono stati risolti i conflitti di merge passati per riapplicarli automaticamente.",
+    "de": "'git rerere' (Reuse Recorded Resolution) merkt sich, wie frühere Merge-Konflikte gelöst wurden, um sie automatisch wieder anzuwenden."
   },
   {
-    "it": "Istio è un service mesh popolare per ambienti Kubernetes.",
-    "de": "Istio ist ein beliebtes Service Mesh für Kubernetes-Umgebungen."
+    "it": "Il comando 'git worktree' permette di avere più rami estratti contemporaneamente in directory separate.",
+    "de": "Der Befehl 'git worktree' ermöglicht es, mehrere Branches gleichzeitig in separaten Verzeichnissen ausgecheckt zu haben."
   },
   {
-    "it": "Un service mesh gestisce la comunicazione tra microservizi.",
-    "de": "Ein Service Mesh verwaltet die Kommunikation zwischen Microservices."
+    "it": "L'istruzione 'git cherry-pick -n' applica le modifiche di un commit all'area di stage senza creare automaticamente un nuovo commit.",
+    "de": "Die Anweisung 'git cherry-pick -n' wendet die Änderungen eines Commits auf die Staging-Area an, ohne automatisch einen neuen Commit zu erstellen."
   },
   {
-    "it": "mTLS garantisce la cifratura del traffico tra i servizi.",
-    "de": "mTLS stellt die Verschlüsselung des Datenverkehrs zwischen Services sicher."
+    "it": "Il comando 'git rev-parse' è un comando di 'plumbing' che traduce nomi di rami o tag in hash SHA-1 specifici.",
+    "de": "Der Befehl 'git rev-parse' ist ein 'Plumbing'-Befehl, der Branch-Namen oder Tags in spezifische SHA-1-Hashes übersetzt."
   },
   {
-    "it": "L'Operator Pattern estende Kubernetes con logica applicativa personalizzata.",
-    "de": "Das Operator-Pattern erweitert Kubernetes mit benutzerdefinierter Anwendungslogik."
+    "it": "Lo 'Sparse Checkout' permette di clonare un repository ma di estrarre solo una parte specifica dei file nel file system.",
+    "de": "Der 'Sparse Checkout' ermöglicht es, ein Repository zu klonen, aber nur einen spezifischen Teil der Dateien in das Dateisystem auszuchecken."
   },
   {
-    "it": "Un Custom Resource Definition aggiunge nuovi tipi di risorse.",
-    "de": "Eine Custom Resource Definition fügt neue Ressourcentypen hinzu."
+    "it": "Il comando 'git commit --fixup' crea un commit destinato a essere fuso automaticamente con un altro durante un rebase interattivo.",
+    "de": "Der Befehl 'git commit --fixup' erstellt einen Commit, der bei einem interaktiven Rebase automatisch mit einem anderen zusammengeführt werden soll."
   },
   {
-    "it": "I CRD rendono Kubernetes estensibile in modo dichiarativo.",
-    "de": "CRDs machen Kubernetes auf deklarative Weise erweiterbar."
+    "it": "L'opzione 'rebase --autosquash' riorganizza e fonde automaticamente i commit contrassegnati come fixup o squash.",
+    "de": "Die Option 'rebase --autosquash' ordnet Commits, die als Fixup oder Squash markiert sind, automatisch neu an und führt sie zusammen."
   },
   {
-    "it": "Un Controller loop osserva lo stato e lo riconcilia.",
-    "de": "Eine Controller-Schleife beobachtet den Zustand und gleicht ihn ab."
+    "it": "Il comando 'git cat-file -p' permette di visualizzare il contenuto grezzo di un oggetto Git (blob, tree, commit) tramite il suo hash.",
+    "de": "Der Befehl 'git cat-file -p' erlaubt es, den Rohinhalt eines Git-Objekts (Blob, Tree, Commit) über seinen Hash anzuzeigen."
   },
   {
-    "it": "Il loop di controllo è il cuore del funzionamento di Kubernetes.",
-    "de": "Die Steuerungsschleife ist das Herzstück der Kubernetes-Funktionsweise."
+    "it": "L'utilizzo di 'git bundle' crea un singolo file che contiene l'intero repository, utile per trasferimenti offline.",
+    "de": "Die Verwendung von 'git bundle' erstellt eine einzelne Datei, die das gesamte Repository enthält, nützlich für Offline-Transfers."
   },
   {
-    "it": "Lo stato desiderato viene dichiarato nei file di configurazione.",
-    "de": "Der gewünschte Zustand wird in Konfigurationsdateien deklariert."
+    "it": "Il file '.gitattributes' può essere usato per gestire i fine riga (LF/CRLF) e configurare filtri di cifratura o pulizia.",
+    "de": "Die Datei '.gitattributes' kann verwendet werden, um Zeilenenden (LF/CRLF) zu verwalten und Filter für Verschlüsselung oder Bereinigung zu konfigurieren."
   },
   {
-    "it": "Kubernetes riconcilia continuamente stato attuale con quello desiderato.",
-    "de": "Kubernetes gleicht den aktuellen Zustand ständig mit dem gewünschten ab."
+    "it": "Il comando 'git filter-repo' è il successore moderno di filter-branch per riscrivere la cronologia in modo efficiente.",
+    "de": "Der Befehl 'git filter-repo' ist der moderne Nachfolger von filter-branch, um die Historie effizient umzuschreiben."
   },
   {
-    "it": "Questo approccio dichiarativo semplifica la gestione delle applicazioni.",
-    "de": "Dieser deklarative Ansatz vereinfacht das Anwendungsmanagement erheblich."
+    "it": "'git verify-pack' è uno strumento utile per identificare file di grandi dimensioni che occupano spazio nel database degli oggetti.",
+    "de": "'git verify-pack' ist ein nützliches Tool, um große Dateien zu identifizieren, die Platz in der Objektdatenbank belegen."
   },
   {
-    "it": "Un init container viene eseguito prima del container principale.",
-    "de": "Ein Init-Container wird vor dem Hauptcontainer ausgeführt."
+    "it": "L'istruzione 'git commit --amend --no-edit' aggiorna l'ultimo commit con i nuovi file in stage senza cambiare il messaggio.",
+    "de": "Der Befehl 'git commit --amend --no-edit' aktualisiert den letzten Commit mit neuen Dateien im Staging, ohne die Nachricht zu ändern."
   },
   {
-    "it": "Gli init container preparano l'ambiente prima dell'avvio dell'applicazione.",
-    "de": "Init-Container bereiten die Umgebung vor dem Anwendungsstart vor."
+    "it": "Il comando 'git log --graph --oneline --all' fornisce una rappresentazione visiva compatta dell'intera struttura dei rami.",
+    "de": "Der Befehl 'git log --graph --oneline --all' bietet eine kompakte visuelle Darstellung der gesamten Branch-Struktur."
   },
   {
-    "it": "I liveness probe verificano se il container è ancora vivo.",
-    "de": "Liveness Probes prüfen, ob der Container noch am Leben ist."
+    "it": "Un 'Dangling Blob' è un oggetto nel database di Git che non è più referenziato da alcun commit o ramo.",
+    "de": "Ein 'Dangling Blob' ist ein Objekt in der Git-Datenbank, auf das kein Commit oder Branch mehr verweist."
   },
   {
-    "it": "I readiness probe verificano se il Pod può ricevere traffico.",
-    "de": "Readiness Probes prüfen, ob der Pod Datenverkehr empfangen kann."
+    "it": "Il comando 'git push origin --delete <nome_branch>' rimuove un ramo direttamente sul server remoto.",
+    "de": "Der Befehl 'git push origin --delete <branch_name>' entfernt einen Branch direkt auf dem Remote-Server."
   },
   {
-    "it": "Gli startup probe gestiscono applicazioni con avvio lento.",
-    "de": "Startup Probes verwalten Anwendungen mit langsamem Startverhalten."
+    "it": "L'uso di 'git stash push -u' permette di mettere da parte temporaneamente anche i file non tracciati (untracked).",
+    "de": "Die Verwendung von 'git stash push -u' erlaubt es, auch unversionierte (untracked) Dateien temporär beiseite zu legen."
   },
   {
-    "it": "Kubernetes rimuove dal Service i Pod non pronti.",
-    "de": "Kubernetes entfernt nicht bereite Pods aus dem Service."
+    "it": "Il flag '--no-ff' (no fast-forward) in un merge garantisce che venga sempre creato un commit di merge per mantenere la cronologia dei rami.",
+    "de": "Das Flag '--no-ff' (no fast-forward) beim Mergen garantiert, dass immer ein Merge-Commit erstellt wird, um die Branch-Historie zu bewahren."
   },
   {
-    "it": "Un PodDisruptionBudget limita i Pod rimossi durante manutenzione.",
-    "de": "Ein PodDisruptionBudget begrenzt entfernte Pods während Wartungsarbeiten."
+    "it": "I 'Submodules' permettono di includere un altro repository Git come sottodirectory di un progetto principale.",
+    "de": "Submodules ermöglichen es, ein anderes Git-Repository als Unterverzeichnis in ein Hauptprojekt einzubinden."
   },
   {
-    "it": "Il drain di un nodo sposta i Pod su altri nodi.",
-    "de": "Das Draining eines Nodes verschiebt Pods auf andere Nodes."
+    "it": "Il comando 'git remote set-url' permette di cambiare l'indirizzo del repository remoto senza rimuoverlo e riaggiungerlo.",
+    "de": "Der Befehl 'git remote set-url' erlaubt es, die Adresse des Remote-Repositorys zu ändern, ohne es zu entfernen und neu hinzuzufügen."
   },
   {
-    "it": "Il cordon impedisce la schedulazione di nuovi Pod su un nodo.",
-    "de": "Cordon verhindert das Planen neuer Pods auf einem Node."
+    "it": "L'opzione 'git diff --staged' mostra le differenze tra l'area di stage e l'ultimo commit (HEAD).",
+    "de": "Die Option 'git diff --staged' zeigt die Unterschiede zwischen der Staging-Area und dem letzten Commit (HEAD)."
   },
   {
     "it": "Le Taint impediscono che Pod vengano schedulati su certi nodi.",
@@ -1266,5 +981,105 @@
   {
     "it": "L'ecosistema cloud native ruota attorno a Kubernetes come piattaforma centrale.",
     "de": "Das Cloud-Native-Ökosystem dreht sich um Kubernetes als zentrale Plattform."
+  },
+  {
+    "it": "Le build multi-stage riducono drasticamente la dimensione delle immagini finali eliminando i tool di compilazione.",
+    "de": "Multi-Stage-Builds reduzieren die finale Image-Größe drastisch, indem sie Kompilierungs-Tools entfernen."
+  },
+  {
+    "it": "L'istruzione 'HEALTHCHECK' permette a Docker di monitorare lo stato di salute dell'applicazione all'interno del container.",
+    "de": "Die 'HEALTHCHECK'-Instruktion ermöglicht es Docker, den Gesundheitszustand der Anwendung im Container zu überwachen."
+  },
+  {
+    "it": "I 'Control Groups' (cgroups) gestiscono la limitazione e il monitoraggio delle risorse hardware come CPU e memoria.",
+    "de": "Control Groups (cgroups) verwalten die Beschränkung und Überwachung von Hardware-Ressourcen wie CPU und Speicher."
+  },
+  {
+    "it": "I 'Namespaces' del kernel Linux forniscono l'isolamento per processi, rete e file system.",
+    "de": "Linux-Kernel-Namespaces sorgen für die Isolierung von Prozessen, Netzwerk und Dateisystemen."
+  },
+  {
+    "it": "Docker Content Trust (DCT) utilizza chiavi digitali per verificare l'integrità e l'editore delle immagini.",
+    "de": "Docker Content Trust (DCT) verwendet digitale Schlüssel, um die Integrität und den Herausgeber von Images zu verifizieren."
+  },
+  {
+    "it": "Il driver di archiviazione 'Overlay2' è la scelta preferita per prestazioni elevate grazie al layering efficiente.",
+    "de": "Der 'Overlay2'-Storage-Driver ist aufgrund des effizienten Layerings die bevorzugte Wahl für hohe Performance."
+  },
+  {
+    "it": "I profili 'seccomp' (Secure Computing Mode) limitano le chiamate di sistema che un container può effettuare al kernel.",
+    "de": "Seccomp-Profile (Secure Computing Mode) schränken die Systemaufrufe ein, die ein Container an den Kernel richten darf."
+  },
+  {
+    "it": "La modalità 'Rootless' permette di eseguire il daemon Docker senza privilegi di root per aumentare la sicurezza.",
+    "de": "Der 'Rootless'-Modus ermöglicht es, den Docker-Daemon ohne Root-Rechte auszuführen, um die Sicherheit zu erhöhen."
+  },
+  {
+    "it": "Docker BuildKit offre funzionalità avanzate come l'esecuzione parallela dei layer e il caching remoto.",
+    "de": "Docker BuildKit bietet erweiterte Funktionen wie parallele Layer-Ausführung und Remote-Caching."
+  },
+  {
+    "it": "Il comando 'docker system prune --volumes' rimuove tutti i dati non utilizzati, inclusi i volumi anonimi.",
+    "de": "Der Befehl 'docker system prune --volumes' entfernt alle ungenutzten Daten, einschließlich anonymer Volumes."
+  },
+  {
+    "it": "Le reti 'Overlay' consentono la comunicazione tra container residenti su host diversi in un cluster Swarm.",
+    "de": "Overlay-Netzwerke ermöglichen die Kommunikation zwischen Containern auf verschiedenen Hosts in einem Swarm-Cluster."
+  },
+  {
+    "it": "L'opzione '--init' garantisce che un processo init venga eseguito come PID 1 per gestire correttamente i processi zombie.",
+    "de": "Die Option '--init' stellt sicher, dass ein Init-Prozess als PID 1 ausgeführt wird, um Zombie-Prozesse korrekt zu verwalten."
+  },
+  {
+    "it": "I 'Bind Mounts' collegano direttamente un percorso dell'host a un percorso del container, bypassando il Docker file system.",
+    "de": "Bind Mounts verknüpfen einen Host-Pfad direkt mit einem Container-Pfad und umgehen das Docker-Dateisystem."
+  },
+  {
+    "it": "Docker Secrets permette di gestire dati sensibili come password e certificati senza includerli nell'immagine.",
+    "de": "Docker Secrets ermöglicht die Verwaltung sensibler Daten wie Passwörter und Zertifikate, ohne sie im Image zu speichern."
+  },
+  {
+    "it": "Le 'Multi-platform images' utilizzano i manifest per supportare architetture diverse come x86_64 e ARM64.",
+    "de": "Multi-Plattform-Images verwenden Manifeste, um verschiedene Architekturen wie x86_64 und ARM64 zu unterstützen."
+  },
+  {
+    "it": "L'utilizzo di '.dockerignore' impedisce l'invio di file non necessari al daemon durante la build, accelerando il processo.",
+    "de": "Die Verwendung von '.dockerignore' verhindert das Senden unnötiger Dateien an den Daemon während des Builds und beschleunigt den Prozess."
+  },
+  {
+    "it": "Il driver di rete 'macvlan' assegna un indirizzo MAC a un container, facendolo apparire come un dispositivo fisico sulla rete.",
+    "de": "Der 'macvlan'-Netzwerktreiber weist einem Container eine MAC-Adresse zu, sodass er im Netzwerk als physisches Gerät erscheint."
+  },
+  {
+    "it": "Lo 'Squashing' dei layer riduce un'immagine a un singolo layer per ottimizzare lo spazio, ma perde i vantaggi del caching.",
+    "de": "Das 'Squashing' von Layern reduziert ein Image auf einen einzigen Layer, um Platz zu sparen, verliert aber Caching-Vorteile."
+  },
+  {
+    "it": "AppArmor fornisce un ulteriore livello di protezione definendo profili di sicurezza per i programmi nei container.",
+    "de": "AppArmor bietet eine zusätzliche Schutzschicht, indem es Sicherheitsprofile für Programme in Containern definiert."
+  },
+  {
+    "it": "Il flag '--read-only' monta il file system del container in sola lettura per impedire modifiche malevole a runtime.",
+    "de": "Das Flag '--read-only' mountet das Dateisystem des Containers schreibgeschützt, um böswillige Änderungen zur Laufzeit zu verhindern."
+  },
+  {
+    "it": "Docker Contexts permette di gestire facilmente connessioni a daemon Docker locali o remoti (es. AWS, Azure).",
+    "de": "Docker Contexts ermöglicht die einfache Verwaltung von Verbindungen zu lokalen oder entfernten Docker-Daemons (z.B. AWS, Azure)."
+  },
+  {
+    "it": "La funzionalità 'Buildx' estende le capacità di build di Docker con il supporto completo per il multi-arch.",
+    "de": "Die 'Buildx'-Funktionalität erweitert die Build-Fähigkeiten von Docker um vollständigen Multi-Architektur-Support."
+  },
+  {
+    "it": "Il meccanismo 'Copy-on-Write' (CoW) ottimizza l'uso del disco condividendo i layer comuni tra le immagini.",
+    "de": "Der 'Copy-on-Write'-Mechanismus (CoW) optimiert die Festplattennutzung, indem er gemeinsame Layer zwischen Images teilt."
+  },
+  {
+    "it": "Utilizzare immagini 'Distroless' minimizza la superficie di attacco includendo solo l'applicazione e le sue dipendenze runtime.",
+    "de": "Die Verwendung von 'Distroless'-Images minimiert die Angriffsfläche, da nur die Anwendung und ihre Laufzeitabhängigkeiten enthalten sind."
+  },
+  {
+    "it": "L'istruzione 'ENTRYPOINT' definisce il comando principale che non può essere facilmente sovrascritto, a differenza di 'CMD'.",
+    "de": "Die 'ENTRYPOINT'-Instruktion definiert den Hauptbefehl, der im Gegensatz zu 'CMD' nicht einfach überschrieben werden kann."
   }
 ]
