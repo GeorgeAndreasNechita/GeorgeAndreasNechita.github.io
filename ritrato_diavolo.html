@@ -6,17 +6,7 @@
     <title>Italienisch-Deutsch Vokabeltrainer</title>
     <script src="https://unpkg.com/dexie/dist/dexie.js"></script>
     <style>
-      /* CSS Variablen für einfaches Umschalten */
       :root {
-        --bg-color: #ffffff;
-        --text-color: #333333;
-        --row-bg: #ffffff;
-        --header-bg: #f4f4f4;
-        --border-color: #eeeeee;
-        --accent-color: #4a90e2;
-      }
-
-      [data-theme="dark"] {
         --bg-color: #121212;
         --text-color: #e0e0e0;
         --row-bg: #1e1e1e;
@@ -36,25 +26,6 @@
           background-color 0.3s,
           color 0.3s;
       }
-
-      .header-flex {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        border-bottom: 2px solid var(--border-color);
-        margin-bottom: 20px;
-        padding-bottom: 10px;
-      }
-
-      #theme-toggle {
-        cursor: pointer;
-        background: var(--header-bg);
-        border: 1px solid var(--border-color);
-        color: var(--text-color);
-        padding: 5px 10px;
-        border-radius: 5px;
-      }
-
       .table-row {
         display: grid;
         text-align: center;
@@ -111,10 +82,6 @@
     </style>
   </head>
   <body data-theme="dark">
-    <div class="header-flex">
-      <h2>🇮🇹 Vokabeln 🇩🇪</h2>
-      <button id="theme-toggle" onclick="toggleTheme()">🌓 Modus</button>
-    </div>
 
     <div id="vocabulary-list">
       <div class="table-row header">
