@@ -182,30 +182,15 @@
 
       async function loadTexts() {
         try {
-          const response = await fetch("https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.txt");
+          // Geänderter Link zu texts.json
+          const response = await fetch("https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json");
           
           if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
           }
           
-          const rawData = await response.text();
-
-          try {
-            // Versuch 1: Reguläres JSON Parsing (falls es irgendwann sauberes JSON ist)
-            texts = JSON.parse(rawData);
-          } catch (e) {
-            // Versuch 2: JavaScript-Deklaration bereinigen
-            // Entfernt das "const texts =" (oder let/var) am Anfang
-            let cleanData = rawData.replace(/(const|let|var)\s+\w+\s*=\s*/, '').trim();
-            
-            // Entfernt ein eventuelles Semikolon am Ende der Datei
-            if (cleanData.endsWith(';')) {
-              cleanData = cleanData.slice(0, -1);
-            }
-
-            // Führt den bereinigten String (der jetzt nur noch aus [...] besteht) sicher aus
-            texts = new Function("return " + cleanData)();
-          }
+          // Direktes Parsen als JSON
+          texts = await response.json();
 
           renderData();
         } catch (error) {
