@@ -4,7 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Italienisch-Deutsch Vokabeltrainer</title>
-    <script src="https://unpkg.com/dexie/dist/dexie.js"></script>
     <style>
       :root {
         --bg-color: #121212;
@@ -35,7 +34,7 @@
         align-items: center;
         background-color: var(--row-bg);
       }
-      .tr-id{
+      .tr-id {
         color: rgb(67, 128, 186);
         font-size: 20px;
         font-weight: 800;
@@ -78,29 +77,18 @@
     </style>
   </head>
   <body data-theme="dark">
-
     <div id="vocabulary-list">
       <div class="table-row header">
-        <div></div>
+        <div>Vokabeltrainer</div>
       </div>
       <div id="data-container"></div>
     </div>
 
     <script>
-      const db = new Dexie("ritrato_diavolo2  ");
-      db.version(1).stores({
-        phrases: "++id, it, de",
-      });
-
+      // Die festen Sätze
       const initialPhrases = [
-        {
-          it: "I.",
-          de: "I.",
-        },
-        {
-          it: "Lettori gentili,",
-          de: "Liebe Leser,",
-        },
+        { it: "I.", de: "I." },
+        { it: "Lettori gentili,", de: "Liebe Leser," },
         {
           it: "siete mai stati ad Arezzo?",
           de: "Waren Sie schon einmal in Arezzo?",
@@ -129,67 +117,68 @@
           it: 'La Val di Chiana è una tra le più amene e le più pittoresche "del bel paese là dove il sì suona".',
           de: 'Das Val di Chiana ist eines der schönsten und malerischsten "des schönen Landes, in dem das Ja klingt".',
         },
-        {
-          it: "Anzi,",
-          de: "Im Gegenteil,",
-        }
+        { it: "Anzi,", de: "Im Gegenteil," },
       ];
 
-      async function initApp() {
-        const count = await db.phrases.count();
-        if (count === 0) {
-          await db.phrases.bulkAdd(initialPhrases);
-        }
-        renderData();
+      // Hilfsfunktion für den aktuellen Index im LocalStorage
+      function getCurrentIndex() {
+        const index = localStorage.getItem("vokabel_index");
+        return index ? parseInt(index) : 0;
       }
 
-      async function renderData() {
+      function renderData() {
         const container = document.getElementById("data-container");
-        const allPhrases = await db.phrases.toArray();
+        const startIndex = getCurrentIndex();
 
-        if (allPhrases.length === 0) {
+        // Zeige nur Sätze ab dem gespeicherten Index
+        const visiblePhrases = initialPhrases.slice(startIndex);
+
+        if (visiblePhrases.length === 0) {
           container.innerHTML =
-            '<p class="empty-msg">Keine Einträge gefunden.</p>';
+            '<p class="empty-msg">Keine weiteren Einträge vorhanden. Drücke "Zurücksetzen".</p>';
           return;
         }
 
-        container.innerHTML = allPhrases
-          .map(
-            (item) => `
-                            <div class="table-row">
-                                <div class="tr-id">${item.id}</div>
-                                <div class="tr-it">${item.it}</div>
-                                <div class="tr-de">${item.de}</div>
-                                <button class="delete-btn" onclick="deleteEntry(${item.id})" title="Löschen">🗑️</button>
-                            </div>
-                        `,
-          )
+        container.innerHTML = visiblePhrases
+          .map((item, index) => {
+            const realId = startIndex + index;
+            return `
+              <div class="table-row">
+                <div class="tr-id">${realId}</div>
+                <div class="tr-it">${item.it}</div>
+                <div class="tr-de">${item.de}</div>
+                <button class="delete-btn" onclick="incrementIndex()" title="Löschen">🗑️</button>
+              </div>
+            `;
+          })
           .join("");
       }
 
-      async function deleteEntry(id) {
-        await db.phrases.delete(id);
+      // Funktion für den Mülleimer-Knopf: Index um 1 erhöhen
+      function incrementIndex() {
+        const nextIndex = getCurrentIndex() + 1;
+        localStorage.setItem("vokabel_index", nextIndex);
         renderData();
       }
 
-      // --- UI LOGIK (Dark Mode) ---
-      function toggleTheme() {
-        const body = document.body;
-        const currentTheme = body.getAttribute("data-theme");
-        const newTheme = currentTheme === "dark" ? "light" : "dark";
-        body.setAttribute("data-theme", newTheme);
-      }
-
-      async function deleteAllEntries() {
-        if (!confirm("Wirklich alle Einträge löschen?")) return;
-        await db.phrases.clear();
+      // Funktion für den Alles-Löschen-Knopf: Index auf 0 setzen
+      function deleteAllEntries() {
+        if (
+          !confirm(
+            "Möchtest du den Fortschritt zurücksetzen und alle Sätze wieder anzeigen?",
+          )
+        )
+          return;
+        localStorage.setItem("vokabel_index", 0);
         renderData();
       }
 
-      initApp();
+      // Initialisierung beim Laden der Seite
+      renderData();
     </script>
+
     <button onclick="deleteAllEntries()" class="delete-all-btn">
-      Alle Einträge löschen
+      Fortschritt zurücksetzen (Alle anzeigen)
     </button>
   </body>
 </html>
