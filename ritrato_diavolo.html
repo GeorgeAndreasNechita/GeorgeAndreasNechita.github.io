@@ -49,28 +49,43 @@
       }
 
       #content-container {
-        margin-top: 10vh;
-      }
-
-      .tr-id {
-        color: var(--id-color);
-        font-size: 2rem;
-        font-weight: 800;
-        margin-bottom: 5px;
+        margin-top: 23vh;
       }
 
       .tr-it {
         color: var(--secondary-color);
-        margin-top: 1rem;
-        font-size: 1.25rem;
+        margin-top: 0.5rem;
+        font-size: 1.15rem;
         font-weight: 600;
         margin-bottom: 4px;
       }
 
       .tr-de {
         margin-top: 0.3rem;
-        font-size: 1.25rem;
+        font-size: 1.15rem;
         opacity: 0.8;
+        margin-bottom: 20px;
+      }
+
+      /* Neuer Repeat Button Style */
+      .repeat-btn {
+        width: 33%;
+        padding: 8px;
+        background: transparent;
+        border: 1px solid var(--accent-color);
+        color: var(--accent-color);
+        border-radius: 20px;
+        cursor: pointer;
+        font-size: 0.8rem;
+        font-weight: bold;
+        transition: all 0.2s ease;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .repeat-btn:active {
+        background: rgba(187, 134, 252, 0.2);
+        transform: scale(0.95);
       }
 
       .next-btn {
@@ -99,7 +114,6 @@
         font-weight: normal;
       }
 
-      /* Gemeinsame Styles für Top-Buttons */
       .top-btn {
         position: fixed;
         top: 10px;
@@ -126,7 +140,6 @@
         right: 90px;
       }
 
-      /* Audio Status Styles */
       .audio-on {
         border-color: var(--success-color);
         color: var(--success-color);
@@ -148,6 +161,9 @@
 
     <div id="display-area">
       <div id="content-container"></div>
+      <button id="repeat-btn-el" class="repeat-btn" onclick="speakCurrent()" style="display:none;">
+        Repeat ↻
+      </button>
     </div>
 
     <div id="button-area">
@@ -168,6 +184,7 @@
           de: "Dieser Film erzählt eine wunderschöne Geschichte.",
         },
       ];
+
       function getCurrentIndex() {
         const index = localStorage.getItem("vokabel_index");
         return index ? parseInt(index) : 0;
@@ -197,9 +214,31 @@
         }
       }
 
+      // Neue Funktion für die Sprachausgabe (schneller eingestellt)
+      function speakCurrent() {
+        const currentIndex = getCurrentIndex();
+        const item = initialPhrases[currentIndex];
+
+        if (item && isSpeechEnabled()) {
+          window.speechSynthesis.cancel();
+          
+          const msgIt = new SpeechSynthesisUtterance(item.it);
+          msgIt.lang = "it-IT";
+          msgIt.rate = 1.05;
+
+          const msgDe = new SpeechSynthesisUtterance(item.de);
+          msgDe.lang = "de-DE";
+          msgDe.rate = 1.05;
+
+          window.speechSynthesis.speak(msgIt);
+          window.speechSynthesis.speak(msgDe);
+        }
+      }
+
       function renderData() {
         const container = document.getElementById("content-container");
         const counter = document.getElementById("counter-display");
+        const repeatBtn = document.getElementById("repeat-btn-el");
         const currentIndex = getCurrentIndex();
         const total = initialPhrases.length;
 
@@ -208,27 +247,23 @@
         if (currentIndex >= total) {
           container.innerHTML = "<div><strong>Ende erreicht!</strong></div>";
           counter.innerHTML = `${total} von ${total}`;
+          repeatBtn.style.display = "none";
           document.querySelector(".next-btn").disabled = true;
           return;
         }
 
         const item = initialPhrases[currentIndex];
 
-        if (item && isSpeechEnabled()) {
-          window.speechSynthesis.cancel();
-          const msgIt = new SpeechSynthesisUtterance(item.it);
-          msgIt.lang = "it-IT";
-          const msgDe = new SpeechSynthesisUtterance(item.de);
-          msgDe.lang = "de-DE";
-          window.speechSynthesis.speak(msgIt);
-          window.speechSynthesis.speak(msgDe);
-        }
-
         container.innerHTML = `
-          <div class="tr-id"># ${currentIndex}</div>
           <div class="tr-it">${item.it}</div>
           <div class="tr-de">${item.de}</div>
         `;
+
+        // Repeat Button anzeigen
+        repeatBtn.style.display = "block";
+
+        // Sprache beim ersten Laden/Wechseln triggern
+        speakCurrent();
 
         counter.innerHTML = `${currentIndex + 1} of ${total}`;
         document.querySelector(".next-btn").disabled = false;
