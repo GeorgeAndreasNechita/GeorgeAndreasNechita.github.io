@@ -1,0 +1,7 @@
+Bitte diesen text in kleine stücken trennen und übersetzen, und genau auf diesen Format übergeben, mit maximal 7 Wörter auf Italienisch für jeden Eintrag:
+        {
+          it: "L'epistemologia contemporanea analizza i limiti della conoscenza.",
+          de: "Die zeitgenössische Erkenntnistheorie analysiert die Grenzen des Wissens.",
+        },
+
+Der Text:
