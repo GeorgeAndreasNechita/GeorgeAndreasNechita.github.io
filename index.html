@@ -179,7 +179,7 @@
     </div>
 
     <script>
-      const initialPhrases = [
+      const texts = [
 {
   "it": "La Casa Bianca replica: aiuto non necessario.",
   "de": "Das Weiße Haus erwidert: Hilfe nicht nötig.",
@@ -222,7 +222,7 @@
       // Neue Funktion für die Sprachausgabe (schneller eingestellt)
       function speakCurrent() {
         const currentIndex = getCurrentIndex();
-        const item = initialPhrases[currentIndex];
+        const item = texts[currentIndex];
 
         if (item && isSpeechEnabled()) {
           window.speechSynthesis.cancel();
@@ -245,7 +245,7 @@
         const counter = document.getElementById("counter-display");
         const repeatBtn = document.getElementById("repeat-btn-el");
         const currentIndex = getCurrentIndex();
-        const total = initialPhrases.length;
+        const total = texts.length;
 
         updateAudioButtonUI();
 
@@ -257,7 +257,7 @@
           return;
         }
 
-        const item = initialPhrases[currentIndex];
+        const item = texts[currentIndex];
 
         container.innerHTML = `
                 <div class="tr-it">${item.it}</div>
@@ -276,7 +276,7 @@
 
       function incrementIndex() {
         const nextIndex = getCurrentIndex() + 1;
-        if (nextIndex <= initialPhrases.length) {
+        if (nextIndex <= texts.length) {
           localStorage.setItem("vokabel_index", nextIndex);
           renderData();
         }
