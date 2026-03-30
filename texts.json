@@ -1081,5 +1081,1046 @@
   {
     "it": "L'istruzione 'ENTRYPOINT' definisce il comando principale che non può essere facilmente sovrascritto, a differenza di 'CMD'.",
     "de": "Die 'ENTRYPOINT'-Instruktion definiert den Hauptbefehl, der im Gegensatz zu 'CMD' nicht einfach überschrieben werden kann."
+  },
+  {
+    "it": "Ieri sera sono rimasto sveglio fino alle due di notte a guardare una serie su Netflix, ora sono esausto.",
+    "de": "Gestern Abend bin ich bis zwei Uhr nachts aufgeblieben und habe eine Serie auf Netflix geschaut, jetzt bin ich total erschöpft."
+  },
+  {
+    "it": "Ho finalmente prenotato le vacanze estive, andiamo in Sardegna per dieci giorni a luglio.",
+    "de": "Ich habe endlich den Sommerurlaub gebucht – wir fahren für zehn Tage im Juli nach Sardinien."
+  },
+  {
+    "it": "Il mio capo mi ha chiesto di fare gli straordinari questo fine settimana, non so ancora come dirglielo a mia moglie.",
+    "de": "Mein Chef hat mich gebeten, dieses Wochenende Überstunden zu machen – ich weiß noch nicht, wie ich es meiner Frau sagen soll."
+  }
+]Jetzt mach noch 30001:06json[
+  {
+    "it": "Ieri sera sono rimasto sveglio fino alle due di notte a guardare una serie su Netflix, ora sono esausto.",
+    "de": "Gestern Abend bin ich bis zwei Uhr nachts aufgeblieben und habe eine Serie auf Netflix geschaut, jetzt bin ich total erschöpft."
+  },
+  {
+    "it": "Ho finalmente prenotato le vacanze estive, andiamo in Sardegna per dieci giorni a luglio.",
+    "de": "Ich habe endlich den Sommerurlaub gebucht – wir fahren für zehn Tage im Juli nach Sardinien."
+  },
+  {
+    "it": "Il mio capo mi ha chiesto di fare gli straordinari questo fine settimana, non so ancora come dirglielo a mia moglie.",
+    "de": "Mein Chef hat mich gebeten, dieses Wochenende Überstunden zu machen – ich weiß noch nicht, wie ich es meiner Frau sagen soll."
+  },
+  {
+    "it": "Ho comprato una nuova bicicletta la settimana scorsa e già la adoro, vado al lavoro in bici ogni giorno.",
+    "de": "Ich habe letzte Woche ein neues Fahrrad gekauft und liebe es schon jetzt – ich fahre jeden Tag damit zur Arbeit."
+  },
+  {
+    "it": "Mia figlia ha preso il primo voto eccellente in matematica, ero così orgoglioso.",
+    "de": "Meine Tochter hat ihre erste Eins in Mathe bekommen, ich war so stolz auf sie."
+  },
+  {
+    "it": "Ho litigato con il mio vicino per il parcheggio, è una situazione davvero stressante.",
+    "de": "Ich habe mich mit meinem Nachbarn wegen des Parkplatzes gestritten, das ist wirklich eine stressige Situation."
+  },
+  {
+    "it": "Sto cercando di smettere di fumare da tre settimane, è più difficile di quanto pensassi.",
+    "de": "Ich versuche seit drei Wochen aufzuhören zu rauchen, es ist schwerer als ich dachte."
+  },
+  {
+    "it": "Abbiamo adottato un cane dal rifugio sabato scorso, si chiama Bruno ed è già di casa.",
+    "de": "Wir haben letzten Samstag einen Hund aus dem Tierheim adoptiert, er heißt Bruno und fühlt sich schon wie zuhause an."
+  },
+  {
+    "it": "Ho cucinato la pasta al forno ieri sera e mia moglie ha detto che era la migliore che avesse mai mangiato.",
+    "de": "Ich habe gestern Abend Nudelauflauf gekocht und meine Frau meinte, es sei das Beste, was sie je gegessen hat."
+  },
+  {
+    "it": "Il mio cellulare è caduto e lo schermo si è rotto, devo andare a farlo riparare.",
+    "de": "Mein Handy ist runtergefallen und das Display ist gesprungen, ich muss es reparieren lassen."
+  },
+  {
+    "it": "Ho iniziato a fare yoga la mattina presto, mi sento molto più rilassato durante la giornata.",
+    "de": "Ich habe angefangen, morgens früh Yoga zu machen, ich fühle mich tagsüber viel entspannter."
+  },
+  {
+    "it": "Mia madre ci ha sorpreso con una visita inaspettata domenica, per fortuna avevamo qualcosa da mangiare.",
+    "de": "Meine Mutter hat uns Sonntag mit einem unerwarteten Besuch überrascht, zum Glück hatten wir noch etwas zu essen da."
+  },
+  {
+    "it": "Ho perso le chiavi di casa ieri e ho dovuto aspettare mia moglie per un'ora fuori dalla porta.",
+    "de": "Ich habe gestern meinen Hausschlüssel verloren und musste eine Stunde vor der Tür auf meine Frau warten."
+  },
+  {
+    "it": "Finalmente ho sistemato quella perdita d'acqua nel bagno, ci volevano mesi.",
+    "de": "Endlich habe ich das Wasserleck im Bad repariert, das hat Monate gedauert."
+  },
+  {
+    "it": "Mio figlio ha iniziato a camminare la settimana scorsa, è stato un momento bellissimo.",
+    "de": "Mein Sohn hat letzte Woche angefangen zu laufen, das war ein wunderschöner Moment."
+  },
+  {
+    "it": "Ho provato un nuovo ristorante in centro con mia moglie, era eccellente, dobbiamo tornarci insieme.",
+    "de": "Ich war mit meiner Frau in einem neuen Restaurant in der Innenstadt, es war ausgezeichnet, wir müssen da zusammen hin."
+  },
+  {
+    "it": "Ho dimenticato il compleanno di mia sorella, adesso mi sento malissimo.",
+    "de": "Ich habe den Geburtstag meiner Schwester vergessen, jetzt fühle ich mich schrecklich."
+  },
+  {
+    "it": "Il treno aveva un ritardo di quaranta minuti stamattina, sono arrivato tardi alla riunione.",
+    "de": "Der Zug hatte heute Morgen vierzig Minuten Verspätung, ich bin zu spät zur Besprechung gekommen."
+  },
+  {
+    "it": "Ho deciso di iniziare a correre tre volte a settimana, sto cercando di rimettermi in forma.",
+    "de": "Ich habe beschlossen, dreimal pro Woche joggen zu gehen, ich versuche wieder fit zu werden."
+  },
+  {
+    "it": "Mia figlia ha paura del buio e ultimamente non riesce a dormire da sola.",
+    "de": "Meine Tochter hat Angst vor dem Dunkeln und kann in letzter Zeit nicht alleine schlafen."
+  },
+  {
+    "it": "Ho trovato un portafoglio per strada con dentro i soldi e tutti i documenti, l'ho portato alla polizia.",
+    "de": "Ich habe eine Brieftasche auf der Straße gefunden, mit Geld und allen Dokumenten drin – ich habe sie zur Polizei gebracht."
+  },
+  {
+    "it": "Abbiamo finalmente dipinto il salotto, ci abbiamo messo tutto il weekend ma il risultato è bellissimo.",
+    "de": "Wir haben endlich das Wohnzimmer gestrichen, es hat uns das ganze Wochenende gekostet, aber das Ergebnis ist wunderschön."
+  },
+  {
+    "it": "Mio figlio maggiore ha superato l'esame di guida al terzo tentativo, finalmente.",
+    "de": "Mein ältester Sohn hat die Fahrprüfung beim dritten Versuch bestanden, endlich."
+  },
+  {
+    "it": "Ho comprato dei biglietti per il concerto di sabato, non vedo l'ora.",
+    "de": "Ich habe Karten für das Konzert am Samstag gekauft, ich freue mich riesig darauf."
+  },
+  {
+    "it": "Stamattina ho bruciato il toast e ho dovuto uscire di casa senza fare colazione.",
+    "de": "Heute Morgen habe ich den Toast verbrannt und musste ohne Frühstück aus dem Haus."
+  },
+  {
+    "it": "Mia moglie e io stiamo pensando di cambiare casa, il quartiere è diventato troppo rumoroso.",
+    "de": "Meine Frau und ich überlegen, umzuziehen – die Gegend ist zu laut geworden."
+  },
+  {
+    "it": "Ho iniziato a leggere un libro che mi hai consigliato mesi fa, hai ragione, è fantastico.",
+    "de": "Ich habe angefangen, das Buch zu lesen, das du mir vor Monaten empfohlen hast – du hast recht, es ist fantastisch."
+  },
+  {
+    "it": "Il gatto ha graffiato tutto il divano nuovo, mia moglie era furiosa.",
+    "de": "Die Katze hat das neue Sofa zerkratzt, meine Frau war außer sich."
+  },
+  {
+    "it": "Ho avuto un colloquio di lavoro ieri, mi sembra sia andato bene, aspetto la risposta.",
+    "de": "Ich hatte gestern ein Vorstellungsgespräch, ich glaube es lief gut, ich warte auf Rückmeldung."
+  },
+  {
+    "it": "Abbiamo festeggiato il nostro anniversario con una cena romantica, è stato tutto perfetto.",
+    "de": "Wir haben unseren Jahrestag mit einem romantischen Abendessen gefeiert, es war alles perfekt."
+  },
+  {
+    "it": "Mio padre ha avuto un piccolo incidente in macchina, per fortuna sta bene.",
+    "de": "Mein Vater hatte einen kleinen Autounfall, zum Glück geht es ihm gut."
+  },
+  {
+    "it": "Ho cambiato il taglio di capelli e non sono sicuro di come mi stia, cosa ne pensi?",
+    "de": "Ich habe meinen Haarschnitt gewechselt und bin mir nicht sicher, ob er mir steht – was meinst du?"
+  },
+  {
+    "it": "Ieri ho guardato una partita di calcio con i ragazzi a casa, è stata una serata fantastica.",
+    "de": "Gestern habe ich mit den Jungs zuhause ein Fußballspiel geschaut, es war ein super Abend."
+  },
+  {
+    "it": "Ho comprato troppa roba al supermercato e adesso il frigo è strapieno.",
+    "de": "Ich habe im Supermarkt zu viel eingekauft und jetzt ist der Kühlschrank übervoll."
+  },
+  {
+    "it": "Mia sorella si è fidanzata il fine settimana scorso, siamo tutti felicissimi.",
+    "de": "Meine Schwester hat sich letztes Wochenende verlobt, wir sind alle überglücklich."
+  },
+  {
+    "it": "Ho iniziato un corso di cucina online, sto imparando a fare il pane in casa.",
+    "de": "Ich habe einen Online-Kochkurs begonnen und lerne gerade, Brot selbst zu backen."
+  },
+  {
+    "it": "Ho dimenticato di mettere la sveglia ieri sera e sono arrivato tardi in ufficio.",
+    "de": "Ich habe gestern Abend vergessen, den Wecker zu stellen, und bin zu spät ins Büro gekommen."
+  },
+  {
+    "it": "Mio figlio ha un nuovo migliore amico a scuola, finalmente si è integrato bene nella classe.",
+    "de": "Mein Sohn hat einen neuen besten Freund in der Schule, er hat sich endlich gut in die Klasse eingefunden."
+  },
+  {
+    "it": "Ho trovato per caso una vecchia foto di noi due al liceo, mi ha fatto molto ridere.",
+    "de": "Ich habe zufällig ein altes Foto von uns beiden aus der Schulzeit gefunden, ich musste sehr lachen."
+  },
+  {
+    "it": "La lavatrice si è rotta proprio quando avevo un sacco di panni da lavare.",
+    "de": "Die Waschmaschine ist genau dann kaputtgegangen, als ich einen Berg Wäsche zu waschen hatte."
+  },
+  {
+    "it": "Ho deciso di ridurre i dolci, sto cercando di mangiare più sano da questo mese.",
+    "de": "Ich habe beschlossen, weniger Süßigkeiten zu essen, ich versuche diesen Monat gesünder zu leben."
+  },
+  {
+    "it": "Siamo andati al parco con i bambini domenica, è stata una giornata bellissima.",
+    "de": "Wir sind Sonntag mit den Kindern in den Park gegangen, es war ein wunderschöner Tag."
+  },
+  {
+    "it": "Ho ricevuto un pacco che aspettavo da settimane, finalmente è arrivato.",
+    "de": "Ich habe ein Paket bekommen, auf das ich seit Wochen gewartet habe – es ist endlich angekommen."
+  },
+  {
+    "it": "Mia moglie ha iniziato a lavorare da casa e adesso mi distrae continuamente.",
+    "de": "Meine Frau hat angefangen, von zuhause zu arbeiten, und lenkt mich jetzt ständig ab."
+  },
+  {
+    "it": "Ho finalmente sistemato la scrivania in ufficio, era un disastro da mesi.",
+    "de": "Ich habe endlich meinen Schreibtisch im Büro aufgeräumt, es war seit Monaten ein Chaos."
+  },
+  {
+    "it": "Mio fratello mi ha chiamato ieri sera, non ci sentivamo da quasi un anno.",
+    "de": "Mein Bruder hat mich gestern Abend angerufen, wir hatten uns fast ein Jahr lang nicht gesprochen."
+  },
+  {
+    "it": "Ho passato tutto il weekend a giocare ai videogiochi, mi sentivo un po' in colpa.",
+    "de": "Ich habe das ganze Wochenende Videospiele gezockt und mich dabei etwas schuldig gefühlt."
+  },
+  {
+    "it": "Ho prenotato una visita dal medico per fare un controllo generale, era ora.",
+    "de": "Ich habe einen Arzttermin für eine allgemeine Untersuchung gemacht, es war höchste Zeit."
+  },
+  {
+    "it": "Siamo andati a trovare i nonni nel weekend, era tanto tempo che non li vedevamo.",
+    "de": "Wir haben am Wochenende die Großeltern besucht, es war schon lange her, dass wir sie gesehen hatten."
+  },
+  {
+    "it": "Ho comprato un nuovo paio di scarpe da running, spero mi aiutino a migliorare i tempi.",
+    "de": "Ich habe ein neues Paar Laufschuhe gekauft, ich hoffe, sie helfen mir, meine Zeiten zu verbessern."
+  },
+  {
+    "it": "Il mio collega preferito ha dato le dimissioni, mi mancherà molto in ufficio.",
+    "de": "Mein liebster Kollege hat gekündigt, er wird mir im Büro sehr fehlen."
+  },
+  {
+    "it": "Ho provato a fare i croissant a casa per la prima volta, sono venuti abbastanza bene.",
+    "de": "Ich habe zum ersten Mal versucht, zuhause Croissants zu backen – sie sind ganz gut geworden."
+  },
+  {
+    "it": "Mia figlia ha recitato nella recita scolastica ieri, era emozionatissima.",
+    "de": "Meine Tochter hat gestern im Schultheater mitgespielt, sie war ganz aufgeregt."
+  },
+  {
+    "it": "Ho incontrato per caso un vecchio amico del liceo al supermercato, è stato strano ma bello.",
+    "de": "Ich bin zufällig einem alten Schulfreund im Supermarkt begegnet, es war seltsam aber schön."
+  },
+  {
+    "it": "Abbiamo finalmente comprato un divano nuovo, quello vecchio era completamente distrutto.",
+    "de": "Wir haben endlich ein neues Sofa gekauft, das alte war völlig hinüber."
+  },
+  {
+    "it": "Ho passato una notte terribile, il bambino ha pianto quasi ogni ora.",
+    "de": "Ich hatte eine schreckliche Nacht, das Baby hat fast jede Stunde geweint."
+  },
+  {
+    "it": "Mia moglie mi ha regalato un orologio per il mio compleanno, non me l'aspettavo.",
+    "de": "Meine Frau hat mir zum Geburtstag eine Uhr geschenkt, das hatte ich nicht erwartet."
+  },
+  {
+    "it": "Ho iniziato a imparare la chitarra, finora so suonare tre accordi.",
+    "de": "Ich habe angefangen, Gitarre zu lernen – bis jetzt kann ich drei Akkorde spielen."
+  },
+  {
+    "it": "Ho visto un film al cinema ieri sera, era da anni che non ci andavo.",
+    "de": "Ich war gestern Abend im Kino, es war seit Jahren das erste Mal wieder."
+  },
+  {
+    "it": "Mio figlio ha perso lo zaino a scuola, non si sa ancora dove sia finito.",
+    "de": "Mein Sohn hat seinen Schulrucksack verloren, man weiß noch nicht, wo er geblieben ist."
+  },
+  {
+    "it": "Ho deciso di disiscrivermi dai social media per un po', ho bisogno di una pausa.",
+    "de": "Ich habe beschlossen, mich für eine Weile aus den sozialen Medien zurückzuziehen, ich brauche eine Pause."
+  },
+  {
+    "it": "Abbiamo avuto una piccola festa di compleanno per mio figlio, solo parenti stretti.",
+    "de": "Wir haben eine kleine Geburtstagsfeier für meinen Sohn organisiert, nur enge Familie."
+  },
+  {
+    "it": "Ho speso troppo questo mese, devo stare più attento con le spese.",
+    "de": "Ich habe diesen Monat zu viel ausgegeben, ich muss mit meinen Ausgaben vorsichtiger sein."
+  },
+  {
+    "it": "Ieri sera mia moglie ed io abbiamo avuto una discussione stupida, ma poi ci siamo chiariti.",
+    "de": "Gestern Abend hatten meine Frau und ich einen dummen Streit, aber dann haben wir uns wieder vertragen."
+  },
+  {
+    "it": "Ho finalmente iniziato a sistemare il giardino, era in completo abbandono.",
+    "de": "Ich habe endlich angefangen, den Garten in Ordnung zu bringen, er war völlig verwildert."
+  },
+  {
+    "it": "Mio cognato ci ha invitato a una grigliata sabato prossimo, sarà bello rivederli.",
+    "de": "Mein Schwager hat uns für nächsten Samstag zu einem Grillen eingeladen, es wird schön sein, sie wiederzusehen."
+  },
+  {
+    "it": "Ho dormito benissimo stanotte, me ne ero dimenticato quanto fosse bello svegliarsi riposati.",
+    "de": "Ich habe heute Nacht wunderbar geschlafen – ich hatte vergessen, wie schön es ist, ausgeruht aufzuwachen."
+  },
+  {
+    "it": "Ho comprato troppi vestiti durante i saldi, adesso non so dove metterli.",
+    "de": "Ich habe im Schlussverkauf zu viele Klamotten gekauft, jetzt weiß ich nicht, wo ich sie hintun soll."
+  },
+  {
+    "it": "Mia figlia ha iniziato le lezioni di nuoto, è entusiasta ogni volta che va in piscina.",
+    "de": "Meine Tochter hat mit Schwimmunterricht angefangen, sie ist jedes Mal begeistert, wenn sie ins Schwimmbad geht."
+  },
+  {
+    "it": "Ho cambiato operatore telefonico e sto risparmiando quasi venti euro al mese.",
+    "de": "Ich habe meinen Telefonanbieter gewechselt und spare jetzt fast zwanzig Euro im Monat."
+  },
+  {
+    "it": "Il riscaldamento si è rotto proprio con l'arrivo del freddo, stiamo aspettando il tecnico.",
+    "de": "Die Heizung ist genau mit dem Kälteeinbruch kaputtgegangen, wir warten auf den Techniker."
+  },
+  {
+    "it": "Ho cucinato una torta per la prima volta in vita mia, non è venuta male.",
+    "de": "Ich habe zum ersten Mal in meinem Leben einen Kuchen gebacken, er ist gar nicht schlecht geworden."
+  },
+  {
+    "it": "Mio figlio ha fatto la sua prima gara di nuoto, è arrivato terzo ed era al settimo cielo.",
+    "de": "Mein Sohn hat seinen ersten Schwimmwettkampf gemacht, er ist Dritter geworden und war überglücklich."
+  },
+  {
+    "it": "Ho preso finalmente l'appuntamento dal dentista, lo rimandavo da mesi.",
+    "de": "Ich habe endlich einen Zahnarzttermin gemacht, ich hatte ihn monatelang aufgeschoben."
+  },
+  {
+    "it": "Stamattina ho trovato la macchina con una gomma a terra, ho fatto tardi a tutto.",
+    "de": "Heute Morgen hatte mein Auto einen Platten, ich bin zu allem zu spät gekommen."
+  },
+  {
+    "it": "Abbiamo passato il weekend fuori città in un agriturismo, i bambini si sono divertiti tantissimo.",
+    "de": "Wir haben das Wochenende außerhalb der Stadt auf einem Bauernhof verbracht, die Kinder hatten riesigen Spaß."
+  },
+  {
+    "it": "Ho ricevuto un aumento di stipendio questo mese, non me lo aspettavo per niente.",
+    "de": "Ich habe diesen Monat eine Gehaltserhöhung bekommen, das hatte ich überhaupt nicht erwartet."
+  },
+  {
+    "it": "Mia moglie ha iniziato un nuovo hobby, fa ceramica ogni giovedì sera.",
+    "de": "Meine Frau hat ein neues Hobby angefangen, sie macht jeden Donnerstagabend Töpfern."
+  },
+  {
+    "it": "Ho mangiato qualcosa che non andava ieri sera e ho passato una notte orribile.",
+    "de": "Ich habe gestern Abend etwas Schlechtes gegessen und eine furchtbare Nacht gehabt."
+  },
+  {
+    "it": "I miei suoceri vengono a trovarci questo fine settimana, devo fare un po' di pulizie.",
+    "de": "Meine Schwiegereltern kommen dieses Wochenende zu Besuch, ich muss noch etwas putzen."
+  },
+  {
+    "it": "Ho visto che il mio ex collega ha aperto una sua azienda, chissà come gli sta andando.",
+    "de": "Ich habe gesehen, dass mein ehemaliger Kollege eine eigene Firma gegründet hat – ich frage mich, wie es ihm läuft."
+  },
+  {
+    "it": "Mio figlio ha paura dei cani, dobbiamo lavorarci piano piano.",
+    "de": "Mein Sohn hat Angst vor Hunden, wir müssen das langsam angehen."
+  },
+  {
+    "it": "Ho messo da parte un po' di soldi ogni mese, sto cercando di risparmiare per un viaggio.",
+    "de": "Ich lege jeden Monat etwas Geld zur Seite, ich versuche für eine Reise zu sparen."
+  },
+  {
+    "it": "Ho scoperto un podcast bellissimo sulla storia, lo ascolto mentre vado al lavoro.",
+    "de": "Ich habe einen tollen Podcast über Geschichte entdeckt, ich höre ihn auf dem Weg zur Arbeit."
+  },
+  {
+    "it": "Mia sorella si è trasferita in un'altra città per lavoro, ci vediamo molto meno adesso.",
+    "de": "Meine Schwester ist wegen eines Jobs in eine andere Stadt gezogen, wir sehen uns jetzt viel seltener."
+  },
+  {
+    "it": "Ho litigato per una sciocchezza con il mio migliore amico, spero che passi presto.",
+    "de": "Ich habe mich wegen einer Kleinigkeit mit meinem besten Freund gestritten, ich hoffe, das legt sich bald."
+  },
+  {
+    "it": "Abbiamo guardato un film in famiglia ieri sera con popcorn e tutto, è stato rilassante.",
+    "de": "Wir haben gestern Abend zusammen einen Film geschaut, mit Popcorn und allem – das war sehr entspannend."
+  },
+  {
+    "it": "Ho provato a riparare il rubinetto da solo ma ho combinato un disastro, ho dovuto chiamare l'idraulico.",
+    "de": "Ich habe versucht, den Wasserhahn selbst zu reparieren, aber es ist schiefgegangen – ich musste den Klempner rufen."
+  },
+  {
+    "it": "Mia figlia ha perso il suo peluche preferito, è disperata e non riesce ad addormentarsi.",
+    "de": "Meine Tochter hat ihr Lieblingsplüschtier verloren, sie ist untröstlich und kann nicht einschlafen."
+  },
+  {
+    "it": "Ho comprato dei fiori a mia moglie senza un motivo particolare, era contentissima.",
+    "de": "Ich habe meiner Frau ohne besonderen Anlass Blumen gekauft, sie war sehr gerührt."
+  },
+  {
+    "it": "Ho lavorato da casa tutta la settimana, mi manca un po' il contatto con i colleghi.",
+    "de": "Ich habe die ganze Woche von zuhause gearbeitet, mir fehlt ein bisschen der Kontakt zu den Kollegen."
+  },
+  {
+    "it": "Mio figlio ha iniziato a fare calcio, gli piace moltissimo anche se non è ancora bravo.",
+    "de": "Mein Sohn hat angefangen, Fußball zu spielen, er liebt es sehr, auch wenn er noch nicht so gut ist."
+  },
+  {
+    "it": "Ho guardato l'alba stamattina dal balcone, era uno spettacolo meraviglioso.",
+    "de": "Ich habe heute Morgen den Sonnenaufgang vom Balkon aus beobachtet, es war ein wunderschöner Anblick."
+  },
+  {
+    "it": "Abbiamo cenato fuori venerdì sera, era da tanto che non andavamo al ristorante.",
+    "de": "Wir haben Freitagabend auswärts gegessen, es war lange her, dass wir im Restaurant waren."
+  },
+  {
+    "it": "Ho trovato il portafoglio che avevo perso da settimane, era in fondo al cassetto.",
+    "de": "Ich habe die Brieftasche wiedergefunden, die ich seit Wochen vermisst habe – sie lag hinten in der Schublade."
+  },
+  {
+    "it": "Mio fratello mi ha chiesto di aiutarlo a trasloco questo sabato, sarà una giornata impegnativa.",
+    "de": "Mein Bruder hat mich gebeten, ihm diesen Samstag beim Umzug zu helfen – das wird ein anstrengender Tag."
+  },
+  {
+    "it": "Ho provato un nuovo tipo di caffè questa mattina, era molto più buono del solito.",
+    "de": "Ich habe heute Morgen eine neue Kaffeesorte ausprobiert, er war viel besser als sonst."
+  },
+  {
+    "it": "Mia moglie ha iniziato a seguire una dieta nuova, adesso cuciniamo cose diverse ogni sera.",
+    "de": "Meine Frau hat mit einer neuen Diät angefangen, jetzt kochen wir jeden Abend andere Sachen."
+  },
+  {
+    "it": "Ho finalmente visto quella serie di cui mi parlavi, hai ragione è bellissima.",
+    "de": "Ich habe endlich die Serie gesehen, von der du mir erzählt hast – du hast recht, sie ist wunderschön."
+  },
+  {
+    "it": "Il bambino ha la febbre da due giorni, siamo un po' preoccupati.",
+    "de": "Das Kind hat seit zwei Tagen Fieber, wir machen uns ein bisschen Sorgen."
+  },
+  {
+    "it": "Ho comprato una macchina del caffè nuova, adesso non vado più al bar la mattina.",
+    "de": "Ich habe eine neue Kaffeemaschine gekauft, jetzt gehe ich morgens nicht mehr ins Café."
+  },
+  {
+    "it": "Siamo andati a un matrimonio sabato scorso, è stata una festa meravigliosa.",
+    "de": "Wir waren letzten Samstag auf einer Hochzeit, es war ein wunderschönes Fest."
+  },
+  {
+    "it": "Ho smesso di bere alcolici da un mese, mi sento già molto meglio fisicamente.",
+    "de": "Ich trinke seit einem Monat keinen Alkohol mehr, ich fühle mich körperlich schon viel besser."
+  },
+  {
+    "it": "Mio figlio ha superato tutti gli esami di questo semestre, siamo molto fieri di lui.",
+    "de": "Mein Sohn hat alle Prüfungen dieses Semesters bestanden, wir sind sehr stolz auf ihn."
+  },
+  {
+    "it": "Ho montato da solo la libreria nuova, ci ho messo tre ore ma alla fine è venuta bene.",
+    "de": "Ich habe das neue Bücherregal alleine aufgebaut, es hat drei Stunden gedauert, aber am Ende sah es gut aus."
+  },
+  {
+    "it": "Abbiamo passato la domenica a fare gite in montagna, era da anni che non ci andavo.",
+    "de": "Wir haben den Sonntag mit einer Wanderung in den Bergen verbracht, es war Jahre her, dass ich das zuletzt gemacht hatte."
+  },
+  {
+    "it": "Ho dimenticato l'ombrello a casa proprio il giorno in cui pioveva a dirotto.",
+    "de": "Ich habe meinen Regenschirm zuhause vergessen, ausgerechnet an dem Tag, als es in Strömen regnete."
+  },
+  {
+    "it": "Mia figlia ha cominciato a leggere da sola, siamo davvero sorpresi dei suoi progressi.",
+    "de": "Meine Tochter hat angefangen, alleine zu lesen – wir sind wirklich erstaunt über ihre Fortschritte."
+  },
+  {
+    "it": "Ho partecipato a una riunione di lavoro durata tre ore, ero esausto alla fine.",
+    "de": "Ich habe an einer dreistündigen Arbeitsbesprechung teilgenommen, am Ende war ich völlig erschöpft."
+  },
+  {
+    "it": "Ho comprato un biglietto della lotteria per la prima volta, chissà.",
+    "de": "Ich habe zum ersten Mal ein Lottoticket gekauft, wer weiß."
+  },
+  {
+    "it": "Mio cugino si è trasferito in Australia, la famiglia è dispiaciuta ma lo capiamo.",
+    "de": "Mein Cousin ist nach Australien gezogen, die Familie ist traurig, aber wir verstehen es."
+  },
+  {
+    "it": "Ho sistemato finalmente la bici del bambino, mancava solo di gonfiare le ruote.",
+    "de": "Ich habe endlich das Fahrrad meines Kindes repariert – es fehlte nur die Luft in den Reifen."
+  },
+  {
+    "it": "Ho ordinato cibo a domicilio per la prima volta con una nuova app, è arrivato velocissimo.",
+    "de": "Ich habe zum ersten Mal mit einer neuen App Essen liefern lassen, es kam sehr schnell an."
+  },
+  {
+    "it": "Mia moglie ha trovato un quadro bellissimo al mercatino delle pulci, lo abbiamo appeso in salotto.",
+    "de": "Meine Frau hat auf dem Flohmarkt ein wunderschönes Bild gefunden, wir haben es im Wohnzimmer aufgehängt."
+  },
+  {
+    "it": "Ho preso un raffreddore e non riesco quasi a respirare dal naso.",
+    "de": "Ich habe mir eine Erkältung geholt und kann kaum durch die Nase atmen."
+  },
+  {
+    "it": "Ho iniziato a meditare dieci minuti ogni sera, mi aiuta a staccare dal lavoro.",
+    "de": "Ich habe angefangen, jeden Abend zehn Minuten zu meditieren, es hilft mir, vom Stress der Arbeit abzuschalten."
+  },
+  {
+    "it": "Il mio capo mi ha fatto i complimenti davanti a tutti in riunione, è stata una bella sorpresa.",
+    "de": "Mein Chef hat mich in der Besprechung vor allen gelobt, das war eine schöne Überraschung."
+  },
+  {
+    "it": "Abbiamo portato i bambini allo zoo domenica, era la prima volta per il piccolo.",
+    "de": "Wir haben die Kinder am Sonntag in den Zoo gebracht, für den Kleinen war es das erste Mal."
+  },
+  {
+    "it": "Ho comprato una pianta per l'appartamento, speriamo che riesca a tenerla viva stavolta.",
+    "de": "Ich habe eine Pflanze für die Wohnung gekauft, hoffentlich schaffe ich es diesmal, sie am Leben zu erhalten."
+  },
+  {
+    "it": "Mio figlio ha invitato un amico a dormire da noi sabato, sono stati svegli fino a mezzanotte.",
+    "de": "Mein Sohn hat Samstag einen Freund zum Übernachten eingeladen, die beiden waren bis Mitternacht wach."
+  },
+  {
+    "it": "Ho provato a fare la pizza in casa per la prima volta, era abbastanza buona.",
+    "de": "Ich habe zum ersten Mal versucht, zuhause Pizza zu machen – sie war ziemlich gut."
+  },
+  {
+    "it": "Mia suocera ci ha mandato un pacco con i biscotti fatti in casa, i bambini erano contentissimi.",
+    "de": "Meine Schwiegermutter hat uns ein Paket mit selbstgemachten Keksen geschickt, die Kinder waren begeistert."
+  },
+  {
+    "it": "Ho cambiato le lenzuola e dormito benissimo, a volte bastano le piccole cose.",
+    "de": "Ich habe die Bettwäsche gewechselt und wunderbar geschlafen – manchmal reichen die kleinen Dinge."
+  },
+  {
+    "it": "Il bambino ha detto la sua prima parola, siamo stati tutti emozionatissimi.",
+    "de": "Das Baby hat sein erstes Wort gesagt, wir waren alle sehr gerührt."
+  },
+  {
+    "it": "Ho visto un documentario sulla natura ieri sera, mi ha fatto venire voglia di viaggiare di più.",
+    "de": "Ich habe gestern Abend eine Naturdokumentation geschaut, sie hat mich auf die Idee gebracht, mehr zu reisen."
+  },
+  {
+    "it": "Ho finalmente imparato a usare il nuovo software al lavoro, ci ho messo un po' ma ci sono riuscito.",
+    "de": "Ich habe endlich gelernt, die neue Software bei der Arbeit zu benutzen – es hat etwas gedauert, aber ich habe es geschafft."
+  },
+  {
+    "it": "Abbiamo organizzato una cena con gli amici di vecchia data, era tanto che non ci vedevamo tutti insieme.",
+    "de": "Wir haben ein Abendessen mit alten Freunden organisiert, es war lange her, dass wir alle zusammen waren."
+  },
+  {
+    "it": "Ho preso una multa per divieto di sosta, ero distratto e non ho visto il cartello.",
+    "de": "Ich habe ein Knöllchen für Falschparken bekommen, ich war abgelenkt und habe das Schild nicht gesehen."
+  },
+  {
+    "it": "Mia figlia ha vinto un piccolo premio a scuola per un disegno che aveva fatto.",
+    "de": "Meine Tochter hat in der Schule einen kleinen Preis für ein Bild gewonnen, das sie gemalt hatte."
+  },
+  {
+    "it": "Ho trascorso la domenica mattina a leggere il giornale con calma, mi mancava farlo.",
+    "de": "Ich habe den Sonntagmorgen damit verbracht, in Ruhe Zeitung zu lesen – das hatte ich vermisst."
+  },
+  {
+    "it": "Ho dovuto riaccompagnare mia figlia a scuola perché aveva dimenticato lo zaino.",
+    "de": "Ich musste meine Tochter wieder zur Schule fahren, weil sie ihren Rucksack vergessen hatte."
+  },
+  {
+    "it": "Ho partecipato a una camminata di gruppo nel bosco, è stato molto rigenerante.",
+    "de": "Ich habe an einem Gruppenspaziergang im Wald teilgenommen, das war sehr erholsam."
+  },
+  {
+    "it": "Mio figlio ha smesso di fare i capricci a tavola, finalmente mangia quello che gli si prepara.",
+    "de": "Mein Sohn macht beim Essen keine Szenen mehr, er isst endlich, was man ihm zubereitet."
+  },
+  {
+    "it": "Ho comprato un nuovo libro di cucina e voglio provare tutte le ricette.",
+    "de": "Ich habe ein neues Kochbuch gekauft und möchte alle Rezepte ausprobieren."
+  },
+  {
+    "it": "Mia moglie ha cambiato lavoro la settimana scorsa, è molto più soddisfatta adesso.",
+    "de": "Meine Frau hat letzte Woche den Job gewechselt, jetzt ist sie viel zufriedener."
+  },
+  {
+    "it": "Ho incontrato il mio ex professore di liceo per strada, era ancora uguale a prima.",
+    "de": "Ich habe meinen ehemaligen Gymnasiallehrer auf der Straße getroffen, er sah noch genauso aus wie früher."
+  },
+  {
+    "it": "Ho pulito tutta la casa sabato mattina, mi sentivo bene dopo.",
+    "de": "Ich habe Samstagmorgen die ganze Wohnung geputzt, danach habe ich mich gut gefühlt."
+  },
+  {
+    "it": "Mio figlio ha perso una partita importante ma ha reagito bene, sono fiero di lui.",
+    "de": "Mein Sohn hat ein wichtiges Spiel verloren, aber er hat gut reagiert – ich bin stolz auf ihn."
+  },
+  {
+    "it": "Ho trovato un negozio nuovo in centro che vende prodotti locali, i prezzi sono ottimi.",
+    "de": "Ich habe in der Innenstadt ein neues Geschäft mit lokalen Produkten entdeckt, die Preise sind sehr gut."
+  },
+  {
+    "it": "Ho fatto una passeggiata da solo ieri pomeriggio, ne avevo davvero bisogno.",
+    "de": "Ich bin gestern Nachmittag alleine spazieren gegangen, ich hatte das wirklich gebraucht."
+  },
+  {
+    "it": "Mia moglie mi ha convinto a iniziare a fare pilates, devo ammettere che non è male.",
+    "de": "Meine Frau hat mich überredet, mit Pilates anzufangen – ich muss zugeben, es ist gar nicht schlecht."
+  },
+  {
+    "it": "Il vicino di casa ha finalmente smesso di fare lavori il sabato mattina, che pace.",
+    "de": "Der Nachbar hat endlich aufgehört, samstags morgens Bauarbeiten zu machen – was für eine Ruhe."
+  },
+  {
+    "it": "Ho iniziato a tenere un diario, lo scrivo ogni sera prima di dormire.",
+    "de": "Ich habe angefangen, ein Tagebuch zu führen, ich schreibe es jeden Abend vor dem Einschlafen."
+  },
+  {
+    "it": "Mio figlio ha fatto amicizia con un bambino del piano di sopra, adesso giocano insieme ogni pomeriggio.",
+    "de": "Mein Sohn hat sich mit einem Kind aus dem Stockwerk darüber angefreundet, jetzt spielen sie jeden Nachmittag zusammen."
+  },
+  {
+    "it": "Ho comprato una borsa termica per portare il pranzo al lavoro, sto cercando di risparmiare.",
+    "de": "Ich habe eine Kühltasche gekauft, um das Mittagessen mit zur Arbeit zu nehmen – ich versuche zu sparen."
+  },
+  {
+    "it": "Mia figlia ha iniziato a imparare l'inglese con una app, fa i compiti da sola ogni giorno.",
+    "de": "Meine Tochter hat angefangen, mit einer App Englisch zu lernen, sie macht die Übungen jeden Tag alleine."
+  },
+  {
+    "it": "Ho guardato un film di Natale in luglio con mia moglie, non so perché ma ci piaceva.",
+    "de": "Ich habe im Juli mit meiner Frau einen Weihnachtsfilm geschaut, keine Ahnung warum, aber wir mochten es."
+  },
+  {
+    "it": "Ho montato uno scaffale in garage nel weekend, adesso è tutto molto più ordinato.",
+    "de": "Ich habe am Wochenende ein Regal in der Garage aufgebaut, jetzt ist dort alles viel ordentlicher."
+  },
+  {
+    "it": "Mia moglie ed io abbiamo fatto una passeggiata romantica nel centro storico ieri sera.",
+    "de": "Meine Frau und ich haben gestern Abend einen romantischen Spaziergang durch die Altstadt gemacht."
+  },
+  {
+    "it": "Ho comprato le ultime scarpe della stagione in saldo, erano ridotte del cinquanta percento.",
+    "de": "Ich habe im Schlussverkauf die letzten Schuhe der Saison gekauft, sie waren fünfzig Prozent reduziert."
+  },
+  {
+    "it": "Mio figlio ha imparato ad andare in bicicletta senza le rotelle, era così orgoglioso.",
+    "de": "Mein Sohn hat gelernt, ohne Stützräder Fahrrad zu fahren – er war so stolz auf sich."
+  },
+  {
+    "it": "Ho bevuto troppo caffè ieri e non riuscivo a dormire la notte.",
+    "de": "Ich habe gestern zu viel Kaffee getrunken und konnte nachts nicht schlafen."
+  },
+  {
+    "it": "Il pacco che ho ordinato online è arrivato rotto, devo richiedere il rimborso.",
+    "de": "Das Paket, das ich online bestellt habe, ist kaputt angekommen, ich muss eine Rückerstattung beantragen."
+  },
+  {
+    "it": "Ho incontrato i colleghi di lavoro per un aperitivo venerdì sera, è stato molto piacevole.",
+    "de": "Ich habe mich Freitagabend mit Arbeitskollegen auf einen Aperitif getroffen, es war sehr nett."
+  },
+  {
+    "it": "Mia figlia ha smesso di mangiarsi le unghie, finalmente, ci abbiamo lavorato mesi.",
+    "de": "Meine Tochter hat aufgehört, ihre Nägel zu kauen – endlich, wir haben monatelang daran gearbeitet."
+  },
+  {
+    "it": "Ho iniziato a fare la spesa online, mi fa risparmiare un sacco di tempo.",
+    "de": "Ich habe angefangen, online einzukaufen, das spart mir eine Menge Zeit."
+  },
+  {
+    "it": "Mio fratello mi ha prestato il suo trapano per il fine settimana, finalmente sistemo qualche cosa.",
+    "de": "Mein Bruder hat mir seinen Bohrer für das Wochenende geliehen, endlich kann ich ein paar Sachen reparieren."
+  },
+  {
+    "it": "Ho trovato un portafoglio in autobus e l'ho consegnato al conducente.",
+    "de": "Ich habe im Bus eine Brieftasche gefunden und sie dem Fahrer abgegeben."
+  },
+  {
+    "it": "Mia moglie ha cucinato qualcosa di nuovo e ci è piaciuto molto, lo rifaremo di sicuro.",
+    "de": "Meine Frau hat etwas Neues gekocht und es hat uns sehr gut geschmeckt, das werden wir sicher nochmal machen."
+  },
+  {
+    "it": "Ho prenotato una babysitter per sabato sera, noi adulti abbiamo bisogno di una serata fuori.",
+    "de": "Ich habe für Samstagabend einen Babysitter gebucht, wir Erwachsenen brauchen mal einen Abend für uns."
+  },
+  {
+    "it": "Mio figlio ha passato due ore a giocare fuori con la terra, era felicissimo.",
+    "de": "Mein Sohn hat zwei Stunden draußen mit Erde gespielt, er war überglücklich."
+  },
+  {
+    "it": "Ho controllato il conto in banca e ho visto un addebito che non riconosco, devo chiamare la banca.",
+    "de": "Ich habe mein Bankkonto überprüft und eine Abbuchung entdeckt, die ich nicht erkenne – ich muss die Bank anrufen."
+  },
+  {
+    "it": "Ho fatto una videochiamata con i miei genitori ieri sera, abitano lontani e ci mancano.",
+    "de": "Ich habe gestern Abend mit meinen Eltern videotelefoniert, sie wohnen weit weg und wir vermissen sie."
+  },
+  {
+    "it": "Ho provato a fare l'orto sul balcone, ho piantato pomodori e basilico.",
+    "de": "Ich habe versucht, auf dem Balkon einen kleinen Garten anzulegen – ich habe Tomaten und Basilikum gepflanzt."
+  },
+  {
+    "it": "Mia figlia ha fatto un disegno per la maestra e l'ha colpita molto.",
+    "de": "Meine Tochter hat ein Bild für die Lehrerin gemalt und sie sehr berührt."
+  },
+  {
+    "it": "Ho cambiato la password di tutti i miei account, era ora di farlo.",
+    "de": "Ich habe die Passwörter all meiner Konten geändert, es war höchste Zeit."
+  },
+  {
+    "it": "Mio figlio ha litigato con il suo migliore amico, speriamo che si chiariscano presto.",
+    "de": "Mein Sohn hat sich mit seinem besten Freund gestritten, hoffentlich vertragen sie sich bald wieder."
+  },
+  {
+    "it": "Ho lavato la macchina per la prima volta dopo mesi, era diventata irriconoscibile.",
+    "de": "Ich habe das Auto zum ersten Mal seit Monaten gewaschen, man konnte es kaum wiedererkennen."
+  },
+  {
+    "it": "Abbiamo fatto tardi a casa dei tuoi genitori l'altra sera, i bambini si sono addormentati sul divano.",
+    "de": "Wir sind damals bei deinen Eltern so spät geworden, dass die Kinder auf dem Sofa eingeschlafen sind."
+  },
+  {
+    "it": "Ho cucinato il risotto per la prima volta da solo, mi ha sorpreso quanto fosse venuto bene.",
+    "de": "Ich habe zum ersten Mal alleine Risotto gekocht, ich war überrascht, wie gut es geworden ist."
+  },
+  {
+    "it": "Mia moglie ha organizzato una piccola sorpresa per il mio compleanno con gli amici più stretti.",
+    "de": "Meine Frau hat eine kleine Überraschung für meinen Geburtstag mit den engsten Freunden organisiert."
+  },
+  {
+    "it": "Ho guardato la finale di calcio con mio padre, è stata una delle serate più belle degli ultimi mesi.",
+    "de": "Ich habe das Fußballfinale mit meinem Vater geschaut, es war einer der schönsten Abende der letzten Monate."
+  },
+  {
+    "it": "Ho dimenticato di annaffiare le piante per due settimane, la metà sono morte.",
+    "de": "Ich habe vergessen, die Pflanzen zwei Wochen lang zu gießen, die Hälfte ist eingegangen."
+  },
+  {
+    "it": "Mio figlio ha iniziato a interessarsi alla cucina, mi aiuta in cucina ogni sera.",
+    "de": "Mein Sohn hat angefangen, sich für Kochen zu interessieren – er hilft mir jeden Abend in der Küche."
+  },
+  {
+    "it": "Ho partecipato a un corso di primo soccorso il fine settimana, è stato molto utile.",
+    "de": "Ich habe am Wochenende an einem Erste-Hilfe-Kurs teilgenommen, es war sehr nützlich."
+  },
+  {
+    "it": "Il gatto ha portato dentro un uccello vivo, è stato un caos totale.",
+    "de": "Die Katze hat einen lebenden Vogel reingebracht, es war ein totales Chaos."
+  },
+  {
+    "it": "Ho iniziato a guardare le stelle con un piccolo telescopio, è diventata una passione.",
+    "de": "Ich habe angefangen, mit einem kleinen Teleskop Sterne zu beobachten – es ist zu einer Leidenschaft geworden."
+  },
+  {
+    "it": "Mia moglie ha preparato una cena speciale solo perché sì, senza motivo.",
+    "de": "Meine Frau hat ein besonderes Abendessen gekocht, einfach so, ohne besonderen Anlass."
+  },
+  {
+    "it": "Ho finalmente disdetto quell'abbonamento che non usavo più da mesi.",
+    "de": "Ich habe endlich das Abonnement gekündigt, das ich seit Monaten nicht mehr genutzt habe."
+  },
+  {
+    "it": "Mio figlio mi ha chiesto di insegnargli a giocare agli scacchi, abbiamo passato il pomeriggio a giocare.",
+    "de": "Mein Sohn hat mich gebeten, ihm Schachspielen beizubringen – wir haben den Nachmittag damit verbracht."
+  },
+  {
+    "it": "Ho ordinato online un regalo per il compleanno di mia sorella, arriverà giusto in tempo.",
+    "de": "Ich habe online ein Geschenk für den Geburtstag meiner Schwester bestellt, es wird gerade rechtzeitig ankommen."
+  },
+  {
+    "it": "Mia figlia ha imparato a fare le trecce da sola, è molto orgogliosa di sé.",
+    "de": "Meine Tochter hat gelernt, sich selbst Zöpfe zu flechten – sie ist sehr stolz auf sich."
+  },
+  {
+    "it": "Ho preso l'autobus invece della macchina oggi, è andata meglio di quanto pensassi.",
+    "de": "Ich habe heute den Bus statt des Autos genommen, es lief besser als erwartet."
+  },
+  {
+    "it": "Abbiamo organizzato una partita a carte tra famiglie sabato sera, ci siamo divertiti tantissimo.",
+    "de": "Wir haben Samstagabend ein Kartenspiel zwischen den Familien organisiert, wir hatten riesigen Spaß."
+  },
+  {
+    "it": "Ho smesso di portare il telefono in camera da letto e dormo molto meglio.",
+    "de": "Ich habe aufgehört, das Handy ins Schlafzimmer mitzunehmen und schlafe viel besser."
+  },
+  {
+    "it": "Mio figlio ha fatto la sua prima poesia a scuola, me la ha letta con tanta emozione.",
+    "de": "Mein Sohn hat in der Schule sein erstes Gedicht geschrieben und es mir voller Aufregung vorgelesen."
+  },
+  {
+    "it": "Ho provato un nuovo percorso per andare al lavoro, ci vuole cinque minuti in meno.",
+    "de": "Ich habe eine neue Route zur Arbeit ausprobiert, es dauert fünf Minuten weniger."
+  },
+  {
+    "it": "Mia moglie ha riorganizzato tutta la cucina, adesso trovo le cose con più difficoltà.",
+    "de": "Meine Frau hat die ganze Küche umgeräumt, jetzt finde ich die Sachen schwerer."
+  },
+  {
+    "it": "Ho visto un arcobaleno bellissimo dopo il temporale di ieri sera.",
+    "de": "Ich habe nach dem gestrigen Gewitter einen wunderschönen Regenbogen gesehen."
+  },
+  {
+    "it": "Mio figlio ha invitato l'intera classe al suo compleanno, è stata una festa caotica ma bellissima.",
+    "de": "Mein Sohn hat die ganze Klasse zu seinem Geburtstag eingeladen, es war eine chaotische, aber wunderschöne Feier."
+  },
+  {
+    "it": "Ho finalmente risolto quel problema con il computer che mi dava fastidio da settimane.",
+    "de": "Ich habe endlich das Computerproblem gelöst, das mich seit Wochen geärgert hat."
+  },
+  {
+    "it": "Ho deciso di non lavorare nel weekend e di staccare completamente.",
+    "de": "Ich habe beschlossen, am Wochenende nicht zu arbeiten und komplett abzuschalten."
+  },
+  {
+    "it": "Mia figlia ha disegnato un ritratto di famiglia, ci ha messo dentro anche il gatto.",
+    "de": "Meine Tochter hat ein Familienportrait gezeichnet und die Katze auch draufgemalt."
+  },
+  {
+    "it": "Ho trovato una ricetta su internet e l'ho seguita alla lettera, ed è venuta perfetta.",
+    "de": "Ich habe ein Rezept im Internet gefunden und es genau befolgt – es ist perfekt geworden."
+  },
+  {
+    "it": "Mio cognato mi ha consigliato una serie, l'ho iniziata ieri e già non riesco a smettere.",
+    "de": "Mein Schwager hat mir eine Serie empfohlen, ich habe sie gestern angefangen und kann schon nicht mehr aufhören."
+  },
+  {
+    "it": "Ho piantato dei fiori nel giardino, speriamo che crescano bene quest'estate.",
+    "de": "Ich habe Blumen im Garten gepflanzt, hoffentlich wachsen sie diesen Sommer gut."
+  },
+  {
+    "it": "Mia moglie ha organizzato una riunione di famiglia per il mese prossimo, saremo in tanti.",
+    "de": "Meine Frau hat ein Familientreffen für nächsten Monat organisiert, es werden viele sein."
+  },
+  {
+    "it": "Ho fatto il backup del telefono finalmente, era pieno e non si apriva più quasi niente.",
+    "de": "Ich habe endlich ein Backup meines Handys gemacht, es war so voll, dass man kaum noch etwas öffnen konnte."
+  },
+  {
+    "it": "Mio figlio ha iniziato a tenersi la camera in ordine da solo, non so cosa sia successo ma lo apprezzo.",
+    "de": "Mein Sohn hat angefangen, sein Zimmer selbst aufzuräumen – ich weiß nicht, was passiert ist, aber ich schätze es sehr."
+  },
+  {
+    "it": "Ho guardato un documentario su un posto che non conoscevo e adesso voglio assolutamente visitarlo.",
+    "de": "Ich habe eine Dokumentation über einen Ort gesehen, den ich nicht kannte, und möchte ihn jetzt unbedingt besuchen."
+  },
+  {
+    "it": "Ho chiamato un amico che non sentivo da tanto tempo, ci siamo parlati per quasi due ore.",
+    "de": "Ich habe einen Freund angerufen, von dem ich lange nichts gehört hatte – wir haben fast zwei Stunden geredet."
+  },
+  {
+    "it": "Mia figlia ha recitato una poesia davanti ai parenti durante la cena di famiglia, tutti erano commossi.",
+    "de": "Meine Tochter hat beim Familienessen ein Gedicht vor den Verwandten aufgesagt, alle waren gerührt."
+  },
+  {
+    "it": "Ho comprato un nuovo cuscino e finalmente dormo senza svegliarmi con il collo che fa male.",
+    "de": "Ich habe ein neues Kissen gekauft und wache endlich nicht mehr mit Nackenschmerzen auf."
+  },
+  {
+    "it": "Mio fratello ha iniziato a fare il personal trainer nel tempo libero, è sempre stato appassionato di sport.",
+    "de": "Mein Bruder hat angefangen, in seiner Freizeit als Personal Trainer zu arbeiten – er war schon immer sportbegeistert."
+  },
+  {
+    "it": "Ho passato il sabato mattina al mercato con mia moglie, abbiamo trovato verdure meravigliose.",
+    "de": "Ich habe den Samstagmorgen mit meiner Frau auf dem Markt verbracht, wir haben wunderbare Gemüse gefunden."
+  },
+  {
+    "it": "Mio figlio ha rotto un vaso mentre giocava in casa, era quello preferito di mia moglie.",
+    "de": "Mein Sohn hat beim Spielen drinnen eine Vase zerbrochen, es war die Lieblingsvase meiner Frau."
+  },
+  {
+    "it": "Ho iniziato a usare un'agenda cartacea per organizzarmi meglio, funziona davvero.",
+    "de": "Ich habe angefangen, einen Papierkalender zur besseren Organisation zu verwenden – es funktioniert wirklich."
+  },
+  {
+    "it": "Mia figlia ha tanta paura dal dottore, è sempre un'impresa portarcela.",
+    "de": "Meine Tochter hat so viel Angst vor dem Arzt, es ist immer ein Kampf, sie hinzubringen."
+  },
+  {
+    "it": "Ho finalmente donato tutti i vestiti vecchi che non indossavo più, ho liberato un armadio intero.",
+    "de": "Ich habe endlich all die alten Kleidungsstücke gespendet, die ich nicht mehr getragen habe – ich habe einen ganzen Schrank frei gemacht."
+  },
+  {
+    "it": "Mio figlio ha mangiato le verdure senza protestare per la prima volta, forse sta maturando.",
+    "de": "Mein Sohn hat zum ersten Mal Gemüse gegessen, ohne zu protestieren – vielleicht wird er erwachsener."
+  },
+  {
+    "it": "Ho guardato le foto delle nostre vacanze di due anni fa, mi è venuta nostalgia.",
+    "de": "Ich habe die Fotos unseres Urlaubs von vor zwei Jahren angeschaut – ich wurde nostalgisch."
+  },
+  {
+    "it": "Ho comprato un umidificatore per la camera, dormiamo molto meglio da quando ce l'abbiamo.",
+    "de": "Ich habe einen Luftbefeuchter für das Schlafzimmer gekauft, wir schlafen seitdem viel besser."
+  },
+  {
+    "it": "Mia moglie ha tagliato i capelli e adesso li porta cortissimi, ci vuole un po' di abitudine.",
+    "de": "Meine Frau hat sich die Haare abgeschnitten und trägt sie jetzt sehr kurz – man muss sich daran gewöhnen."
+  },
+  {
+    "it": "Ho sistemato il computer di mio padre in un'ora, era pieno di virus.",
+    "de": "Ich habe den Computer meines Vaters in einer Stunde repariert, er war voller Viren."
+  },
+  {
+    "it": "Mio figlio ha vinto al gioco da tavolo contro di me per la prima volta, era contentissimo.",
+    "de": "Mein Sohn hat zum ersten Mal beim Brettspiel gegen mich gewonnen – er war überglücklich."
+  },
+  {
+    "it": "Ho dimenticato di pagare una bolletta e mi è arrivato un sollecito, che imbarazzo.",
+    "de": "Ich habe vergessen, eine Rechnung zu bezahlen, und habe eine Mahnung bekommen – wie peinlich."
+  },
+  {
+    "it": "Ho fatto una passeggiata nel bosco vicino casa, non sapevo nemmeno esistesse.",
+    "de": "Ich bin durch den Wald in der Nähe des Hauses spaziert – ich wusste nicht mal, dass es ihn gab."
+  },
+  {
+    "it": "Mia sorella mi ha chiesto di fare da testimone al suo matrimonio, ero senza parole.",
+    "de": "Meine Schwester hat mich gebeten, ihr Trauzeuge zu sein – ich war sprachlos."
+  },
+  {
+    "it": "Ho riordinato la cantina nel weekend, ci ho trovato roba che non vedevo da anni.",
+    "de": "Ich habe am Wochenende den Keller aufgeräumt und dabei Sachen gefunden, die ich seit Jahren nicht gesehen hatte."
+  },
+  {
+    "it": "Ho iniziato a preparare i pasti della settimana la domenica sera, mi semplifica molto la vita.",
+    "de": "Ich habe angefangen, die Mahlzeiten für die Woche am Sonntagabend vorzubereiten – das vereinfacht mein Leben sehr."
+  },
+  {
+    "it": "Mio figlio ha detto che vuole fare il cuoco da grande, gli ho promesso di insegnargli qualcosa.",
+    "de": "Mein Sohn hat gesagt, er möchte Koch werden, wenn er groß ist – ich habe ihm versprochen, ihm etwas beizubringen."
+  },
+  {
+    "it": "Ho fatto una doccia fredda per la prima volta stamattina, dopo ero pieno di energia.",
+    "de": "Ich habe heute Morgen zum ersten Mal kalt geduscht – danach war ich voller Energie."
+  },
+  {
+    "it": "Mia moglie ed io abbiamo litigato per chi doveva fare la spesa, alla fine l'ho fatta io.",
+    "de": "Meine Frau und ich haben uns gestritten, wer einkaufen gehen sollte – am Ende bin ich gegangen."
+  },
+  {
+    "it": "Ho iniziato a usare i trasporti pubblici più spesso, è più comodo di quanto pensassi.",
+    "de": "Ich habe angefangen, öfter öffentliche Verkehrsmittel zu nutzen – es ist bequemer als ich dachte."
+  },
+  {
+    "it": "Mia figlia mi ha chiesto di leggerle tre libri di fila prima di dormire, non riuscivo a dirle di no.",
+    "de": "Meine Tochter bat mich, ihr drei Bücher hintereinander vorzulesen, bevor sie schläft – ich konnte nicht nein sagen."
+  },
+  {
+    "it": "Ho montato una mensola in bagno da solo senza fare danni, una vittoria.",
+    "de": "Ich habe alleine ein Regalbrett im Bad montiert, ohne etwas zu beschädigen – ein echter Sieg."
+  },
+  {
+    "it": "Mio figlio ha cominciato a fare i compiti da solo senza che glielo si chieda, forse è un miracolo.",
+    "de": "Mein Sohn hat angefangen, seine Hausaufgaben alleine zu machen, ohne dass man ihn darum bittet – vielleicht ein Wunder."
+  },
+  {
+    "it": "Ho cucinato una cena a lume di candela per mia moglie l'altra sera, le ha fatto molto piacere.",
+    "de": "Ich habe neulich ein Abendessen bei Kerzenlicht für meine Frau zubereitet, es hat ihr sehr gefallen."
+  },
+  {
+    "it": "Ho visto un gatto randagio vicino casa ogni giorno, sto pensando di dargli da mangiare.",
+    "de": "Ich sehe jeden Tag eine streunende Katze in der Nähe des Hauses – ich überlege, ihr etwas zu fressen zu geben."
+  },
+  {
+    "it": "Mio padre ha imparato a usare lo smartphone da solo, adesso mi manda messaggi vocali tutto il giorno.",
+    "de": "Mein Vater hat gelernt, das Smartphone alleine zu benutzen – jetzt schickt er mir den ganzen Tag Sprachnachrichten."
+  },
+  {
+    "it": "Ho organizzato le foto del telefono per la prima volta, ce n'erano tremila da sistemare.",
+    "de": "Ich habe zum ersten Mal die Fotos auf meinem Handy sortiert – es waren dreitausend zu ordnen."
+  },
+  {
+    "it": "Mia figlia mi ha fatto un disegno con scritto 'il miglior papà del mondo', lo ho incorniciato.",
+    "de": "Meine Tochter hat mir ein Bild gemalt mit der Aufschrift 'bester Papa der Welt' – ich habe es eingerahmt."
+  },
+  {
+    "it": "Ho bevuto solo acqua per tutta la settimana, mi sento già più leggero.",
+    "de": "Ich habe die ganze Woche nur Wasser getrunken und fühle mich schon leichter."
+  },
+  {
+    "it": "Mio figlio ha messo da parte la paghetta per tre mesi per comprare un gioco, alla fine ce l'ha fatta.",
+    "de": "Mein Sohn hat drei Monate lang sein Taschengeld gespart, um ein Spiel zu kaufen – am Ende hat er es geschafft."
+  },
+  {
+    "it": "Ho cucinato qualcosa di nuovo con gli avanzi del frigo, è venuto sorprendentemente buono.",
+    "de": "Ich habe etwas Neues aus den Resten im Kühlschrank gekocht – es ist überraschend gut geworden."
+  },
+  {
+    "it": "Mia moglie ha convinto la suocera a restare solo tre giorni invece di una settimana.",
+    "de": "Meine Frau hat die Schwiegermutter überzeugt, nur drei Tage statt einer Woche zu bleiben."
+  },
+  {
+    "it": "Ho ripreso a suonare il pianoforte dopo anni, le dita non si ricordano niente.",
+    "de": "Ich habe nach Jahren wieder angefangen, Klavier zu spielen – die Finger erinnern sich an nichts mehr."
+  },
+  {
+    "it": "Ho fatto una pulizia profonda del frigorifero, era ora.",
+    "de": "Ich habe den Kühlschrank gründlich gereinigt – es war höchste Zeit."
+  },
+  {
+    "it": "Mio figlio ha portato a casa una pagella ottima, gli ho promesso una gita speciale.",
+    "de": "Mein Sohn hat ein tolles Zeugnis nach Hause gebracht – ich habe ihm einen besonderen Ausflug versprochen."
+  },
+  {
+    "it": "Ho guardato le stelle cadenti la notte scorsa dal balcone, era uno spettacolo bellissimo.",
+    "de": "Ich habe letzte Nacht vom Balkon aus Sternschnuppen beobachtet – es war ein wunderschönes Schauspiel."
+  },
+  {
+    "it": "Ho smesso di usare la sveglia e adesso mi sveglio naturalmente ogni mattina, è una bella sensazione.",
+    "de": "Ich habe aufgehört, den Wecker zu benutzen, und wache jetzt jeden Morgen natürlich auf – es ist ein schönes Gefühl."
+  },
+  {
+    "it": "Mia figlia ha aiutato la maestra a distribuire i materiali in classe, ne era orgogliosissima.",
+    "de": "Meine Tochter hat der Lehrerin geholfen, die Materialien im Unterricht zu verteilen – sie war so stolz darauf."
+  },
+  {
+    "it": "Ho passato un pomeriggio intero a sistemare i cavi dietro la tv, adesso sembra tutto più ordinato.",
+    "de": "Ich habe einen ganzen Nachmittag damit verbracht, die Kabel hinter dem Fernseher zu ordnen – jetzt sieht alles viel aufgeräumter aus."
+  },
+  {
+    "it": "Mio figlio ha preparato la colazione da solo per la prima volta, c'era la cucina sottosopra ma ci aveva provato.",
+    "de": "Mein Sohn hat zum ersten Mal alleine das Frühstück zubereitet – die Küche war ein Chaos, aber er hatte es versucht."
+  },
+  {
+    "it": "Ho ricevuto una lettera a mano da mia nonna, non succedeva da anni.",
+    "de": "Ich habe einen handgeschriebenen Brief von meiner Oma bekommen – das war seit Jahren nicht mehr passiert."
+  },
+  {
+    "it": "Ho provato a fare meditazione in giardino stamattina, i vicini mi guardavano strano.",
+    "de": "Ich habe heute Morgen versucht, im Garten zu meditieren – die Nachbarn haben mich komisch angeschaut."
+  },
+  {
+    "it": "Mio figlio mi ha aiutato a portare la spesa su per le scale, non glielo avevo chiesto.",
+    "de": "Mein Sohn hat mir geholfen, die Einkäufe die Treppe hochzutragen – ich hatte ihn nicht darum gebeten."
+  },
+  {
+    "it": "Ho preso il giorno libero senza dire niente a nessuno, me ne sono stato a casa a rilassarmi.",
+    "de": "Ich habe mir einen freien Tag genommen, ohne es jemandem zu sagen – ich bin einfach zuhause geblieben und habe mich entspannt."
+  },
+  {
+    "it": "Mia moglie ha scoperto un nuovo posto per la colazione vicino casa, adesso ci andiamo ogni domenica.",
+    "de": "Meine Frau hat ein neues Frühstückscafé in der Nähe entdeckt – jetzt gehen wir jeden Sonntag hin."
+  },
+  {
+    "it": "Ho costruito una casetta per gli uccelli con mio figlio nel weekend, ci siamo divertiti tantissimo.",
+    "de": "Ich habe am Wochenende mit meinem Sohn ein Vogelhaus gebaut – wir hatten riesigen Spaß."
+  },
+  {
+    "it": "Ho cambiato le pile del telecomando finalmente, l'avevo dimenticato da settimane.",
+    "de": "Ich habe endlich die Batterien der Fernbedienung gewechselt – ich hatte es seit Wochen vergessen."
+  },
+  {
+    "it": "Mia figlia ha cantato una canzone a sorpresa durante la cena, tutti le hanno fatto i complimenti.",
+    "de": "Meine Tochter hat beim Abendessen überraschend ein Lied gesungen – alle haben sie gelobt."
+  },
+  {
+    "it": "Ho partecipato a una tombola di quartiere ieri sera, ho vinto anche una piccola cosa.",
+    "de": "Ich habe gestern Abend an einer Tombola im Viertel teilgenommen und sogar eine Kleinigkeit gewonnen."
+  },
+  {
+    "it": "Ho scoperto che mio figlio sa fischiare, non avevo idea che lo stesse imparando.",
+    "de": "Ich habe herausgefunden, dass mein Sohn pfeifen kann – ich hatte keine Ahnung, dass er es gelernt hatte."
+  },
+  {
+    "it": "Ho sistemato il garage nel weekend, ci trovavo cose dimenticate da anni.",
+    "de": "Ich habe am Wochenende die Garage aufgeräumt und dabei Sachen gefunden, die ich seit Jahren vergessen hatte."
+  },
+  {
+    "it": "Mia moglie e io abbiamo fatto un quiz a casa venerdì sera, era da tanto che non ridevo così.",
+    "de": "Meine Frau und ich haben Freitagabend ein Quiz zuhause gespielt – ich hatte so lange nicht mehr so gelacht."
+  },
+  {
+    "it": "Ho guardato il tramonto dal tetto di casa la settimana scorsa, è stato un momento magico.",
+    "de": "Ich habe letzte Woche den Sonnenuntergang vom Hausdach aus beobachtet – es war ein magischer Moment."
   }
 ]
