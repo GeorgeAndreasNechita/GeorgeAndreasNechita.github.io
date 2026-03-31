@@ -1,9 +1,9 @@
-import json
-import deepl
-import re
+import json, deepl, re, os
+from dotenv import load_dotenv
 
-# WICHTIG: Ersetze dies durch deinen echten Key (und halte ihn geheim!)
-AUTH_KEY = "3364d381-797f-4c04-a2d5-9e1855be1905:fx" 
+load_dotenv()
+
+DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
 
 def translate_and_save(text, json_file="result.json"):
     # 1. Text teilen (nach Punkt, Komma, Semikolon)
@@ -11,7 +11,7 @@ def translate_and_save(text, json_file="result.json"):
     zeilen = [z.strip() for z in gefilterter_text.split('\n') if z.strip()]
 
     # 2. DeepL Setup
-    translator = deepl.Translator(AUTH_KEY)
+    translator = deepl.Translator(DEEPL_API_KEY)
     
     print(f"Starte Batch-Übersetzung von {len(zeilen)} Zeilen...")
 
