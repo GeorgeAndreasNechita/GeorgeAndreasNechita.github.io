@@ -1,3702 +1,402 @@
 [
   {
-    "it": "Il MockServer simula un servizio OData senza backend reale.",
-    "de": "Der MockServer simuliert einen OData-Dienst ohne echtes Backend."
+    "it": "Il video spiega perfettamente il declino del nostro calcio.",
+    "de": "Das Video erklärt perfekt den Niedergang unseres Fußballs."
   },
   {
-    "it": "Il primo passo è disattivare il MockServer prima di connettersi al backend reale.",
-    "de": "Der erste Schritt ist das Deaktivieren des MockServers vor der Verbindung mit dem echten Backend."
+    "it": "Non portiamo più i bambini a giocare per strada.",
+    "de": "Wir bringen Kinder nicht mehr dazu, auf der Straße zu spielen."
   },
   {
-    "it": "Il file mockserver.js contiene la logica di avvio del MockServer.",
-    "de": "Die Datei mockserver.js enthält die Startlogik des MockServers."
+    "it": "Ventura è stato l'errore più grande della FIGC.",
+    "de": "Ventura war der größte Fehler der FIGC."
   },
   {
-    "it": "Il file localService/metadata.xml descrive la struttura del servizio OData simulato.",
-    "de": "Die Datei localService/metadata.xml beschreibt die Struktur des simulierten OData-Dienstes."
+    "it": "Mancano i fuoriclasse come Baggio, Totti e Del Piero.",
+    "de": "Es fehlen Weltklassespieler wie Baggio, Totti und Del Piero."
   },
   {
-    "it": "I file JSON nella cartella localService/mockdata contengono i dati fittizi.",
-    "de": "Die JSON-Dateien im Ordner localService/mockdata enthalten die fiktiven Daten."
+    "it": "I club preferiscono stranieri mediocri ai giovani italiani.",
+    "de": "Die Klubs bevorzugen mittelmäßige Ausländer gegenüber jungen Italienern."
   },
   {
-    "it": "Per passare al backend reale si commenta o rimuove l'inizializzazione del MockServer.",
-    "de": "Um zum echten Backend zu wechseln, wird die MockServer-Initialisierung auskommentiert oder entfernt."
+    "it": "L'Europeo 2021 è stato un miracolo isolato.",
+    "de": "Die Europameisterschaft 2021 war ein isoliertes Wunder."
   },
   {
-    "it": "Il servizio OData reale espone entità e operazioni tramite HTTP.",
-    "de": "Der echte OData-Dienst stellt Entitäten und Operationen über HTTP bereit."
+    "it": "Dobbiamo rifondare tutto il sistema dai settori giovanili.",
+    "de": "Wir müssen das gesamte System ab der Jugend neu aufbauen."
   },
   {
-    "it": "L'URL del servizio OData reale è tipicamente del tipo /sap/opu/odata/sap/NOME_SERVIZIO/.",
-    "de": "Die URL des echten OData-Dienstes hat typischerweise das Format /sap/opu/odata/sap/DIENSTNAME/."
+    "it": "La sconfitta con la Macedonia è una ferita aperta.",
+    "de": "Die Niederlage gegen Mazedonien ist eine offene Wunde."
   },
   {
-    "it": "Il servizio OData in SAP ABAP viene creato tramite la transazione SEGW.",
-    "de": "Der OData-Dienst in SAP ABAP wird über die Transaktion SEGW erstellt."
+    "it": "I giovani oggi pensano solo ai social, non al campo.",
+    "de": "Die Jugendlichen denken heute nur an Social Media, nicht ans Feld."
   },
   {
-    "it": "SEGW è il SAP Gateway Service Builder per la creazione di servizi OData.",
-    "de": "SEGW ist der SAP Gateway Service Builder zur Erstellung von OData-Diensten."
+    "it": "Il calcio italiano è diventato troppo tattico e noioso.",
+    "de": "Der italienische Fußball ist zu taktisch und langweilig geworden."
   },
   {
-    "it": "Il progetto Gateway definisce le entità, i set di entità e le associazioni.",
-    "de": "Das Gateway-Projekt definiert Entitäten, Entity Sets und Assoziationen."
+    "it": "Servono stadi moderni per attirare investimenti seri.",
+    "de": "Wir brauchen moderne Stadien, um seriöse Investitionen anzuziehen."
   },
   {
-    "it": "Un EntityType descrive la struttura di un oggetto dati nel servizio OData.",
-    "de": "Ein EntityType beschreibt die Struktur eines Datenobjekts im OData-Dienst."
+    "it": "La nazionale riflette la crisi della nostra Serie A.",
+    "de": "Die Nationalmannschaft spiegelt die Krise unserer Serie A wider."
   },
   {
-    "it": "Un EntitySet è la collezione di istanze di un EntityType.",
-    "de": "Ein EntitySet ist die Sammlung von Instanzen eines EntityType."
+    "it": "Non sappiamo più formare difensori come quelli di una volta.",
+    "de": "Wir können keine Verteidiger wie früher mehr ausbilden."
   },
   {
-    "it": "Le proprietà chiave dell'EntityType identificano univocamente ogni record.",
-    "de": "Die Schlüsseleigenschaften des EntityType identifizieren jeden Datensatz eindeutig."
+    "it": "Ci siamo illusi dopo la vittoria del 2006.",
+    "de": "Nach dem Sieg 2006 haben wir uns getäuscht."
   },
   {
-    "it": "La transazione /IWFND/MAINT_SERVICE attiva e gestisce i servizi OData in SAP.",
-    "de": "Die Transaktion /IWFND/MAINT_SERVICE aktiviert und verwaltet OData-Dienste in SAP."
+    "it": "La politica nel calcio sta distruggendo la passione.",
+    "de": "Die Politik im Fußball zerstört die Leidenschaft."
   },
   {
-    "it": "La transazione /IWFND/GW_CLIENT testa il servizio OData direttamente nel browser SAP.",
-    "de": "Die Transaktion /IWFND/GW_CLIENT testet den OData-Dienst direkt im SAP-Browser."
+    "it": "Mancino ha fatto quello che poteva con poco materiale.",
+    "de": "Mancini hat mit wenig Material getan, was er konnte."
   },
   {
-    "it": "Il metadata endpoint $metadata restituisce la struttura del servizio OData.",
-    "de": "Der Metadaten-Endpunkt $metadata gibt die Struktur des OData-Dienstes zurück."
+    "it": "I procuratori hanno troppo potere sui giovani calciatori.",
+    "de": "Spielervermittler haben zu viel Macht über junge Fußballer."
   },
   {
-    "it": "Accedere a /SERVICE_URL/$metadata verifica che il servizio sia attivo e corretto.",
-    "de": "Der Zugriff auf /SERVICE_URL/$metadata prüft ob der Dienst aktiv und korrekt ist."
+    "it": "Siamo passati dal tetto del mondo all'oblio totale.",
+    "de": "Wir sind vom Dach der Welt in totale Vergessenheit geraten."
   },
   {
-    "it": "Il formato della risposta OData può essere JSON o XML, configurabile tramite $format.",
-    "de": "Das Antwortformat des OData-Dienstes kann JSON oder XML sein, konfigurierbar über $format."
+    "it": "Il sistema delle seconde squadre va implementato subito.",
+    "de": "Das System der zweiten Mannschaften muss sofort umgesetzt werden."
   },
   {
-    "it": "OData v2 restituisce i dati nel formato JSON con wrapper d.results.",
-    "de": "OData v2 gibt Daten im JSON-Format mit d.results-Wrapper zurück."
+    "it": "Senza un centravanti vero non andremo mai lontano.",
+    "de": "Ohne einen echten Mittelstürmer werden wir nie weit kommen."
   },
   {
-    "it": "Nel manifest.json si configura il modello OData reale nella sezione sap.app.",
-    "de": "Im manifest.json wird das echte OData-Modell im Bereich sap.app konfiguriert."
+    "it": "La colpa è di chi governa il nostro calcio.",
+    "de": "Schuld sind diejenigen, die unseren Fußball regieren."
   },
   {
-    "it": "La sezione dataSources nel manifest.json definisce le fonti dati dell'applicazione.",
-    "de": "Der Bereich dataSources im manifest.json definiert die Datenquellen der Anwendung."
+    "it": "Il talento puro non viene più premiato in Italia.",
+    "de": "Pures Talent wird in Italien nicht mehr belohnt."
   },
   {
-    "it": "Ogni dataSource ha un nome, un uri e un tipo come OData o JSON.",
-    "de": "Jede dataSource hat einen Namen, eine URI und einen Typ wie OData oder JSON."
+    "it": "Analisi lucida e dolorosa di vent'anni di fallimenti.",
+    "de": "Klare und schmerzhafte Analyse von zwanzig Jahren Misserfolg."
   },
   {
-    "it": "La sezione models nel manifest.json associa i modelli alle dataSources.",
-    "de": "Der Bereich models im manifest.json verknüpft Modelle mit dataSources."
+    "it": "Preferiamo la fisicità alla tecnica nei settori giovanili.",
+    "de": "Wir bevorzugen Physis gegenüber Technik in der Jugend."
   },
   {
-    "it": "Il modello principale si chiama solitamente stringa vuota e diventa il modello di default.",
-    "de": "Das Hauptmodell heißt üblicherweise leere Zeichenkette und wird zum Standardmodell."
+    "it": "Vedere il mondiale dal divano è un incubo.",
+    "de": "Die WM vom Sofa aus zu sehen, ist ein Albtraum."
   },
   {
-    "it": "Il tipo del modello OData v2 è sap.ui.model.odata.v2.ODataModel.",
-    "de": "Der Modelltyp für OData v2 ist sap.ui.model.odata.v2.ODataModel."
+    "it": "Bisogna smettere di vivere nei ricordi del passato.",
+    "de": "Wir müssen aufhören, in Erinnerungen der Vergangenheit zu leben."
   },
   {
-    "it": "Il tipo del modello OData v4 è sap.ui.model.odata.v4.ODataModel.",
-    "de": "Der Modelltyp für OData v4 ist sap.ui.model.odata.v4.ODataModel."
+    "it": "Spalletti deve avere il tempo di lavorare seriamente.",
+    "de": "Spalletti muss Zeit haben, ernsthaft zu arbeiten."
   },
   {
-    "it": "La proprietà uri nel dataSource punta all'URL del servizio OData.",
-    "de": "Die uri-Eigenschaft in dataSource zeigt auf die URL des OData-Dienstes."
+    "it": "La Serie A non è più il campionato più bello.",
+    "de": "Die Serie A ist nicht mehr die schönste Liga."
   },
   {
-    "it": "Durante lo sviluppo locale si usa un proxy per aggirare i problemi CORS.",
-    "de": "Während der lokalen Entwicklung wird ein Proxy verwendet um CORS-Probleme zu umgehen."
+    "it": "Mancano i campetti di periferia dove si cresceva.",
+    "de": "Es fehlen die Vorstadt-Bolzplätze, auf denen man aufwuchs."
   },
   {
-    "it": "CORS è la Cross-Origin Resource Sharing, una restrizione del browser.",
-    "de": "CORS ist Cross-Origin Resource Sharing, eine Browser-Einschränkung."
+    "it": "Dobbiamo avere il coraggio di lanciare i ventenni.",
+    "de": "Wir müssen den Mut haben, 20-Jährige einzusetzen."
   },
   {
-    "it": "UI5 Tooling supporta la configurazione di un proxy in ui5.yaml.",
-    "de": "UI5 Tooling unterstützt die Proxy-Konfiguration in ui5.yaml."
+    "it": "Ogni volta che vedo questo video soffro ancora.",
+    "de": "Jedes Mal, wenn ich dieses Video sehe, leide ich."
   },
   {
-    "it": "La sezione server in ui5.yaml configura le opzioni del server di sviluppo.",
-    "de": "Der Bereich server in ui5.yaml konfiguriert die Entwicklungsserver-Optionen."
+    "it": "Il calcio italiano ha perso la sua identità storica.",
+    "de": "Der italienische Fußball hat seine historische Identität verloren."
   },
   {
-    "it": "Il middleware proxy-backend in UI5 Tooling reindirizza le chiamate al backend SAP.",
-    "de": "Das proxy-backend-Middleware in UI5 Tooling leitet Aufrufe an das SAP-Backend weiter."
+    "it": "I ritmi del nostro campionato sono troppo lenti.",
+    "de": "Das Tempo unserer Liga ist zu langsam."
   },
   {
-    "it": "Il pacchetto npm ui5-middleware-simpleproxy crea un proxy semplice per lo sviluppo.",
-    "de": "Das npm-Paket ui5-middleware-simpleproxy erstellt einen einfachen Proxy für die Entwicklung."
+    "it": "Le squadre di club non aiutano mai la nazionale.",
+    "de": "Die Vereinsmannschaften helfen der Nationalelf nie."
   },
   {
-    "it": "Il parametro baseUri nel middleware indica l'URL del sistema SAP di destinazione.",
-    "de": "Der Parameter baseUri im Middleware gibt die URL des Ziel-SAP-Systems an."
+    "it": "Serve meno tattica e più dribbling nei giovani.",
+    "de": "Es braucht weniger Taktik und mehr Dribblings bei Jungen."
   },
   {
-    "it": "Il file package.json lista le dipendenze npm del progetto UI5.",
-    "de": "Die Datei package.json listet die npm-Abhängigkeiten des UI5-Projekts auf."
+    "it": "Il declino è iniziato subito dopo Berlino 2006.",
+    "de": "Der Abstieg begann direkt nach Berlin 2006."
   },
   {
-    "it": "npm install installa tutte le dipendenze del progetto.",
-    "de": "npm install installiert alle Projektabhängigkeiten."
+    "it": "Troppi interessi economici e poca visione sportiva.",
+    "de": "Zu viele wirtschaftliche Interessen und wenig sportliche Vision."
   },
   {
-    "it": "npm run start avvia il server di sviluppo con la configurazione in package.json.",
-    "de": "npm run start startet den Entwicklungsserver mit der Konfiguration in package.json."
+    "it": "Buffon è stato l'ultimo vero leader in campo.",
+    "de": "Buffon war der letzte wahre Anführer auf dem Feld."
   },
   {
-    "it": "Il proxy richiede l'autenticazione SAP per accedere al backend.",
-    "de": "Der Proxy erfordert SAP-Authentifizierung für den Zugriff auf das Backend."
+    "it": "Siamo diventati una nazionale di secondo piano purtroppo.",
+    "de": "Wir sind leider eine zweitklassige Nationalmannschaft geworden."
   },
   {
-    "it": "L'autenticazione Basic Auth usa nome utente e password SAP codificati in Base64.",
-    "de": "Basic Auth verwendet Base64-kodierte SAP-Benutzername und Passwort."
+    "it": "I tifosi meritano molto di più di questo.",
+    "de": "Die Fans verdienen viel mehr als das."
   },
   {
-    "it": "L'autenticazione SSO usa token di sessione SAP per accedere ai servizi.",
-    "de": "SSO-Authentifizierung verwendet SAP-Sitzungstoken für den Zugriff auf Dienste."
+    "it": "Il calcio moderno ci ha lasciato indietro tecnicamente.",
+    "de": "Der moderne Fußball hat uns technisch abgehängt."
   },
   {
-    "it": "Il CSRF Token è richiesto per le operazioni di modifica POST, PUT e DELETE.",
-    "de": "Das CSRF-Token ist für Änderungsoperationen POST, PUT und DELETE erforderlich."
+    "it": "Speriamo di tornare grandi il prima possibile.",
+    "de": "Hoffen wir, so schnell wie möglich wieder groß zu werden."
   },
   {
-    "it": "Il CSRF Token si recupera con una chiamata GET con intestazione X-CSRF-Token: Fetch.",
-    "de": "Das CSRF-Token wird mit einem GET-Aufruf mit Header X-CSRF-Token: Fetch abgerufen."
+    "it": "I vivai sono pieni di ragazzi che non giocano.",
+    "de": "Die Jugendakademien sind voll mit Jungen, die nicht spielen."
   },
   {
-    "it": "L'ODataModel v2 gestisce automaticamente il recupero e l'invio del CSRF Token.",
-    "de": "Das ODataModel v2 verwaltet automatisch das Abrufen und Senden des CSRF-Tokens."
+    "it": "Lippi ha sbagliato a portare i veterani nel 2010.",
+    "de": "Lippi hat 2010 den Fehler gemacht, Veteranen mitzunehmen."
   },
   {
-    "it": "Il parametro tokenHandling nel ODataModel controlla la gestione automatica del token.",
-    "de": "Der Parameter tokenHandling im ODataModel steuert die automatische Token-Verwaltung."
+    "it": "La maglia azzurra deve tornare a essere un onore.",
+    "de": "Das blaue Trikot muss wieder eine Ehre sein."
   },
   {
-    "it": "Il servizio OData espone un EntitySet che corrisponde alla tabella visualizzata nell'app.",
-    "de": "Der OData-Dienst stellt ein EntitySet bereit das der in der App angezeigten Tabelle entspricht."
+    "it": "Ventura ha distrutto una generazione di calciatori.",
+    "de": "Ventura hat eine Generation von Fußballern zerstört."
   },
   {
-    "it": "Il binding dell'aggregazione items della tabella punta al EntitySet del servizio reale.",
-    "de": "Das Aggregation-Binding der items-Eigenschaft der Tabelle zeigt auf das EntitySet des echten Dienstes."
+    "it": "Non ci sono più i difensori di una volta.",
+    "de": "Es gibt keine Verteidiger von früher mehr."
   },
   {
-    "it": "Il percorso di binding /NomeEntitySet corrisponde all'URL del set di dati.",
-    "de": "Der Binding-Pfad /NomeEntitySet entspricht der URL des Datensatzes."
+    "it": "Il calcio è cambiato e noi siamo rimasti fermi.",
+    "de": "Der Fußball hat sich geändert und wir blieben stehen."
   },
   {
-    "it": "Il template di binding nella tabella definisce la struttura delle righe.",
-    "de": "Das Binding-Template in der Tabelle definiert die Struktur der Zeilen."
+    "it": "Serve umiltà per ricominciare da zero.",
+    "de": "Es braucht Demut, um bei Null anzufangen."
   },
   {
-    "it": "Ogni colonna della tabella usa un property binding per visualizzare un campo del modello.",
-    "de": "Jede Tabellenspalte verwendet ein Property-Binding zur Anzeige eines Modellfeldes."
+    "it": "Dobbiamo investire nelle infrastrutture e nei tecnici giovani.",
+    "de": "Wir müssen in Infrastruktur und junge Trainer investieren."
   },
   {
-    "it": "I nomi dei campi nel binding devono corrispondere alle proprietà dell'EntityType OData.",
-    "de": "Die Feldnamen im Binding müssen den Eigenschaften des OData-EntityType entsprechen."
+    "it": "La crisi è culturale prima ancora che tecnica.",
+    "de": "Die Krise ist kulturell, noch bevor sie technisch ist."
   },
   {
-    "it": "La funzione read dell'ODataModel carica i dati da un EntitySet.",
-    "de": "Die read-Funktion des ODataModel lädt Daten aus einem EntitySet."
+    "it": "I bambini devono tornare a sognare la nazionale.",
+    "de": "Kinder müssen wieder von der Nationalmannschaft träumen."
   },
   {
-    "it": "Il callback success di read viene chiamato con i dati ricevuti dal backend.",
-    "de": "Der success-Callback von read wird mit den vom Backend empfangenen Daten aufgerufen."
+    "it": "Troppa pressione mediatica rovina i nostri talenti giovani.",
+    "de": "Zu viel Mediendruck ruiniert unsere jungen Talente."
   },
   {
-    "it": "Il callback error di read gestisce gli errori di comunicazione con il backend.",
-    "de": "Der error-Callback von read verarbeitet Kommunikationsfehler mit dem Backend."
+    "it": "Bisogna guardare cosa fanno all'estero per imparare.",
+    "de": "Man muss ins Ausland schauen, um zu lernen."
   },
   {
-    "it": "Il parametro urlParameters di read aggiunge parametri di query OData come $top.",
-    "de": "Der urlParameters-Parameter von read fügt OData-Abfrageparameter wie $top hinzu."
+    "it": "La meritocrazia non esiste più nel nostro calcio.",
+    "de": "Leistungsprinzip existiert in unserem Fußball nicht mehr."
   },
   {
-    "it": "Il parametro $top limita il numero di record restituiti dal servizio OData.",
-    "de": "Der Parameter $top begrenzt die Anzahl der vom OData-Dienst zurückgegebenen Datensätze."
+    "it": "Senza gol non si vincono le partite decisive.",
+    "de": "Ohne Tore gewinnt man keine entscheidenden Spiele."
   },
   {
-    "it": "Il parametro $skip salta un numero specificato di record nell'OData.",
-    "de": "Der Parameter $skip überspringt eine angegebene Anzahl von Datensätzen in OData."
+    "it": "Il 2006 sembra un'eternità fa ormai.",
+    "de": "2006 fühlt sich mittlerweile wie eine Ewigkeit an."
   },
   {
-    "it": "Il parametro $orderby ordina i risultati per una o più proprietà.",
-    "de": "Der Parameter $orderby sortiert die Ergebnisse nach einer oder mehreren Eigenschaften."
+    "it": "I club pensano solo a fare plusvalenze fittizie.",
+    "de": "Die Klubs denken nur an fiktive Kapitalgewinne."
   },
   {
-    "it": "Il parametro $filter filtra i risultati in base a condizioni OData.",
-    "de": "Der Parameter $filter filtert die Ergebnisse basierend auf OData-Bedingungen."
+    "it": "La nazionale è lo specchio del paese Italia.",
+    "de": "Die Nationalelf ist der Spiegel des Landes Italien."
   },
   {
-    "it": "Il parametro $select specifica quali proprietà includere nella risposta.",
-    "de": "Der Parameter $select gibt an welche Eigenschaften in die Antwort aufgenommen werden."
+    "it": "Non abbiamo più pazienza con i giovani talenti.",
+    "de": "Wir haben keine Geduld mehr mit jungen Talenten."
   },
   {
-    "it": "Il parametro $expand include entità correlate nella risposta OData.",
-    "de": "Der Parameter $expand schließt verknüpfte Entitäten in die OData-Antwort ein."
+    "it": "I costi dei biglietti allontanano i veri tifosi.",
+    "de": "Die Ticketpreise vertreiben die wahren Fans."
   },
   {
-    "it": "Il parametro $count restituisce il numero totale di record disponibili.",
-    "de": "Der Parameter $count gibt die Gesamtzahl der verfügbaren Datensätze zurück."
+    "it": "Mancano i maestri di calcio nei settori giovanili.",
+    "de": "Es fehlen Fußballlehrer in den Jugendabteilungen."
   },
   {
-    "it": "Il parametro $inlinecount restituisce il conteggio inline nei risultati OData v2.",
-    "de": "Der Parameter $inlinecount gibt die Inline-Anzahl in OData v2-Ergebnissen zurück."
+    "it": "Il calcio italiano deve tornare a essere coraggioso.",
+    "de": "Der italienische Fußball muss wieder mutig werden."
   },
   {
-    "it": "Il parametro filters nell'aggregation binding applica filtri lato server.",
-    "de": "Der Parameter filters im Aggregation-Binding wendet serverseitige Filter an."
+    "it": "Siamo rimasti ai tempi del catenaccio purtroppo.",
+    "de": "Wir sind leider in Zeiten des Catenaccio stehengeblieben."
   },
   {
-    "it": "Il parametro sorters nell'aggregation binding applica ordinamenti lato server.",
-    "de": "Der Parameter sorters im Aggregation-Binding wendet serverseitige Sortierungen an."
+    "it": "La delusione macedone non si dimentica facilmente.",
+    "de": "Die mazedonische Enttäuschung vergisst man nicht so leicht."
   },
   {
-    "it": "Il parametro operationMode controlla se filtri e ordinamenti sono lato server o client.",
-    "de": "Der Parameter operationMode steuert ob Filter und Sortierungen server- oder clientseitig sind."
+    "it": "Dobbiamo ritrovare l'orgoglio di essere italiani.",
+    "de": "Wir müssen den Stolz wiedergewinnen, Italiener zu sein."
   },
   {
-    "it": "OperationMode.Server invia filtri e ordinamenti come query OData al backend.",
-    "de": "OperationMode.Server sendet Filter und Sortierungen als OData-Abfragen an das Backend."
+    "it": "Il video è un capolavoro di giornalismo sportivo.",
+    "de": "Das Video ist ein Meisterwerk des Sportjournalismus."
   },
   {
-    "it": "OperationMode.Client scarica tutti i dati e filtra/ordina lato client.",
-    "de": "OperationMode.Client lädt alle Daten herunter und filtert/sortiert clientseitig."
+    "it": "Senza riforme serie spariremo dal grande calcio.",
+    "de": "Ohne ernsthafte Reformen verschwinden wir aus dem Spitzenfußball."
   },
   {
-    "it": "Il parametro useBatch nel ODataModel raggruppa le richieste in un batch OData.",
-    "de": "Der Parameter useBatch im ODataModel gruppiert Anfragen in einem OData-Batch."
+    "it": "I giovani scappano all'estero per poter giocare.",
+    "de": "Junge Leute fliehen ins Ausland, um spielen zu können."
   },
   {
-    "it": "OData Batch riduce il numero di chiamate HTTP raggruppando le operazioni.",
-    "de": "OData Batch reduziert die Anzahl der HTTP-Aufrufe durch Gruppierung von Operationen."
+    "it": "Il sistema dei prestiti blocca la crescita dei ragazzi.",
+    "de": "Das Leihsystem blockiert das Wachstum der Jungen."
   },
   {
-    "it": "Il metodo addBatchReadOperations aggiunge operazioni di lettura al batch.",
-    "de": "Die Methode addBatchReadOperations fügt Leseoperationen zum Batch hinzu."
+    "it": "Dobbiamo tornare a insegnare la tecnica di base.",
+    "de": "Wir müssen zurück zur Vermittlung der Basistechnik."
   },
   {
-    "it": "Il metodo submitBatch invia tutte le operazioni batch al backend.",
-    "de": "Die Methode submitBatch sendet alle Batch-Operationen an das Backend."
+    "it": "Il calcio è gioia, non solo schemi tattici.",
+    "de": "Fußball ist Freude, nicht nur taktische Schemata."
   },
   {
-    "it": "Il parametro loadAnnotationsFromMetadata carica le annotazioni dal metadata.",
-    "de": "Der Parameter loadAnnotationsFromMetadata lädt Annotationen aus den Metadaten."
+    "it": "Spero che questo video arrivi ai vertici FIGC.",
+    "de": "Ich hoffe, dieses Video erreicht die FIGC-Spitze."
   },
   {
-    "it": "Il parametro annotationURI specifica URL aggiuntivi per le annotazioni OData.",
-    "de": "Der Parameter annotationURI gibt zusätzliche URLs für OData-Annotationen an."
+    "it": "La passione non morirà mai nonostante i fallimenti.",
+    "de": "Die Leidenschaft wird trotz der Misserfolge nie sterben."
   },
   {
-    "it": "Il parametro serviceUrl specifica l'URL base del servizio OData nel modello.",
-    "de": "Der Parameter serviceUrl gibt die Basis-URL des OData-Dienstes im Modell an."
+    "it": "Siamo stanchi di vedere questa nazionale soffrire.",
+    "de": "Wir sind es leid, diese Nationalelf leiden zu sehen."
   },
   {
-    "it": "Il parametro headers aggiunge intestazioni HTTP personalizzate a tutte le richieste.",
-    "de": "Der Parameter headers fügt benutzerdefinierte HTTP-Header zu allen Anfragen hinzu."
+    "it": "Il futuro è nelle mani dei nostri bambini.",
+    "de": "Die Zukunft liegt in den Händen unserer Kinder."
   },
   {
-    "it": "Il parametro maxDataServiceVersion specifica la versione OData da usare.",
-    "de": "Der Parameter maxDataServiceVersion gibt die zu verwendende OData-Version an."
+    "it": "Serve una rivoluzione totale, non piccoli cambiamenti.",
+    "de": "Es braucht eine totale Revolution, keine kleinen Änderungen."
   },
   {
-    "it": "Il parametro disableHeadRequestForToken disabilita la richiesta HEAD per il CSRF token.",
-    "de": "Der Parameter disableHeadRequestForToken deaktiviert die HEAD-Anfrage für das CSRF-Token."
+    "it": "I veterani devono lasciare spazio alle nuove leve.",
+    "de": "Die Veteranen müssen Platz für den Nachwuchs machen."
   },
   {
-    "it": "Il parametro defaultUpdateMethod imposta il metodo HTTP di default per gli aggiornamenti.",
-    "de": "Der Parameter defaultUpdateMethod legt die Standard-HTTP-Methode für Updates fest."
+    "it": "Il calcio italiano ha bisogno di aria nuova.",
+    "de": "Der italienische Fußball braucht frischen Wind."
   },
   {
-    "it": "HTTPMethod.PUT sostituisce un'intera entità nel backend.",
-    "de": "HTTPMethod.PUT ersetzt eine gesamte Entität im Backend."
+    "it": "Grazie per questo video che apre gli occhi.",
+    "de": "Danke für dieses Video, das die Augen öffnet."
   },
   {
-    "it": "HTTPMethod.PATCH aggiorna solo le proprietà modificate di un'entità.",
-    "de": "HTTPMethod.PATCH aktualisiert nur die geänderten Eigenschaften einer Entität."
+    "it": "Non possiamo più permetterci di sbagliare ancora.",
+    "de": "Wir können uns keine weiteren Fehler mehr erlauben."
   },
   {
-    "it": "HTTPMethod.MERGE è equivalente a PATCH nel protocollo OData v2.",
-    "de": "HTTPMethod.MERGE ist das Äquivalent zu PATCH im OData v2-Protokoll."
+    "it": "La rinascita parte dalla consapevolezza dei propri errori.",
+    "de": "Der Wiederaufstieg beginnt mit dem Bewusstsein eigener Fehler."
   },
   {
-    "it": "Il deferred state di ODataModel accumula modifiche prima dell'invio.",
-    "de": "Der Deferred-Zustand von ODataModel sammelt Änderungen vor dem Senden."
+    "it": "Forza azzurri, non smetteremo mai di tifare.",
+    "de": "Vorwärts Azzurri, wir werden nie aufhören anzufeuern."
   },
   {
-    "it": "Il metodo setDeferredGroups definisce i gruppi di richieste differite.",
-    "de": "Die Methode setDeferredGroups definiert die Gruppen verzögerter Anfragen."
+    "it": "Il cuore italiano batte ancora, nonostante tutto.",
+    "de": "Das italienische Herz schlägt trotz allem noch."
   },
   {
-    "it": "Il metodo setChangeGroups associa le operazioni di modifica a gruppi specifici.",
-    "de": "Die Methode setChangeGroups ordnet Änderungsoperationen bestimmten Gruppen zu."
+    "it": "Dobbiamo tornare a essere i padroni del campo.",
+    "de": "Wir müssen wieder die Herren des Platzes werden."
   },
   {
-    "it": "Il metodo hasPendingChanges verifica se ci sono modifiche non ancora inviate.",
-    "de": "Die Methode hasPendingChanges prüft ob noch nicht gesendete Änderungen vorhanden sind."
+    "it": "La tecnica deve tornare al centro del progetto.",
+    "de": "Die Technik muss wieder ins Zentrum des Projekts."
   },
   {
-    "it": "Il metodo getPendingChanges restituisce l'oggetto con le modifiche in sospeso.",
-    "de": "Die Methode getPendingChanges gibt das Objekt mit ausstehenden Änderungen zurück."
+    "it": "Senza visione non c'è futuro nello sport.",
+    "de": "Ohne Vision gibt es keine Zukunft im Sport."
   },
   {
-    "it": "Il metodo attachRequestCompleted gestisce il completamento di ogni richiesta OData.",
-    "de": "Die Methode attachRequestCompleted verarbeitet den Abschluss jeder OData-Anfrage."
+    "it": "Il 2026 deve essere l'anno della svolta.",
+    "de": "2026 muss das Jahr der Wende sein."
   },
   {
-    "it": "Il metodo attachRequestFailed gestisce i fallimenti delle richieste OData.",
-    "de": "Die Methode attachRequestFailed verarbeitet Fehler bei OData-Anfragen."
+    "it": "I tifosi sono la parte migliore di questo sport.",
+    "de": "Die Fans sind der beste Teil dieses Sports."
   },
   {
-    "it": "Il metodo attachRequestSent viene chiamato all'invio di ogni richiesta OData.",
-    "de": "Die Methode attachRequestSent wird beim Senden jeder OData-Anfrage aufgerufen."
+    "it": "Basta con gli alibi, servono solo i fatti.",
+    "de": "Schluss mit Ausreden, es zählen nur Taten."
   },
   {
-    "it": "Il metodo attachBatchRequestCompleted gestisce il completamento di un batch.",
-    "de": "Die Methode attachBatchRequestCompleted verarbeitet den Abschluss eines Batches."
+    "it": "Il calcio italiano rinascerà, ne sono sicuro.",
+    "de": "Der italienische Fußball wird wiedergeboren, sicher."
   },
   {
-    "it": "Il metodo getServiceMetadata restituisce i metadati del servizio OData.",
-    "de": "Die Methode getServiceMetadata gibt die Metadaten des OData-Dienstes zurück."
+    "it": "Ogni sconfitta ci insegna qualcosa di nuovo.",
+    "de": "Jede Niederlage lehrt uns etwas Neues."
   },
   {
-    "it": "Il metodo attachMetadataLoaded gestisce il caricamento dei metadati OData.",
-    "de": "Die Methode attachMetadataLoaded verarbeitet das Laden der OData-Metadaten."
+    "it": "Dobbiamo proteggere il talento italiano a ogni costo.",
+    "de": "Wir müssen das italienische Talent um jeden Preis schützen."
   },
   {
-    "it": "Il metodo attachMetadataFailed gestisce l'errore nel caricamento dei metadati.",
-    "de": "Die Methode attachMetadataFailed verarbeitet Fehler beim Laden der Metadaten."
+    "it": "Il pallone non rotola più come una volta.",
+    "de": "Der Ball rollt nicht mehr wie früher."
   },
   {
-    "it": "I metadati OData vengono caricati automaticamente all'inizializzazione del modello.",
-    "de": "OData-Metadaten werden automatisch bei der Modellinitialisierung geladen."
+    "it": "Siamo pronti per tornare ai vertici mondiali.",
+    "de": "Wir sind bereit, an die Weltspitze zurückzukehren."
   },
   {
-    "it": "Il metodo metadataLoaded restituisce una Promise che si risolve al caricamento dei metadati.",
-    "de": "Die Methode metadataLoaded gibt ein Promise zurück das beim Laden der Metadaten aufgelöst wird."
+    "it": "La strada istruiva meglio delle moderne scuole calcio.",
+    "de": "Die Straße lehrte besser als moderne Fußballschulen."
   },
   {
-    "it": "Si usa metadataLoaded().then() per eseguire operazioni dopo il caricamento.",
-    "de": "metadataLoaded().then() wird verwendet um Operationen nach dem Laden auszuführen."
+    "it": "Vogliamo vedere undici leoni in campo sempre.",
+    "de": "Wir wollen immer elf Löwen auf dem Feld sehen."
   },
   {
-    "it": "Il Destination Service su SAP BTP configura la connessione al sistema SAP on-premise.",
-    "de": "Der Destination Service auf SAP BTP konfiguriert die Verbindung zum SAP On-Premise-System."
+    "it": "Il talento senza fatica non serve a nulla.",
+    "de": "Talent ohne Anstrengung nützt gar nichts."
   },
   {
-    "it": "Una Destination su BTP ha un nome, un URL, un tipo di autenticazione e un proxy.",
-    "de": "Eine Destination auf BTP hat einen Namen, eine URL, einen Authentifizierungstyp und einen Proxy."
+    "it": "La gloria del passato non deve essere un peso.",
+    "de": "Vergangener Ruhm darf keine Last sein."
   },
   {
-    "it": "Il Cloud Connector collega la rete aziendale on-premise a SAP BTP.",
-    "de": "Der Cloud Connector verbindet das On-Premise-Unternehmensnetzwerk mit SAP BTP."
-  },
-  {
-    "it": "Il Cloud Connector apre un tunnel sicuro senza aprire porte del firewall in entrata.",
-    "de": "Der Cloud Connector öffnet einen sicheren Tunnel ohne eingehende Firewall-Ports zu öffnen."
-  },
-  {
-    "it": "La Virtual Host nel Cloud Connector mappa un nome logico all'host SAP interno.",
-    "de": "Der Virtual Host im Cloud Connector ordnet einen logischen Namen dem internen SAP-Host zu."
-  },
-  {
-    "it": "Il tipo di autenticazione PrincipalPropagation trasferisce l'identità utente al backend.",
-    "de": "Der Authentifizierungstyp PrincipalPropagation überträgt die Benutzeridentität an das Backend."
-  },
-  {
-    "it": "Il tipo di autenticazione BasicAuthentication usa utente e password fissi per la Destination.",
-    "de": "BasicAuthentication als Authentifizierungstyp verwendet feste Benutzer und Passwort für die Destination."
-  },
-  {
-    "it": "Il tipo di autenticazione OAuth2SAMLBearerAssertion usa SAML per autenticarsi.",
-    "de": "OAuth2SAMLBearerAssertion als Authentifizierungstyp verwendet SAML zur Authentifizierung."
-  },
-  {
-    "it": "Il tipo di proxy OnPremise indica che la Destination punta a un sistema on-premise.",
-    "de": "Der Proxy-Typ OnPremise gibt an dass die Destination auf ein On-Premise-System zeigt."
-  },
-  {
-    "it": "Il tipo di proxy Internet indica che la Destination punta a un sistema cloud.",
-    "de": "Der Proxy-Typ Internet gibt an dass die Destination auf ein Cloud-System zeigt."
-  },
-  {
-    "it": "L'Approuter legge xs-app.json per determinare come instradare le richieste.",
-    "de": "Der Approuter liest xs-app.json um zu bestimmen wie Anfragen weitergeleitet werden."
-  },
-  {
-    "it": "Una route in xs-app.json mappa un pattern URL a una Destination configurata.",
-    "de": "Eine Route in xs-app.json ordnet ein URL-Muster einer konfigurierten Destination zu."
-  },
-  {
-    "it": "Il campo source in xs-app.json è un'espressione regolare per il percorso richiesto.",
-    "de": "Das Feld source in xs-app.json ist ein regulärer Ausdruck für den angeforderten Pfad."
-  },
-  {
-    "it": "Il campo destination in xs-app.json è il nome della Destination su BTP.",
-    "de": "Das Feld destination in xs-app.json ist der Name der Destination auf BTP."
-  },
-  {
-    "it": "Il campo csrfProtection in xs-app.json abilita la protezione CSRF nell'Approuter.",
-    "de": "Das Feld csrfProtection in xs-app.json aktiviert den CSRF-Schutz im Approuter."
-  },
-  {
-    "it": "Il campo authenticationType nella route definisce il tipo di autenticazione richiesta.",
-    "de": "Das Feld authenticationType in der Route definiert den erforderlichen Authentifizierungstyp."
-  },
-  {
-    "it": "authenticationType none disabilita l'autenticazione per risorse statiche pubbliche.",
-    "de": "authenticationType none deaktiviert die Authentifizierung für öffentliche statische Ressourcen."
-  },
-  {
-    "it": "authenticationType xsuaa richiede un token JWT valido per accedere alla route.",
-    "de": "authenticationType xsuaa erfordert ein gültiges JWT-Token für den Zugriff auf die Route."
-  },
-  {
-    "it": "Il file xs-security.json definisce i ruoli e gli scope dell'applicazione BTP.",
-    "de": "Die Datei xs-security.json definiert Rollen und Scopes der BTP-Anwendung."
-  },
-  {
-    "it": "Lo scope è un'autorizzazione granulare che protegge le funzioni dell'applicazione.",
-    "de": "Ein Scope ist eine granulare Berechtigung die Anwendungsfunktionen schützt."
-  },
-  {
-    "it": "Il Role Template raggruppa gli scope in un ruolo assegnabile agli utenti.",
-    "de": "Das Role Template gruppiert Scopes in eine den Benutzern zuweisbare Rolle."
-  },
-  {
-    "it": "Il Role Collection raggruppa i Role Template e si assegna a utenti o gruppi.",
-    "de": "Die Role Collection gruppiert Role Templates und wird Benutzern oder Gruppen zugewiesen."
-  },
-  {
-    "it": "Il servizio XSUAA genera e valida i token JWT per le applicazioni BTP.",
-    "de": "Der XSUAA-Dienst generiert und validiert JWT-Token für BTP-Anwendungen."
-  },
-  {
-    "it": "Il JWT Token contiene le informazioni utente e gli scope assegnati.",
-    "de": "Das JWT-Token enthält Benutzerinformationen und zugewiesene Scopes."
-  },
-  {
-    "it": "L'Approuter valida il token JWT prima di inviare la richiesta alla Destination.",
-    "de": "Der Approuter validiert das JWT-Token bevor er die Anfrage an die Destination sendet."
-  },
-  {
-    "it": "Il binding del servizio XSUAA collega l'Approuter all'istanza XSUAA.",
-    "de": "Die XSUAA-Dienstbindung verbindet den Approuter mit der XSUAA-Instanz."
-  },
-  {
-    "it": "Il binding del servizio Destination collega l'Approuter al servizio Destination.",
-    "de": "Die Destination-Dienstbindung verbindet den Approuter mit dem Destination-Dienst."
-  },
-  {
-    "it": "La proprietà forwardAuthToken in xs-app.json invia il token JWT alla Destination.",
-    "de": "Die Eigenschaft forwardAuthToken in xs-app.json sendet das JWT-Token an die Destination."
-  },
-  {
-    "it": "Il mta.yaml definisce i moduli dell'applicazione come l'Approuter e l'app UI5.",
-    "de": "Das mta.yaml definiert Anwendungsmodule wie Approuter und UI5-App."
-  },
-  {
-    "it": "Il modulo di tipo html5 nel mta.yaml descrive l'applicazione UI5.",
-    "de": "Das Modul vom Typ html5 im mta.yaml beschreibt die UI5-Anwendung."
-  },
-  {
-    "it": "Il modulo di tipo nodejs nel mta.yaml descrive l'Approuter.",
-    "de": "Das Modul vom Typ nodejs im mta.yaml beschreibt den Approuter."
-  },
-  {
-    "it": "La sezione resources nel mta.yaml dichiara i servizi BTP utilizzati.",
-    "de": "Der Bereich resources im mta.yaml deklariert die verwendeten BTP-Dienste."
-  },
-  {
-    "it": "Il resource di tipo org.cloudfoundry.existing-service referenzia un servizio esistente.",
-    "de": "Eine Resource vom Typ org.cloudfoundry.existing-service referenziert einen bestehenden Dienst."
-  },
-  {
-    "it": "cf marketplace mostra i servizi disponibili su Cloud Foundry.",
-    "de": "cf marketplace zeigt die verfügbaren Dienste auf Cloud Foundry an."
-  },
-  {
-    "it": "cf create-service crea un'istanza di un servizio Cloud Foundry.",
-    "de": "cf create-service erstellt eine Instanz eines Cloud Foundry-Dienstes."
-  },
-  {
-    "it": "cf bind-service associa un servizio a un'applicazione Cloud Foundry.",
-    "de": "cf bind-service verknüpft einen Dienst mit einer Cloud Foundry-Anwendung."
-  },
-  {
-    "it": "cf env mostra le variabili d'ambiente di un'applicazione, incluse le credenziali.",
-    "de": "cf env zeigt die Umgebungsvariablen einer Anwendung einschließlich Anmeldedaten an."
-  },
-  {
-    "it": "VCAP_SERVICES è la variabile d'ambiente che contiene i binding dei servizi.",
-    "de": "VCAP_SERVICES ist die Umgebungsvariable die Dienstbindungen enthält."
-  },
-  {
-    "it": "L'HTML5 Application Repository su BTP ospita l'app UI5 in modo centralizzato.",
-    "de": "Das HTML5 Application Repository auf BTP hostet die UI5-App zentral."
-  },
-  {
-    "it": "Il modulo di tipo com.sap.html5.application-content nel MTA carica l'app nel repository.",
-    "de": "Das Modul vom Typ com.sap.html5.application-content im MTA lädt die App ins Repository."
-  },
-  {
-    "it": "Il file xs-app.json per l'HTML5 Repository configura il routing a livello di repository.",
-    "de": "Die xs-app.json für das HTML5 Repository konfiguriert das Routing auf Repository-Ebene."
-  },
-  {
-    "it": "Il Fiori Launchpad su BTP serve le app dall'HTML5 Repository.",
-    "de": "Das Fiori Launchpad auf BTP stellt Apps aus dem HTML5 Repository bereit."
-  },
-  {
-    "it": "Il SAP Work Zone integra le app UI5 in un portale aziendale centralizzato.",
-    "de": "SAP Work Zone integriert UI5-Apps in ein zentrales Unternehmensportal."
-  },
-  {
-    "it": "Per connettere l'app al backend si modifica prima l'uri nel manifest.json.",
-    "de": "Zur Verbindung der App mit dem Backend wird zunächst die URI im manifest.json geändert."
-  },
-  {
-    "it": "L'URI relativa nel manifest.json viene risolta in base all'URL dell'applicazione.",
-    "de": "Die relative URI im manifest.json wird relativ zur Anwendungs-URL aufgelöst."
-  },
-  {
-    "it": "Un URI che inizia con / è assoluta rispetto al dominio corrente.",
-    "de": "Eine URI die mit / beginnt ist absolut bezogen auf die aktuelle Domain."
-  },
-  {
-    "it": "In sviluppo locale l'URI relativa punta al proxy configurato in ui5.yaml.",
-    "de": "In der lokalen Entwicklung zeigt die relative URI auf den in ui5.yaml konfigurierten Proxy."
-  },
-  {
-    "it": "In produzione su BTP l'URI relativa punta alla route configurata in xs-app.json.",
-    "de": "In der Produktion auf BTP zeigt die relative URI auf die in xs-app.json konfigurierte Route."
-  },
-  {
-    "it": "Il parametro preload del modello controlla il caricamento anticipato dei metadati.",
-    "de": "Der preload-Parameter des Modells steuert das vorzeitige Laden der Metadaten."
-  },
-  {
-    "it": "Il parametro skipMetadataUrlParameterHandling evita la modifica degli URL di metadati.",
-    "de": "Der Parameter skipMetadataUrlParameterHandling verhindert die Änderung von Metadaten-URLs."
-  },
-  {
-    "it": "Il parametro refreshAfterChange ricarica i dati automaticamente dopo una modifica.",
-    "de": "Der Parameter refreshAfterChange lädt Daten nach einer Änderung automatisch neu."
-  },
-  {
-    "it": "Il parametro persistTechnicalMessages mantiene i messaggi tecnici nel MessageManager.",
-    "de": "Der Parameter persistTechnicalMessages behält technische Nachrichten im MessageManager."
-  },
-  {
-    "it": "I messaggi di errore OData vengono propagati automaticamente al MessageManager.",
-    "de": "OData-Fehlermeldungen werden automatisch an den MessageManager weitergegeben."
-  },
-  {
-    "it": "Il metodo registerMessageProcessor registra il modello nel MessageManager.",
-    "de": "Die Methode registerMessageProcessor registriert das Modell im MessageManager."
-  },
-  {
-    "it": "Il MessageManager aggrega i messaggi da tutti i modelli registrati.",
-    "de": "Der MessageManager aggregiert Meldungen aus allen registrierten Modellen."
-  },
-  {
-    "it": "Il modello /sap.ui.core.MessageModel contiene tutti i messaggi correnti.",
-    "de": "Das Modell /sap.ui.core.MessageModel enthält alle aktuellen Nachrichten."
-  },
-  {
-    "it": "La sap.m.MessagePopover usa il MessageModel per visualizzare i messaggi.",
-    "de": "Das sap.m.MessagePopover verwendet das MessageModel zur Anzeige von Nachrichten."
-  },
-  {
-    "it": "Il Network Tab del browser mostra tutte le chiamate HTTP effettuate dall'app.",
-    "de": "Der Network-Tab des Browsers zeigt alle von der App getätigten HTTP-Aufrufe an."
-  },
-  {
-    "it": "Verificare nel Network Tab che le chiamate OData raggiungano il backend corretto.",
-    "de": "Im Network-Tab prüfen ob die OData-Aufrufe das richtige Backend erreichen."
-  },
-  {
-    "it": "Un errore 401 indica problemi di autenticazione con il backend SAP.",
-    "de": "Ein Fehler 401 zeigt Authentifizierungsprobleme mit dem SAP-Backend an."
-  },
-  {
-    "it": "Un errore 403 indica che l'utente non ha i permessi necessari nel backend.",
-    "de": "Ein Fehler 403 zeigt dass der Benutzer nicht die notwendigen Berechtigungen im Backend hat."
-  },
-  {
-    "it": "Un errore 404 indica che il servizio OData o l'EntitySet non esiste.",
-    "de": "Ein Fehler 404 zeigt dass der OData-Dienst oder das EntitySet nicht existiert."
-  },
-  {
-    "it": "Un errore 500 indica un problema interno nel backend SAP.",
-    "de": "Ein Fehler 500 zeigt ein internes Problem im SAP-Backend an."
-  },
-  {
-    "it": "Un errore CORS indica che il backend non accetta richieste dall'origine dell'app.",
-    "de": "Ein CORS-Fehler zeigt dass das Backend keine Anfragen vom Ursprung der App akzeptiert."
-  },
-  {
-    "it": "Il header Access-Control-Allow-Origin nel backend autorizza le origini consentite.",
-    "de": "Der Header Access-Control-Allow-Origin im Backend erlaubt die zugelassenen Ursprünge."
-  },
-  {
-    "it": "La transazione SICF in SAP gestisce i servizi HTTP e ICF.",
-    "de": "Die Transaktion SICF in SAP verwaltet HTTP- und ICF-Dienste."
-  },
-  {
-    "it": "La transazione SM59 in SAP configura le RFC Destinations per le connessioni esterne.",
-    "de": "Die Transaktion SM59 in SAP konfiguriert RFC Destinations für externe Verbindungen."
-  },
-  {
-    "it": "Il Gateway Error Log nella transazione /IWFND/ERROR_LOG mostra gli errori del servizio.",
-    "de": "Das Gateway Error Log in Transaktion /IWFND/ERROR_LOG zeigt Dienstfehler an."
-  },
-  {
-    "it": "La transazione /IWFND/TRACES attiva il tracing del Gateway per il debug.",
-    "de": "Die Transaktion /IWFND/TRACES aktiviert das Gateway-Tracing für das Debugging."
-  },
-  {
-    "it": "Il SAP Gateway deve essere attivato e configurato nel sistema ABAP.",
-    "de": "Das SAP Gateway muss im ABAP-System aktiviert und konfiguriert sein."
-  },
-  {
-    "it": "Il profile parameter icm/server_port_0 configura la porta HTTP del server SAP.",
-    "de": "Der Profilparameter icm/server_port_0 konfiguriert den HTTP-Port des SAP-Servers."
-  },
-  {
-    "it": "Il profile parameter login/accept_sso2_ticket abilita i ticket SSO2 nel backend.",
-    "de": "Der Profilparameter login/accept_sso2_ticket aktiviert SSO2-Tickets im Backend."
-  },
-  {
-    "it": "Il DPC Extension Class nel progetto SEGW implementa la logica dei metodi OData.",
-    "de": "Die DPC Extension Class im SEGW-Projekt implementiert die Logik der OData-Methoden."
-  },
-  {
-    "it": "Il metodo ENTITYSET_GET_ENTITYSET implementa la lettura di una collezione di entità.",
-    "de": "Die Methode ENTITYSET_GET_ENTITYSET implementiert das Lesen einer Entitätssammlung."
-  },
-  {
-    "it": "Il metodo ENTITY_GET_ENTITY implementa la lettura di una singola entità.",
-    "de": "Die Methode ENTITY_GET_ENTITY implementiert das Lesen einer einzelnen Entität."
-  },
-  {
-    "it": "Il metodo ENTITYSET_CREATE_ENTITY implementa la creazione di una nuova entità.",
-    "de": "Die Methode ENTITYSET_CREATE_ENTITY implementiert die Erstellung einer neuen Entität."
-  },
-  {
-    "it": "Il metodo ENTITYSET_UPDATE_ENTITY implementa l'aggiornamento di un'entità.",
-    "de": "Die Methode ENTITYSET_UPDATE_ENTITY implementiert die Aktualisierung einer Entität."
-  },
-  {
-    "it": "Il metodo ENTITYSET_DELETE_ENTITY implementa l'eliminazione di una entità.",
-    "de": "Die Methode ENTITYSET_DELETE_ENTITY implementiert das Löschen einer Entität."
-  },
-  {
-    "it": "Il parametro IT_FILTER nel metodo GET_ENTITYSET contiene i filtri OData ricevuti.",
-    "de": "Der Parameter IT_FILTER in der GET_ENTITYSET-Methode enthält die empfangenen OData-Filter."
-  },
-  {
-    "it": "Il parametro IT_ORDER nel metodo GET_ENTITYSET contiene i criteri di ordinamento.",
-    "de": "Der Parameter IT_ORDER in der GET_ENTITYSET-Methode enthält die Sortierkriterien."
-  },
-  {
-    "it": "Il parametro IS_PAGING nel metodo GET_ENTITYSET contiene i parametri di paginazione.",
-    "de": "Der Parameter IS_PAGING in der GET_ENTITYSET-Methode enthält die Paginierungsparameter."
-  },
-  {
-    "it": "Il parametro ET_ENTITYSET nel metodo GET_ENTITYSET contiene i record da restituire.",
-    "de": "Der Parameter ET_ENTITYSET in der GET_ENTITYSET-Methode enthält die zurückzugebenden Datensätze."
-  },
-  {
-    "it": "Il data provider MPC Extension Class estende i metadati del servizio OData.",
-    "de": "Die MPC Extension Class erweitert die Metadaten des OData-Dienstes."
-  },
-  {
-    "it": "La rigenerazione degli artefatti in SEGW aggiorna le classi generata automaticamente.",
-    "de": "Die Regenerierung von Artefakten in SEGW aktualisiert automatisch generierte Klassen."
-  },
-  {
-    "it": "Dopo ogni modifica al modello in SEGW bisogna rigenerare e attivare il servizio.",
-    "de": "Nach jeder Modelländerung in SEGW muss der Dienst regeneriert und aktiviert werden."
-  },
-  {
-    "it": "L'attivazione del servizio in /IWFND/MAINT_SERVICE rende il servizio disponibile.",
-    "de": "Die Dienstaktivierung in /IWFND/MAINT_SERVICE macht den Dienst verfügbar."
-  },
-  {
-    "it": "Il System Alias in /IWFND/MAINT_SERVICE collega il servizio al sistema ABAP.",
-    "de": "Der System Alias in /IWFND/MAINT_SERVICE verbindet den Dienst mit dem ABAP-System."
-  },
-  {
-    "it": "Il gateway hub può essere lo stesso sistema o un sistema separato dedicato.",
-    "de": "Der Gateway Hub kann dasselbe System oder ein separates dediziertes System sein."
-  },
-  {
-    "it": "L'embedded deployment mette Gateway e backend ABAP sullo stesso sistema.",
-    "de": "Das Embedded Deployment platziert Gateway und ABAP-Backend auf demselben System."
-  },
-  {
-    "it": "Il central hub deployment separa il Gateway dal sistema ABAP backend.",
-    "de": "Das Central Hub Deployment trennt das Gateway vom ABAP-Backend-System."
-  },
-  {
-    "it": "La RFC connection nel sistema hub collega il gateway al backend ABAP.",
-    "de": "Die RFC-Verbindung im Hub-System verbindet das Gateway mit dem ABAP-Backend."
-  },
-  {
-    "it": "La transazione BD64 in SAP gestisce gli accordi di distribuzione ALE.",
-    "de": "Die Transaktion BD64 in SAP verwaltet ALE-Verteilungsvereinbarungen."
-  },
-  {
-    "it": "Il SAP Business Accelerator Hub offre API e servizi OData preconfigurati.",
-    "de": "Der SAP Business Accelerator Hub bietet vorkonfigurierte APIs und OData-Dienste an."
-  },
-  {
-    "it": "L'API Business Hub permette di testare i servizi OData SAP con dati sandbox.",
-    "de": "Der API Business Hub ermöglicht das Testen von SAP OData-Diensten mit Sandbox-Daten."
-  },
-  {
-    "it": "La API Key dell'API Hub sostituisce l'autenticazione SAP nell'ambiente sandbox.",
-    "de": "Der API-Schlüssel des API Hub ersetzt die SAP-Authentifizierung in der Sandbox-Umgebung."
-  },
-  {
-    "it": "I servizi S/4HANA Cloud hanno URL del tipo API_BUSINESS_PARTNER e simili.",
-    "de": "S/4HANA Cloud-Dienste haben URLs wie API_BUSINESS_PARTNER und ähnliche."
-  },
-  {
-    "it": "Il servizio API_BUSINESS_PARTNER gestisce i dati dei partner commerciali in S/4HANA.",
-    "de": "Der Dienst API_BUSINESS_PARTNER verwaltet Geschäftspartnerdaten in S/4HANA."
-  },
-  {
-    "it": "Il Communication Arrangement in S/4HANA Cloud configura le API disponibili.",
-    "de": "Das Communication Arrangement in S/4HANA Cloud konfiguriert die verfügbaren APIs."
-  },
-  {
-    "it": "Il Communication System in S/4HANA Cloud definisce il sistema esterno che accede alle API.",
-    "de": "Das Communication System in S/4HANA Cloud definiert das externe System das auf APIs zugreift."
-  },
-  {
-    "it": "Il Communication User in S/4HANA Cloud è l'utente tecnico per le integrazioni API.",
-    "de": "Der Communication User in S/4HANA Cloud ist der technische Benutzer für API-Integrationen."
-  },
-  {
-    "it": "L'autenticazione Basic nel Communication Arrangement usa credenziali fisse.",
-    "de": "Basic-Authentifizierung im Communication Arrangement verwendet feste Anmeldedaten."
-  },
-  {
-    "it": "L'autenticazione OAuth2 nel Communication Arrangement usa token temporanei.",
-    "de": "OAuth2-Authentifizierung im Communication Arrangement verwendet temporäre Token."
-  },
-  {
-    "it": "Il SAP Integration Suite facilita l'integrazione tra sistemi SAP e non SAP.",
-    "de": "Die SAP Integration Suite erleichtert die Integration zwischen SAP- und Nicht-SAP-Systemen."
-  },
-  {
-    "it": "Il Cloud Integration permette di creare flussi di integrazione iFlow.",
-    "de": "Cloud Integration ermöglicht die Erstellung von iFlow-Integrationsprozessen."
-  },
-  {
-    "it": "L'API Management espone, gestisce e protegge le API aziendali.",
-    "de": "API Management stellt Unternehmens-APIs bereit, verwaltet und schützt sie."
-  },
-  {
-    "it": "Il SAP Graph aggrega le API SAP in un grafo di entità unificato.",
-    "de": "SAP Graph aggregiert SAP-APIs in einem einheitlichen Entitätsgraphen."
-  },
-  {
-    "it": "Il parametro skiptoken implementa la paginazione lato server in OData.",
-    "de": "Der Parameter skiptoken implementiert serverseitige Paginierung in OData."
-  },
-  {
-    "it": "Il campo __next nella risposta OData v2 indica il link alla pagina successiva.",
-    "de": "Das Feld __next in der OData v2-Antwort zeigt den Link zur nächsten Seite an."
-  },
-  {
-    "it": "Il parametro growingScrollToLoad abilita il caricamento a scorrimento nella tabella.",
-    "de": "Der Parameter growingScrollToLoad aktiviert das Laden beim Scrollen in der Tabelle."
-  },
-  {
-    "it": "Il threshold nell'aggregation binding carica i dati in anticipo durante lo scorrimento.",
-    "de": "Der Schwellenwert im Aggregation-Binding lädt Daten beim Scrollen im Voraus."
-  },
-  {
-    "it": "Il parametro length nel aggregation binding limita il numero di record richiesti.",
-    "de": "Der Parameter length im Aggregation-Binding begrenzt die Anzahl der angeforderten Datensätze."
-  },
-  {
-    "it": "Il parametro startIndex nel aggregation binding definisce il punto di partenza.",
-    "de": "Der Parameter startIndex im Aggregation-Binding definiert den Startpunkt."
-  },
-  {
-    "it": "Il campo __count nella risposta OData v2 contiene il conteggio totale.",
-    "de": "Das Feld __count in der OData v2-Antwort enthält die Gesamtanzahl."
-  },
-  {
-    "it": "Il metodo getCount sul list binding restituisce il numero totale di record.",
-    "de": "Die Methode getCount auf dem List-Binding gibt die Gesamtanzahl der Datensätze zurück."
-  },
-  {
-    "it": "L'evento dataReceived si attiva quando i dati arrivano dal backend.",
-    "de": "Das Ereignis dataReceived wird ausgelöst wenn Daten vom Backend eintreffen."
-  },
-  {
-    "it": "L'evento dataRequested si attiva quando inizia una richiesta dati al backend.",
-    "de": "Das Ereignis dataRequested wird ausgelöst wenn eine Datenanfrage an das Backend beginnt."
-  },
-  {
-    "it": "Il busy binding mostra automaticamente l'indicatore di caricamento durante le richieste.",
-    "de": "Das Busy-Binding zeigt automatisch den Ladeindikator während Anfragen an."
-  },
-  {
-    "it": "La proprietà busy del controllo si imposta durante il caricamento OData.",
-    "de": "Die busy-Eigenschaft des Steuerelements wird während des OData-Ladens gesetzt."
-  },
-  {
-    "it": "Il parametro busyIndicatorDelay evita l'indicatore lampeggiante per richieste veloci.",
-    "de": "Der Parameter busyIndicatorDelay vermeidet den flimmernden Indikator bei schnellen Anfragen."
-  },
-  {
-    "it": "Il metodo attachDataReceived gestisce l'evento di ricezione dati nel binding.",
-    "de": "Die Methode attachDataReceived verarbeitet das Datenempfangs-Ereignis im Binding."
-  },
-  {
-    "it": "Il metodo attachDataRequested gestisce l'evento di richiesta dati nel binding.",
-    "de": "Die Methode attachDataRequested verarbeitet das Datenanfrage-Ereignis im Binding."
-  },
-  {
-    "it": "Il metodo getBinding restituisce il binding di una proprietà o aggregazione.",
-    "de": "Die Methode getBinding gibt das Binding einer Eigenschaft oder Aggregation zurück."
-  },
-  {
-    "it": "Il metodo filter sul list binding applica filtri dinamici all'aggregazione.",
-    "de": "Die Methode filter auf dem List-Binding wendet dynamische Filter auf die Aggregation an."
-  },
-  {
-    "it": "Il metodo sort sul list binding applica ordinamenti dinamici all'aggregazione.",
-    "de": "Die Methode sort auf dem List-Binding wendet dynamische Sortierungen auf die Aggregation an."
-  },
-  {
-    "it": "La SearchField si collega al metodo onSearch che aggiorna i filtri del binding.",
-    "de": "Das SearchField ist mit der Methode onSearch verbunden die die Binding-Filter aktualisiert."
-  },
-  {
-    "it": "Il nuovo sap.ui.model.Filter usa EQ, Contains, StartsWith e altri operatori.",
-    "de": "Das neue sap.ui.model.Filter verwendet EQ, Contains, StartsWith und andere Operatoren."
-  },
-  {
-    "it": "I filtri multipli si combinano con AND o OR usando un filtro padre.",
-    "de": "Mehrere Filter werden mit AND oder ODER über einen übergeordneten Filter kombiniert."
-  },
-  {
-    "it": "Il parametro bAnd nel costruttore del Filter determina la combinazione logica.",
-    "de": "Der Parameter bAnd im Filter-Konstruktor bestimmt die logische Kombination."
-  },
-  {
-    "it": "Il FilterType.Application applica filtri programmatici preservando i filtri utente.",
-    "de": "FilterType.Application wendet programmatische Filter an und bewahrt Benutzerfilter."
-  },
-  {
-    "it": "Il FilterType.Control applica i filtri dell'utente tramite l'interfaccia.",
-    "de": "FilterType.Control wendet Benutzerfilter über die Benutzeroberfläche an."
-  },
-  {
-    "it": "Il metodo changeParameters aggiorna i parametri di query del binding OData.",
-    "de": "Die Methode changeParameters aktualisiert die Abfrageparameter des OData-Bindings."
-  },
-  {
-    "it": "Il metodo refresh sul binding forza un nuovo caricamento dei dati dal backend.",
-    "de": "Die Methode refresh auf dem Binding erzwingt ein erneutes Laden der Daten vom Backend."
-  },
-  {
-    "it": "La transizione da MockServer a OData reale richiede test approfonditi.",
-    "de": "Der Übergang vom MockServer zu echtem OData erfordert umfangreiche Tests."
-  },
-  {
-    "it": "Confrontare la struttura del metadata.xml mock con il $metadata del servizio reale.",
-    "de": "Die Struktur der Mock-metadata.xml mit den $metadata des echten Dienstes vergleichen."
-  },
-  {
-    "it": "I nomi dei campi nel servizio reale potrebbero differire dai dati mock usati.",
-    "de": "Die Feldnamen im echten Dienst könnten sich von den verwendeten Mock-Daten unterscheiden."
-  },
-  {
-    "it": "Aggiornare i property binding nelle colonne della tabella con i nomi reali dei campi.",
-    "de": "Die Property-Bindings in den Tabellenspalten mit den echten Feldnamen aktualisieren."
-  },
-  {
-    "it": "Aggiornare i formatter se il tipo di dato reale differisce dal tipo mock.",
-    "de": "Formatter aktualisieren wenn der echte Datentyp vom Mock-Typ abweicht."
-  },
-  {
-    "it": "Il tipo Edm.DateTime in OData v2 richiede una formattazione speciale per la visualizzazione.",
-    "de": "Der Typ Edm.DateTime in OData v2 erfordert eine spezielle Formatierung für die Anzeige."
-  },
-  {
-    "it": "Il tipo Edm.DateTimeOffset in OData v2 include le informazioni sul fuso orario.",
-    "de": "Der Typ Edm.DateTimeOffset in OData v2 enthält Zeitzoneninformationen."
-  },
-  {
-    "it": "Il tipo Edm.Decimal in OData v2 richiede attenzione alla precisione e scala.",
-    "de": "Der Typ Edm.Decimal in OData v2 erfordert Aufmerksamkeit für Präzision und Skalierung."
-  },
-  {
-    "it": "Il tipo Edm.Boolean in OData v2 mappa automaticamente ai controlli CheckBox.",
-    "de": "Der Typ Edm.Boolean in OData v2 wird automatisch auf CheckBox-Steuerelemente abgebildet."
-  },
-  {
-    "it": "Il tipo Edm.String in OData v2 è il tipo più comune per le proprietà testuali.",
-    "de": "Der Typ Edm.String in OData v2 ist der häufigste Typ für Texteigenschaften."
-  },
-  {
-    "it": "Il tipo Edm.Int32 in OData v2 rappresenta numeri interi a 32 bit.",
-    "de": "Der Typ Edm.Int32 in OData v2 repräsentiert 32-Bit-Ganzzahlen."
-  },
-  {
-    "it": "Il tipo Edm.Guid in OData v2 rappresenta un identificatore univoco globale.",
-    "de": "Der Typ Edm.Guid in OData v2 repräsentiert einen global eindeutigen Bezeichner."
-  },
-  {
-    "it": "Il dataType nel property binding attiva la conversione automatica del tipo.",
-    "de": "Der dataType im Property-Binding aktiviert die automatische Typkonvertierung."
-  },
-  {
-    "it": "Il constraints nel dataType limita i valori accettabili per la proprietà.",
-    "de": "Die constraints im dataType begrenzen die akzeptablen Werte für die Eigenschaft."
-  },
-  {
-    "it": "La validazione automatica dei tipi segnala errori quando i dati non rispettano i constraints.",
-    "de": "Die automatische Typvalidierung meldet Fehler wenn Daten Constraints nicht erfüllen."
-  },
-  {
-    "it": "Il sap.ui.model.odata.type.DateTime gestisce automaticamente le date OData.",
-    "de": "Der sap.ui.model.odata.type.DateTime verwaltet automatisch OData-Datumsangaben."
-  },
-  {
-    "it": "Il sap.ui.model.odata.type.Decimal gestisce i numeri decimali OData con precisione.",
-    "de": "Der sap.ui.model.odata.type.Decimal verwaltet OData-Dezimalzahlen mit Präzision."
-  },
-  {
-    "it": "L'auto-type detection nel ODataModel deduce il tipo automaticamente dai metadati.",
-    "de": "Die Auto-Typ-Erkennung im ODataModel leitet den Typ automatisch aus Metadaten ab."
-  },
-  {
-    "it": "Il parametro autoExpandSelect in ODataModel v4 ottimizza le query automaticamente.",
-    "de": "Der Parameter autoExpandSelect in ODataModel v4 optimiert Abfragen automatisch."
-  },
-  {
-    "it": "Il sap.ui.model.odata.v4.ODataContextBinding gestisce il binding di contesto in v4.",
-    "de": "Das sap.ui.model.odata.v4.ODataContextBinding verwaltet das Kontext-Binding in v4."
-  },
-  {
-    "it": "Il sap.ui.model.odata.v4.ODataListBinding gestisce il binding di lista in v4.",
-    "de": "Das sap.ui.model.odata.v4.ODataListBinding verwaltet das Listen-Binding in v4."
-  },
-  {
-    "it": "In OData v4 il metodo requestObject carica i dati in modo asincrono.",
-    "de": "In OData v4 lädt die Methode requestObject Daten asynchron."
-  },
-  {
-    "it": "In OData v4 il metodo requestContexts restituisce i contesti di una lista.",
-    "de": "In OData v4 gibt die Methode requestContexts die Kontexte einer Liste zurück."
-  },
-  {
-    "it": "In OData v4 le operazioni di modifica usano i metodi setProperty e delete.",
-    "de": "In OData v4 verwenden Änderungsoperationen die Methoden setProperty und delete."
-  },
-  {
-    "it": "Il parametro updateGroupId in OData v4 raggruppa le modifiche per l'invio.",
-    "de": "Der Parameter updateGroupId in OData v4 gruppiert Änderungen für das Senden."
-  },
-  {
-    "it": "Il metodo submitBatch in OData v4 invia le modifiche di un gruppo.",
-    "de": "Die Methode submitBatch in OData v4 sendet die Änderungen einer Gruppe."
-  },
-  {
-    "it": "Il metodo resetChanges in OData v4 annulla le modifiche non ancora inviate.",
-    "de": "Die Methode resetChanges in OData v4 verwirft noch nicht gesendete Änderungen."
-  },
-  {
-    "it": "L'operazione Function Import in OData v2 esegue logiche personalizzate nel backend.",
-    "de": "Die Function Import-Operation in OData v2 führt benutzerdefinierte Logik im Backend aus."
-  },
-  {
-    "it": "L'operazione Action in OData v4 è equivalente al Function Import di v2.",
-    "de": "Die Action-Operation in OData v4 ist das Äquivalent zum Function Import von v2."
-  },
-  {
-    "it": "Il metodo callFunction del ODataModel v2 invoca un Function Import.",
-    "de": "Die Methode callFunction des ODataModel v2 ruft einen Function Import auf."
-  },
-  {
-    "it": "Il parametro method in callFunction definisce il metodo HTTP GET o POST.",
-    "de": "Der Parameter method in callFunction definiert die HTTP-Methode GET oder POST."
-  },
-  {
-    "it": "Il parametro urlParameters in callFunction invia i parametri al Function Import.",
-    "de": "Der Parameter urlParameters in callFunction sendet Parameter an den Function Import."
-  },
-  {
-    "it": "La risposta del Function Import può essere un'entità, un tipo primitivo o void.",
-    "de": "Die Antwort des Function Import kann eine Entität, ein primitiver Typ oder void sein."
-  },
-  {
-    "it": "Le associazioni OData definiscono le relazioni tra EntityType diversi.",
-    "de": "OData-Assoziationen definieren Beziehungen zwischen verschiedenen EntityTypes."
-  },
-  {
-    "it": "Le Navigation Property permettono di navigare tra entità correlate tramite $expand.",
-    "de": "Navigation Properties ermöglichen die Navigation zwischen verknüpften Entitäten über $expand."
-  },
-  {
-    "it": "Il binding con il percorso di navigazione accede ai dati di entità correlate.",
-    "de": "Das Binding mit Navigationspfad greift auf Daten verknüpfter Entitäten zu."
-  },
-  {
-    "it": "Il parametro expand nel aggregation binding carica automaticamente le entità correlate.",
-    "de": "Der Parameter expand im Aggregation-Binding lädt verknüpfte Entitäten automatisch."
-  },
-  {
-    "it": "Il deep insert crea un'entità padre e le entità figlie in un'unica operazione.",
-    "de": "Das Deep Insert erstellt eine übergeordnete Entität und untergeordnete Entitäten in einem Schritt."
-  },
-  {
-    "it": "Il batch con changeset raggruppa operazioni atomiche che si annullano insieme.",
-    "de": "Batch mit Changeset gruppiert atomare Operationen die gemeinsam rückgängig gemacht werden."
-  },
-  {
-    "it": "Il parametro groupId nel ODataModel v2 raggruppa le richieste in un batch.",
-    "de": "Der Parameter groupId im ODataModel v2 gruppiert Anfragen in einem Batch."
-  },
-  {
-    "it": "Il test della connessione si effettua prima tramite Postman o curl.",
-    "de": "Die Verbindung wird zunächst über Postman oder curl getestet."
-  },
-  {
-    "it": "Postman permette di testare le chiamate OData con autenticazione e header personalizzati.",
-    "de": "Postman ermöglicht das Testen von OData-Aufrufen mit Authentifizierung und benutzerdefinierten Headern."
-  },
-  {
-    "it": "Verificare che i dati restituiti abbiano la struttura prevista prima di integrare il frontend.",
-    "de": "Sicherstellen dass die zurückgegebenen Daten die erwartete Struktur haben bevor das Frontend integriert wird."
-  },
-  {
-    "it": "Il SAP Gateway Client in /IWFND/GW_CLIENT permette di testare senza strumenti esterni.",
-    "de": "Der SAP Gateway Client in /IWFND/GW_CLIENT ermöglicht Tests ohne externe Werkzeuge."
-  },
-  {
-    "it": "Il test end-to-end verifica che i dati reali appaiano correttamente nella tabella UI5.",
-    "de": "Der End-to-End-Test prüft ob echte Daten korrekt in der UI5-Tabelle erscheinen."
-  },
-  {
-    "it": "Il SAP Logon Ticket può essere usato per autenticazione SSO in ambiente on-premise.",
-    "de": "Das SAP Logon Ticket kann für SSO-Authentifizierung in On-Premise-Umgebungen verwendet werden."
-  },
-  {
-    "it": "Il cookie SAP_SESSIONID gestisce la sessione utente dopo l'autenticazione.",
-    "de": "Das Cookie SAP_SESSIONID verwaltet die Benutzersitzung nach der Authentifizierung."
-  },
-  {
-    "it": "Il parametro withCredentials include i cookie di sessione nelle richieste cross-origin.",
-    "de": "Der Parameter withCredentials schließt Sitzungscookies in Cross-Origin-Anfragen ein."
-  },
-  {
-    "it": "Il parametro tokenHandling:true abilita la gestione automatica del token nel modello.",
-    "de": "Der Parameter tokenHandling:true aktiviert die automatische Token-Verwaltung im Modell."
-  },
-  {
-    "it": "La configurazione del proxy in ui5.yaml include la gestione delle credenziali.",
-    "de": "Die Proxy-Konfiguration in ui5.yaml umfasst die Verwaltung der Anmeldedaten."
-  },
-  {
-    "it": "Il file .env in locale memorizza le credenziali SAP senza includerle nel codice.",
-    "de": "Die .env-Datei lokal speichert SAP-Anmeldedaten ohne sie in den Code einzuschließen."
-  },
-  {
-    "it": "Il file .gitignore deve escludere il file .env per proteggere le credenziali.",
-    "de": "Die .gitignore-Datei muss die .env-Datei ausschließen um Anmeldedaten zu schützen."
-  },
-  {
-    "it": "Le variabili d'ambiente sostituiscono le configurazioni hardcoded in ambienti diversi.",
-    "de": "Umgebungsvariablen ersetzen hartcodierte Konfigurationen in verschiedenen Umgebungen."
-  },
-  {
-    "it": "Il deployment su BTP usa le Destination al posto delle variabili d'ambiente locali.",
-    "de": "Das Deployment auf BTP verwendet Destinations anstelle lokaler Umgebungsvariablen."
-  },
-  {
-    "it": "Il debug nell'UI5 Inspector mostra il valore corrente di ogni binding in tempo reale.",
-    "de": "Das Debugging im UI5 Inspector zeigt den aktuellen Wert jedes Bindings in Echtzeit."
-  },
-  {
-    "it": "Il Diagnostics Tool in SAPUI5 mostra tutti i modelli registrati e i loro dati.",
-    "de": "Das Diagnostics Tool in SAPUI5 zeigt alle registrierten Modelle und ihre Daten an."
-  },
-  {
-    "it": "La Console del browser mostra i log di SAPUI5 inclusi errori OData.",
-    "de": "Die Browser-Konsole zeigt SAPUI5-Logs einschließlich OData-Fehler an."
-  },
-  {
-    "it": "sap.ui.core.Configuration.setDebug(true) abilita i log dettagliati nel browser.",
-    "de": "sap.ui.core.Configuration.setDebug(true) aktiviert detaillierte Logs im Browser."
-  },
-  {
-    "it": "Il parametro sap-ui-debug=true nell'URL abilita il debug senza modificare il codice.",
-    "de": "Der Parameter sap-ui-debug=true in der URL aktiviert das Debugging ohne Codeänderungen."
-  },
-  {
-    "it": "La migrazione dal MockServer all'OData reale è completa quando tutti i test passano.",
-    "de": "Die Migration vom MockServer zu echtem OData ist abgeschlossen wenn alle Tests bestehen."
-  },
-  {
-    "it": "Mantenere il MockServer disponibile come fallback per i test automatizzati.",
-    "de": "Den MockServer als Fallback für automatisierte Tests verfügbar halten."
-  },
-  {
-    "it": "Un flag booleano in index.html può attivare o disattivare il MockServer facilmente.",
-    "de": "Ein boolesches Flag in index.html kann den MockServer einfach aktivieren oder deaktivieren."
-  },
-  {
-    "it": "La variabile sap-ui-mockserver nel URL può controllare l'uso del MockServer.",
-    "de": "Die Variable sap-ui-mockserver in der URL kann die Verwendung des MockServers steuern."
-  },
-  {
-    "it": "Il parametro urlParameters nella inizializzazione del MockServer aggiunge dati extra.",
-    "de": "Der Parameter urlParameters bei der MockServer-Initialisierung fügt zusätzliche Daten hinzu."
-  },
-  {
-    "it": "setData: Impostare i dati in un JSONModel.",
-    "de": "setData: Daten in einem JSONModel setzen."
-  },
-  {
-    "it": "getProperty / setProperty: Accesso a proprietà del modello.",
-    "de": "getProperty / setProperty: Zugriff auf Modelleigenschaften."
-  },
-  {
-    "it": "refresh: Aggiornamento manuale di un modello.",
-    "de": "refresh: Manuelles Aktualisieren eines Modells."
-  },
-  {
-    "it": "sap.m.StandardListItem: Elemento lista standard.",
-    "de": "sap.m.StandardListItem: Standard-Listenelement."
-  },
-  {
-    "it": "sap.m.GroupHeaderListItem: Intestazione di gruppo nelle liste.",
-    "de": "sap.m.GroupHeaderListItem: Gruppenüberschrift in Listen."
-  },
-  {
-    "it": "sap.m.ObjectListItem: Elemento lista per oggetti complessi.",
-    "de": "sap.m.ObjectListItem: Listenelement für komplexe Objekte."
-  },
-  {
-    "it": "bindItems: Binding di aggregazione per liste.",
-    "de": "bindItems: Aggregation-Binding für Listen."
-  },
-  {
-    "it": "bindAggregation: Binding generico per qualsiasi aggregazione.",
-    "de": "bindAggregation: Generisches Binding für jede Aggregation."
-  },
-  {
-    "it": "template: Template per aggregation binding.",
-    "de": "template: Vorlage für Aggregation Binding."
-  },
-  {
-    "it": "factory: Funzione factory per elementi dinamici.",
-    "de": "factory: Factory-Funktion für dynamische Elemente."
-  },
-  {
-    "it": "sap.m.ColumnListItem: Elemento riga per sap.m.Table.",
-    "de": "sap.m.ColumnListItem: Zeilenelement für sap.m.Table."
-  },
-  {
-    "it": "columns: Definizione delle colonne nella tabella.",
-    "de": "columns: Definition der Spalten in der Tabelle."
-  },
-  {
-    "it": "sap.ui.model.type.String: Tipo per stringhe con validazione.",
-    "de": "sap.ui.model.type.String: Typ für Zeichenketten mit Validierung."
-  },
-  {
-    "it": "sap.ui.model.type.Integer: Tipo per numeri interi.",
-    "de": "sap.ui.model.type.Integer: Typ für ganze Zahlen."
-  },
-  {
-    "it": "sap.ui.model.type.Float: Tipo per numeri decimali.",
-    "de": "sap.ui.model.type.Float: Typ für Dezimalzahlen."
-  },
-  {
-    "it": "sap.ui.model.odata.type: Tipi specifici per OData.",
-    "de": "sap.ui.model.odata.type: OData-spezifische Typen."
-  },
-  {
-    "it": "sap.m.P13nDialog: Dialogo per personalizzazione (sort, filter, group).",
-    "de": "sap.m.P13nDialog: Dialog für Personalisierung (Sortieren, Filtern, Gruppieren)."
-  },
-  {
-    "it": "Smart Controls: Controlli intelligenti (SmartTable, SmartFilterBar).",
-    "de": "Smart Controls: Intelligente Steuerelemente (SmartTable, SmartFilterBar)."
-  },
-  {
-    "it": "sap.ui.comp.smarttable.SmartTable: Tabella intelligente.",
-    "de": "sap.ui.comp.smarttable.SmartTable: Intelligente Tabelle."
-  },
-  {
-    "it": "sap.ui.comp.smartfilterbar.SmartFilterBar: Barra filtri intelligente.",
-    "de": "sap.ui.comp.smartfilterbar.SmartFilterBar: Intelligente Filterleiste."
-  },
-  {
-    "it": "UI5 Tooling: Strumenti moderni per build e sviluppo (ui5.yaml).",
-    "de": "UI5 Tooling: Moderne Tools für Build und Entwicklung (ui5.yaml)."
-  },
-  {
-    "it": "ui5.yaml: File di configurazione per UI5 Tooling.",
-    "de": "ui5.yaml: Konfigurationsdatei für UI5 Tooling."
-  },
-  {
-    "it": "package.json: Gestione dipendenze con npm/yarn.",
-    "de": "package.json: Abhängigkeitsverwaltung mit npm/yarn."
-  },
-  {
-    "it": "SAP Business Application Studio: IDE cloud per sviluppo SAPUI5.",
-    "de": "SAP Business Application Studio: Cloud-IDE für SAPUI5-Entwicklung."
-  },
-  {
-    "it": "SAP Web IDE: IDE classico (ora deprecato in favore di BAS).",
-    "de": "SAP Web IDE: Klassische IDE (jetzt zugunsten von BAS abgelöst)."
-  },
-  {
-    "it": "Git integration: Supporto per version control.",
-    "de": "Git integration: Unterstützung für Versionskontrolle."
-  },
-  {
-    "it": "Destination: Configurazione di destinazioni backend in SAP BTP.",
-    "de": "Destination: Konfiguration von Backend-Zielen in SAP BTP."
-  },
-  {
-    "it": "Cloud Connector: Connessione sicura tra cloud e on-premise.",
-    "de": "Cloud Connector: Sichere Verbindung zwischen Cloud und On-Premise."
-  },
-  {
-    "it": "sap.ui.core.util.MockServer: Server mock per test.",
-    "de": "sap.ui.core.util.MockServer: Mock-Server für Tests."
-  },
-  {
-    "it": "Mock Data: Dati fittizi per sviluppo offline.",
-    "de": "Mock Data: Fiktive Daten für Offline-Entwicklung."
-  },
-  {
-    "it": "sap.m.VBox: Layout verticale.",
-    "de": "sap.m.VBox: Vertikales Layout."
-  },
-  {
-    "it": "sap.m.HBox: Layout orizzontale.",
-    "de": "sap.m.HBox: Horizontales Layout."
-  },
-  {
-    "it": "sap.ui.layout.VerticalLayout: Layout verticale avanzato.",
-    "de": "sap.ui.layout.VerticalLayout: Erweitertes vertikales Layout."
-  },
-  {
-    "it": "sap.ui.layout.HorizontalLayout: Layout orizzontale avanzato.",
-    "de": "sap.ui.layout.HorizontalLayout: Erweitertes horizontales Layout."
-  },
-  {
-    "it": "sap.m.FlexBox: Layout flessibile con justify e align.",
-    "de": "sap.m.FlexBox: Flexibles Layout mit Justify und Align."
-  },
-  {
-    "it": "sap.ui.core.Control: Classe base per tutti i controlli.",
-    "de": "sap.ui.core.Control: Basisklasse für alle Steuerelemente."
-  },
-  {
-    "it": "sap.ui.core.Element: Classe base per elementi leggeri.",
-    "de": "sap.ui.core.Element: Basisklasse für leichte Elemente."
-  },
-  {
-    "it": "Renderer: Personalizzazione del rendering di un controllo.",
-    "de": "Renderer: Anpassung des Renderings eines Steuerelements."
-  },
-  {
-    "it": "Metadata: Definizione di proprietà, aggregazioni ed eventi di un controllo.",
-    "de": "Metadata: Definition von Eigenschaften, Aggregationen und Events eines Steuerelements."
-  },
-  {
-    "it": "attachEvent: Attaccare listener di eventi programmaticamente.",
-    "de": "attachEvent: Programmatisches Anhängen von Event-Listenern."
-  },
-  {
-    "it": "detachEvent: Rimuovere listener di eventi.",
-    "de": "detachEvent: Entfernen von Event-Listenern."
-  },
-  {
-    "it": "fireEvent: Attivare un evento manualmente.",
-    "de": "fireEvent: Manuelles Auslösen eines Events."
-  },
-  {
-    "it": "sap.ui.core.Item: Elemento base per select, combobox ecc.",
-    "de": "sap.ui.core.Item: Basiselement für Select, ComboBox usw."
-  },
-  {
-    "it": "sap.m.Select: Dropdown a singola selezione.",
-    "de": "sap.m.Select: Dropdown mit Einfachauswahl."
-  },
-  {
-    "it": "sap.m.MultiSelect: Selezione multipla (in alcune liste).",
-    "de": "sap.m.MultiSelect: Mehrfachauswahl (in bestimmten Listen)."
-  },
-  {
-    "it": "sap.m.CheckBox: Casella di spunta.",
-    "de": "sap.m.CheckBox: Kontrollkästchen."
-  },
-  {
-    "it": "sap.m.RadioButton: Pulsante di opzione.",
-    "de": "sap.m.RadioButton: Optionsschaltfläche."
-  },
-  {
-    "it": "sap.m.RadioButtonGroup: Gruppo di radio button.",
-    "de": "sap.m.RadioButtonGroup: Gruppe von Optionsschaltflächen."
-  },
-  {
-    "it": "sap.m.Text: Controllo testo semplice.",
-    "de": "sap.m.Text: Einfaches Text-Steuerelement."
-  },
-  {
-    "it": "sap.m.Title: Titolo con diversi livelli.",
-    "de": "sap.m.Title: Titel mit verschiedenen Stufen."
-  },
-  {
-    "it": "sap.m.Label: Etichetta per campi di input.",
-    "de": "sap.m.Label: Beschriftung für Eingabefelder."
-  },
-  {
-    "it": "sap.m.Link: Collegamento cliccabile.",
-    "de": "sap.m.Link: Klickbarer Link."
-  },
-  {
-    "it": "sap.m.Image: Immagine.",
-    "de": "sap.m.Image: Bild."
-  },
-  {
-    "it": "sap.m.Avatar: Immagine profilo o icona utente.",
-    "de": "sap.m.Avatar: Profilbild oder Benutzer-Icon."
-  },
-  {
-    "it": "sap.m.Icon: Icona da SAP Icon Pool.",
-    "de": "sap.m.Icon: Icon aus dem SAP Icon Pool."
-  },
-  {
-    "it": "sap.ui.core.IconPool: Accesso al pool di icone.",
-    "de": "sap.ui.core.IconPool: Zugriff auf den Icon-Pool."
-  },
-  {
-    "it": "sap.m.Panel: Pannello espandibile.",
-    "de": "sap.m.Panel: Erweiterbares Panel."
-  },
-  {
-    "it": "sap.m.ExpandableText: Testo espandibile.",
-    "de": "sap.m.ExpandableText: Erweiterbarer Text."
-  },
-  {
-    "it": "sap.m.Wizard: Procedura guidata passo-passo.",
-    "de": "sap.m.Wizard: Schritt-für-Schritt-Assistent."
-  },
-  {
-    "it": "sap.m.StepInput: Input numerico con step.",
-    "de": "sap.m.StepInput: Numerische Eingabe mit Schritten."
-  },
-  {
-    "it": "sap.m.TimePicker: Selettore di ora.",
-    "de": "sap.m.TimePicker: Uhrzeitauswahl."
-  },
-  {
-    "it": "sap.m.DateRangeSelection: Selezione intervallo date.",
-    "de": "sap.m.DateRangeSelection: Auswahl eines Datumsbereichs."
-  },
-  {
-    "it": "sap.m.PlanningCalendar: Calendario per pianificazione.",
-    "de": "sap.m.PlanningCalendar: Planungskalender."
-  },
-  {
-    "it": "sap.chart: Libreria per grafici (Charting).",
-    "de": "sap.chart: Bibliothek für Diagramme (Charting)."
-  },
-  {
-    "it": "sap.m.Chart: Controllo grafico semplice.",
-    "de": "sap.m.Chart: Einfaches Diagramm-Steuerelement."
-  },
-  {
-    "it": "VizFrame: Grafici avanzati (ora raccomandato sap.chart).",
-    "de": "VizFrame: Erweiterte Diagramme (jetzt sap.chart empfohlen)."
-  },
-  {
-    "it": "KPI Tag / Micro Chart: Mini-grafici per KPI.",
-    "de": "KPI Tag / Micro Chart: Mini-Diagramme für KPIs."
-  },
-  {
-    "it": "sap.m.GenericTile: Tile generica per dashboard.",
-    "de": "sap.m.GenericTile: Generische Kachel für Dashboards."
-  },
-  {
-    "it": "sap.m.TileContainer: Contenitore di tile.",
-    "de": "sap.m.TileContainer: Kachel-Container."
-  },
-  {
-    "it": "Fiori Launchpad: Ambiente di esecuzione per app Fiori.",
-    "de": "Fiori Launchpad: Laufzeitumgebung für Fiori-Apps."
-  },
-  {
-    "it": "Intent: Semantische navigazione (semantic object + action).",
-    "de": "Intent: Semantische Navigation (Semantic Object + Action)."
-  },
-  {
-    "it": "Cross Application Navigation: Navigazione tra app diverse.",
-    "de": "Cross Application Navigation: Navigation zwischen verschiedenen Apps."
-  },
-  {
-    "it": "sap.ushell.Container: Accesso ai servizi del launchpad.",
-    "de": "sap.ushell.Container: Zugriff auf Launchpad-Services."
-  },
-  {
-    "it": "User Info Service: Recupero informazioni utente.",
-    "de": "User Info Service: Abrufen von Benutzerinformationen."
-  },
-  {
-    "it": "Personalization Service: Salvataggio preferenze utente.",
-    "de": "Personalization Service: Speichern von Benutzereinstellungen."
-  },
-  {
-    "it": "sap.m.DynamicSideContent: Contenuto laterale dinamico.",
-    "de": "sap.m.DynamicSideContent: Dynamischer Seiteninhalt."
-  },
-  {
-    "it": "sap.tnt.ToolHeader: Header per tool/application.",
-    "de": "sap.tnt.ToolHeader: Header für Tools/Anwendungen."
-  },
-  {
-    "it": "sap.tnt.SideNavigation: Navigazione laterale.",
-    "de": "sap.tnt.SideNavigation: Seitennavigation."
-  },
-  {
-    "it": "sap.m.SplitApp: App con master e detail (mobile).",
-    "de": "sap.m.SplitApp: App mit Master und Detail (mobil)."
-  },
-  {
-    "it": "sap.m.NavContainer: Contenitore per navigazione tra pagine.",
-    "de": "sap.m.NavContainer: Container für Navigation zwischen Seiten."
-  },
-  {
-    "it": "to: Navigazione forward in NavContainer.",
-    "de": "to: Vorwärts-Navigation im NavContainer."
-  },
-  {
-    "it": "back: Navigazione indietro.",
-    "de": "back: Zurück-Navigation."
-  },
-  {
-    "it": "sap.ui.model.Context: Contesto per binding specifici.",
-    "de": "sap.ui.model.Context: Kontext für spezifische Bindings."
-  },
-  {
-    "it": "Binding Path: Percorso relativo o assoluto nel modello.",
-    "de": "Binding Path: Relativer oder absoluter Pfad im Modell."
-  },
-  {
-    "it": "Relative Binding: Binding relativo a un contesto padre.",
-    "de": "Relative Binding: Relatives Binding zu einem übergeordneten Kontext."
-  },
-  {
-    "it": "Named Model: Modello con nome (es. \"myModel\").",
-    "de": "Named Model: Modell mit Namen (z. B. \"myModel\")."
-  },
-  {
-    "it": "setModel: Assegnare un modello a una vista o controllo.",
-    "de": "setModel: Zuweisen eines Modells zu einer View oder einem Steuerelement."
-  },
-  {
-    "it": "getModel: Recuperare un modello.",
-    "de": "getModel: Abrufen eines Modells."
-  },
-  {
-    "it": "bindElement: Binding di un contesto elemento.",
-    "de": "bindElement: Binding eines Element-Kontexts."
-  },
-  {
-    "it": "unbindElement: Rimuovere il binding elemento.",
-    "de": "unbindElement: Entfernen des Element-Bindings."
-  },
-  {
-    "it": "sap.ui.model.BindingMode: Modi di binding (OneWay, TwoWay, OneTime).",
-    "de": "sap.ui.model.BindingMode: Binding-Modi (OneWay, TwoWay, OneTime)."
-  },
-  {
-    "it": "sap.ui.model.FilterOperator: Operatori per filtri (EQ, BT, Contains...).",
-    "de": "sap.ui.model.FilterOperator: Operatoren für Filter (EQ, BT, Contains...)."
-  },
-  {
-    "it": "MultiFilter: Combinazione di più filtri.",
-    "de": "MultiFilter: Kombination mehrerer Filter."
-  },
-  {
-    "it": "sap.ui.model.FilterType: Tipo di filtro (Application o Control).",
-    "de": "sap.ui.model.FilterType: Filter-Typ (Application oder Control)."
-  },
-  {
-    "it": "sap.ui.core.format.FileSizeFormat: Formattazione dimensioni file.",
-    "de": "sap.ui.core.format.FileSizeFormat: Formatierung von Dateigrößen."
-  },
-  {
-    "it": "sap.ui.model.resource.ResourceModel: Modello per i18n.",
-    "de": "sap.ui.model.resource.ResourceModel: Modell für i18n."
-  },
-  {
-    "it": "getResourceBundle: Ottenere il bundle di risorse.",
-    "de": "getResourceBundle: Abrufen des Resource Bundles."
-  },
-  {
-    "it": "getText: Recuperare testo tradotto con parametri.",
-    "de": "getText: Abrufen von übersetztem Text mit Parametern."
-  },
-  {
-    "it": "Terminologies: Supporto per vocabolari specifici per settore.",
-    "de": "Terminologies: Unterstützung für branchenspezifische Vokabulare."
-  },
-  {
-    "it": "sap.ui.core.routing.HashChanger: Gestione dell'hash URL.",
-    "de": "sap.ui.core.routing.HashChanger: Verwaltung des URL-Hashes."
-  },
-  {
-    "it": "sap.ui.core.routing.Router.getInstance: Istanza singleton del router.",
-    "de": "sap.ui.core.routing.Router.getInstance: Singleton-Instanz des Routers."
-  },
-  {
-    "it": "beforeRouteMatched: Hook prima della corrispondenza della route.",
-    "de": "beforeRouteMatched: Hook vor dem Route-Matching."
-  },
-  {
-    "it": "routeMatched: Hook dopo la corrispondenza della route.",
-    "de": "routeMatched: Hook nach dem Route-Matching."
-  },
-  {
-    "it": "sap.m.ObjectPageLayout: Layout avanzato per Object Page.",
-    "de": "sap.m.ObjectPageLayout: Erweitertes Layout für Object Pages."
-  },
-  {
-    "it": "sections: Sezioni nell'ObjectPageLayout.",
-    "de": "sections: Abschnitte im ObjectPageLayout."
-  },
-  {
-    "it": "sap.m.ObjectPageSection: Sezione di Object Page.",
-    "de": "sap.m.ObjectPageSection: Abschnitt einer Object Page."
-  },
-  {
-    "it": "sap.m.ObjectPageSubSection: Sottosezione.",
-    "de": "sap.m.ObjectPageSubSection: Unterabschnitt."
-  },
-  {
-    "it": "sap.m.IconTabFilter: Filtro tab nell'IconTabBar.",
-    "de": "sap.m.IconTabFilter: Tab-Filter in der IconTabBar."
-  },
-  {
-    "it": "sap.m.IconTabSeparator: Separatore tra tab.",
-    "de": "sap.m.IconTabSeparator: Trennzeichen zwischen Tabs."
-  },
-  {
-    "it": "sap.m.OverflowToolbar: Barra degli strumenti con overflow automatico.",
-    "de": "sap.m.OverflowToolbar: Werkzeugleiste mit automatischem Overflow."
-  },
-  {
-    "it": "sap.m.ActionSheet: Foglio azioni (menu contestuale).",
-    "de": "sap.m.ActionSheet: Aktionsblatt (Kontextmenü)."
-  },
-  {
-    "it": "sap.m.ViewSettingsDialog: Dialogo per impostazioni vista (sort/filter/group).",
-    "de": "sap.m.ViewSettingsDialog: Dialog für Ansichtseinstellungen (Sortieren/Filtern/Gruppieren)."
-  },
-  {
-    "it": "sap.m.TablePersoController: Personalizzazione colonne tabella.",
-    "de": "sap.m.TablePersoController: Personalisierung von Tabellenspalten."
-  },
-  {
-    "it": "sap.ui.model.odata.CountMode: Modalità di conteggio entità OData.",
-    "de": "sap.ui.model.odata.CountMode: Zählmodus für OData-Entitäten."
-  },
-  {
-    "it": "sap.ui.model.odata.OperationMode: Modalità di caricamento dati (Server, Client, Auto).",
-    "de": "sap.ui.model.odata.OperationMode: Datenladungsmodus (Server, Client, Auto)."
-  },
-  {
-    "it": "sap.ui.model.ListBinding: Binding base per liste.",
-    "de": "sap.ui.model.ListBinding: Basisklasse für Listen-Bindings."
-  },
-  {
-    "it": "sap.ui.model.TreeBinding: Binding per strutture ad albero.",
-    "de": "sap.ui.model.TreeBinding: Binding für Baumstrukturen."
-  },
-  {
-    "it": "sap.ui.core.message.MessageManager: Gestione centralizzata dei messaggi.",
-    "de": "sap.ui.core.message.MessageManager: Zentrale Nachrichtenverwaltung."
-  },
-  {
-    "it": "sap.m.MessageView: Visualizzazione di messaggi.",
-    "de": "sap.m.MessageView: Anzeige von Nachrichten."
-  },
-  {
-    "it": "sap.m.MessagePopover: Popover per messaggi.",
-    "de": "sap.m.MessagePopover: Popover für Nachrichten."
-  },
-  {
-    "it": "sap.ui.core.format.DateFormat.getDateInstance: Istanza per formattazione date.",
-    "de": "sap.ui.core.format.DateFormat.getDateInstance: Instanz für Datumsformatierung."
-  },
-  {
-    "it": "sap.m.FacetFilter: Filtro a faccette.",
-    "de": "sap.m.FacetFilter: Facettenfilter."
-  },
-  {
-    "it": "sap.m.FacetFilterList: Lista di filtri a faccette.",
-    "de": "sap.m.FacetFilterList: Liste von Facettenfiltern."
-  },
-  {
-    "it": "sap.m.FacetFilterItem: Elemento di filtro a faccette.",
-    "de": "sap.m.FacetFilterItem: Element eines Facettenfilters."
-  },
-  {
-    "it": "sap.m.SemanticPage: Pagina con header semantico.",
-    "de": "sap.m.SemanticPage: Seite mit semantischem Header."
-  },
-  {
-    "it": "sap.f.DynamicPage: Pagina dinamica con header espandibile.",
-    "de": "sap.f.DynamicPage: Dynamische Seite mit erweiterbarem Header."
-  },
-  {
-    "it": "sap.f.DynamicPageTitle: Titolo della DynamicPage.",
-    "de": "sap.f.DynamicPageTitle: Titel der DynamicPage."
-  },
-  {
-    "it": "sap.f.DynamicPageHeader: Header della DynamicPage.",
-    "de": "sap.f.DynamicPageHeader: Header der DynamicPage."
-  },
-  {
-    "it": "sap.ui.core.delegate: Delegati per eventi speciali.",
-    "de": "sap.ui.core.delegate: Delegaten für spezielle Events."
-  },
-  {
-    "it": "ResizeHandler: Gestione del ridimensionamento della finestra.",
-    "de": "ResizeHandler: Behandlung von Fenstergrößenänderungen."
-  },
-  {
-    "it": "sap.ui.core.theming.Parameters: Accesso ai parametri del tema.",
-    "de": "sap.ui.core.theming.Parameters: Zugriff auf Theme-Parameter."
-  },
-  {
-    "it": "sap.ui.getCore().applyTheme: Cambiare tema a runtime.",
-    "de": "sap.ui.getCore().applyTheme: Theme zur Laufzeit wechseln."
-  },
-  {
-    "it": "sap.ui.core.Configuration: Configurazione globale di UI5.",
-    "de": "sap.ui.core.Configuration: Globale UI5-Konfiguration."
-  },
-  {
-    "it": "bootstrap finito: Evento \"UI5 bootstrapped\".",
-    "de": "bootstrap fertig: Event \"UI5 bootstrapped\"."
-  },
-  {
-    "it": "Component Container: Caricamento di un componente in un'altra app.",
-    "de": "Component Container: Laden einer Komponente in einer anderen App."
-  },
-  {
-    "it": "sap.ui.core.Component.create: Creazione asincrona di componenti.",
-    "de": "sap.ui.core.Component.create: Asynchrone Erstellung von Komponenten."
-  },
-  {
-    "it": "createContent: Metodo per creare il contenuto di un componente.",
-    "de": "createContent: Methode zum Erstellen des Inhalts einer Komponente."
-  },
-  {
-    "it": "metadata: Sezione nel Component per configurazione.",
-    "de": "metadata: Abschnitt im Component für Konfiguration."
-  },
-  {
-    "it": "sap.ui.core.util.Export: Esportazione dati in CSV/Excel.",
-    "de": "sap.ui.core.util.Export: Export von Daten in CSV/Excel."
-  },
-  {
-    "it": "sap.m.TableExport: Esportazione specifica per tabelle.",
-    "de": "sap.m.TableExport: Tabellenspezifischer Export."
-  },
-  {
-    "it": "sap.ui.export.Spreadsheet: Esportazione moderna in Excel.",
-    "de": "sap.ui.export.Spreadsheet: Moderner Excel-Export."
-  },
-  {
-    "it": "Accessibility (ARIA): Supporto per accessibilità.",
-    "de": "Accessibility (ARIA): Unterstützung für Barrierefreiheit."
-  },
-  {
-    "it": "Keyboard Handling: Supporto completo per tastiera.",
-    "de": "Keyboard Handling: Vollständige Tastaturunterstützung."
-  },
-  {
-    "it": "sap.m.QuickView: Vista rapida per oggetti.",
-    "de": "sap.m.QuickView: Schnellansicht für Objekte."
-  },
-  {
-    "it": "sap.m.QuickViewCard: Card per QuickView.",
-    "de": "sap.m.QuickViewCard: Karte für QuickView."
-  },
-  {
-    "it": "sap.m.QuickViewGroup: Gruppo di elementi in QuickView.",
-    "de": "sap.m.QuickViewGroup: Gruppe von Elementen in QuickView."
-  },
-  {
-    "it": "sap.m.QuickViewGroupElement: Elemento in un gruppo QuickView.",
-    "de": "sap.m.QuickViewGroupElement: Element in einer QuickView-Gruppe."
-  },
-  {
-    "it": "sap.m.illustratedmessage.IllustratedMessage: Messaggio con illustrazione.",
-    "de": "sap.m.illustratedmessage.IllustratedMessage: Nachricht mit Illustration."
-  },
-  {
-    "it": "sap.m.IllustrationPool: Pool di illustrazioni.",
-    "de": "sap.m.IllustrationPool: Illustrations-Pool."
-  },
-  {
-    "it": "sap.ui.core.InvisibleText: Testo invisibile per screen reader.",
-    "de": "sap.ui.core.InvisibleText: Unsichtbarer Text für Screenreader."
-  },
-  {
-    "it": "sap.ui.core.LabelEnablement: Miglioramento etichette.",
-    "de": "sap.ui.core.LabelEnablement: Label-Verbesserung."
-  },
-  {
-    "it": "sap.m.DateTimePicker: Selettore data e ora combinato.",
-    "de": "sap.m.DateTimePicker: Kombinierter Datum-/Uhrzeit-Selektor."
-  },
-  {
-    "it": "sap.m.MaskInput: Input con maschera di formattazione.",
-    "de": "sap.m.MaskInput: Eingabe mit Formatierungsmaske."
-  },
-  {
-    "it": "sap.m.ProgressIndicator: Indicatore di avanzamento.",
-    "de": "sap.m.ProgressIndicator: Fortschrittsanzeige."
-  },
-  {
-    "it": "sap.m.BusyDialog: Dialogo di caricamento modale.",
-    "de": "sap.m.BusyDialog: Modaler Ladedialog."
-  },
-  {
-    "it": "sap.m.GrowingList: Lista con caricamento incrementale.",
-    "de": "sap.m.GrowingList: Liste mit inkrementellem Laden."
-  },
-  {
-    "it": "sap.m.PullToRefresh: Refresh con pull-to-refresh.",
-    "de": "sap.m.PullToRefresh: Aktualisieren durch Ziehen."
-  },
-  {
-    "it": "sap.m.Swipe: Supporto per swipe gesture.",
-    "de": "sap.m.Swipe: Unterstützung für Wisch-Gesten."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.Context: Contesto OData V4.",
-    "de": "sap.ui.model.odata.v4.Context: OData-V4-Kontext."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.ODataListBinding: Binding liste OData V4.",
-    "de": "sap.ui.model.odata.v4.ODataListBinding: Listen-Binding für OData V4."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.ODataContextBinding: Binding contesto OData V4.",
-    "de": "sap.ui.model.odata.v4.ODataContextBinding: Kontext-Binding für OData V4."
-  },
-  {
-    "it": "Request Side Effects: Aggiornamento parziale in OData V4.",
-    "de": "Request Side Effects: Teilaktualisierung in OData V4."
-  },
-  {
-    "it": "sap.ui.core.mvc.ViewType: Tipi di vista disponibili.",
-    "de": "sap.ui.core.mvc.ViewType: Verfügbare View-Typen."
-  },
-  {
-    "it": "preload: Precaricamento di librerie UI5.",
-    "de": "preload: Vorausladen von UI5-Bibliotheken."
-  },
-  {
-    "it": "sap.ui.core.Library: Definizione di una libreria UI5.",
-    "de": "sap.ui.core.Library: Definition einer UI5-Bibliothek."
-  },
-  {
-    "it": "sap.ui.base.ManagedObject: Classe base per oggetti gestiti.",
-    "de": "sap.ui.base.ManagedObject: Basisklasse für verwaltete Objekte."
-  },
-  {
-    "it": "destroy: Distruzione di un controllo e pulizia memoria.",
-    "de": "destroy: Zerstörung eines Steuerelements und Speicherbereinigung."
-  },
-  {
-    "it": "addStyleClass / removeStyleClass: Gestione classi CSS.",
-    "de": "addStyleClass / removeStyleClass: Verwaltung von CSS-Klassen."
-  },
-  {
-    "it": "hasStyleClass: Verifica presenza di una classe CSS.",
-    "de": "hasStyleClass: Prüfung auf Vorhandensein einer CSS-Klasse."
-  },
-  {
-    "it": "toggleStyleClass: Alterna una classe CSS.",
-    "de": "toggleStyleClass: Umschalten einer CSS-Klasse."
-  },
-  {
-    "it": "sap.ui.core.Control.extend: Estensione di un controllo esistente.",
-    "de": "sap.ui.core.Control.extend: Erweiterung eines bestehenden Steuerelements."
-  },
-  {
-    "it": "sap.ui.base.Object.extend: Estensione di oggetti base.",
-    "de": "sap.ui.base.Object.extend: Erweiterung von Basisobjekten."
-  },
-  {
-    "it": "Event Pooling: Riutilizzo oggetti evento per performance.",
-    "de": "Event Pooling: Wiederverwendung von Event-Objekten für Performance."
-  },
-  {
-    "it": "sap.ui.core.Core: Istanza centrale di UI5.",
-    "de": "sap.ui.core.Core: Zentrale UI5-Instanz."
-  },
-  {
-    "it": "sap.ui.getCore(): Accesso al core.",
-    "de": "sap.ui.getCore(): Zugriff auf den Core."
-  },
-  {
-    "it": "registerPlugin: Registrazione di plugin.",
-    "de": "registerPlugin: Registrierung von Plugins."
-  },
-  {
-    "it": "sap.ui.core.support.Support: Strumenti di supporto e diagnostica.",
-    "de": "sap.ui.core.support.Support: Support- und Diagnose-Tools."
-  },
-  {
-    "it": "Technical Info: Finestra con informazioni tecniche.",
-    "de": "Technical Info: Fenster mit technischen Informationen."
-  },
-  {
-    "it": "Debug Mode: Modalità debug per UI5.",
-    "de": "Debug Mode: Debug-Modus für UI5."
-  },
-  {
-    "it": "Performance Measurement: Misurazione performance con sap.ui.performance.",
-    "de": "Performance Measurement: Leistungsmessung mit sap.ui.performance."
-  },
-  {
-    "it": "sap.ui.thirdparty: Inclusione di librerie di terze parti.",
-    "de": "sap.ui.thirdparty: Einbindung von Drittanbieter-Bibliotheken."
-  },
-  {
-    "it": "jQuery integration: Supporto legacy per jQuery.",
-    "de": "jQuery integration: Legacy-Unterstützung für jQuery."
-  },
-  {
-    "it": "sap.ui.dom: Utilità per manipolazione DOM.",
-    "de": "sap.ui.dom: Hilfsfunktionen für DOM-Manipulation."
-  },
-  {
-    "it": "sap.ui.base.Event: Classe base per eventi UI5.",
-    "de": "sap.ui.base.Event: Basisklasse für UI5-Events."
-  },
-  {
-    "it": "getSource: Ottenere l'origine di un evento.",
-    "de": "getSource: Abrufen der Event-Quelle."
-  },
-  {
-    "it": "getParameters: Parametri passati con l'evento.",
-    "de": "getParameters: Mit dem Event übergebene Parameter."
-  },
-  {
-    "it": "preventDefault: Prevenire il comportamento predefinito.",
-    "de": "preventDefault: Standardverhalten verhindern."
-  },
-  {
-    "it": "sap.m.OverflowToolbarButton: Pulsante nella OverflowToolbar.",
-    "de": "sap.m.OverflowToolbarButton: Schaltfläche in der OverflowToolbar."
-  },
-  {
-    "it": "sap.m.OverflowToolbarMenuButton: Menu nella OverflowToolbar.",
-    "de": "sap.m.OverflowToolbarMenuButton: Menü in der OverflowToolbar."
-  },
-  {
-    "it": "sap.m.OverflowToolbarLayoutData: Layout data per OverflowToolbar.",
-    "de": "sap.m.OverflowToolbarLayoutData: Layout-Daten für OverflowToolbar."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.SubmitMode: Modalità di submit per modifiche.",
-    "de": "sap.ui.model.odata.v4.SubmitMode: Submit-Modus für Änderungen."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.Context.setProperty: Modifica proprietà in OData V4.",
-    "de": "sap.ui.model.odata.v4.Context.setProperty: Eigenschaft in OData V4 ändern."
-  },
-  {
-    "it": "create: Creazione di una nuova entità in OData V4.",
-    "de": "create: Erstellung einer neuen Entität in OData V4."
-  },
-  {
-    "it": "delete: Eliminazione di un'entità.",
-    "de": "delete: Löschen einer Entität."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.ODataModel.submitBatch: Invio batch.",
-    "de": "sap.ui.model.odata.v4.ODataModel.submitBatch: Batch-Absenden."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.ODataModel.bindList: Binding lista OData V4.",
-    "de": "sap.ui.model.odata.v4.ODataModel.bindList: Listen-Binding für OData V4."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.ODataModel.bindContext: Binding contesto OData V4.",
-    "de": "sap.ui.model.odata.v4.ODataModel.bindContext: Kontext-Binding für OData V4."
-  },
-  {
-    "it": "sap.ui.model.odata.v4.ODataModel.bindProperty: Binding proprietà OData V4.",
-    "de": "sap.ui.model.odata.v4.ODataModel.bindProperty: Eigenschafts-Binding für OData V4."
-  },
-  {
-    "it": "sap.m.plugins.CopyProvider: Supporto per copia negli appunti.",
-    "de": "sap.m.plugins.CopyProvider: Unterstützung für Kopieren in die Zwischenablage."
-  },
-  {
-    "it": "sap.m.plugins.DataStateIndicator: Indicatore stato dati.",
-    "de": "sap.m.plugins.DataStateIndicator: Datenstatus-Indikator."
-  },
-  {
-    "it": "sap.ui.table.plugins: Plugin per tabelle avanzate.",
-    "de": "sap.ui.table.plugins: Plugins für erweiterte Tabellen."
-  },
-  {
-    "it": "sap.m.MultiInputTokenUpdate: Aggiornamento token in MultiInput.",
-    "de": "sap.m.MultiInputTokenUpdate: Token-Aktualisierung in MultiInput."
-  },
-  {
-    "it": "sap.m.Tokenizer: Controllo per visualizzare token.",
-    "de": "sap.m.Tokenizer: Steuerelement zur Anzeige von Tokens."
-  },
-  {
-    "it": "sap.m.ValueHelpDialog: Dialogo di aiuto per valori.",
-    "de": "sap.m.ValueHelpDialog: Wertehilfe-Dialog."
-  },
-  {
-    "it": "sap.ui.comp.valuehelpdialog.ValueHelpDialog: Versione avanzata ValueHelp.",
-    "de": "sap.ui.comp.valuehelpdialog.ValueHelpDialog: Erweiterte ValueHelp-Version."
-  },
-  {
-    "it": "sap.ui.comp.filterbar.FilterBar: Barra filtri avanzata.",
-    "de": "sap.ui.comp.filterbar.FilterBar: Erweiterte Filterleiste."
-  },
-  {
-    "it": "sap.ui.comp.variants.VariantManagement: Gestione varianti.",
-    "de": "sap.ui.comp.variants.VariantManagement: Variantenverwaltung."
-  },
-  {
-    "it": "sap.ui.core.mvc.HTMLView: Vista HTML (legacy).",
-    "de": "sap.ui.core.mvc.HTMLView: HTML-View (Legacy)."
-  },
-  {
-    "it": "sap.ui.define definisce un modulo AMD in SAPUI5.",
-    "de": "sap.ui.define definiert ein AMD-Modul in SAPUI5."
-  },
-  {
-    "it": "sap.ui.require carica moduli in modo asincrono.",
-    "de": "sap.ui.require lädt Module asynchron."
-  },
-  {
-    "it": "MVC separa il modello, la vista e il controller.",
-    "de": "MVC trennt Modell, View und Controller."
-  },
-  {
-    "it": "XMLView definisce l'interfaccia utente in formato XML.",
-    "de": "XMLView definiert die Benutzeroberfläche im XML-Format."
-  },
-  {
-    "it": "JSONModel memorizza i dati come oggetto JSON.",
-    "de": "JSONModel speichert Daten als JSON-Objekt."
-  },
-  {
-    "it": "ODataModel si connette a un servizio OData backend.",
-    "de": "ODataModel verbindet sich mit einem OData-Backend-Dienst."
-  },
-  {
-    "it": "Router gestisce la navigazione tra le viste.",
-    "de": "Router verwaltet die Navigation zwischen Views."
-  },
-  {
-    "it": "manifest.json è il descrittore dell'applicazione SAPUI5.",
-    "de": "manifest.json ist der Anwendungsdeskriptor von SAPUI5."
-  },
-  {
-    "it": "Component.js è il punto di ingresso dell'applicazione.",
-    "de": "Component.js ist der Einstiegspunkt der Anwendung."
-  },
-  {
-    "it": "sap.m.Button crea un pulsante interattivo.",
-    "de": "sap.m.Button erstellt eine interaktive Schaltfläche."
-  },
-  {
-    "it": "sap.m.Input crea un campo di testo per l'utente.",
-    "de": "sap.m.Input erstellt ein Texteingabefeld für den Benutzer."
-  },
-  {
-    "it": "sap.m.Label visualizza un'etichetta di testo.",
-    "de": "sap.m.Label zeigt eine Textbeschriftung an."
-  },
-  {
-    "it": "sap.m.Text visualizza testo non modificabile.",
-    "de": "sap.m.Text zeigt nicht bearbeitbaren Text an."
-  },
-  {
-    "it": "sap.m.List visualizza un elenco di elementi.",
-    "de": "sap.m.List zeigt eine Liste von Elementen an."
-  },
-  {
-    "it": "sap.m.ListItem rappresenta un elemento di una lista.",
-    "de": "sap.m.ListItem stellt ein Listenelement dar."
-  },
-  {
-    "it": "sap.m.Table visualizza dati in formato tabellare.",
-    "de": "sap.m.Table zeigt Daten in tabellarischer Form an."
-  },
-  {
-    "it": "sap.m.Column definisce una colonna in una tabella.",
-    "de": "sap.m.Column definiert eine Spalte in einer Tabelle."
-  },
-  {
-    "it": "sap.m.ColumnListItem rappresenta una riga in una tabella.",
-    "de": "sap.m.ColumnListItem stellt eine Zeile in einer Tabelle dar."
-  },
-  {
-    "it": "sap.m.Page crea una pagina con intestazione e contenuto.",
-    "de": "sap.m.Page erstellt eine Seite mit Header und Inhalt."
-  },
-  {
-    "it": "sap.m.App è il contenitore principale di un'app mobile.",
-    "de": "sap.m.App ist der Hauptcontainer einer mobilen App."
-  },
-  {
-    "it": "sap.m.Shell avvolge l'applicazione con un guscio visivo.",
-    "de": "sap.m.Shell umhüllt die Anwendung mit einer visuellen Hülle."
-  },
-  {
-    "it": "sap.m.Dialog mostra una finestra di dialogo modale.",
-    "de": "sap.m.Dialog zeigt ein modales Dialogfenster an."
-  },
-  {
-    "it": "sap.m.Popover mostra un pannello contestuale.",
-    "de": "sap.m.Popover zeigt ein kontextuelles Panel an."
-  },
-  {
-    "it": "sap.m.Select crea un menu a tendina di selezione.",
-    "de": "sap.m.Select erstellt ein Auswahlmenü."
-  },
-  {
-    "it": "sap.m.ComboBox combina input e selezione da lista.",
-    "de": "sap.m.ComboBox kombiniert Eingabe und Listenauswahl."
-  },
-  {
-    "it": "sap.m.DatePicker consente di selezionare una data.",
-    "de": "sap.m.DatePicker ermöglicht die Auswahl eines Datums."
-  },
-  {
-    "it": "sap.m.TimePicker consente di selezionare un orario.",
-    "de": "sap.m.TimePicker ermöglicht die Auswahl einer Uhrzeit."
-  },
-  {
-    "it": "sap.m.CheckBox permette la selezione di un'opzione.",
-    "de": "sap.m.CheckBox ermöglicht die Auswahl einer Option."
-  },
-  {
-    "it": "sap.m.RadioButton permette una selezione esclusiva.",
-    "de": "sap.m.RadioButton ermöglicht eine Einzelauswahl."
-  },
-  {
-    "it": "sap.m.Switch crea un interruttore on/off.",
-    "de": "sap.m.Switch erstellt einen Ein/Aus-Schalter."
-  },
-  {
-    "it": "sap.m.Slider consente di selezionare un valore numerico.",
-    "de": "sap.m.Slider ermöglicht die Auswahl eines numerischen Wertes."
-  },
-  {
-    "it": "sap.m.SearchField crea un campo di ricerca.",
-    "de": "sap.m.SearchField erstellt ein Suchfeld."
-  },
-  {
-    "it": "sap.m.Toolbar crea una barra degli strumenti.",
-    "de": "sap.m.Toolbar erstellt eine Werkzeugleiste."
-  },
-  {
-    "it": "sap.m.ToolbarSpacer aggiunge spazio flessibile nella toolbar.",
-    "de": "sap.m.ToolbarSpacer fügt flexiblen Abstand in der Toolbar ein."
-  },
-  {
-    "it": "sap.m.Title visualizza un titolo formattato.",
-    "de": "sap.m.Title zeigt einen formatierten Titel an."
-  },
-  {
-    "it": "sap.m.Image visualizza un'immagine.",
-    "de": "sap.m.Image zeigt ein Bild an."
-  },
-  {
-    "it": "sap.m.Icon visualizza un'icona dalla libreria SAP.",
-    "de": "sap.m.Icon zeigt ein Symbol aus der SAP-Bibliothek an."
-  },
-  {
-    "it": "sap.m.Link crea un collegamento ipertestuale.",
-    "de": "sap.m.Link erstellt einen Hyperlink."
-  },
-  {
-    "it": "sap.m.FormattedText visualizza testo con formattazione HTML.",
-    "de": "sap.m.FormattedText zeigt Text mit HTML-Formatierung an."
-  },
-  {
-    "it": "sap.m.MessageBox mostra messaggi informativi o di errore.",
-    "de": "sap.m.MessageBox zeigt Informations- oder Fehlermeldungen an."
-  },
-  {
-    "it": "sap.m.MessageToast mostra una notifica temporanea.",
-    "de": "sap.m.MessageToast zeigt eine temporäre Benachrichtigung an."
-  },
-  {
-    "it": "sap.m.BusyIndicator mostra un indicatore di caricamento.",
-    "de": "sap.m.BusyIndicator zeigt einen Ladeindikator an."
-  },
-  {
-    "it": "sap.m.ProgressIndicator mostra il progresso di un'operazione.",
-    "de": "sap.m.ProgressIndicator zeigt den Fortschritt einer Operation an."
-  },
-  {
-    "it": "sap.m.ObjectHeader mostra l'intestazione di un oggetto SAP.",
-    "de": "sap.m.ObjectHeader zeigt den Kopfbereich eines SAP-Objekts an."
-  },
-  {
-    "it": "sap.m.ObjectListItem rappresenta un oggetto in una lista.",
-    "de": "sap.m.ObjectListItem stellt ein Objekt in einer Liste dar."
-  },
-  {
-    "it": "sap.m.Panel raggruppa contenuti in un pannello collassabile.",
-    "de": "sap.m.Panel gruppiert Inhalte in einem aufklappbaren Panel."
-  },
-  {
-    "it": "sap.m.VBox dispone gli elementi verticalmente.",
-    "de": "sap.m.VBox ordnet Elemente vertikal an."
-  },
-  {
-    "it": "sap.m.HBox dispone gli elementi orizzontalmente.",
-    "de": "sap.m.HBox ordnet Elemente horizontal an."
-  },
-  {
-    "it": "sap.m.FlexBox crea un layout flessibile.",
-    "de": "sap.m.FlexBox erstellt ein flexibles Layout."
-  },
-  {
-    "it": "sap.m.ScrollContainer aggiunge lo scorrimento a un contenitore.",
-    "de": "sap.m.ScrollContainer fügt einem Container Scrollfunktion hinzu."
-  },
-  {
-    "it": "sap.m.SplitApp divide la vista in master e dettaglio.",
-    "de": "sap.m.SplitApp teilt die Ansicht in Master und Detail."
-  },
-  {
-    "it": "sap.m.NavContainer gestisce la navigazione tra pagine.",
-    "de": "sap.m.NavContainer verwaltet die Navigation zwischen Seiten."
-  },
-  {
-    "it": "sap.m.Carousel visualizza contenuti a scorrimento laterale.",
-    "de": "sap.m.Carousel zeigt Inhalte mit seitlichem Scrollen an."
-  },
-  {
-    "it": "sap.m.Wizard guida l'utente attraverso più passi.",
-    "de": "sap.m.Wizard führt den Benutzer durch mehrere Schritte."
-  },
-  {
-    "it": "sap.m.WizardStep rappresenta un passo nel wizard.",
-    "de": "sap.m.WizardStep stellt einen Schritt im Wizard dar."
-  },
-  {
-    "it": "sap.m.TabContainer gestisce una navigazione a schede.",
-    "de": "sap.m.TabContainer verwaltet eine Registerkartennavigation."
-  },
-  {
-    "it": "sap.m.IconTabBar crea una barra con schede con icone.",
-    "de": "sap.m.IconTabBar erstellt eine Registerleiste mit Symbolen."
-  },
-  {
-    "it": "sap.m.IconTabFilter definisce un filtro nella IconTabBar.",
-    "de": "sap.m.IconTabFilter definiert einen Filter in der IconTabBar."
-  },
-  {
-    "it": "sap.m.FeedInput permette l'inserimento di messaggi nel feed.",
-    "de": "sap.m.FeedInput ermöglicht die Eingabe von Feed-Nachrichten."
-  },
-  {
-    "it": "sap.m.FeedListItem visualizza un elemento del feed.",
-    "de": "sap.m.FeedListItem zeigt ein Feed-Element an."
-  },
-  {
-    "it": "sap.m.UploadCollection gestisce il caricamento di file.",
-    "de": "sap.m.UploadCollection verwaltet das Hochladen von Dateien."
-  },
-  {
-    "it": "sap.m.PullToRefresh aggiunge l'aggiornamento con trascinamento.",
-    "de": "sap.m.PullToRefresh fügt die Aktualisierung per Ziehen hinzu."
-  },
-  {
-    "it": "sap.ui.layout.form.Form crea un modulo con campi strutturati.",
-    "de": "sap.ui.layout.form.Form erstellt ein Formular mit strukturierten Feldern."
-  },
-  {
-    "it": "sap.ui.layout.form.FormContainer raggruppa elementi in un form.",
-    "de": "sap.ui.layout.form.FormContainer gruppiert Elemente in einem Formular."
-  },
-  {
-    "it": "sap.ui.layout.form.FormElement rappresenta una riga del form.",
-    "de": "sap.ui.layout.form.FormElement stellt eine Formularzeile dar."
-  },
-  {
-    "it": "sap.ui.layout.Grid crea un layout a griglia responsive.",
-    "de": "sap.ui.layout.Grid erstellt ein responsives Rasterlayout."
-  },
-  {
-    "it": "sap.ui.layout.GridData definisce le proprietà della griglia per un controllo.",
-    "de": "sap.ui.layout.GridData definiert die Rastereigenschaften für ein Steuerelement."
-  },
-  {
-    "it": "sap.ui.layout.VerticalLayout dispone i controlli verticalmente.",
-    "de": "sap.ui.layout.VerticalLayout ordnet Steuerelemente vertikal an."
-  },
-  {
-    "it": "sap.ui.layout.HorizontalLayout dispone i controlli orizzontalmente.",
-    "de": "sap.ui.layout.HorizontalLayout ordnet Steuerelemente horizontal an."
-  },
-  {
-    "it": "sap.ui.layout.Splitter divide lo schermo in pannelli ridimensionabili.",
-    "de": "sap.ui.layout.Splitter teilt den Bildschirm in veränderbare Bereiche."
-  },
-  {
-    "it": "sap.ui.layout.BlockLayout crea un layout a blocchi.",
-    "de": "sap.ui.layout.BlockLayout erstellt ein Blocklayout."
-  },
-  {
-    "it": "sap.uxap.ObjectPageLayout crea una pagina oggetto SAP Fiori.",
-    "de": "sap.uxap.ObjectPageLayout erstellt eine SAP Fiori-Objektseite."
-  },
-  {
-    "it": "sap.uxap.ObjectPageSection definisce una sezione della pagina oggetto.",
-    "de": "sap.uxap.ObjectPageSection definiert einen Abschnitt der Objektseite."
-  },
-  {
-    "it": "sap.uxap.ObjectPageSubSection definisce una sottosezione della pagina oggetto.",
-    "de": "sap.uxap.ObjectPageSubSection definiert einen Unterabschnitt der Objektseite."
-  },
-  {
-    "it": "sap.uxap.ObjectPageHeader mostra l'intestazione della pagina oggetto.",
-    "de": "sap.uxap.ObjectPageHeader zeigt den Kopfbereich der Objektseite an."
-  },
-  {
-    "it": "sap.f.FlexibleColumnLayout crea layout a colonne flessibili Fiori.",
-    "de": "sap.f.FlexibleColumnLayout erstellt flexible Spalten-Layouts für Fiori."
-  },
-  {
-    "it": "sap.f.DynamicPage crea una pagina con intestazione dinamica.",
-    "de": "sap.f.DynamicPage erstellt eine Seite mit dynamischem Header."
-  },
-  {
-    "it": "sap.f.DynamicPageTitle definisce il titolo della pagina dinamica.",
-    "de": "sap.f.DynamicPageTitle definiert den Titel der dynamischen Seite."
-  },
-  {
-    "it": "sap.f.DynamicPageHeader definisce l'intestazione della pagina dinamica.",
-    "de": "sap.f.DynamicPageHeader definiert den Header der dynamischen Seite."
-  },
-  {
-    "it": "sap.f.Card crea un componente card per dashboard SAP.",
-    "de": "sap.f.Card erstellt eine Karten-Komponente für SAP-Dashboards."
-  },
-  {
-    "it": "sap.tnt.ToolPage crea una pagina per applicazioni strumentali.",
-    "de": "sap.tnt.ToolPage erstellt eine Seite für Werkzeuganwendungen."
-  },
-  {
-    "it": "sap.tnt.SideNavigation crea una navigazione laterale.",
-    "de": "sap.tnt.SideNavigation erstellt eine seitliche Navigation."
-  },
-  {
-    "it": "Data Binding collega i dati del modello ai controlli dell'UI.",
-    "de": "Data Binding verknüpft Modelldaten mit UI-Steuerelementen."
-  },
-  {
-    "it": "Property Binding collega una proprietà del controllo al modello.",
-    "de": "Property Binding verknüpft eine Steuerelement-Eigenschaft mit dem Modell."
-  },
-  {
-    "it": "Aggregation Binding crea controlli dinamici da elenchi di dati.",
-    "de": "Aggregation Binding erstellt dynamische Steuerelemente aus Datenlisten."
-  },
-  {
-    "it": "Expression Binding esegue espressioni inline nel binding.",
-    "de": "Expression Binding führt Inline-Ausdrücke im Binding aus."
-  },
-  {
-    "it": "Two-Way Binding sincronizza modello e vista in entrambe le direzioni.",
-    "de": "Two-Way Binding synchronisiert Modell und View in beide Richtungen."
-  },
-  {
-    "it": "One-Way Binding aggiorna la vista quando il modello cambia.",
-    "de": "One-Way Binding aktualisiert die View wenn sich das Modell ändert."
-  },
-  {
-    "it": "Formatter trasforma i dati del modello prima della visualizzazione.",
-    "de": "Formatter transformiert Modelldaten vor der Anzeige."
-  },
-  {
-    "it": "sap.ui.model.Filter filtra i dati in un'aggregazione.",
-    "de": "sap.ui.model.Filter filtert Daten in einer Aggregation."
-  },
-  {
-    "it": "sap.ui.model.Sorter ordina i dati in un'aggregazione.",
-    "de": "sap.ui.model.Sorter sortiert Daten in einer Aggregation."
-  },
-  {
-    "it": "FilterOperator definisce l'operatore di confronto nel filtro.",
-    "de": "FilterOperator definiert den Vergleichsoperator im Filter."
-  },
-  {
-    "it": "sap.ui.model.resource.ResourceModel gestisce le traduzioni i18n.",
-    "de": "sap.ui.model.resource.ResourceModel verwaltet i18n-Übersetzungen."
-  },
-  {
-    "it": "i18n.properties contiene le chiavi e i testi tradotti.",
-    "de": "i18n.properties enthält Schlüssel und übersetzte Texte."
-  },
-  {
-    "it": "getText recupera un testo tradotto dal ResourceModel.",
-    "de": "getText ruft einen übersetzten Text aus dem ResourceModel ab."
-  },
-  {
-    "it": "sap.ui.core.mvc.Controller è la classe base di ogni controller.",
-    "de": "sap.ui.core.mvc.Controller ist die Basisklasse jedes Controllers."
-  },
-  {
-    "it": "onInit viene chiamato all'inizializzazione del controller.",
-    "de": "onInit wird bei der Initialisierung des Controllers aufgerufen."
-  },
-  {
-    "it": "onExit viene chiamato alla distruzione del controller.",
-    "de": "onExit wird bei der Zerstörung des Controllers aufgerufen."
-  },
-  {
-    "it": "onBeforeRendering viene chiamato prima del rendering della vista.",
-    "de": "onBeforeRendering wird vor dem Rendern der View aufgerufen."
-  },
-  {
-    "it": "onAfterRendering viene chiamato dopo il rendering della vista.",
-    "de": "onAfterRendering wird nach dem Rendern der View aufgerufen."
-  },
-  {
-    "it": "getView restituisce la vista associata al controller.",
-    "de": "getView gibt die dem Controller zugeordnete View zurück."
-  },
-  {
-    "it": "byId trova un controllo tramite il suo ID nella vista.",
-    "de": "byId findet ein Steuerelement anhand seiner ID in der View."
-  },
-  {
-    "it": "getModel restituisce un modello registrato nella vista o nel componente.",
-    "de": "getModel gibt ein registriertes Modell in der View oder Komponente zurück."
-  },
-  {
-    "it": "setModel registra un modello nella vista o nel componente.",
-    "de": "setModel registriert ein Modell in der View oder Komponente."
-  },
-  {
-    "it": "getRouter restituisce il router dell'applicazione.",
-    "de": "getRouter gibt den Router der Anwendung zurück."
-  },
-  {
-    "it": "navTo naviga verso un percorso specificato nel router.",
-    "de": "navTo navigiert zu einem definierten Pfad im Router."
-  },
-  {
-    "it": "attachRouteMatched registra un gestore per la corrispondenza del percorso.",
-    "de": "attachRouteMatched registriert einen Handler für die Pfadübereinstimmung."
-  },
-  {
-    "it": "getParameters restituisce i parametri della navigazione corrente.",
-    "de": "getParameters gibt die Parameter der aktuellen Navigation zurück."
-  },
-  {
-    "it": "sap.ui.core.routing.History gestisce la cronologia di navigazione.",
-    "de": "sap.ui.core.routing.History verwaltet den Navigationsverlauf."
-  },
-  {
-    "it": "getPreviousHash restituisce l'hash della pagina precedente.",
-    "de": "getPreviousHash gibt den Hash der vorherigen Seite zurück."
-  },
-  {
-    "it": "sap.ui.core.UIComponent è la classe base dei componenti UI.",
-    "de": "sap.ui.core.UIComponent ist die Basisklasse der UI-Komponenten."
-  },
-  {
-    "it": "createContent crea il contenuto principale del componente.",
-    "de": "createContent erstellt den Hauptinhalt der Komponente."
-  },
-  {
-    "it": "sap.ui.core.ComponentContainer ospita un componente in una vista.",
-    "de": "sap.ui.core.ComponentContainer hostet eine Komponente in einer View."
-  },
-  {
-    "it": "sap.ui.core.Fragment definisce una parte riutilizzabile di UI.",
-    "de": "sap.ui.core.Fragment definiert einen wiederverwendbaren UI-Teil."
-  },
-  {
-    "it": "loadFragment carica un fragment in modo asincrono.",
-    "de": "loadFragment lädt ein Fragment asynchron."
-  },
-  {
-    "it": "XMLFragment definisce un fragment in formato XML.",
-    "de": "XMLFragment definiert ein Fragment im XML-Format."
-  },
-  {
-    "it": "CustomControl permette di creare controlli UI personalizzati.",
-    "de": "CustomControl ermöglicht das Erstellen benutzerdefinierter UI-Steuerelemente."
-  },
-  {
-    "it": "sap.ui.core.Control è la classe base di tutti i controlli.",
-    "de": "sap.ui.core.Control ist die Basisklasse aller Steuerelemente."
-  },
-  {
-    "it": "renderer definisce come viene disegnato un controllo personalizzato.",
-    "de": "renderer definiert wie ein benutzerdefiniertes Steuerelement gezeichnet wird."
-  },
-  {
-    "it": "metadata definisce proprietà, aggregazioni ed eventi del controllo.",
-    "de": "metadata definiert Eigenschaften, Aggregationen und Ereignisse des Steuerelements."
-  },
-  {
-    "it": "extend crea una classe che eredita da un'altra.",
-    "de": "extend erstellt eine Klasse die von einer anderen erbt."
-  },
-  {
-    "it": "sap.ui.base.ManagedObject è la classe base per oggetti gestiti.",
-    "de": "sap.ui.base.ManagedObject ist die Basisklasse für verwaltete Objekte."
-  },
-  {
-    "it": "attachEvent aggiunge un gestore a un evento del controllo.",
-    "de": "attachEvent fügt einem Steuerelement-Ereignis einen Handler hinzu."
-  },
-  {
-    "it": "detachEvent rimuove un gestore da un evento del controllo.",
-    "de": "detachEvent entfernt einen Handler von einem Steuerelement-Ereignis."
-  },
-  {
-    "it": "fireEvent attiva un evento personalizzato su un controllo.",
-    "de": "fireEvent löst ein benutzerdefiniertes Ereignis auf einem Steuerelement aus."
-  },
-  {
-    "it": "OData V2 è il protocollo usato da ODataModel v2 di SAPUI5.",
-    "de": "OData V2 ist das Protokoll das vom ODataModel v2 von SAPUI5 verwendet wird."
-  },
-  {
-    "it": "OData V4 è supportato dal modello sap.ui.model.odata.v4.",
-    "de": "OData V4 wird vom Modell sap.ui.model.odata.v4 unterstützt."
-  },
-  {
-    "it": "read esegue una richiesta GET a un servizio OData.",
-    "de": "read führt eine GET-Anfrage an einen OData-Dienst aus."
-  },
-  {
-    "it": "create esegue una richiesta POST per creare un'entità OData.",
-    "de": "create führt eine POST-Anfrage zum Erstellen einer OData-Entität aus."
-  },
-  {
-    "it": "update esegue una richiesta PUT/PATCH per aggiornare un'entità.",
-    "de": "update führt eine PUT/PATCH-Anfrage zum Aktualisieren einer Entität aus."
-  },
-  {
-    "it": "remove esegue una richiesta DELETE per eliminare un'entità.",
-    "de": "remove führt eine DELETE-Anfrage zum Löschen einer Entität aus."
-  },
-  {
-    "it": "submitChanges invia le modifiche in sospeso al backend.",
-    "de": "submitChanges sendet ausstehende Änderungen an das Backend."
-  },
-  {
-    "it": "resetChanges annulla le modifiche non ancora inviate.",
-    "de": "resetChanges verwirft noch nicht gesendete Änderungen."
-  },
-  {
-    "it": "refresh aggiorna i dati dal backend per un binding.",
-    "de": "refresh aktualisiert die Daten vom Backend für ein Binding."
-  },
-  {
-    "it": "bindElement associa un percorso OData a un controllo.",
-    "de": "bindElement verknüpft einen OData-Pfad mit einem Steuerelement."
-  },
-  {
-    "it": "expand include entità correlate nella risposta OData.",
-    "de": "expand schließt verwandte Entitäten in die OData-Antwort ein."
-  },
-  {
-    "it": "select specifica quali proprietà recuperare in OData.",
-    "de": "select legt fest welche Eigenschaften in OData abgerufen werden."
-  },
-  {
-    "it": "callFunction chiama una funzione di importazione OData.",
-    "de": "callFunction ruft eine OData-Funktionsimportierung auf."
-  },
-  {
-    "it": "sap.ui.core.BusyIndicator mostra un overlay di caricamento globale.",
-    "de": "sap.ui.core.BusyIndicator zeigt einen globalen Ladeoverlay an."
-  },
-  {
-    "it": "setBusy imposta lo stato di caricamento su un controllo.",
-    "de": "setBusy setzt den Ladezustand eines Steuerelements."
-  },
-  {
-    "it": "Theming permette di personalizzare l'aspetto visivo dell'app.",
-    "de": "Theming ermöglicht die Anpassung des visuellen Erscheinungsbilds der App."
-  },
-  {
-    "it": "SAP Fiori è il sistema di design per le app SAP moderne.",
-    "de": "SAP Fiori ist das Designsystem für moderne SAP-Anwendungen."
-  },
-  {
-    "it": "Fiori Launchpad è il portale di avvio delle app Fiori.",
-    "de": "Fiori Launchpad ist das Startportal für Fiori-Anwendungen."
-  },
-  {
-    "it": "SAP Business Application Studio è l'IDE cloud per SAPUI5.",
-    "de": "SAP Business Application Studio ist die Cloud-IDE für SAPUI5."
-  },
-  {
-    "it": "UI5 Tooling è lo strumento di build e sviluppo locale.",
-    "de": "UI5 Tooling ist das Build- und lokale Entwicklungswerkzeug."
-  },
-  {
-    "it": "ui5 serve avvia un server di sviluppo locale.",
-    "de": "ui5 serve startet einen lokalen Entwicklungsserver."
-  },
-  {
-    "it": "ui5 build crea un pacchetto ottimizzato per la produzione.",
-    "de": "ui5 build erstellt ein optimiertes Paket für die Produktion."
-  },
-  {
-    "it": "ui5.yaml è il file di configurazione di UI5 Tooling.",
-    "de": "ui5.yaml ist die Konfigurationsdatei von UI5 Tooling."
-  },
-  {
-    "it": "npm start avvia l'applicazione SAPUI5 in locale.",
-    "de": "npm start startet die SAPUI5-Anwendung lokal."
-  },
-  {
-    "it": "sap.ui.test.Opa5 è il framework per i test end-to-end.",
-    "de": "sap.ui.test.Opa5 ist das Framework für End-to-End-Tests."
-  },
-  {
-    "it": "QUnit è il framework per i test unitari in SAPUI5.",
-    "de": "QUnit ist das Framework für Unit-Tests in SAPUI5."
-  },
-  {
-    "it": "sap.ui.test.matchers contiene i matcher per OPA5.",
-    "de": "sap.ui.test.matchers enthält die Matcher für OPA5."
-  },
-  {
-    "it": "Given-When-Then è la struttura dei test OPA5.",
-    "de": "Given-When-Then ist die Struktur der OPA5-Tests."
-  },
-  {
-    "it": "Mock Server simula un servizio OData nei test.",
-    "de": "Mock Server simuliert einen OData-Dienst in Tests."
-  },
-  {
-    "it": "sap.ui.core.util.MockServer crea un server mock locale.",
-    "de": "sap.ui.core.util.MockServer erstellt einen lokalen Mock-Server."
-  },
-  {
-    "it": "metadata.xml descrive la struttura del servizio OData mock.",
-    "de": "metadata.xml beschreibt die Struktur des Mock-OData-Dienstes."
-  },
-  {
-    "it": "Internationalization supporta più lingue nell'applicazione.",
-    "de": "Internationalization unterstützt mehrere Sprachen in der Anwendung."
-  },
-  {
-    "it": "sap.ui.core.Locale gestisce le impostazioni locali dell'utente.",
-    "de": "sap.ui.core.Locale verwaltet die Regionaleinstellungen des Benutzers."
-  },
-  {
-    "it": "sap.ui.core.LocaleData fornisce dati di formattazione locale.",
-    "de": "sap.ui.core.LocaleData liefert lokale Formatierungsdaten."
-  },
-  {
-    "it": "sap.ui.core.format.DateFormat formatta date e orari.",
-    "de": "sap.ui.core.format.DateFormat formatiert Datums- und Zeitangaben."
-  },
-  {
-    "it": "sap.ui.core.format.NumberFormat formatta numeri e valute.",
-    "de": "sap.ui.core.format.NumberFormat formatiert Zahlen und Währungen."
-  },
-  {
-    "it": "Accessibility garantisce la conformità agli standard di accessibilità.",
-    "de": "Accessibility gewährleistet die Einhaltung von Barrierefreiheitsstandards."
-  },
-  {
-    "it": "ARIA Roles aggiungono semantica per lettori di schermo.",
-    "de": "ARIA Roles fügen Semantik für Bildschirmleser hinzu."
-  },
-  {
-    "it": "High Contrast Theme migliora la visibilità per utenti con difficoltà visive.",
-    "de": "High Contrast Theme verbessert die Sichtbarkeit für sehbehinderte Benutzer."
-  },
-  {
-    "it": "Responsive Design adatta l'app a schermi di dimensioni diverse.",
-    "de": "Responsive Design passt die App an verschiedene Bildschirmgrößen an."
-  },
-  {
-    "it": "Breakpoints definiscono i punti di interruzione del layout responsive.",
-    "de": "Breakpoints definieren die Umbruchpunkte des responsiven Layouts."
-  },
-  {
-    "it": "sap.m.library.ScreenSize definisce le dimensioni schermo standard.",
-    "de": "sap.m.library.ScreenSize definiert Standard-Bildschirmgrößen."
-  },
-  {
-    "it": "sap.ui.Device rileva le capacità e il tipo di dispositivo.",
-    "de": "sap.ui.Device erkennt Geräteeigenschaften und -typ."
-  },
-  {
-    "it": "sap.ui.Device.system.phone verifica se si usa uno smartphone.",
-    "de": "sap.ui.Device.system.phone prüft ob ein Smartphone verwendet wird."
-  },
-  {
-    "it": "sap.ui.Device.system.tablet verifica se si usa un tablet.",
-    "de": "sap.ui.Device.system.tablet prüft ob ein Tablet verwendet wird."
-  },
-  {
-    "it": "sap.ui.Device.orientation rileva l'orientamento del dispositivo.",
-    "de": "sap.ui.Device.orientation erkennt die Ausrichtung des Geräts."
-  },
-  {
-    "it": "Component preload ottimizza il caricamento del componente.",
-    "de": "Component Preload optimiert das Laden der Komponente."
-  },
-  {
-    "it": "Lazy Loading carica i moduli solo quando necessario.",
-    "de": "Lazy Loading lädt Module nur wenn sie benötigt werden."
-  },
-  {
-    "it": "Minification riduce la dimensione dei file JavaScript.",
-    "de": "Minification reduziert die Größe von JavaScript-Dateien."
-  },
-  {
-    "it": "Cache Busting aggiorna le risorse invalidando la cache.",
-    "de": "Cache Busting aktualisiert Ressourcen durch Cache-Invalidierung."
-  },
-  {
-    "it": "sap.ui.core.EventBus consente la comunicazione tra componenti.",
-    "de": "sap.ui.core.EventBus ermöglicht die Kommunikation zwischen Komponenten."
-  },
-  {
-    "it": "publish invia un evento sull'EventBus.",
-    "de": "publish sendet ein Ereignis über den EventBus."
-  },
-  {
-    "it": "subscribe riceve un evento dall'EventBus.",
-    "de": "subscribe empfängt ein Ereignis vom EventBus."
-  },
-  {
-    "it": "unsubscribe cancella la ricezione di un evento dall'EventBus.",
-    "de": "unsubscribe beendet den Empfang eines Ereignisses vom EventBus."
-  },
-  {
-    "it": "Promise gestisce operazioni asincrone in JavaScript moderno.",
-    "de": "Promise verwaltet asynchrone Operationen in modernem JavaScript."
-  },
-  {
-    "it": "async/await semplifica la gestione delle Promise.",
-    "de": "async/await vereinfacht die Verwaltung von Promises."
-  },
-  {
-    "it": "jQuery.ajax esegue chiamate HTTP asincrone in SAPUI5 legacy.",
-    "de": "jQuery.ajax führt asynchrone HTTP-Aufrufe in Legacy-SAPUI5 aus."
-  },
-  {
-    "it": "fetch API esegue chiamate HTTP moderne in JavaScript.",
-    "de": "fetch API führt moderne HTTP-Aufrufe in JavaScript aus."
-  },
-  {
-    "it": "CSRF Token protegge le richieste POST/PUT/DELETE da attacchi.",
-    "de": "CSRF Token schützt POST/PUT/DELETE-Anfragen vor Angriffen."
-  },
-  {
-    "it": "sap.ui.core.message.MessageManager gestisce i messaggi dell'app.",
-    "de": "sap.ui.core.message.MessageManager verwaltet Anwendungsmeldungen."
-  },
-  {
-    "it": "sap.m.MessageStrip visualizza messaggi informativi inline.",
-    "de": "sap.m.MessageStrip zeigt Informationsmeldungen inline an."
-  },
-  {
-    "it": "sap.m.MessageView mostra un elenco dettagliato di messaggi.",
-    "de": "sap.m.MessageView zeigt eine detaillierte Liste von Meldungen an."
-  },
-  {
-    "it": "sap.m.MessagePopover mostra messaggi in un popover.",
-    "de": "sap.m.MessagePopover zeigt Meldungen in einem Popover an."
-  },
-  {
-    "it": "ValueState indica lo stato di validazione di un campo input.",
-    "de": "ValueState zeigt den Validierungsstatus eines Eingabefeldes an."
-  },
-  {
-    "it": "ValueStateText fornisce un messaggio testuale per lo stato.",
-    "de": "ValueStateText liefert eine Textnachricht für den Status."
-  },
-  {
-    "it": "sap.ui.core.ValueState.Error indica un errore di validazione.",
-    "de": "sap.ui.core.ValueState.Error zeigt einen Validierungsfehler an."
-  },
-  {
-    "it": "sap.ui.core.ValueState.Warning indica un avviso.",
-    "de": "sap.ui.core.ValueState.Warning zeigt eine Warnung an."
-  },
-  {
-    "it": "sap.ui.core.ValueState.Success indica una validazione riuscita.",
-    "de": "sap.ui.core.ValueState.Success zeigt eine erfolgreiche Validierung an."
-  },
-  {
-    "it": "sap.m.OverflowToolbar gestisce elementi che non entrano nella toolbar.",
-    "de": "sap.m.OverflowToolbar verwaltet Elemente die nicht in die Toolbar passen."
-  },
-  {
-    "it": "sap.m.OverflowToolbarButton è un pulsante per la OverflowToolbar.",
-    "de": "sap.m.OverflowToolbarButton ist eine Schaltfläche für die OverflowToolbar."
-  },
-  {
-    "it": "sap.m.ActionSheet mostra azioni in una lista mobile.",
-    "de": "sap.m.ActionSheet zeigt Aktionen in einer mobilen Liste an."
-  },
-  {
-    "it": "sap.m.QuickView mostra dettagli rapidi di un oggetto.",
-    "de": "sap.m.QuickView zeigt schnelle Details eines Objekts an."
-  },
-  {
-    "it": "sap.m.NotificationListItem crea una voce di notifica.",
-    "de": "sap.m.NotificationListItem erstellt einen Benachrichtigungseintrag."
-  },
-  {
-    "it": "sap.m.NotificationListGroup raggruppa le notifiche.",
-    "de": "sap.m.NotificationListGroup gruppiert Benachrichtigungen."
-  },
-  {
-    "it": "sap.m.Tree visualizza dati gerarchici ad albero.",
-    "de": "sap.m.Tree zeigt hierarchische Daten als Baumstruktur an."
-  },
-  {
-    "it": "sap.ui.table.Table è la tabella analitica di SAPUI5.",
-    "de": "sap.ui.table.Table ist die analytische Tabelle von SAPUI5."
-  },
-  {
-    "it": "sap.ui.table.Column definisce una colonna della tabella analitica.",
-    "de": "sap.ui.table.Column definiert eine Spalte der analytischen Tabelle."
-  },
-  {
-    "it": "sap.ui.table.TreeTable visualizza dati gerarchici in una tabella.",
-    "de": "sap.ui.table.TreeTable zeigt hierarchische Daten in einer Tabelle an."
-  },
-  {
-    "it": "sap.ui.table.AnalyticalTable supporta aggregazioni e totalizzazioni.",
-    "de": "sap.ui.table.AnalyticalTable unterstützt Aggregationen und Summen."
-  },
-  {
-    "it": "sap.m.PlanningCalendar visualizza un calendario di pianificazione.",
-    "de": "sap.m.PlanningCalendar zeigt einen Planungskalender an."
-  },
-  {
-    "it": "sap.m.Calendar mostra un calendario interattivo.",
-    "de": "sap.m.Calendar zeigt einen interaktiven Kalender an."
-  },
-  {
-    "it": "sap.m.DateRangeSelection permette di selezionare un intervallo di date.",
-    "de": "sap.m.DateRangeSelection ermöglicht die Auswahl eines Datumsbereichs."
-  },
-  {
-    "it": "sap.m.MultiInput permette l'inserimento di più token.",
-    "de": "sap.m.MultiInput ermöglicht die Eingabe mehrerer Token."
-  },
-  {
-    "it": "sap.m.MultiComboBox permette la selezione di più valori.",
-    "de": "sap.m.MultiComboBox ermöglicht die Auswahl mehrerer Werte."
-  },
-  {
-    "it": "sap.m.Token rappresenta un valore selezionato in MultiInput.",
-    "de": "sap.m.Token stellt einen ausgewählten Wert in MultiInput dar."
-  },
-  {
-    "it": "sap.m.StepInput permette di incrementare/decrementare un numero.",
-    "de": "sap.m.StepInput ermöglicht das Erhöhen/Verringern einer Zahl."
-  },
-  {
-    "it": "sap.m.RatingIndicator mostra e acquisisce valutazioni a stelle.",
-    "de": "sap.m.RatingIndicator zeigt und erfasst Sternbewertungen."
-  },
-  {
-    "it": "sap.m.ColorPalette permette di selezionare un colore.",
-    "de": "sap.m.ColorPalette ermöglicht die Auswahl einer Farbe."
-  },
-  {
-    "it": "sap.m.Breadcrumbs mostra il percorso di navigazione corrente.",
-    "de": "sap.m.Breadcrumbs zeigt den aktuellen Navigationspfad an."
-  },
-  {
-    "it": "sap.m.Avatar visualizza un avatar utente o immagine profilo.",
-    "de": "sap.m.Avatar zeigt einen Benutzeravatar oder Profilbild an."
-  },
-  {
-    "it": "sap.m.Badge visualizza un contatore su un controllo.",
-    "de": "sap.m.Badge zeigt einen Zähler auf einem Steuerelement an."
-  },
-  {
-    "it": "sap.m.IllustratedMessage mostra un messaggio con illustrazione.",
-    "de": "sap.m.IllustratedMessage zeigt eine Nachricht mit Illustration an."
-  },
-  {
-    "it": "sap.m.Illustration mostra un'immagine illustrativa SAP.",
-    "de": "sap.m.Illustration zeigt ein illustratives SAP-Bild an."
-  },
-  {
-    "it": "sap.m.DynamicDateRange permette la selezione di intervalli dinamici.",
-    "de": "sap.m.DynamicDateRange ermöglicht die Auswahl dynamischer Intervalle."
-  },
-  {
-    "it": "sap.m.ResponsivePopover si adatta a mobile e desktop.",
-    "de": "sap.m.ResponsivePopover passt sich an Mobile und Desktop an."
-  },
-  {
-    "it": "sap.m.Table.growingThreshold carica le righe in modo incrementale.",
-    "de": "sap.m.Table.growingThreshold lädt Zeilen schrittweise."
-  },
-  {
-    "it": "Growing Table ottimizza le performance con liste lunghe.",
-    "de": "Growing Table optimiert die Performance bei langen Listen."
-  },
-  {
-    "it": "sap.ui.comp.smarttable.SmartTable genera tabelle da metadati OData.",
-    "de": "sap.ui.comp.smarttable.SmartTable generiert Tabellen aus OData-Metadaten."
-  },
-  {
-    "it": "sap.ui.comp.smartform.SmartForm genera form da metadati OData.",
-    "de": "sap.ui.comp.smartform.SmartForm generiert Formulare aus OData-Metadaten."
-  },
-  {
-    "it": "sap.ui.comp.smartfilterbar.SmartFilterBar crea filtri da metadati.",
-    "de": "sap.ui.comp.smartfilterbar.SmartFilterBar erstellt Filter aus Metadaten."
-  },
-  {
-    "it": "sap.ui.comp.valuehelpdialog.ValueHelpDialog mostra un dialogo di selezione valori.",
-    "de": "sap.ui.comp.valuehelpdialog.ValueHelpDialog zeigt einen Wertehilfe-Dialog an."
-  },
-  {
-    "it": "Annotations OData aggiungono metadati semantici al servizio.",
-    "de": "OData Annotations fügen semantische Metadaten zum Dienst hinzu."
-  },
-  {
-    "it": "SAP Annotations estendono le annotazioni OData per Fiori.",
-    "de": "SAP Annotations erweitern OData-Annotationen für Fiori."
-  },
-  {
-    "it": "UI.LineItem definisce le colonne di una lista tramite annotazioni.",
-    "de": "UI.LineItem definiert Listenspalten über Annotationen."
-  },
-  {
-    "it": "UI.SelectionFields definisce i filtri tramite annotazioni.",
-    "de": "UI.SelectionFields definiert Filter über Annotationen."
-  },
-  {
-    "it": "UI.Facets definisce le sezioni della pagina oggetto tramite annotazioni.",
-    "de": "UI.Facets definiert Abschnitte der Objektseite über Annotationen."
-  },
-  {
-    "it": "sap.fe è il framework Fiori Elements di nuova generazione.",
-    "de": "sap.fe ist das Fiori Elements Framework der neuen Generation."
-  },
-  {
-    "it": "Fiori Elements genera UI automaticamente dalle annotazioni OData.",
-    "de": "Fiori Elements generiert UI automatisch aus OData-Annotationen."
-  },
-  {
-    "it": "List Report è un pattern Fiori per la ricerca e visualizzazione.",
-    "de": "List Report ist ein Fiori-Muster für Suche und Anzeige."
-  },
-  {
-    "it": "Object Page è un pattern Fiori per i dettagli di un oggetto.",
-    "de": "Object Page ist ein Fiori-Muster für Objektdetails."
-  },
-  {
-    "it": "Worklist è un pattern Fiori per la gestione di liste di lavoro.",
-    "de": "Worklist ist ein Fiori-Muster für die Verwaltung von Arbeitslisten."
-  },
-  {
-    "it": "Overview Page è un pattern Fiori per dashboard con card.",
-    "de": "Overview Page ist ein Fiori-Muster für Dashboards mit Karten."
-  },
-  {
-    "it": "Analytical List Page è un pattern Fiori per analisi dati.",
-    "de": "Analytical List Page ist ein Fiori-Muster für Datenanalysen."
-  },
-  {
-    "it": "CAP è il Cloud Application Programming Model di SAP.",
-    "de": "CAP ist das Cloud Application Programming Model von SAP."
-  },
-  {
-    "it": "CDS Views definiscono entità e servizi in CAP e ABAP.",
-    "de": "CDS Views definieren Entitäten und Dienste in CAP und ABAP."
-  },
-  {
-    "it": "SAP BTP è la Business Technology Platform di SAP.",
-    "de": "SAP BTP ist die Business Technology Platform von SAP."
-  },
-  {
-    "it": "Cloud Foundry è un ambiente runtime su SAP BTP.",
-    "de": "Cloud Foundry ist eine Laufzeitumgebung auf SAP BTP."
-  },
-  {
-    "it": "Destination Service configura connessioni a sistemi esterni su BTP.",
-    "de": "Destination Service konfiguriert Verbindungen zu externen Systemen auf BTP."
-  },
-  {
-    "it": "xs-app.json configura il routing dell'Approuter SAP.",
-    "de": "xs-app.json konfiguriert das Routing des SAP Approuters."
-  },
-  {
-    "it": "Approuter gestisce l'autenticazione e il routing delle app BTP.",
-    "de": "Approuter verwaltet Authentifizierung und Routing von BTP-Apps."
-  },
-  {
-    "it": "XSUAA gestisce l'autenticazione OAuth2 su SAP BTP.",
-    "de": "XSUAA verwaltet OAuth2-Authentifizierung auf SAP BTP."
-  },
-  {
-    "it": "mta.yaml descrive la struttura di un'applicazione multi-target.",
-    "de": "mta.yaml beschreibt die Struktur einer Multi-Target-Anwendung."
-  },
-  {
-    "it": "MTA è il formato Multi-Target Application di SAP.",
-    "de": "MTA ist das Multi-Target Application Format von SAP."
-  },
-  {
-    "it": "cf deploy distribuisce un MTA su Cloud Foundry.",
-    "de": "cf deploy stellt ein MTA auf Cloud Foundry bereit."
-  },
-  {
-    "it": "Fiori App Library contiene il catalogo delle app Fiori SAP.",
-    "de": "Fiori App Library enthält den Katalog der SAP Fiori-Apps."
-  },
-  {
-    "it": "sap.m.semantic.SemanticPage aggiunge pulsanti semantici standard.",
-    "de": "sap.m.semantic.SemanticPage fügt standardmäßige semantische Schaltflächen hinzu."
-  },
-  {
-    "it": "AddAction è un'azione semantica per aggiungere elementi.",
-    "de": "AddAction ist eine semantische Aktion zum Hinzufügen von Elementen."
-  },
-  {
-    "it": "SaveAction è un'azione semantica per salvare dati.",
-    "de": "SaveAction ist eine semantische Aktion zum Speichern von Daten."
-  },
-  {
-    "it": "EditAction è un'azione semantica per modificare dati.",
-    "de": "EditAction ist eine semantische Aktion zum Bearbeiten von Daten."
-  },
-  {
-    "it": "DeleteAction è un'azione semantica per eliminare dati.",
-    "de": "DeleteAction ist eine semantische Aktion zum Löschen von Daten."
-  },
-  {
-    "it": "CancelAction è un'azione semantica per annullare modifiche.",
-    "de": "CancelAction ist eine semantische Aktion zum Verwerfen von Änderungen."
-  },
-  {
-    "it": "sap.ui.core.Configuration gestisce la configurazione globale del framework.",
-    "de": "sap.ui.core.Configuration verwaltet die globale Framework-Konfiguration."
-  },
-  {
-    "it": "sap-ui-debug abilita il debug dettagliato di SAPUI5.",
-    "de": "sap-ui-debug aktiviert das detaillierte Debugging von SAPUI5."
-  },
-  {
-    "it": "sap-ui-theme imposta il tema visivo dell'applicazione.",
-    "de": "sap-ui-theme legt das visuelle Design der Anwendung fest."
-  },
-  {
-    "it": "sap-ui-language imposta la lingua dell'interfaccia.",
-    "de": "sap-ui-language legt die Sprache der Benutzeroberfläche fest."
-  },
-  {
-    "it": "sap-ui-xx-componentPreload controlla il precaricamento del componente.",
-    "de": "sap-ui-xx-componentPreload steuert das Vorladen der Komponente."
-  },
-  {
-    "it": "Support Assistant analizza le violazioni delle regole UI5.",
-    "de": "Support Assistant analysiert Verstöße gegen UI5-Regeln."
-  },
-  {
-    "it": "UI5 Inspector è un'estensione browser per il debug di SAPUI5.",
-    "de": "UI5 Inspector ist eine Browser-Erweiterung zum Debuggen von SAPUI5."
-  },
-  {
-    "it": "Control Tree mostra la gerarchia dei controlli renderizzati.",
-    "de": "Control Tree zeigt die Hierarchie der gerenderten Steuerelemente an."
-  },
-  {
-    "it": "Diagnostics Tool è lo strumento diagnostico integrato di SAPUI5.",
-    "de": "Diagnostics Tool ist das integrierte Diagnosewerkzeug von SAPUI5."
-  },
-  {
-    "it": "Technical Information Dialog mostra info di versione e configurazione.",
-    "de": "Technical Information Dialog zeigt Versions- und Konfigurationsinformationen an."
-  },
-  {
-    "it": "sap.ui.core.syncStyleClass sincronizza le classi CSS tra dialog e app.",
-    "de": "sap.ui.core.syncStyleClass synchronisiert CSS-Klassen zwischen Dialog und App."
-  },
-  {
-    "it": "addStyleClass aggiunge una classe CSS a un controllo.",
-    "de": "addStyleClass fügt einem Steuerelement eine CSS-Klasse hinzu."
-  },
-  {
-    "it": "removeStyleClass rimuove una classe CSS da un controllo.",
-    "de": "removeStyleClass entfernt eine CSS-Klasse von einem Steuerelement."
-  },
-  {
-    "it": "hasStyleClass verifica se un controllo ha una classe CSS.",
-    "de": "hasStyleClass prüft ob ein Steuerelement eine CSS-Klasse hat."
-  },
-  {
-    "it": "getDomRef restituisce il nodo DOM del controllo.",
-    "de": "getDomRef gibt den DOM-Knoten des Steuerelements zurück."
-  },
-  {
-    "it": "invalidate forza il re-rendering di un controllo.",
-    "de": "invalidate erzwingt das erneute Rendern eines Steuerelements."
-  },
-  {
-    "it": "rerender ridisegna il controllo aggiornando il DOM.",
-    "de": "rerender zeichnet das Steuerelement neu und aktualisiert den DOM."
-  },
-  {
-    "it": "sap.ui.core.RenderManager gestisce il processo di rendering.",
-    "de": "sap.ui.core.RenderManager verwaltet den Rendering-Prozess."
-  },
-  {
-    "it": "openBy apre un Popover ancorato a un controllo specifico.",
-    "de": "openBy öffnet ein Popover verankert an einem bestimmten Steuerelement."
-  },
-  {
-    "it": "close chiude un Dialog o Popover aperto.",
-    "de": "close schließt einen geöffneten Dialog oder Popover."
-  },
-  {
-    "it": "afterClose gestisce la logica dopo la chiusura del dialog.",
-    "de": "afterClose verarbeitet Logik nach dem Schließen des Dialogs."
-  },
-  {
-    "it": "afterOpen gestisce la logica dopo l'apertura del dialog.",
-    "de": "afterOpen verarbeitet Logik nach dem Öffnen des Dialogs."
-  },
-  {
-    "it": "sap.ui.core.Popup gestisce finestre popup di basso livello.",
-    "de": "sap.ui.core.Popup verwaltet Popup-Fenster auf niedrigem Niveau."
-  },
-  {
-    "it": "sap.ui.model.json.JSONModel è il modello dati locale più usato.",
-    "de": "sap.ui.model.json.JSONModel ist das am häufigsten verwendete lokale Datenmodell."
-  },
-  {
-    "it": "setData imposta i dati su un JSONModel.",
-    "de": "setData setzt Daten auf einem JSONModel."
-  },
-  {
-    "it": "getData restituisce i dati correnti di un JSONModel.",
-    "de": "getData gibt die aktuellen Daten eines JSONModels zurück."
-  },
-  {
-    "it": "setProperty modifica una proprietà specifica nel modello.",
-    "de": "setProperty ändert eine bestimmte Eigenschaft im Modell."
-  },
-  {
-    "it": "getProperty legge una proprietà specifica dal modello.",
-    "de": "getProperty liest eine bestimmte Eigenschaft aus dem Modell."
-  },
-  {
-    "it": "updateBindings aggiorna tutti i binding del modello.",
-    "de": "updateBindings aktualisiert alle Bindings des Modells."
-  },
-  {
-    "it": "loadData carica dati da un URL in un JSONModel.",
-    "de": "loadData lädt Daten von einer URL in ein JSONModel."
-  },
-  {
-    "it": "sap.ui.model.xml.XMLModel gestisce dati in formato XML.",
-    "de": "sap.ui.model.xml.XMLModel verwaltet Daten im XML-Format."
-  },
-  {
-    "it": "ContextBinding associa un contesto di oggetto a un controllo.",
-    "de": "ContextBinding verknüpft einen Objektkontext mit einem Steuerelement."
-  },
-  {
-    "it": "ListBinding gestisce il binding di elenchi di dati.",
-    "de": "ListBinding verwaltet das Binding von Datenlisten."
-  },
-  {
-    "it": "getBindingContext restituisce il contesto di binding corrente.",
-    "de": "getBindingContext gibt den aktuellen Binding-Kontext zurück."
-  },
-  {
-    "it": "getObject restituisce l'oggetto dati nel contesto corrente.",
-    "de": "getObject gibt das Datenobjekt im aktuellen Kontext zurück."
-  },
-  {
-    "it": "getPath restituisce il percorso del contesto di binding.",
-    "de": "getPath gibt den Pfad des Binding-Kontexts zurück."
-  },
-  {
-    "it": "createBindingContext crea un nuovo contesto di binding.",
-    "de": "createBindingContext erstellt einen neuen Binding-Kontext."
-  },
-  {
-    "it": "sap.ui.core.routing.Route definisce un percorso di navigazione.",
-    "de": "sap.ui.core.routing.Route definiert einen Navigationspfad."
-  },
-  {
-    "it": "pattern definisce il formato URL di un percorso.",
-    "de": "pattern definiert das URL-Format eines Pfades."
-  },
-  {
-    "it": "target definisce la vista associata a un percorso.",
-    "de": "target definiert die einem Pfad zugeordnete View."
-  },
-  {
-    "it": "sap.ui.core.routing.Targets gestisce le destinazioni di navigazione.",
-    "de": "sap.ui.core.routing.Targets verwaltet Navigationsziele."
-  },
-  {
-    "it": "display mostra un target registrato nel router.",
-    "de": "display zeigt ein im Router registriertes Ziel an."
-  },
-  {
-    "it": "initialize avvia il router e gestisce l'URL iniziale.",
-    "de": "initialize startet den Router und verarbeitet die initiale URL."
-  },
-  {
-    "it": "stop ferma il router e disabilita la navigazione.",
-    "de": "stop hält den Router an und deaktiviert die Navigation."
-  },
-  {
-    "it": "getHashChanger accede al gestore dell'hash URL.",
-    "de": "getHashChanger greift auf den URL-Hash-Manager zu."
-  },
-  {
-    "it": "Component.getOwnerComponentFor trova il componente proprietario.",
-    "de": "Component.getOwnerComponentFor findet die besitzende Komponente."
-  },
-  {
-    "it": "sap.ui.core.theming.Parameters legge i parametri del tema.",
-    "de": "sap.ui.core.theming.Parameters liest Theme-Parameter."
-  },
-  {
-    "it": "attachThemeChanged gestisce il cambio di tema a runtime.",
-    "de": "attachThemeChanged verarbeitet den Theme-Wechsel zur Laufzeit."
-  },
-  {
-    "it": "sap.ui.core.IconPool gestisce le icone SAP disponibili.",
-    "de": "sap.ui.core.IconPool verwaltet die verfügbaren SAP-Icons."
-  },
-  {
-    "it": "addIcon registra un'icona personalizzata nel pool.",
-    "de": "addIcon registriert ein benutzerdefiniertes Symbol im Pool."
-  },
-  {
-    "it": "getIconInfo restituisce le informazioni su un'icona.",
-    "de": "getIconInfo gibt Informationen zu einem Symbol zurück."
-  },
-  {
-    "it": "sap.ui.VersionInfo contiene informazioni sulla versione di SAPUI5.",
-    "de": "sap.ui.VersionInfo enthält Versionsinformationen zu SAPUI5."
-  },
-  {
-    "it": "OpenUI5 è la versione open source di SAPUI5.",
-    "de": "OpenUI5 ist die Open-Source-Version von SAPUI5."
-  },
-  {
-    "it": "SAPUI5 SDK contiene la documentazione ufficiale e i demo.",
-    "de": "SAPUI5 SDK enthält die offizielle Dokumentation und Demos."
-  },
-  {
-    "it": "Explored App mostra esempi interattivi di tutti i controlli.",
-    "de": "Explored App zeigt interaktive Beispiele aller Steuerelemente."
-  },
-  {
-    "it": "SAP Fiori Design Guidelines definiscono le linee guida di UX.",
-    "de": "SAP Fiori Design Guidelines definieren die UX-Richtlinien."
-  },
-  {
-    "it": "UI5 Evolution modernizza SAPUI5 verso standard web moderni.",
-    "de": "UI5 Evolution modernisiert SAPUI5 in Richtung moderner Webstandards."
-  },
-  {
-    "it": "Web Components standard è la direzione futura di SAPUI5.",
-    "de": "Web Components Standard ist die zukünftige Richtung von SAPUI5."
-  },
-  {
-    "it": "@ui5/webcomponents offre controlli UI5 come Web Components.",
-    "de": "@ui5/webcomponents bietet UI5-Steuerelemente als Web Components an."
-  },
-  {
-    "it": "Fiori Next è la visione evolutiva del design SAP Fiori.",
-    "de": "Fiori Next ist die evolutionäre Vision des SAP Fiori-Designs."
-  },
-  {
-    "it": "SAP Horizon è il nuovo tema visivo di SAP.",
-    "de": "SAP Horizon ist das neue visuelle Design-Theme von SAP."
-  },
-  {
-    "it": "Morning Horizon è la variante chiara del tema SAP Horizon.",
-    "de": "Morning Horizon ist die helle Variante des SAP Horizon Themes."
-  },
-  {
-    "it": "Evening Horizon è la variante scura del tema SAP Horizon.",
-    "de": "Evening Horizon ist die dunkle Variante des SAP Horizon Themes."
-  },
-  {
-    "it": "sap.m.p13n.Engine gestisce la personalizzazione dell'interfaccia utente.",
-    "de": "sap.m.p13n.Engine verwaltet die Personalisierung der Benutzeroberfläche."
-  },
-  {
-    "it": "sap.m.plugins.DataStateIndicator mostra lo stato dei dati nella tabella.",
-    "de": "sap.m.plugins.DataStateIndicator zeigt den Datenstatus in der Tabelle an."
-  },
-  {
-    "it": "sap.m.plugins.CopyProvider copia i dati della tabella negli appunti.",
-    "de": "sap.m.plugins.CopyProvider kopiert Tabellendaten in die Zwischenablage."
-  },
-  {
-    "it": "sap.m.plugins.ColumnResizer permette il ridimensionamento delle colonne.",
-    "de": "sap.m.plugins.ColumnResizer ermöglicht die Größenänderung von Spalten."
-  },
-  {
-    "it": "sap.m.ViewSettingsDialog gestisce filtri, raggruppamenti e ordinamenti.",
-    "de": "sap.m.ViewSettingsDialog verwaltet Filter, Gruppierungen und Sortierungen."
-  },
-  {
-    "it": "sap.m.TableSelectDialog combina ricerca e selezione in una tabella.",
-    "de": "sap.m.TableSelectDialog kombiniert Suche und Auswahl in einer Tabelle."
-  },
-  {
-    "it": "sap.m.SelectDialog permette la selezione da un elenco filtrato.",
-    "de": "sap.m.SelectDialog ermöglicht die Auswahl aus einer gefilterten Liste."
-  },
-  {
-    "it": "sap.m.P13nDialog gestisce la personalizzazione dei controlli.",
-    "de": "sap.m.P13nDialog verwaltet die Personalisierung von Steuerelementen."
-  },
-  {
-    "it": "Variant Management permette di salvare e caricare varianti di filtri.",
-    "de": "Variant Management ermöglicht das Speichern und Laden von Filtervarianten."
-  },
-  {
-    "it": "sap.ui.fl.variants.VariantManagement gestisce le varianti dell'app.",
-    "de": "sap.ui.fl.variants.VariantManagement verwaltet App-Varianten."
-  },
-  {
-    "it": "SAPUI5 Flexibility permette la personalizzazione e adattamento dell'UI.",
-    "de": "SAPUI5 Flexibility ermöglicht die Anpassung und Personalisierung der UI."
-  },
-  {
-    "it": "Key User Adaptation permette modifiche UI senza codice.",
-    "de": "Key User Adaptation ermöglicht UI-Änderungen ohne Code."
-  },
-  {
-    "it": "sap.ui.rta è il Runtime Adaptation tool di SAPUI5.",
-    "de": "sap.ui.rta ist das Runtime Adaptation Tool von SAPUI5."
-  },
-  {
-    "it": "Controller Extension estende un controller esistente in Fiori Elements.",
-    "de": "Controller Extension erweitert einen bestehenden Controller in Fiori Elements."
-  },
-  {
-    "it": "View Extension aggiunge sezioni personalizzate in Fiori Elements.",
-    "de": "View Extension fügt benutzerdefinierte Abschnitte in Fiori Elements hinzu."
-  },
-  {
-    "it": "Custom Column aggiunge colonne personalizzate a una SmartTable.",
-    "de": "Custom Column fügt benutzerdefinierte Spalten zu einer SmartTable hinzu."
-  },
-  {
-    "it": "Custom Action aggiunge azioni personalizzate a una pagina Fiori.",
-    "de": "Custom Action fügt benutzerdefinierte Aktionen zu einer Fiori-Seite hinzu."
-  },
-  {
-    "it": "sap.ui.integration.widgets.Card è un widget card integrabile.",
-    "de": "sap.ui.integration.widgets.Card ist ein integrierbares Karten-Widget."
-  },
-  {
-    "it": "Card Manifest è il file JSON di configurazione di una UI5 Card.",
-    "de": "Card Manifest ist die JSON-Konfigurationsdatei einer UI5-Karte."
-  },
-  {
-    "it": "List Card visualizza un elenco di dati in formato card.",
-    "de": "List Card zeigt eine Datenliste im Karten-Format an."
-  },
-  {
-    "it": "Table Card visualizza dati tabulari in formato card.",
-    "de": "Table Card zeigt tabellarische Daten im Karten-Format an."
-  },
-  {
-    "it": "Analytical Card visualizza grafici analitici in una card.",
-    "de": "Analytical Card zeigt Analysediagramme in einer Karte an."
-  },
-  {
-    "it": "Object Card visualizza i dettagli di un oggetto in una card.",
-    "de": "Object Card zeigt Objektdetails in einer Karte an."
-  },
-  {
-    "it": "Timeline Card visualizza eventi su una linea del tempo in una card.",
-    "de": "Timeline Card zeigt Ereignisse auf einer Zeitleiste in einer Karte an."
-  },
-  {
-    "it": "Component Card ospita un componente SAPUI5 in una card.",
-    "de": "Component Card hostet eine SAPUI5-Komponente in einer Karte an."
-  },
-  {
-    "it": "sap.viz.ui5.controls.VizFrame crea grafici analitici in SAPUI5.",
-    "de": "sap.viz.ui5.controls.VizFrame erstellt Analysediagramme in SAPUI5."
-  },
-  {
-    "it": "sap.viz.ui5.data.FlattenedDataset prepara i dati per il grafico.",
-    "de": "sap.viz.ui5.data.FlattenedDataset bereitet Daten für das Diagramm vor."
-  },
-  {
-    "it": "Bar Chart è un tipo di grafico a barre in sap.viz.",
-    "de": "Bar Chart ist ein Balkendiagramm-Typ in sap.viz."
-  },
-  {
-    "it": "Line Chart è un tipo di grafico a linee in sap.viz.",
-    "de": "Line Chart ist ein Liniendiagramm-Typ in sap.viz."
-  },
-  {
-    "it": "Pie Chart è un tipo di grafico a torta in sap.viz.",
-    "de": "Pie Chart ist ein Kreisdiagramm-Typ in sap.viz."
-  },
-  {
-    "it": "Bullet Chart è un tipo di grafico bullet in sap.viz.",
-    "de": "Bullet Chart ist ein Bullet-Diagramm-Typ in sap.viz."
-  },
-  {
-    "it": "sap.m.GenericTile crea un riquadro per la Fiori Launchpad.",
-    "de": "sap.m.GenericTile erstellt eine Kachel für die Fiori Launchpad."
-  },
-  {
-    "it": "sap.m.TileContent definisce il contenuto di un GenericTile.",
-    "de": "sap.m.TileContent definiert den Inhalt eines GenericTile."
-  },
-  {
-    "it": "sap.m.NumericContent mostra un valore numerico in un tile.",
-    "de": "sap.m.NumericContent zeigt einen numerischen Wert in einer Kachel an."
-  },
-  {
-    "it": "sap.m.ImageContent mostra un'immagine in un tile.",
-    "de": "sap.m.ImageContent zeigt ein Bild in einer Kachel an."
-  },
-  {
-    "it": "sap.m.NewsContent mostra contenuti di tipo notizia in un tile.",
-    "de": "sap.m.NewsContent zeigt Nachrichteninhalte in einer Kachel an."
-  },
-  {
-    "it": "SAP Theme Designer permette di creare temi personalizzati.",
-    "de": "SAP Theme Designer ermöglicht die Erstellung benutzerdefinierter Themes."
-  },
-  {
-    "it": "CSS Custom Properties permettono la personalizzazione del tema.",
-    "de": "CSS Custom Properties ermöglichen die Anpassung des Themes."
-  },
-  {
-    "it": "Less è il preprocessore CSS usato nei temi SAPUI5 classici.",
-    "de": "Less ist der CSS-Präprozessor der in klassischen SAPUI5-Themes verwendet wird."
-  },
-  {
-    "it": "sap.ui.core.ThemeCheck verifica la disponibilità di un tema.",
-    "de": "sap.ui.core.ThemeCheck prüft die Verfügbarkeit eines Themes."
-  },
-  {
-    "it": "sap.m.library.BackgroundDesign imposta lo sfondo dei controlli.",
-    "de": "sap.m.library.BackgroundDesign legt den Hintergrund von Steuerelementen fest."
-  },
-  {
-    "it": "sap.m.library.ButtonType definisce il tipo visivo di un pulsante.",
-    "de": "sap.m.library.ButtonType definiert den visuellen Typ einer Schaltfläche."
-  },
-  {
-    "it": "ButtonType.Emphasized evidenzia il pulsante principale dell'azione.",
-    "de": "ButtonType.Emphasized hebt die Hauptaktionsschaltfläche hervor."
-  },
-  {
-    "it": "ButtonType.Accept indica un'azione di conferma positiva.",
-    "de": "ButtonType.Accept zeigt eine positive Bestätigungsaktion an."
-  },
-  {
-    "it": "ButtonType.Reject indica un'azione di rifiuto o annullamento.",
-    "de": "ButtonType.Reject zeigt eine Ablehungs- oder Abbruchaktion an."
-  },
-  {
-    "it": "ButtonType.Attention attira l'attenzione su un'azione critica.",
-    "de": "ButtonType.Attention lenkt die Aufmerksamkeit auf eine kritische Aktion."
-  },
-  {
-    "it": "sap.m.library.ListMode definisce la modalità di selezione della lista.",
-    "de": "sap.m.library.ListMode definiert den Auswahlmodus der Liste."
-  },
-  {
-    "it": "ListMode.SingleSelect permette la selezione di un solo elemento.",
-    "de": "ListMode.SingleSelect ermöglicht die Auswahl eines einzelnen Elements."
-  },
-  {
-    "it": "ListMode.MultiSelect permette la selezione di più elementi.",
-    "de": "ListMode.MultiSelect ermöglicht die Auswahl mehrerer Elemente."
-  },
-  {
-    "it": "ListMode.Delete mostra un pulsante di eliminazione per ogni elemento.",
-    "de": "ListMode.Delete zeigt eine Löschschaltfläche für jedes Element an."
-  },
-  {
-    "it": "swipe gestisce l'interazione di scorrimento touch su liste.",
-    "de": "swipe verarbeitet die Touch-Wischinteraktion auf Listen."
-  },
-  {
-    "it": "sap.m.SwipeContent aggiunge contenuto mostrato al trascinamento.",
-    "de": "sap.m.SwipeContent fügt beim Wischen angezeigten Inhalt hinzu."
-  },
-  {
-    "it": "sap.m.GroupHeaderListItem crea un'intestazione di gruppo in una lista.",
-    "de": "sap.m.GroupHeaderListItem erstellt eine Gruppenüberschrift in einer Liste."
-  },
-  {
-    "it": "Grouping raggruppa elementi di una lista per una proprietà.",
-    "de": "Grouping gruppiert Listenelemente nach einer Eigenschaft."
-  },
-  {
-    "it": "sap.ui.model.Sorter con groupFunction abilita il raggruppamento.",
-    "de": "sap.ui.model.Sorter mit groupFunction aktiviert die Gruppierung."
-  },
-  {
-    "it": "getAggregation restituisce i figli di un'aggregazione.",
-    "de": "getAggregation gibt die Kinder einer Aggregation zurück."
-  },
-  {
-    "it": "addAggregation aggiunge un controllo figlio a un'aggregazione.",
-    "de": "addAggregation fügt ein untergeordnetes Steuerelement zu einer Aggregation hinzu."
-  },
-  {
-    "it": "removeAggregation rimuove un controllo da un'aggregazione.",
-    "de": "removeAggregation entfernt ein Steuerelement aus einer Aggregation."
-  },
-  {
-    "it": "destroyAggregation distrugge tutti i figli di un'aggregazione.",
-    "de": "destroyAggregation zerstört alle Kinder einer Aggregation."
-  },
-  {
-    "it": "destroy elimina definitivamente un controllo SAPUI5.",
-    "de": "destroy löscht ein SAPUI5-Steuerelement dauerhaft."
-  },
-  {
-    "it": "placeAt inserisce un controllo in un elemento DOM della pagina.",
-    "de": "placeAt fügt ein Steuerelement in ein DOM-Element der Seite ein."
-  },
-  {
-    "it": "sap.ui.getCore restituisce il core singleton di SAPUI5.",
-    "de": "sap.ui.getCore gibt den SAPUI5 Core-Singleton zurück."
-  },
-  {
-    "it": "sap.ui.core.Core è il cuore del framework SAPUI5.",
-    "de": "sap.ui.core.Core ist das Herzstück des SAPUI5-Frameworks."
-  },
-  {
-    "it": "attachInit esegue codice quando il core è inizializzato.",
-    "de": "attachInit führt Code aus wenn der Core initialisiert ist."
-  },
-  {
-    "it": "sap.ui.require.toUrl converte un nome modulo in URL.",
-    "de": "sap.ui.require.toUrl konvertiert einen Modulnamen in eine URL."
-  },
-  {
-    "it": "Library è una raccolta di controlli SAPUI5 correlati.",
-    "de": "Library ist eine Sammlung verwandter SAPUI5-Steuerelemente."
-  },
-  {
-    "it": "sap.ui.core.library contiene i tipi e le enumerazioni core.",
-    "de": "sap.ui.core.library enthält Core-Typen und Enumerierungen."
-  },
-  {
-    "it": "TextAlign definisce l'allineamento del testo nei controlli.",
-    "de": "TextAlign definiert die Textausrichtung in Steuerelementen."
-  },
-  {
-    "it": "TextDirection definisce la direzione del testo LTR o RTL.",
-    "de": "TextDirection definiert die Textrichtung LTR oder RTL."
-  },
-  {
-    "it": "RTL Support garantisce il supporto per lingue da destra a sinistra.",
-    "de": "RTL Support gewährleistet Unterstützung für Rechts-nach-Links-Sprachen."
-  },
-  {
-    "it": "CSSSize è un tipo per specificare dimensioni CSS nei controlli.",
-    "de": "CSSSize ist ein Typ zur Angabe von CSS-Größen in Steuerelementen."
-  },
-  {
-    "it": "URI è un tipo per specificare URL nei controlli SAPUI5.",
-    "de": "URI ist ein Typ zur Angabe von URLs in SAPUI5-Steuerelementen."
-  },
-  {
-    "it": "ID è il tipo identificativo univoco di ogni controllo SAPUI5.",
-    "de": "ID ist der eindeutige Bezeichnertyp jedes SAPUI5-Steuerelements."
-  },
-  {
-    "it": "getUIArea restituisce l'area UI di un controllo.",
-    "de": "getUIArea gibt den UI-Bereich eines Steuerelements zurück."
-  },
-  {
-    "it": "sap.ui.core.UIArea gestisce il rendering nell'elemento DOM radice.",
-    "de": "sap.ui.core.UIArea verwaltet das Rendering im Root-DOM-Element."
-  },
-  {
-    "it": "getParent restituisce il controllo genitore nella gerarchia.",
-    "de": "getParent gibt das übergeordnete Steuerelement in der Hierarchie zurück."
-  },
-  {
-    "it": "findAggregatedObjects trova ricorsivamente i controlli discendenti.",
-    "de": "findAggregatedObjects findet rekursiv untergeordnete Steuerelemente."
-  },
-  {
-    "it": "isA verifica se un controllo è di un certo tipo.",
-    "de": "isA prüft ob ein Steuerelement von einem bestimmten Typ ist."
-  },
-  {
-    "it": "instanceof verifica il tipo di un oggetto JavaScript.",
-    "de": "instanceof prüft den Typ eines JavaScript-Objekts."
-  },
-  {
-    "it": "getMetadata restituisce i metadati della classe del controllo.",
-    "de": "getMetadata gibt die Metadaten der Steuerelementklasse zurück."
-  },
-  { "it": "Il video spiega perfettamente il declino del nostro calcio.", "de": "Das Video erklärt perfekt den Niedergang unseres Fußballs." },
-  { "it": "Non portiamo più i bambini a giocare per strada.", "de": "Wir bringen Kinder nicht mehr dazu, auf der Straße zu spielen." },
-  { "it": "Ventura è stato l'errore più grande della FIGC.", "de": "Ventura war der größte Fehler der FIGC." },
-  { "it": "Mancano i fuoriclasse come Baggio, Totti e Del Piero.", "de": "Es fehlen Weltklassespieler wie Baggio, Totti und Del Piero." },
-  { "it": "I club preferiscono stranieri mediocri ai giovani italiani.", "de": "Die Klubs bevorzugen mittelmäßige Ausländer gegenüber jungen Italienern." },
-  { "it": "L'Europeo 2021 è stato un miracolo isolato.", "de": "Die Europameisterschaft 2021 war ein isoliertes Wunder." },
-  { "it": "Dobbiamo rifondare tutto il sistema dai settori giovanili.", "de": "Wir müssen das gesamte System ab der Jugend neu aufbauen." },
-  { "it": "La sconfitta con la Macedonia è una ferita aperta.", "de": "Die Niederlage gegen Mazedonien ist eine offene Wunde." },
-  { "it": "I giovani oggi pensano solo ai social, non al campo.", "de": "Die Jugendlichen denken heute nur an Social Media, nicht ans Feld." },
-  { "it": "Il calcio italiano è diventato troppo tattico e noioso.", "de": "Der italienische Fußball ist zu taktisch und langweilig geworden." },
-  { "it": "Servono stadi moderni per attirare investimenti seri.", "de": "Wir brauchen moderne Stadien, um seriöse Investitionen anzuziehen." },
-  { "it": "La nazionale riflette la crisi della nostra Serie A.", "de": "Die Nationalmannschaft spiegelt die Krise unserer Serie A wider." },
-  { "it": "Non sappiamo più formare difensori come quelli di una volta.", "de": "Wir können keine Verteidiger wie früher mehr ausbilden." },
-  { "it": "Ci siamo illusi dopo la vittoria del 2006.", "de": "Nach dem Sieg 2006 haben wir uns getäuscht." },
-  { "it": "La politica nel calcio sta distruggendo la passione.", "de": "Die Politik im Fußball zerstört die Leidenschaft." },
-  { "it": "Mancino ha fatto quello che poteva con poco materiale.", "de": "Mancini hat mit wenig Material getan, was er konnte." },
-  { "it": "I procuratori hanno troppo potere sui giovani calciatori.", "de": "Spielervermittler haben zu viel Macht über junge Fußballer." },
-  { "it": "Siamo passati dal tetto del mondo all'oblio totale.", "de": "Wir sind vom Dach der Welt in totale Vergessenheit geraten." },
-  { "it": "Il sistema delle seconde squadre va implementato subito.", "de": "Das System der zweiten Mannschaften muss sofort umgesetzt werden." },
-  { "it": "Senza un centravanti vero non andremo mai lontano.", "de": "Ohne einen echten Mittelstürmer werden wir nie weit kommen." },
-  { "it": "La colpa è di chi governa il nostro calcio.", "de": "Schuld sind diejenigen, die unseren Fußball regieren." },
-  { "it": "Il talento puro non viene più premiato in Italia.", "de": "Pures Talent wird in Italien nicht mehr belohnt." },
-  { "it": "Analisi lucida e dolorosa di vent'anni di fallimenti.", "de": "Klare und schmerzhafte Analyse von zwanzig Jahren Misserfolg." },
-  { "it": "Preferiamo la fisicità alla tecnica nei settori giovanili.", "de": "Wir bevorzugen Physis gegenüber Technik in der Jugend." },
-  { "it": "Vedere il mondiale dal divano è un incubo.", "de": "Die WM vom Sofa aus zu sehen, ist ein Albtraum." },
-  { "it": "Bisogna smettere di vivere nei ricordi del passato.", "de": "Wir müssen aufhören, in Erinnerungen der Vergangenheit zu leben." },
-  { "it": "Spalletti deve avere il tempo di lavorare seriamente.", "de": "Spalletti muss Zeit haben, ernsthaft zu arbeiten." },
-  { "it": "La Serie A non è più il campionato più bello.", "de": "Die Serie A ist nicht mehr die schönste Liga." },
-  { "it": "Mancano i campetti di periferia dove si cresceva.", "de": "Es fehlen die Vorstadt-Bolzplätze, auf denen man aufwuchs." },
-  { "it": "Dobbiamo avere il coraggio di lanciare i ventenni.", "de": "Wir müssen den Mut haben, 20-Jährige einzusetzen." },
-  { "it": "Ogni volta che vedo questo video soffro ancora.", "de": "Jedes Mal, wenn ich dieses Video sehe, leide ich." },
-  { "it": "Il calcio italiano ha perso la sua identità storica.", "de": "Der italienische Fußball hat seine historische Identität verloren." },
-  { "it": "I ritmi del nostro campionato sono troppo lenti.", "de": "Das Tempo unserer Liga ist zu langsam." },
-  { "it": "Le squadre di club non aiutano mai la nazionale.", "de": "Die Vereinsmannschaften helfen der Nationalelf nie." },
-  { "it": "Serve meno tattica e più dribbling nei giovani.", "de": "Es braucht weniger Taktik und mehr Dribblings bei Jungen." },
-  { "it": "Il declino è iniziato subito dopo Berlino 2006.", "de": "Der Abstieg begann direkt nach Berlin 2006." },
-  { "it": "Troppi interessi economici e poca visione sportiva.", "de": "Zu viele wirtschaftliche Interessen und wenig sportliche Vision." },
-  { "it": "Buffon è stato l'ultimo vero leader in campo.", "de": "Buffon war der letzte wahre Anführer auf dem Feld." },
-  { "it": "Siamo diventati una nazionale di secondo piano purtroppo.", "de": "Wir sind leider eine zweitklassige Nationalmannschaft geworden." },
-  { "it": "I tifosi meritano molto di più di questo.", "de": "Die Fans verdienen viel mehr als das." },
-  { "it": "Il calcio moderno ci ha lasciato indietro tecnicamente.", "de": "Der moderne Fußball hat uns technisch abgehängt." },
-  { "it": "Speriamo di tornare grandi il prima possibile.", "de": "Hoffen wir, so schnell wie möglich wieder groß zu werden." },
-  { "it": "I vivai sono pieni di ragazzi che non giocano.", "de": "Die Jugendakademien sind voll mit Jungen, die nicht spielen." },
-  { "it": "Lippi ha sbagliato a portare i veterani nel 2010.", "de": "Lippi hat 2010 den Fehler gemacht, Veteranen mitzunehmen." },
-  { "it": "La maglia azzurra deve tornare a essere un onore.", "de": "Das blaue Trikot muss wieder eine Ehre sein." },
-  { "it": "Ventura ha distrutto una generazione di calciatori.", "de": "Ventura hat eine Generation von Fußballern zerstört." },
-  { "it": "Non ci sono più i difensori di una volta.", "de": "Es gibt keine Verteidiger von früher mehr." },
-  { "it": "Il calcio è cambiato e noi siamo rimasti fermi.", "de": "Der Fußball hat sich geändert und wir blieben stehen." },
-  { "it": "Serve umiltà per ricominciare da zero.", "de": "Es braucht Demut, um bei Null anzufangen." },
-  { "it": "Dobbiamo investire nelle infrastrutture e nei tecnici giovani.", "de": "Wir müssen in Infrastruktur und junge Trainer investieren." },
-  { "it": "La crisi è culturale prima ancora che tecnica.", "de": "Die Krise ist kulturell, noch bevor sie technisch ist." },
-  { "it": "I bambini devono tornare a sognare la nazionale.", "de": "Kinder müssen wieder von der Nationalmannschaft träumen." },
-  { "it": "Troppa pressione mediatica rovina i nostri talenti giovani.", "de": "Zu viel Mediendruck ruiniert unsere jungen Talente." },
-  { "it": "Bisogna guardare cosa fanno all'estero per imparare.", "de": "Man muss ins Ausland schauen, um zu lernen." },
-  { "it": "La meritocrazia non esiste più nel nostro calcio.", "de": "Leistungsprinzip existiert in unserem Fußball nicht mehr." },
-  { "it": "Senza gol non si vincono le partite decisive.", "de": "Ohne Tore gewinnt man keine entscheidenden Spiele." },
-  { "it": "Il 2006 sembra un'eternità fa ormai.", "de": "2006 fühlt sich mittlerweile wie eine Ewigkeit an." },
-  { "it": "I club pensano solo a fare plusvalenze fittizie.", "de": "Die Klubs denken nur an fiktive Kapitalgewinne." },
-  { "it": "La nazionale è lo specchio del paese Italia.", "de": "Die Nationalelf ist der Spiegel des Landes Italien." },
-  { "it": "Non abbiamo più pazienza con i giovani talenti.", "de": "Wir haben keine Geduld mehr mit jungen Talenten." },
-  { "it": "I costi dei biglietti allontanano i veri tifosi.", "de": "Die Ticketpreise vertreiben die wahren Fans." },
-  { "it": "Mancano i maestri di calcio nei settori giovanili.", "de": "Es fehlen Fußballlehrer in den Jugendabteilungen." },
-  { "it": "Il calcio italiano deve tornare a essere coraggioso.", "de": "Der italienische Fußball muss wieder mutig werden." },
-  { "it": "Siamo rimasti ai tempi del catenaccio purtroppo.", "de": "Wir sind leider in Zeiten des Catenaccio stehengeblieben." },
-  { "it": "La delusione macedone non si dimentica facilmente.", "de": "Die mazedonische Enttäuschung vergisst man nicht so leicht." },
-  { "it": "Dobbiamo ritrovare l'orgoglio di essere italiani.", "de": "Wir müssen den Stolz wiedergewinnen, Italiener zu sein." },
-  { "it": "Il video è un capolavoro di giornalismo sportivo.", "de": "Das Video ist ein Meisterwerk des Sportjournalismus." },
-  { "it": "Senza riforme serie spariremo dal grande calcio.", "de": "Ohne ernsthafte Reformen verschwinden wir aus dem Spitzenfußball." },
-  { "it": "I giovani scappano all'estero per poter giocare.", "de": "Junge Leute fliehen ins Ausland, um spielen zu können." },
-  { "it": "Il sistema dei prestiti blocca la crescita dei ragazzi.", "de": "Das Leihsystem blockiert das Wachstum der Jungen." },
-  { "it": "Dobbiamo tornare a insegnare la tecnica di base.", "de": "Wir müssen zurück zur Vermittlung der Basistechnik." },
-  { "it": "Il calcio è gioia, non solo schemi tattici.", "de": "Fußball ist Freude, nicht nur taktische Schemata." },
-  { "it": "Spero che questo video arrivi ai vertici FIGC.", "de": "Ich hoffe, dieses Video erreicht die FIGC-Spitze." },
-  { "it": "La passione non morirà mai nonostante i fallimenti.", "de": "Die Leidenschaft wird trotz der Misserfolge nie sterben." },
-  { "it": "Siamo stanchi di vedere questa nazionale soffrire.", "de": "Wir sind es leid, diese Nationalelf leiden zu sehen." },
-  { "it": "Il futuro è nelle mani dei nostri bambini.", "de": "Die Zukunft liegt in den Händen unserer Kinder." },
-  { "it": "Serve una rivoluzione totale, non piccoli cambiamenti.", "de": "Es braucht eine totale Revolution, keine kleinen Änderungen." },
-  { "it": "I veterani devono lasciare spazio alle nuove leve.", "de": "Die Veteranen müssen Platz für den Nachwuchs machen." },
-  { "it": "Il calcio italiano ha bisogno di aria nuova.", "de": "Der italienische Fußball braucht frischen Wind." },
-  { "it": "Grazie per questo video che apre gli occhi.", "de": "Danke für dieses Video, das die Augen öffnet." },
-  { "it": "Non possiamo più permetterci di sbagliare ancora.", "de": "Wir können uns keine weiteren Fehler mehr erlauben." },
-  { "it": "La rinascita parte dalla consapevolezza dei propri errori.", "de": "Der Wiederaufstieg beginnt mit dem Bewusstsein eigener Fehler." },
-  { "it": "Forza azzurri, non smetteremo mai di tifare.", "de": "Vorwärts Azzurri, wir werden nie aufhören anzufeuern." },
-  { "it": "Il cuore italiano batte ancora, nonostante tutto.", "de": "Das italienische Herz schlägt trotz allem noch." },
-  { "it": "Dobbiamo tornare a essere i padroni del campo.", "de": "Wir müssen wieder die Herren des Platzes werden." },
-  { "it": "La tecnica deve tornare al centro del progetto.", "de": "Die Technik muss wieder ins Zentrum des Projekts." },
-  { "it": "Senza visione non c'è futuro nello sport.", "de": "Ohne Vision gibt es keine Zukunft im Sport." },
-  { "it": "Il 2026 deve essere l'anno della svolta.", "de": "2026 muss das Jahr der Wende sein." },
-  { "it": "I tifosi sono la parte migliore di questo sport.", "de": "Die Fans sind der beste Teil dieses Sports." },
-  { "it": "Basta con gli alibi, servono solo i fatti.", "de": "Schluss mit Ausreden, es zählen nur Taten." },
-  { "it": "Il calcio italiano rinascerà, ne sono sicuro.", "de": "Der italienische Fußball wird wiedergeboren, sicher." },
-  { "it": "Ogni sconfitta ci insegna qualcosa di nuovo.", "de": "Jede Niederlage lehrt uns etwas Neues." },
-  { "it": "Dobbiamo proteggere il talento italiano a ogni costo.", "de": "Wir müssen das italienische Talent um jeden Preis schützen." },
-  { "it": "Il pallone non rotola più come una volta.", "de": "Der Ball rollt nicht mehr wie früher." },
-  { "it": "Siamo pronti per tornare ai vertici mondiali.", "de": "Wir sind bereit, an die Weltspitze zurückzukehren." },
-  { "it": "La strada istruiva meglio delle moderne scuole calcio.", "de": "Die Straße lehrte besser als moderne Fußballschulen." },
-  { "it": "Vogliamo vedere undici leoni in campo sempre.", "de": "Wir wollen immer elf Löwen auf dem Feld sehen." },
-  { "it": "Il talento senza fatica non serve a nulla.", "de": "Talent ohne Anstrengung nützt gar nichts." },
-  { "it": "La gloria del passato non deve essere un peso.", "de": "Vergangener Ruhm darf keine Last sein." },
-  { "it": "Crediamo ancora nel sogno di tornare campioni.", "de": "Wir glauben noch an den Traum, Champion zu werden." }
+    "it": "Crediamo ancora nel sogno di tornare campioni.",
+    "de": "Wir glauben noch an den Traum, Champion zu werden."
+  }
 ]
