@@ -12,7 +12,7 @@
         --secondary-color: violet;
         --button-bg: #1e1e1e;
         --danger-color: #cf6679;
-        
+
         /* Stufen-Farben */
         --color-off: #444;
         --color-1x: #4caf50;
@@ -20,9 +20,14 @@
         --color-3x: #bb86fc;
       }
 
-      * { box-sizing: border-box; }
-      body, html {
-        margin: 0; padding: 0; height: 100%;
+      * {
+        box-sizing: border-box;
+      }
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
         font-family: "Segoe UI", sans-serif;
         background-color: var(--bg-color);
         color: var(--text-color);
@@ -32,8 +37,12 @@
       /* Obere Steuerungs-Leiste */
       .top-controls {
         position: fixed;
-        top: 10px; left: 10px; right: 10px;
-        display: flex; gap: 8px; z-index: 10;
+        top: 10px;
+        left: 10px;
+        right: 10px;
+        display: flex;
+        gap: 8px;
+        z-index: 10;
         justify-content: flex-end;
       }
 
@@ -47,59 +56,102 @@
         font-size: 0.75rem;
         font-weight: bold;
         transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-        display: flex; align-items: center; gap: 5px;
+        display: flex;
+        align-items: center;
+        gap: 5px;
       }
 
       /* Dynamische Klassen für die Wiederholungen */
-      .state-off { border-color: var(--color-off); color: #555; opacity: 0.6; }
-      
-      .state-1x { 
-        border-color: var(--color-1x); 
-        color: var(--color-1x); 
-        background: rgba(76, 175, 80, 0.1); 
+      .state-off {
+        border-color: var(--color-off);
+        color: #555;
+        opacity: 0.6;
       }
-      
-      .state-2x { 
-        border-color: var(--color-2x); 
-        color: var(--color-2x); 
+
+      .state-1x {
+        border-color: var(--color-1x);
+        color: var(--color-1x);
+        background: rgba(76, 175, 80, 0.1);
+      }
+
+      .state-2x {
+        border-color: var(--color-2x);
+        color: var(--color-2x);
         background: rgba(255, 183, 77, 0.15);
         box-shadow: 0 0 10px rgba(255, 183, 77, 0.1);
       }
-      
-      .state-3x { 
-        border-color: var(--color-3x); 
-        color: var(--color-3x); 
+
+      .state-3x {
+        border-color: var(--color-3x);
+        color: var(--color-3x);
         background: rgba(187, 134, 252, 0.2);
         box-shadow: 0 0 15px rgba(187, 134, 252, 0.3);
         transform: scale(1.05);
       }
 
-      .reset-btn { border-color: var(--danger-color); color: var(--danger-color); opacity: 0.8; }
+      .reset-btn {
+        border-color: var(--danger-color);
+        color: var(--danger-color);
+        opacity: 0.8;
+      }
 
       /* Hauptbereich */
       #display-area {
-        height: 45vh; display: flex; flex-direction: column;
-        justify-content: center; align-items: center;
-        text-align: center; border-bottom: 2px solid #333;
+        height: 45vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border-bottom: 2px solid #333;
       }
-      #content-container { margin-top: 12vh; }
-      .tr-it { color: var(--secondary-color); font-size: 1.6rem; font-weight: 600; margin-bottom: 5px; }
-      .tr-de { font-size: 1.2rem; opacity: 0.7; margin-bottom: 20px; }
+      #content-container {
+        margin-top: 15vh;
+      }
+      .tr-it {
+        color: var(--secondary-color);
+        font-size: 1.15rem;
+        font-weight: 600;
+        margin-bottom: 5px;
+      }
+      .tr-de {
+        font-size: 1.15rem;
+        opacity: 0.7;
+        margin-bottom: 20px;
+      }
 
       .repeat-btn {
-        padding: 15px 30px; background: transparent;
-        border: 1px solid var(--accent-color); color: var(--accent-color);
-        border-radius: 20px; cursor: pointer; font-weight: bold;
+        padding: 15px 30px;
+        background: transparent;
+        border: 1px solid var(--accent-color);
+        color: var(--accent-color);
+        border-radius: 20px;
+        cursor: pointer;
+        font-weight: bold;
       }
 
-      #button-area { height: 55vh; width: 100%; }
-      .next-btn {
-        width: 100%; height: 100%; background: var(--button-bg);
-        color: var(--accent-color); border: none; font-size: 4rem;
-        cursor: pointer; display: flex; flex-direction: column;
-        justify-content: center; align-items: center;
+      #button-area {
+        height: 55vh;
+        width: 100%;
       }
-      .counter { font-size: 1rem; color: #555; margin-top: 10px; }
+      .next-btn {
+        width: 100%;
+        height: 100%;
+        background: var(--button-bg);
+        color: var(--accent-color);
+        border: none;
+        font-size: 4rem;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .counter {
+        font-size: 1rem;
+        color: #555;
+        margin-top: 10px;
+      }
     </style>
   </head>
   <body>
@@ -111,7 +163,14 @@
 
     <div id="display-area">
       <div id="content-container">Lade...</div>
-      <button id="repeat-btn-el" class="repeat-btn" onclick="speakCurrent()" style="display: none">Repeat ↻</button>
+      <button
+        id="repeat-btn-el"
+        class="repeat-btn"
+        onclick="speakCurrent()"
+        style="display: none"
+      >
+        Repeat ↻
+      </button>
     </div>
 
     <div id="button-area">
@@ -125,16 +184,20 @@
       let texts = [];
       let settings = {
         itRepeat: parseInt(localStorage.getItem("itRepeat") || "1"),
-        deRepeat: parseInt(localStorage.getItem("deRepeat") || "1")
+        deRepeat: parseInt(localStorage.getItem("deRepeat") || "1"),
       };
 
       async function loadTexts() {
         try {
-          const res = await fetch("https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json");
+          const res = await fetch(
+            "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json",
+          );
           texts = await res.json();
           updateButtonsUI();
           renderData();
-        } catch (e) { console.error(e); }
+        } catch (e) {
+          console.error(e);
+        }
       }
 
       function cycleIt() {
@@ -159,12 +222,17 @@
         const deBtn = document.getElementById("de-toggle");
 
         // UI für Italienisch
-        itBtn.innerHTML = `🇮🇹 IT: ${settings.itRepeat === 0 ? 'AUS' : settings.itRepeat + 'x'}`;
-        itBtn.className = "top-btn " + (settings.itRepeat === 0 ? "state-off" : "state-" + settings.itRepeat + "x");
+        itBtn.innerHTML = `🇮🇹 IT: ${settings.itRepeat === 0 ? "AUS" : settings.itRepeat + "x"}`;
+        itBtn.className =
+          "top-btn " +
+          (settings.itRepeat === 0
+            ? "state-off"
+            : "state-" + settings.itRepeat + "x");
 
         // UI für Deutsch
-        deBtn.innerHTML = `🇩🇪 DE: ${settings.deRepeat === 0 ? 'AUS' : '1x'}`;
-        deBtn.className = "top-btn " + (settings.deRepeat === 0 ? "state-off" : "state-1x");
+        deBtn.innerHTML = `🇩🇪 DE: ${settings.deRepeat === 0 ? "AUS" : "1x"}`;
+        deBtn.className =
+          "top-btn " + (settings.deRepeat === 0 ? "state-off" : "state-1x");
       }
 
       function speakCurrent() {
@@ -189,13 +257,15 @@
         }
       }
 
-      function getCurrentIndex() { return parseInt(localStorage.getItem("vokabel_index") || "0"); }
+      function getCurrentIndex() {
+        return parseInt(localStorage.getItem("vokabel_index") || "0");
+      }
 
       function renderData() {
         const idx = getCurrentIndex();
         const container = document.getElementById("content-container");
         const nextBtn = document.querySelector(".next-btn");
-        
+
         if (idx >= texts.length) {
           container.innerHTML = "Ende!";
           nextBtn.disabled = true;
@@ -204,7 +274,8 @@
 
         container.innerHTML = `<div class="tr-it">${texts[idx].it}</div><div class="tr-de">${texts[idx].de}</div>`;
         document.getElementById("repeat-btn-el").style.display = "inline-block";
-        document.getElementById("counter-display").innerHTML = `${idx + 1} von ${texts.length}`;
+        document.getElementById("counter-display").innerHTML =
+          `${idx + 1} von ${texts.length}`;
         nextBtn.disabled = false;
         speakCurrent();
       }
@@ -215,7 +286,10 @@
       }
 
       function resetProgress() {
-        if(confirm("Reset?")) { localStorage.setItem("vokabel_index", 0); renderData(); }
+        if (confirm("Reset?")) {
+          localStorage.setItem("vokabel_index", 0);
+          renderData();
+        }
       }
 
       loadTexts();
