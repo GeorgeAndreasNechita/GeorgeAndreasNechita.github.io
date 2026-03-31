@@ -2,7 +2,7 @@
 <html lang="de">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Italienisch-Deutsch Vokabeltrainer</title>
     <style>
       :root {
@@ -22,6 +22,7 @@
 
       * {
         box-sizing: border-box;
+        -webkit-tap-highlight-color: transparent; /* Entfernt den blauen Kasten beim Tabben auf Android/iOS */
       }
       body,
       html {
@@ -32,6 +33,7 @@
         background-color: var(--bg-color);
         color: var(--text-color);
         overflow: hidden;
+        user-select: none; /* Verhindert versehentliches Markieren von Text beim schnellen Klicken */
       }
 
       /* Obere Steuerungs-Leiste */
@@ -120,37 +122,63 @@
         margin-bottom: 25px;
       }
 
+      /* OPTIMIERTER REPEAT BUTTON */
       .repeat-btn {
-        padding: 30px 100px;
-        background: transparent;
-        border: 1px solid var(--accent-color);
+        padding: 20px 60px;
+        min-width: 200px;
+        background: rgba(187, 134, 252, 0.05);
+        border: 2px solid var(--accent-color);
         color: var(--accent-color);
-        border-radius: 20px;
+        border-radius: 50px; /* Rundere Ecken für besseres Daumengefühl */
         cursor: pointer;
         font-weight: bold;
+        font-size: 1.1rem;
+        transition: transform 0.1s ease, background 0.2s;
+        touch-action: manipulation;
+      }
+      
+      .repeat-btn:active {
+        transform: scale(0.92); /* Deutliches Drück-Feedback */
+        background: rgba(187, 134, 252, 0.2);
       }
 
       #button-area {
         height: 55vh;
         width: 100%;
       }
+
+      /* OPTIMIERTER NEXT BUTTON */
       .next-btn {
         width: 100%;
         height: 100%;
-        background: var(--button-bg);
+        background: linear-gradient(to bottom, #1e1e1e, #181818);
         color: var(--accent-color);
         border: none;
-        font-size: 4rem;
+        font-size: 4.5rem;
         cursor: pointer;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        transition: background 0.1s, transform 0.1s;
+        touch-action: manipulation;
       }
+
+      .next-btn:active {
+        background: #252525;
+        transform: scale(0.98); /* Minimale Stauchung gibt Gefühl von Tiefe */
+      }
+
+      .next-btn:disabled {
+        opacity: 0.3;
+        filter: grayscale(1);
+      }
+
       .counter {
         font-size: 1rem;
-        color: #555;
-        margin-top: 10px;
+        color: #666;
+        margin-top: 15px;
+        letter-spacing: 2px;
       }
     </style>
   </head>
@@ -189,15 +217,10 @@
 
       async function loadTexts() {
         try {
-          // Erzeugt einen Zeitstempel (z.B. 1715673600000), um den Cache zu umgehen
-          const url =
-            "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json";
+          const url = "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json";
           const cacheBuster = `?t=${Date.now()}`;
-
           const res = await fetch(url + cacheBuster);
-
           if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
-
           texts = await res.json();
           updateButtonsUI();
           renderData();
@@ -226,35 +249,22 @@
       function updateButtonsUI() {
         const itBtn = document.getElementById("it-toggle");
         const deBtn = document.getElementById("de-toggle");
-
-        // UI für Italienisch
         itBtn.innerHTML = `🇮🇹 IT: ${settings.itRepeat === 0 ? "AUS" : settings.itRepeat + "x"}`;
-        itBtn.className =
-          "top-btn " +
-          (settings.itRepeat === 0
-            ? "state-off"
-            : "state-" + settings.itRepeat + "x");
-
-        // UI für Deutsch
+        itBtn.className = "top-btn " + (settings.itRepeat === 0 ? "state-off" : "state-" + settings.itRepeat + "x");
         deBtn.innerHTML = `🇩🇪 DE: ${settings.deRepeat === 0 ? "AUS" : "1x"}`;
-        deBtn.className =
-          "top-btn " + (settings.deRepeat === 0 ? "state-off" : "state-1x");
+        deBtn.className = "top-btn " + (settings.deRepeat === 0 ? "state-off" : "state-1x");
       }
 
       function speakCurrent() {
         const item = texts[getCurrentIndex()];
         if (!item) return;
-
         window.speechSynthesis.cancel();
-
-        // IT
         for (let i = 0; i < settings.itRepeat; i++) {
           const m = new SpeechSynthesisUtterance(item.it);
           m.lang = "it-IT";
           m.rate = 1.12;
           window.speechSynthesis.speak(m);
         }
-        // DE
         for (let i = 0; i < settings.deRepeat; i++) {
           const m = new SpeechSynthesisUtterance(item.de);
           m.lang = "de-DE";
@@ -271,17 +281,14 @@
         const idx = getCurrentIndex();
         const container = document.getElementById("content-container");
         const nextBtn = document.querySelector(".next-btn");
-
         if (idx >= texts.length) {
           container.innerHTML = "Ende!";
           nextBtn.disabled = true;
           return;
         }
-
         container.innerHTML = `<div class="tr-it">${texts[idx].it}</div><div class="tr-de">${texts[idx].de}</div>`;
         document.getElementById("repeat-btn-el").style.display = "inline-block";
-        document.getElementById("counter-display").innerHTML =
-          `${idx + 1} von ${texts.length}`;
+        document.getElementById("counter-display").innerHTML = `${idx + 1} von ${texts.length}`;
         nextBtn.disabled = false;
         speakCurrent();
       }
@@ -297,7 +304,6 @@
           renderData();
         }
       }
-
       loadTexts();
     </script>
   </body>
