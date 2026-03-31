@@ -50,6 +50,10 @@ def translate_and_save(text, json_file="result.json"):
 try:
     with open("current_part.txt", "r", encoding="utf-8") as f:
         MEIN_TEXT = f.read()
+    MEIN_TEXT = re.sub(r'\r?\n+', ' ', MEIN_TEXT)
+    with open("current_part.txt", "w", encoding="utf-8") as f:
+        f.write(MEIN_TEXT)
     translate_and_save(MEIN_TEXT)
+
 except FileNotFoundError:
     print("Fehler: Die Datei 'current_part.txt' wurde nicht gefunden.")
