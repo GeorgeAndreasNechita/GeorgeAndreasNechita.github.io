@@ -1,0 +1,490 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Italienisch-Deutsch Vokabeltrainer</title>
+    <style>
+      :root {
+        --bg-color: #121212;
+        --text-color: #e0e0e0;
+        --accent-color: #bb86fc;
+        --secondary-color: violet;
+        --id-color: rgb(67, 128, 186);
+        --button-bg: #1e1e1e;
+        --success-color: #4caf50;
+        --danger-color: #cf6679;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        overflow: hidden;
+      }
+
+      #display-area {
+        height: 45vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        padding: 10px;
+        border-bottom: 2px solid #333;
+        position: relative;
+      }
+
+      #button-area {
+        height: 55vh;
+        width: 100%;
+      }
+
+      #content-container {
+        margin-top: 16vh;
+      }
+
+      .tr-1 {
+        color: var(--secondary-color);
+        margin-top: 0.5rem;
+        font-size: 2rem;
+        letter-spacing: 4px;
+        margin-bottom: 4px;
+      }
+
+      .tr-2 {
+        margin-top: 0.3rem;
+        font-size: 1.15rem;
+        opacity: 0.8;
+        margin-bottom: 20px;
+      }
+
+      .repeat-btn {
+        width: 33%;
+        padding: 20px;
+        background: transparent;
+        border: 1px solid var(--accent-color);
+        color: var(--accent-color);
+        border-radius: 20px;
+        cursor: pointer;
+        font-size: 0.8rem;
+        font-weight: bold;
+        transition: all 0.2s ease;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+
+      .repeat-btn:active {
+        background: rgba(187, 134, 252, 0.2);
+        transform: scale(0.95);
+      }
+
+      .next-btn {
+        width: 100%;
+        height: 100%;
+        background-color: var(--button-bg);
+        color: var(--accent-color);
+        border: none;
+        font-size: 5rem;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: background-color 0.1s;
+      }
+
+      .next-btn:active {
+        background-color: #2a2a2a;
+      }
+
+      .counter {
+        font-size: 1.2rem;
+        color: #666;
+        margin-top: 15px;
+        font-weight: normal;
+      }
+
+      .top-btn {
+        position: fixed;
+        top: 10px;
+        padding: 6px 12px;
+        background: #222;
+        color: #888;
+        border: 1px solid #444;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 0.75rem;
+        z-index: 10;
+        font-weight: bold;
+        transition: all 0.2s ease;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+
+      .reset-btn {
+        right: 10px;
+      }
+
+      #audio-toggle {
+        right: 90px;
+      }
+
+      .audio-on {
+        border-color: var(--success-color);
+        color: var(--success-color);
+        background: rgba(76, 175, 80, 0.1);
+      }
+
+      .audio-off {
+        border-color: var(--danger-color);
+        color: var(--danger-color);
+        background: rgba(207, 102, 121, 0.1);
+      }
+    </style>
+  </head>
+  <body>
+    <button id="audio-toggle" onclick="toggleSpeech()" class="top-btn audio-on">
+      <span>🔊</span> Ton: AN
+    </button>
+    <button onclick="resetProgress()" class="top-btn reset-btn">Reset</button>
+
+    <div id="display-area">
+      <div id="content-container">Lade Vokabeln...</div>
+      <button
+        id="repeat-btn-el"
+        class="repeat-btn"
+        onclick="speakCurrent()"
+        style="display: none"
+      >
+        Repeat ↻
+      </button>
+    </div>
+
+    <div id="button-area">
+      <button class="next-btn" onclick="incrementIndex()">
+        NEXT
+        <div id="counter-display" class="counter"></div>
+      </button>
+    </div>
+
+    <script>
+      // Hier werden die Vokabeln direkt als Konstante gespeichert
+      const texts =
+        [
+          { "ch": "你好", "de": "Hallo" },
+          { "ch": "再见", "de": "Tschüss" },
+          { "ch": "谢谢", "de": "Danke" },
+          { "ch": "对不起", "de": "Entschuldigung" },
+          { "ch": "请", "de": "Bitte" },
+          { "ch": "是的", "de": "Ja" },
+          { "ch": "不是", "de": "Nein" },
+          { "ch": "好", "de": "Gut" },
+          { "ch": "不好", "de": "Schlecht" },
+          { "ch": "朋友", "de": "Freund" },
+          { "ch": "家人", "de": "Familie" },
+          { "ch": "爸爸", "de": "Papa" },
+          { "ch": "妈妈", "de": "Mama" },
+          { "ch": "孩子", "de": "Kind" },
+          { "ch": "老师", "de": "Lehrer" },
+          { "ch": "学生", "de": "Schüler" },
+          { "ch": "医生", "de": "Arzt" },
+          { "ch": "警察", "de": "Polizist" },
+          { "ch": "家", "de": "Zuhause" },
+          { "ch": "学校", "de": "Schule" },
+          { "ch": "办公室", "de": "Büro" },
+          { "ch": "商店", "de": "Laden" },
+          { "ch": "餐厅", "de": "Restaurant" },
+          { "ch": "医院", "de": "Krankenhaus" },
+          { "ch": "公园", "de": "Park" },
+          { "ch": "街道", "de": "Straße" },
+          { "ch": "城市", "de": "Stadt" },
+          { "ch": "国家", "de": "Land" },
+          { "ch": "世界", "de": "Welt" },
+          { "ch": "水", "de": "Wasser" },
+          { "ch": "咖啡", "de": "Kaffee" },
+          { "ch": "茶", "de": "Tee" },
+          { "ch": "牛奶", "de": "Milch" },
+          { "ch": "面包", "de": "Brot" },
+          { "ch": "米饭", "de": "Reis" },
+          { "ch": "面条", "de": "Nudeln" },
+          { "ch": "肉", "de": "Fleisch" },
+          { "ch": "蔬菜", "de": "Gemüse" },
+          { "ch": "水果", "de": "Obst" },
+          { "ch": "苹果", "de": "Apfel" },
+          { "ch": "香蕉", "de": "Bananen" },
+          { "ch": "鸡蛋", "de": "Ei" },
+          { "ch": "糖", "de": "Zucker" },
+          { "ch": "盐", "de": "Salz" },
+          { "ch": "早餐", "de": "Frühstück" },
+          { "ch": "午餐", "de": "Mittagessen" },
+          { "ch": "晚餐", "de": "Abendessen" },
+          { "ch": "衣服", "de": "Kleidung" },
+          { "ch": "鞋子", "de": "Schuhe" },
+          { "ch": "裤子", "de": "Hose" },
+          { "ch": "衬衫", "de": "Hemd" },
+          { "ch": "外套", "de": "Mantel" },
+          { "ch": "包", "de": "Tasche" },
+          { "ch": "手机", "de": "Handy" },
+          { "ch": "电脑", "de": "Computer" },
+          { "ch": "电视", "de": "Fernseher" },
+          { "ch": "书", "de": "Buch" },
+          { "ch": "报纸", "de": "Zeitung" },
+          { "ch": "桌子", "de": "Tisch" },
+          { "ch": "椅子", "de": "Stuhl" },
+          { "ch": "床", "de": "Bett" },
+          { "ch": "门", "de": "Tür" },
+          { "ch": "窗户", "de": "Fenster" },
+          { "ch": "钥匙", "de": "Schlüssel" },
+          { "ch": "钱", "de": "Geld" },
+          { "ch": "钱包", "de": "Portemonnaie" },
+          { "ch": "票", "de": "Ticket" },
+          { "ch": "时间", "de": "Zeit" },
+          { "ch": "今天", "de": "Heute" },
+          { "ch": "明天", "de": "Morgen" },
+          { "ch": "昨天", "de": "Gestern" },
+          { "ch": "现在", "de": "Jetzt" },
+          { "ch": "小时", "de": "Stunde" },
+          { "ch": "分钟", "de": "Minute" },
+          { "ch": "早上", "de": "Morgen" },
+          { "ch": "下午", "de": "Nachmittag" },
+          { "ch": "晚上", "de": "Abend" },
+          { "ch": "天", "de": "Tag" },
+          { "ch": "星期", "de": "Woche" },
+          { "ch": "月", "de": "Monat" },
+          { "ch": "年", "de": "Jahr" },
+          { "ch": "春天", "de": "Frühling" },
+          { "ch": "夏天", "de": "Sommer" },
+          { "ch": "秋天", "de": "Herbst" },
+          { "ch": "冬天", "de": "Winter" },
+          { "ch": "天气", "de": "Wetter" },
+          { "ch": "太阳", "de": "Sonne" },
+          { "ch": "月亮", "de": "Mond" },
+          { "ch": "雨", "de": "Regen" },
+          { "ch": "雪", "de": "Schnee" },
+          { "ch": "风", "de": "Wind" },
+          { "ch": "热", "de": "Heiß" },
+          { "ch": "冷", "de": "Kalt" },
+          { "ch": "漂亮", "de": "Hübsch" },
+          { "ch": "累", "de": "Müde" },
+          { "ch": "快乐", "de": "Glücklich" },
+          { "ch": "难过", "de": "Traurig" },
+          { "ch": "饿", "de": "Hungrig" },
+          { "ch": "渴", "de": "Durstig" },
+          { "ch": "忙", "de": "Beschäftigt" },
+          { "ch": "大", "de": "Groß" },
+          { "ch": "小", "de": "Klein" },
+          { "ch": "多", "de": "Viel" },
+          { "ch": "少", "de": "Wenig" },
+          { "ch": "新", "de": "Neu" },
+          { "ch": "旧", "de": "Alt" },
+          { "ch": "快", "de": "Schnell" },
+          { "ch": "慢", "de": "Langsam" },
+          { "ch": "远", "de": "Fern" },
+          { "ch": "近", "de": "Nah" },
+          { "ch": "左", "de": "Links" },
+          { "ch": "右", "de": "Rechts" },
+          { "ch": "上面", "de": "Oben" },
+          { "ch": "下面", "de": "Unten" },
+          { "ch": "中间", "de": "Mitte" },
+          { "ch": "听", "de": "Hören" },
+          { "ch": "看", "de": "Sehen" },
+          { "ch": "说", "de": "Sprechen" },
+          { "ch": "读", "de": "Lesen" },
+          { "ch": "写", "de": "Schreiben" },
+          { "ch": "吃", "de": "Essen" },
+          { "ch": "喝", "de": "Trinken" },
+          { "ch": "睡觉", "de": "Schlafen" },
+          { "ch": "走", "de": "Gehen" },
+          { "ch": "跑", "de": "Laufen" },
+          { "ch": "坐", "de": "Sitzen" },
+          { "ch": "站", "de": "Stehen" },
+          { "ch": "买", "de": "Kaufen" },
+          { "ch": "卖", "de": "Verkaufen" },
+          { "ch": "给", "de": "Geben" },
+          { "ch": "拿", "de": "Nehmen" },
+          { "ch": "洗", "de": "Waschen" },
+          { "ch": "玩", "de": "Spielen" },
+          { "ch": "学习", "de": "Lernen" },
+          { "ch": "工作", "de": "Arbeiten" },
+          { "ch": "休息", "de": "Ausruhen" },
+          { "ch": "想", "de": "Denken" },
+          { "ch": "知道", "de": "Wissen" },
+          { "ch": "喜欢", "de": "Mögen" },
+          { "ch": "爱", "de": "Lieben" },
+          { "ch": "颜色", "de": "Farbe" },
+          { "ch": "红色", "de": "Rot" },
+          { "ch": "蓝色", "de": "Blau" },
+          { "ch": "绿色", "de": "Grün" },
+          { "ch": "黄色", "de": "Gelb" },
+          { "ch": "黑色", "de": "Schwarz" },
+          { "ch": "白色", "de": "Weiß" },
+          { "ch": "一", "de": "Eins" },
+          { "ch": "二", "de": "Zwei" },
+          { "ch": "三", "de": "Drei" },
+          { "ch": "四", "de": "Vier" },
+          { "ch": "五", "de": "Fünf" },
+          { "ch": "六", "de": "Sechs" },
+          { "ch": "七", "de": "Sieben" },
+          { "ch": "八", "de": "Acht" },
+          { "ch": "九", "de": "Neun" },
+          { "ch": "十", "de": "Zehn" },
+          { "ch": "百", "de": "Hundert" },
+          { "ch": "千", "de": "Tausend" },
+          { "ch": "公共汽车", "de": "Bus" },
+          { "ch": "地铁", "de": "U-Bahn" },
+          { "ch": "出租车", "de": "Taxi" },
+          { "ch": "自行车", "de": "Fahrrad" },
+          { "ch": "飞机", "de": "Flugzeug" },
+          { "ch": "火车", "de": "Zug" },
+          { "ch": "船", "de": "Schiff" },
+          { "ch": "地图", "de": "Karte" },
+          { "ch": "行李", "de": "Gepäck" },
+          { "ch": "护照", "de": "Reisepass" },
+          { "ch": "机场", "de": "Flughafen" },
+          { "ch": "酒店", "de": "Hotel" },
+          { "ch": "电影", "de": "Film" },
+          { "ch": "音乐", "de": "Musik" },
+          { "ch": "运动", "de": "Sport" },
+          { "ch": "足球", "de": "Fußball" },
+          { "ch": "游泳", "de": "Schwimmen" },
+          { "ch": "旅行", "de": "Reisen" },
+          { "ch": "照片", "de": "Foto" },
+          { "ch": "生日", "de": "Geburtstag" },
+          { "ch": "礼物", "de": "Geschenk" },
+          { "ch": "节日", "de": "Feiertag" },
+          { "ch": "身体", "de": "Körper" },
+          { "ch": "头", "de": "Kopf" },
+          { "ch": "眼睛", "de": "Auge" },
+          { "ch": "耳朵", "de": "Ohr" },
+          { "ch": "鼻子", "de": "Nase" },
+          { "ch": "嘴巴", "de": "Mund" },
+          { "ch": "手", "de": "Hand" },
+          { "ch": "脚", "de": "Fuß" },
+          { "ch": "心", "de": "Herz" },
+          { "ch": "病", "de": "Krankheit" },
+          { "ch": "药", "de": "Medizin" },
+          { "ch": "狗", "de": "Hund" },
+          { "ch": "猫", "de": "Katze" },
+          { "ch": "鸟", "de": "Vogel" },
+          { "ch": "花", "de": "Blume" },
+          { "ch": "树", "de": "Baum" },
+          { "ch": "山", "de": "Berg" },
+          { "ch": "海", "de": "Meer" },
+          { "ch": "简单", "de": "Einfach" },
+          { "ch": "困难", "de": "Schwierig" },
+          { "ch": "重要", "de": "Wichtig" },
+          { "ch": "最后", "de": "Zuletzt" },
+        ]
+
+      function getCurrentIndex() {
+        const index = localStorage.getItem("vokabel_index_test");
+        return index ? parseInt(index) : 0;
+      }
+
+      function isSpeechEnabled() {
+        const setting = localStorage.getItem("vokabel_speech_enabled");
+        return setting === null ? true : setting === "true";
+      }
+
+      function toggleSpeech() {
+        const currentState = isSpeechEnabled();
+        localStorage.setItem("vokabel_speech_enabled", !currentState);
+        updateAudioButtonUI();
+      }
+
+      function updateAudioButtonUI() {
+        const btn = document.getElementById("audio-toggle");
+        const enabled = isSpeechEnabled();
+
+        if (enabled) {
+          btn.innerHTML = "<span>🔊</span> Ton: AN";
+          btn.className = "top-btn audio-on";
+        } else {
+          btn.innerHTML = "<span>🔇</span> Ton: AUS";
+          btn.className = "top-btn audio-off";
+        }
+      }
+
+      function speakCurrent() {
+        const currentIndex = getCurrentIndex();
+        const item = texts[currentIndex];
+
+        if (item && isSpeechEnabled()) {
+          window.speechSynthesis.cancel();
+
+          const msgIt = new SpeechSynthesisUtterance(item.ch);
+          msgIt.lang = "zh-CN";
+          msgIt.rate = 1.1;
+
+          window.speechSynthesis.speak(msgIt);
+          window.speechSynthesis.speak(msgIt);
+        }
+      }
+
+      function renderData() {
+        const container = document.getElementById("content-container");
+        const counter = document.getElementById("counter-display");
+        const repeatBtn = document.getElementById("repeat-btn-el");
+        const nextBtn = document.querySelector(".next-btn");
+        const currentIndex = getCurrentIndex();
+        const total = texts.length;
+
+        updateAudioButtonUI();
+
+        if (total === 0) {
+          container.innerHTML = "Keine Vokabeln vorhanden.";
+          return;
+        }
+
+        if (currentIndex >= total) {
+          container.innerHTML = "<div><strong>Ende erreicht!</strong></div>";
+          counter.innerHTML = `${total} von ${total}`;
+          repeatBtn.style.display = "none";
+          nextBtn.disabled = true;
+          return;
+        }
+
+        const item = texts[currentIndex];
+
+        container.innerHTML = `
+                <div class="tr-1">${item.ch}</div>
+                <div class="tr-2">${item.de}</div>
+              `;
+
+        repeatBtn.style.display = "block";
+        speakCurrent();
+
+        counter.innerHTML = `${currentIndex + 1} of ${total}`;
+        nextBtn.disabled = false;
+      }
+
+      function incrementIndex() {
+        const nextIndex = getCurrentIndex() + 1;
+        if (nextIndex <= texts.length) {
+          localStorage.setItem("vokabel_index_test", nextIndex);
+          renderData();
+        }
+      }
+
+      function resetProgress() {
+        if (confirm("Fortschritt zurücksetzen?")) {
+          localStorage.setItem("vokabel_index_test", 0);
+          renderData();
+        }
+      }
+
+      // Initialisierung beim Laden der Seite
+      window.onload = renderData;
+    </script>
+  </body>
+</html>

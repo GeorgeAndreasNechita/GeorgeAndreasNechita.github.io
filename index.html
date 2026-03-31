@@ -10,164 +10,108 @@
         --text-color: #e0e0e0;
         --accent-color: #bb86fc;
         --secondary-color: violet;
-        --id-color: rgb(67, 128, 186);
         --button-bg: #1e1e1e;
-        --success-color: #4caf50;
         --danger-color: #cf6679;
+        
+        /* Stufen-Farben */
+        --color-off: #444;
+        --color-1x: #4caf50;
+        --color-2x: #ffb74d;
+        --color-3x: #bb86fc;
       }
 
-      * {
-        box-sizing: border-box;
-      }
-
-      body,
-      html {
-        margin: 0;
-        padding: 0;
-        height: 100%;
-        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      * { box-sizing: border-box; }
+      body, html {
+        margin: 0; padding: 0; height: 100%;
+        font-family: "Segoe UI", sans-serif;
         background-color: var(--bg-color);
         color: var(--text-color);
         overflow: hidden;
       }
 
-      #display-area {
-        height: 45vh;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        text-align: center;
-        padding: 10px;
-        border-bottom: 2px solid #333;
-        position: relative;
-      }
-
-      #button-area {
-        height: 55vh;
-        width: 100%;
-      }
-
-      #content-container {
-        margin-top: 16vh;
-      }
-
-      .tr-it {
-        color: var(--secondary-color);
-        margin-top: 0.5rem;
-        font-size: 1.15rem;
-        font-weight: 600;
-        margin-bottom: 4px;
-      }
-
-      .tr-de {
-        margin-top: 0.3rem;
-        font-size: 1.15rem;
-        opacity: 0.8;
-        margin-bottom: 20px;
-      }
-
-      .repeat-btn {
-        width: 33%;
-        padding: 20px;
-        background: transparent;
-        border: 1px solid var(--accent-color);
-        color: var(--accent-color);
-        border-radius: 20px;
-        cursor: pointer;
-        font-size: 0.8rem;
-        font-weight: bold;
-        transition: all 0.2s ease;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-      }
-
-      .repeat-btn:active {
-        background: rgba(187, 134, 252, 0.2);
-        transform: scale(0.95);
-      }
-
-      .next-btn {
-        width: 100%;
-        height: 100%;
-        background-color: var(--button-bg);
-        color: var(--accent-color);
-        border: none;
-        font-size: 5rem;
-        cursor: pointer;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        transition: background-color 0.1s;
-      }
-
-      .next-btn:active {
-        background-color: #2a2a2a;
-      }
-
-      .counter {
-        font-size: 1.2rem;
-        color: #666;
-        margin-top: 15px;
-        font-weight: normal;
+      /* Obere Steuerungs-Leiste */
+      .top-controls {
+        position: fixed;
+        top: 10px; left: 10px; right: 10px;
+        display: flex; gap: 8px; z-index: 10;
+        justify-content: flex-end;
       }
 
       .top-btn {
-        position: fixed;
-        top: 10px;
-        padding: 6px 12px;
-        background: #222;
+        padding: 8px 14px;
+        background: #1e1e1e;
         color: #888;
-        border: 1px solid #444;
-        border-radius: 6px;
+        border: 2px solid var(--color-off);
+        border-radius: 12px;
         cursor: pointer;
         font-size: 0.75rem;
-        z-index: 10;
         font-weight: bold;
-        transition: all 0.2s ease;
-        display: flex;
-        align-items: center;
-        gap: 5px;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        display: flex; align-items: center; gap: 5px;
       }
 
-      .reset-btn {
-        right: 10px;
+      /* Dynamische Klassen für die Wiederholungen */
+      .state-off { border-color: var(--color-off); color: #555; opacity: 0.6; }
+      
+      .state-1x { 
+        border-color: var(--color-1x); 
+        color: var(--color-1x); 
+        background: rgba(76, 175, 80, 0.1); 
+      }
+      
+      .state-2x { 
+        border-color: var(--color-2x); 
+        color: var(--color-2x); 
+        background: rgba(255, 183, 77, 0.15);
+        box-shadow: 0 0 10px rgba(255, 183, 77, 0.1);
+      }
+      
+      .state-3x { 
+        border-color: var(--color-3x); 
+        color: var(--color-3x); 
+        background: rgba(187, 134, 252, 0.2);
+        box-shadow: 0 0 15px rgba(187, 134, 252, 0.3);
+        transform: scale(1.05);
       }
 
-      #audio-toggle {
-        right: 90px;
+      .reset-btn { border-color: var(--danger-color); color: var(--danger-color); opacity: 0.8; }
+
+      /* Hauptbereich */
+      #display-area {
+        height: 45vh; display: flex; flex-direction: column;
+        justify-content: center; align-items: center;
+        text-align: center; border-bottom: 2px solid #333;
+      }
+      #content-container { margin-top: 12vh; }
+      .tr-it { color: var(--secondary-color); font-size: 1.6rem; font-weight: 600; margin-bottom: 5px; }
+      .tr-de { font-size: 1.2rem; opacity: 0.7; margin-bottom: 20px; }
+
+      .repeat-btn {
+        padding: 15px 30px; background: transparent;
+        border: 1px solid var(--accent-color); color: var(--accent-color);
+        border-radius: 20px; cursor: pointer; font-weight: bold;
       }
 
-      .audio-on {
-        border-color: var(--success-color);
-        color: var(--success-color);
-        background: rgba(76, 175, 80, 0.1);
+      #button-area { height: 55vh; width: 100%; }
+      .next-btn {
+        width: 100%; height: 100%; background: var(--button-bg);
+        color: var(--accent-color); border: none; font-size: 4rem;
+        cursor: pointer; display: flex; flex-direction: column;
+        justify-content: center; align-items: center;
       }
-
-      .audio-off {
-        border-color: var(--danger-color);
-        color: var(--danger-color);
-        background: rgba(207, 102, 121, 0.1);
-      }
+      .counter { font-size: 1rem; color: #555; margin-top: 10px; }
     </style>
   </head>
   <body>
-    <button id="audio-toggle" onclick="toggleSpeech()" class="top-btn audio-on">
-      <span>🔊</span> Ton: AN
-    </button>
-    <button onclick="resetProgress()" class="top-btn reset-btn">Reset</button>
+    <div class="top-controls">
+      <button id="it-toggle" onclick="cycleIt()" class="top-btn">IT: --</button>
+      <button id="de-toggle" onclick="cycleDe()" class="top-btn">DE: --</button>
+      <button onclick="resetProgress()" class="top-btn reset-btn">Reset</button>
+    </div>
 
     <div id="display-area">
-      <div id="content-container">Lade Vokabeln...</div>
-      <button
-        id="repeat-btn-el"
-        class="repeat-btn"
-        onclick="speakCurrent()"
-        style="display: none"
-      >
-        Repeat ↻
-      </button>
+      <div id="content-container">Lade...</div>
+      <button id="repeat-btn-el" class="repeat-btn" onclick="speakCurrent()" style="display: none">Repeat ↻</button>
     </div>
 
     <div id="button-area">
@@ -179,127 +123,101 @@
 
     <script>
       let texts = [];
+      let settings = {
+        itRepeat: parseInt(localStorage.getItem("itRepeat") || "1"),
+        deRepeat: parseInt(localStorage.getItem("deRepeat") || "1")
+      };
 
       async function loadTexts() {
         try {
-          // Geänderter Link zu texts.json
-          const response = await fetch("https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json");
-          
-          if (!response.ok) {
-            throw new Error(`HTTP error! status: ${response.status}`);
-          }
-          
-          // Direktes Parsen als JSON
-          texts = await response.json();
-
+          const res = await fetch("https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json");
+          texts = await res.json();
+          updateButtonsUI();
           renderData();
-        } catch (error) {
-          console.error("Fehler beim Laden der Daten:", error);
-          const container = document.getElementById("content-container");
-          container.innerHTML = `<div style="color: var(--danger-color);">Fehler beim Laden der Vokabeln!<br><small>${error.message}</small></div>`;
-        }
+        } catch (e) { console.error(e); }
       }
 
-      function getCurrentIndex() {
-        const index = localStorage.getItem("vokabel_index");
-        return index ? parseInt(index) : 0;
+      function cycleIt() {
+        settings.itRepeat = (settings.itRepeat + 1) % 4;
+        save();
+        updateButtonsUI();
       }
 
-      function isSpeechEnabled() {
-        const setting = localStorage.getItem("vokabel_speech_enabled");
-        return setting === null ? true : setting === "true";
+      function cycleDe() {
+        settings.deRepeat = (settings.deRepeat + 1) % 2;
+        save();
+        updateButtonsUI();
       }
 
-      function toggleSpeech() {
-        const currentState = isSpeechEnabled();
-        localStorage.setItem("vokabel_speech_enabled", !currentState);
-        updateAudioButtonUI();
+      function save() {
+        localStorage.setItem("itRepeat", settings.itRepeat);
+        localStorage.setItem("deRepeat", settings.deRepeat);
       }
 
-      function updateAudioButtonUI() {
-        const btn = document.getElementById("audio-toggle");
-        const enabled = isSpeechEnabled();
+      function updateButtonsUI() {
+        const itBtn = document.getElementById("it-toggle");
+        const deBtn = document.getElementById("de-toggle");
 
-        if (enabled) {
-          btn.innerHTML = "<span>🔊</span> Ton: AN";
-          btn.className = "top-btn audio-on";
-        } else {
-          btn.innerHTML = "<span>🔇</span> Ton: AUS";
-          btn.className = "top-btn audio-off";
-        }
+        // UI für Italienisch
+        itBtn.innerHTML = `🇮🇹 IT: ${settings.itRepeat === 0 ? 'AUS' : settings.itRepeat + 'x'}`;
+        itBtn.className = "top-btn " + (settings.itRepeat === 0 ? "state-off" : "state-" + settings.itRepeat + "x");
+
+        // UI für Deutsch
+        deBtn.innerHTML = `🇩🇪 DE: ${settings.deRepeat === 0 ? 'AUS' : '1x'}`;
+        deBtn.className = "top-btn " + (settings.deRepeat === 0 ? "state-off" : "state-1x");
       }
 
       function speakCurrent() {
-        const currentIndex = getCurrentIndex();
-        const item = texts[currentIndex];
+        const item = texts[getCurrentIndex()];
+        if (!item) return;
 
-        if (item && isSpeechEnabled()) {
-          window.speechSynthesis.cancel();
+        window.speechSynthesis.cancel();
 
-          const msgIt = new SpeechSynthesisUtterance(item.it);
-          msgIt.lang = "it-IT";
-          msgIt.rate = 1.1;
-
-          // const msgDe = new SpeechSynthesisUtterance(item.de);
-          // msgDe.lang = "de-DE";
-          // msgDe.rate = 1.1;
-
-          window.speechSynthesis.speak(msgIt);
-          window.speechSynthesis.speak(msgIt);
-          // window.speechSynthesis.speak(msgDe);
+        // IT
+        for (let i = 0; i < settings.itRepeat; i++) {
+          const m = new SpeechSynthesisUtterance(item.it);
+          m.lang = "it-IT";
+          m.rate = 1.12;
+          window.speechSynthesis.speak(m);
+        }
+        // DE
+        for (let i = 0; i < settings.deRepeat; i++) {
+          const m = new SpeechSynthesisUtterance(item.de);
+          m.lang = "de-DE";
+          m.rate = 1.12;
+          window.speechSynthesis.speak(m);
         }
       }
 
+      function getCurrentIndex() { return parseInt(localStorage.getItem("vokabel_index") || "0"); }
+
       function renderData() {
+        const idx = getCurrentIndex();
         const container = document.getElementById("content-container");
-        const counter = document.getElementById("counter-display");
-        const repeatBtn = document.getElementById("repeat-btn-el");
         const nextBtn = document.querySelector(".next-btn");
-        const currentIndex = getCurrentIndex();
-        const total = texts.length;
-
-        updateAudioButtonUI();
-
-        if (total === 0) return;
-
-        if (currentIndex >= total) {
-          container.innerHTML = "<div><strong>Ende erreicht!</strong></div>";
-          counter.innerHTML = `${total} von ${total}`;
-          repeatBtn.style.display = "none";
+        
+        if (idx >= texts.length) {
+          container.innerHTML = "Ende!";
           nextBtn.disabled = true;
           return;
         }
 
-        const item = texts[currentIndex];
-
-        container.innerHTML = `
-                <div class="tr-it">${item.it}</div>
-                <div class="tr-de">${item.de}</div>
-              `;
-
-        repeatBtn.style.display = "block";
-        speakCurrent();
-
-        counter.innerHTML = `${currentIndex + 1} of ${total}`;
+        container.innerHTML = `<div class="tr-it">${texts[idx].it}</div><div class="tr-de">${texts[idx].de}</div>`;
+        document.getElementById("repeat-btn-el").style.display = "inline-block";
+        document.getElementById("counter-display").innerHTML = `${idx + 1} von ${texts.length}`;
         nextBtn.disabled = false;
+        speakCurrent();
       }
 
       function incrementIndex() {
-        const nextIndex = getCurrentIndex() + 1;
-        if (nextIndex <= texts.length) {
-          localStorage.setItem("vokabel_index", nextIndex);
-          renderData();
-        }
+        localStorage.setItem("vokabel_index", getCurrentIndex() + 1);
+        renderData();
       }
 
       function resetProgress() {
-        if (confirm("Fortschritt zurücksetzen?")) {
-          localStorage.setItem("vokabel_index", 0);
-          renderData();
-        }
+        if(confirm("Reset?")) { localStorage.setItem("vokabel_index", 0); renderData(); }
       }
 
-      // Initialisierung
       loadTexts();
     </script>
   </body>
