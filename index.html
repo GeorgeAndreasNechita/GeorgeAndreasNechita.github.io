@@ -189,14 +189,20 @@
 
       async function loadTexts() {
         try {
-          const res = await fetch(
-            "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json",
-          );
+          // Erzeugt einen Zeitstempel (z.B. 1715673600000), um den Cache zu umgehen
+          const url =
+            "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json";
+          const cacheBuster = `?t=${Date.now()}`;
+
+          const res = await fetch(url + cacheBuster);
+
+          if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+
           texts = await res.json();
           updateButtonsUI();
           renderData();
         } catch (e) {
-          console.error(e);
+          console.error("Fehler beim Laden der JSON:", e);
         }
       }
 
