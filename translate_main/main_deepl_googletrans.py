@@ -6,7 +6,7 @@ from deep_translator import GoogleTranslator
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def translate_and_save(text, json_file="result.json"):
-    gefilterter_text = re.sub(r'([.,;?:])\s*', r'\1\n', text)
+    gefilterter_text = re.sub(r'([.,;?:!])\s*', r'\1\n', text)
     zeilen = [z.strip() for z in gefilterter_text.split('\n') if z.strip()]
 
     translator = GoogleTranslator(source='it', target='de')

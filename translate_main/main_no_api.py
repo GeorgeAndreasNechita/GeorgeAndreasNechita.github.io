@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 
 def translate_and_save(text, json_file="result.json"):
     # 1. Text teilen (nach Punkt, Komma, Semikolon)
-    gefilterter_text = re.sub(r'([.,;?])\s*', r'\1\n', text)
+    gefilterter_text = re.sub(r'([.,;?:!])\s*', r'\1\n', text)
     zeilen = [z.strip() for z in gefilterter_text.split('\n') if z.strip()]
 
     # 2. Lokales KI-Modell Setup (Ohne Pipeline)

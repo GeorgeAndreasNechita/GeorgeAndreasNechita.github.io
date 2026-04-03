@@ -6,7 +6,7 @@ load_dotenv()
 DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
 
 def translate_and_save(text, json_file="result.json"):
-    gefilterter_text = re.sub(r'([.,;?:])\s*', r'\1\n', text)
+    gefilterter_text = re.sub(r'([.,;?:!])\s*', r'\1\n', text)
     zeilen = [z.strip() for z in gefilterter_text.split('\n') if z.strip()]
 
     # 2. DeepL Setup
