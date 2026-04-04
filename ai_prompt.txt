@@ -1,4 +1,0 @@
-Bitte ein solche json erstellen, mit 300 Konzepte/Befehle/Kenntnisse von SAP UI5. Aber ohne eckige Klammern und mit komma am ende:  {
-    "it": "Kubernetes orchestra i container in modo automatico.",
-    "de": "Kubernetes orchestriert Container automatisch."
-  },

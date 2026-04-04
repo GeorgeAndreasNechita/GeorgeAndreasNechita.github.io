@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-url = "https://www.guidapsicologi.it/domande/scelte-ragazza"
+url = "https://www.guidapsicologi.it/domande/sparizione-forse-e-un-evitante"
 headers = {"User-Agent": "Mozilla/5.0"}
 response = requests.get(url, headers=headers)
 
@@ -34,11 +34,12 @@ zeilen = [z.strip() for z in gefilterter_text.split('\n') if z.strip()]
 
 result = []
 for z in zeilen:
-    result.append({
-        "it": z,
-        "de": ""
-    })
-
+    if z not in [".", ",", "!", "”."]:
+        result.append({
+            "it": z,
+            "de": ""
+        })
+print(result)
 
 with open("comments.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)

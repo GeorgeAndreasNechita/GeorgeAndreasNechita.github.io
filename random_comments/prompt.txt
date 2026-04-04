@@ -1,3 +1,11 @@
+Bitte diesen Text in kleine Stücke teilen(die sinn machen) und Übersetzen:
+Du solltest so was machen: gefilterter_text = re.sub(r'([.,;?:!])\s*', r'\1\n', text). Wenn der sinn noch bleibt, kannst du noch auch das erweiter. Je kleiner das Stück, desto besser
+Ergebniss soll einen solchen .json sein. SEHR WICHTIG: Bitte achte, dass das Ergebnis ein valides .json ist.
+  {
+    "it": "Cosa deve dire e fare per convincerla?",
+    "de": "Was muss sie sagen und tun, um Sie zu überzeugen?"
+  },
+Jetzt der Text:
 [
   {
     "it": "Sparizione.",
