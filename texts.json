@@ -1,2230 +1,443 @@
 [
   {
-    "it": "scelte ragazza",
-    "de": "Mädchenentscheidungen"
+    "it": "Siete invitati alla Mascarade,",
+    "de": "Sie sind zur Mascarade eingeladen,"
   },
   {
-    "it": "salve dottori,",
-    "de": "Guten Tag, Doktoren,"
+    "it": "dove le apparenze spesso ingannano.",
+    "de": "wo der Schein oft trügt."
   },
   {
-    "it": "ho un problema con la mia attuale ragazza che non mi fa vivere bene la relazione,",
-    "de": "ich habe ein Problem mit meiner aktuellen Freundin, das mir nicht erlaubt, die Beziehung gut zu leben,"
+    "it": "Indossa la Maschera giusta al momento giusto,",
+    "de": "Trage die richtige Maske zum richtigen Zeitpunkt,"
   },
+  { "it": "sfrutta il suo potere", "de": "nutze ihre Kraft" },
   {
-    "it": "siamo io e 2 miei amici a una serata in discoteca e noto questa ragazza la serata finisce lì,",
-    "de": "ich bin mit 2 meiner Freunde auf einer Diskotheken-Party und bemerke dieses Mädchen – der Abend endet dabei,"
+    "it": "e accumula una fortuna sufficiente",
+    "de": "und häufe ein ausreichendes Vermögen an,"
   },
+  { "it": "per vincere la partita.", "de": "um die Partie zu gewinnen." },
   {
-    "it": "solo che il mio amico manda la richiesta su instagram a lei senza però scriverle,",
-    "de": "nur dass mein Freund ihr eine Anfrage auf Instagram schickt, ihr aber nicht schreibt,"
+    "it": "Il compito non sarà facile:",
+    "de": "Die Aufgabe wird nicht einfach sein:"
   },
   {
-    "it": "passano 4 giorni e il mio amico letteralmente le scrive un messaggio rispondendo a una nota di vederci in gruppo una sera,",
-    "de": "4 Tage vergehen und mein Freund schreibt ihr buchstäblich eine Nachricht als Antwort auf eine Notiz, uns eines Abends in der Gruppe zu treffen,"
+    "it": "le Maschere verranno scambiate tra i giocatori così spesso",
+    "de": "die Masken werden unter den Spielern so oft getauscht,"
   },
   {
-    "it": "la sera stessa appena conosciuti tutti e presentati lei però si bacia con lui si frequentano 1 settimana finiscono anche in macchina insieme post serata però senza avere rapporti perché a detta sua lei non voleva,",
-    "de": "am selben Abend, kaum dass sich alle kennengelernt und vorgestellt haben, küsst sie sich jedoch mit ihm, sie sehen sich 1 Woche lang, enden nach dem Abend auch zusammen im Auto, aber ohne miteinander zu schlafen, weil sie nach eigener Aussage das nicht wollte,"
+    "it": "che nessuno potrà essere sicuro",
+    "de": "dass niemand sicher sein kann,"
   },
   {
-    "it": "(anche se per me per andarci in macchina l'intenzione c'è) fatto sta che dopo io e lei ci avviciniamo inizialmente in amicizia ma poi scatta qualcosa in ambito sentimentale e lei diventa pazza di me arrivando pure a venire sotto casa mia più volte nonostante i miei rifiuti,",
-    "de": "(obwohl für mich die Absicht vorhanden ist, wenn man ins Auto geht) Tatsache ist, dass danach ich und sie uns zunächst in Freundschaft nähern, aber dann etwas im sentimentalen Bereich ausgelöst wird und sie verrückt nach mir wird, sogar mehrmals vor mein Haus kommt trotz meiner Absagen,"
+    "it": "di chi si nasconda dietro a quale Maschera!",
+    "de": "wer sich hinter welcher Maske verbirgt!"
   },
+  { "it": "Introduzione", "de": "Einleitung" },
   {
-    "it": "ora io non so che fare perché ci sto benissimo con questa ragazza ma l'idea che non mi abbia scelto inizialmente mi logora dentro e mi fa stare male,",
-    "de": "jetzt weiß ich nicht, was ich tun soll, weil ich mich mit diesem Mädchen sehr wohl fühle, aber der Gedanke, dass sie mich anfangs nicht gewählt hat, zermürbt mich innerlich und macht mir zu schaffen,"
+    "it": "Nelle prime partite si raccomanda",
+    "de": "In den ersten Partien wird empfohlen,"
   },
   {
-    "it": "poi aggiungo anche il fatto che per me lei è una facile perché si è baciata con lui appena conosciuti e ha avuto rapporti con uno dopo solo 2 uscite e non è quello che cerco in una ragazza ma ormai ci tengo troppo,",
-    "de": "dazu kommt noch die Tatsache, dass sie für mich ein leichtes Mädchen ist, weil sie sich mit ihm geküsst hat, kaum dass sie sich kannten, und mit einem anderen nach nur 2 Dates geschlafen hat, und das ist nicht das, was ich in einem Mädchen suche, aber mittlerweile bin ich ihr gegenüber zu sehr zugetan,"
+    "it": "di mantenere il gruppo di gioco sotto gli 8 giocatori,",
+    "de": "die Spielgruppe unter 8 Spielern zu halten,"
   },
   {
-    "it": "io ne ho parlato con lei di tutto e dice che inizialmente preferiva me al mio amico,",
-    "de": "ich habe alles mit ihr besprochen und sie sagt, dass sie mich anfangs meinem Freund vorgezogen hat,"
+    "it": "in quanto un numero maggiore di giocatori",
+    "de": "da eine größere Anzahl von Spielern"
   },
   {
-    "it": "ma la sua amica era interessa a me e quindi non ha voluto interferire,",
-    "de": "aber ihre Freundin war an mir interessiert und deshalb wollte sie nicht eingreifen,"
+    "it": "richiederebbe una conoscenza più approfondita delle regole.",
+    "de": "fundiertere Regelkenntnisse erfordern würde."
   },
+  { "it": "Obiettivo del Gioco", "de": "Spielziel" },
   {
-    "it": "anche se non ha molto senso perché mi ha sempre dato versioni diverse e in più non c'era motivo di lasciarmi alla sua amica,",
-    "de": "obwohl das nicht viel Sinn ergibt, weil sie mir immer verschiedene Versionen gegeben hat und es außerdem keinen Grund gab, mich ihrer Freundin zu überlassen,"
+    "it": "Il primo giocatore che ottiene 13 Monete è il vincitore!",
+    "de": "Der erste Spieler, der 13 Münzen erhält, ist der Gewinner!"
   },
   {
-    "it": "lei dice che ha sempre puntato me e che tuttora vuole solo me e me lo dimostra sinceramente,",
-    "de": "sie sagt, dass sie immer auf mich gesetzt hat und dass sie immer noch nur mich will und das zeigt sie mir aufrichtig,"
+    "it": "Se un giocatore perde tutto il suo denaro,",
+    "de": "Wenn ein Spieler sein ganzes Geld verliert,"
   },
+  { "it": "la partita termina", "de": "endet die Partie" },
   {
-    "it": "non so che fare perché io ci sto male perché non è quello che cerco in una ragazza,",
-    "de": "ich weiß nicht, was ich tun soll, weil es mir nicht gut dabei geht, weil das nicht das ist, was ich in einem Mädchen suche,"
+    "it": "e il giocatore che possiede più Monete è il vincitore!",
+    "de": "und der Spieler mit den meisten Münzen gewinnt!"
   },
   {
-    "it": "il fatto che sia stata facile lei lo giustifica dicendo che era appena uscita da un ex tossico e voleva divertirsi,",
-    "de": "die Tatsache, dass sie leichtfertig war, rechtfertigt sie damit, dass sie gerade aus einer toxischen Beziehung herausgekommen war und Spaß haben wollte,"
+    "it": "Quali Maschere indosserai stanotte?",
+    "de": "Welche Masken wirst du heute Nacht tragen?"
   },
+  { "it": "Bruno Faidutti", "de": "Bruno Faidutti" },
+  { "it": "MASCARADE", "de": "MASCARADE" },
+  { "it": "Preparazione", "de": "Vorbereitung" },
+  { "it": "Nota:", "de": "Hinweis:" },
   {
-    "it": "ma per me ha poca differenza perché non siamo animali e si pensa prima di agire",
-    "de": "aber für mich macht das kaum einen Unterschied, weil wir keine Tiere sind und man denkt, bevor man handelt"
+    "it": "Durante la partita i giocatori si troveranno spesso",
+    "de": "Während der Partie werden die Spieler oft"
   },
   {
-    "it": "·&nbsp;Questa risposta è stata utile per6persone",
-    "de": "·&nbsp;Diese Antwort war hilfreich für 6 Personen"
+    "it": "a dover manipolare segretamente le carte sotto al tavolo;",
+    "de": "die Karten heimlich unter dem Tisch handhaben müssen;"
   },
   {
-    "it": "Buongiorno Mario,",
-    "de": "Guten Morgen Mario,"
+    "it": "per questo motivo non è possibile giocare su tavoli trasparenti.",
+    "de": "aus diesem Grund ist es nicht möglich, an Glastischen zu spielen."
   },
   {
-    "it": "grazie per averci contattato e scritto su Guida psicologi raccontando ciò che la soffrire emotivamente.",
-    "de": "danke, dass Sie uns kontaktiert und auf Guida psicologi geschrieben haben und erzählt haben, was Sie emotional leiden lässt."
+    "it": "• Collocare la plancia del Tribunale sul tavolo.",
+    "de": "• Lege das Gerichtstableau auf den Tisch."
   },
   {
-    "it": "Sei rimasto ancorato a come l'hai conosciuta (discoteca) e il fatto che sia stata prima con il tuo amico ed un altro della comitiva,",
-    "de": "Sie sind daran festgehalten, wie Sie sie kennengelernt haben (Diskothek) und die Tatsache, dass sie zuerst mit Ihrem Freund und einem anderen aus der Gruppe zusammen war,"
+    "it": "• Ogni giocatore prende 6 Monete",
+    "de": "• Jeder Spieler erhält 6 Münzen"
   },
+  { "it": "e le colloca di fronte a sé.", "de": "und legt sie vor sich ab." },
   {
-    "it": "inoltre non avendo scelto te subito pensi forse di essere la ruota di scorta.",
-    "de": "außerdem denken Sie vielleicht, da sie Sie nicht sofort gewählt hat, das Ersatzrad zu sein."
+    "it": "Riporre le Monete rimanenti nell’inserto della scatola",
+    "de": "Lege die restlichen Münzen in den Schachteleinsatz,"
   },
+  { "it": "a creare la Banca.", "de": "um die Bank zu bilden." },
   {
-    "it": "Tuttavia la ragazza si sta impegnando ed è persa sentimentalmente da lei ad oggi,",
-    "de": "Dennoch engagiert sich das Mädchen und ist seit heute sentimentalisch von ihr verloren,"
+    "it": "Nota: Il denaro di ogni giocatore è un’informazione pubblica",
+    "de": "Hinweis: Das Geld jedes Spielers ist eine öffentliche Information"
   },
   {
-    "it": "con gli altri non era nata una storia sentimentale.",
-    "de": "mit den anderen war keine sentimentale Geschichte entstanden."
+    "it": "e deve essere visibile per tutta la partita.",
+    "de": "und muss während der gesamten Partie sichtbar sein."
   },
+  { "it": "• Preparare le Maschere:", "de": "• Bereite die Masken vor:" },
   {
-    "it": "C'è una parte di lei che non fidandosi sapendo il passato ad oggi teme che possa riaccedere forse che la ragazza possa lasciarla o mettersi in un altra relazione,",
-    "de": "Es gibt einen Teil in Ihnen, der – da er dem Mädchen nicht vertraut und die Vergangenheit kennt – heute fürchtet, dass es wieder dazu kommen könnte, dass das Mädchen Sie verlässt oder sich in eine andere Beziehung begibt,"
+    "it": "Prendere la scheda Scenario corrispondente al numero dei giocatori",
+    "de": "Nimm die Szenariokarte, die der Spieleranzahl entspricht"
   },
   {
-    "it": "questo sospetto e timore può incrinare la relazione con lei.",
-    "de": "dieser Verdacht und diese Angst können die Beziehung mit ihr belasten."
+    "it": "e collocarla al centro del tavolo,",
+    "de": "und lege sie in die Mitte des Tisches,"
   },
+  { "it": "con il lato A a faccia in su.", "de": "mit der Seite A nach oben." },
   {
-    "it": "Resto disponibile per ulteriori approfondimenti e consigli.",
-    "de": "Ich stehe Ihnen für weitere Vertiefungen und Ratschläge zur Verfügung."
+    "it": "Fare riferimento a questa scheda",
+    "de": "Nutze diese Karte als Referenz,"
   },
   {
-    "it": "Cordiali saluti.",
-    "de": "Mit freundlichen Grüßen."
+    "it": "per sapere quali Maschere siano in gioco e i loro poteri.",
+    "de": "um zu wissen, welche Masken im Spiel sind und welche Kräfte sie haben."
   },
   {
-    "it": "Dottoressa Margherita Romeo",
-    "de": "Doktorin Margherita Romeo"
+    "it": "Nota: Una volta che i giocatori hanno preso confidenza con le regole,",
+    "de": "Hinweis: Sobald die Spieler mit den Regeln vertraut sind,"
   },
   {
-    "it": "Caro Mario,",
-    "de": "Lieber Mario,"
+    "it": "possono decidere di utilizzare il lato B delle schede Scenario",
+    "de": "können sie entscheiden, die B-Seite der Szenariokarten zu verwenden,"
   },
   {
-    "it": "leggo nelle tue parole un conflitto profondo:",
-    "de": "ich lese in Ihren Worten einen tiefen Konflikt:"
+    "it": "per affrontare sfide più strategiche.",
+    "de": "um strategischere Herausforderungen anzunehmen."
   },
   {
-    "it": "da un lato c'è il 'sentire' (ci stai benissimo,",
-    "de": "auf der einen Seite gibt es das 'Fühlen' (Sie fühlen sich sehr wohl mit ihr,"
+    "it": "Prendere le carte Maschera elencate nello Scenario scelto.",
+    "de": "Nimm die im gewählten Szenario aufgeführten Maskenkarten."
   },
+  { "it": "Mescolare le carte Maschera", "de": "Mische die Maskenkarten" },
   {
-    "it": "lei ti dimostra sinceramente il suo interesse),",
-    "de": "sie zeigt Ihnen aufrichtig ihr Interesse),"
+    "it": "e distribuirne casualmente 1 a ogni giocatore,",
+    "de": "und teile jedem Spieler zufällig eine aus,"
   },
   {
-    "it": "dall'altro c'è il 'giudicare',",
-    "de": "auf der anderen Seite gibt es das 'Urteilen',"
+    "it": "ognuno dei quali la collocherà a faccia in su davanti a sé",
+    "de": "die jeder offen vor sich ablegt,"
   },
   {
-    "it": "alimentato da etichette come 'ragazza facile' o dal senso di non essere stato la 'prima scelta'.",
-    "de": "genährt von Etiketten wie 'leichtes Mädchen' oder dem Gefühl, nicht die 'erste Wahl' gewesen zu sein."
+    "it": "leggendone il potere ad alta voce.",
+    "de": "während er die Kraft laut vorliest."
   },
   {
-    "it": "Permettimi di offrirti una prospettiva diversa,",
-    "de": "Erlauben Sie mir, Ihnen eine andere Perspektive anzubieten,"
+    "it": "Nota: In 4 o 5 giocatori collocare a faccia in su le carte rimanenti",
+    "de": "Hinweis: Bei 4 oder 5 Spielern lege die restlichen Karten offen"
   },
   {
-    "it": "più orientata alla comprensione delle dinamiche umane:",
-    "de": "die stärker auf das Verständnis menschlicher Dynamiken ausgerichtet ist:"
+    "it": "al centro del tavolo e leggerne i poteri ad alta voce.",
+    "de": "in die Tischmitte und lies deren Kräfte laut vor."
   },
   {
-    "it": "La 'scelta' iniziale e gli alibi:",
-    "de": "Die anfängliche 'Wahl' und die Ausreden:"
+    "it": "Una volta illustrati i poteri delle carte Maschera in gioco,",
+    "de": "Sobald die Kräfte der Maskenkarten im Spiel erklärt wurden,"
   },
+  { "it": "girarle a faccia in giù", "de": "drehe sie verdeckt" },
   {
-    "it": "Spesso,",
-    "de": "Oft,"
+    "it": "(inclusa qualsiasi carta al centro del tavolo).",
+    "de": "(einschließlich aller Karten in der Tischmitte)."
   },
   {
-    "it": "quando entriamo in un gruppo nuovo,",
-    "de": "wenn wir in eine neue Gruppe eintreten,"
+    "it": "• Mettere da parte qualsiasi componente rimanente:",
+    "de": "• Lege alle restlichen Komponenten beiseite:"
   },
   {
-    "it": "le dinamiche sono confuse.",
-    "de": "sind die Dynamiken verwirrend."
+    "it": "non verrà utilizzato in questa partita.",
+    "de": "sie werden in dieser Partie nicht verwendet."
   },
+  { "it": "Contenuti", "de": "Inhalt" },
+  { "it": "• 17 carte Maschera", "de": "• 17 Maskenkarten" },
+  { "it": "• 80 Monete di valore 1", "de": "• 80 Münzen mit Wert 1" },
+  { "it": "• 24 Monete di valore 5", "de": "• 24 Münzen mit Wert 5" },
+  { "it": "• 1 plancia del Tribunale", "de": "• 1 Gerichtstableau" },
+  { "it": "• 1 inserto Banca", "de": "• 1 Bank-Einsatz" },
+  { "it": "• 9 schede Scenario", "de": "• 9 Szenariokarten" },
+  { "it": "• 6 schede riepilogative", "de": "• 6 Übersichtskarten" },
+  { "it": "• 1 regolamento", "de": "• 1 Regelwerk" },
+  { "it": "Svolgimento del Gioco", "de": "Spielablauf" },
+  { "it": "Dopo 4 turni iniziali,", "de": "Nach 4 Einführungsrunden" },
   {
-    "it": "Se lei ti dice che inizialmente non voleva interferire con l'interesse di un'amica,",
-    "de": "Wenn sie Ihnen sagt, dass sie anfangs nicht in das Interesse einer Freundin eingreifen wollte,"
+    "it": "la partita prosegue per svariati turni",
+    "de": "geht die Partie über mehrere Runden weiter,"
   },
   {
-    "it": "potrebbe essere la verità o un modo per proteggere la propria immagine ai tuoi occhi.",
-    "de": "könnte das die Wahrheit sein oder eine Art, ihr eigenes Bild in Ihren Augen zu schützen."
+    "it": "fino a quando un giocatore ottiene 13 Monete",
+    "de": "bis ein Spieler 13 Münzen besitzt"
   },
   {
-    "it": "Ma la domanda vera è:",
-    "de": "Aber die eigentliche Frage ist:"
+    "it": "oppure un giocatore perde la sua ultima Moneta.",
+    "de": "oder ein Spieler seine letzte Münze verliert."
   },
+  { "it": "Turni iniziali", "de": "Einführungsrunden" },
   {
-    "it": "quanto conta chi ha guardato per primo in una serata in discoteca rispetto a chi sta scegliendo di venire sotto casa tua oggi?",
-    "de": "Wie viel zählt, wer in einer Diskotheken-Nacht zuerst geschaut hat, im Vergleich zu wer heute wählt, zu Ihnen nach Hause zu kommen?"
+    "it": "Partendo dal giocatore più giovane e procedendo in senso orario,",
+    "de": "Beginnend beim jüngsten Spieler und im Uhrzeigersinn,"
   },
   {
-    "it": "L'amore non è una gara di velocità,",
-    "de": "Liebe ist kein Geschwindigkeitsrennen,"
+    "it": "prendere la propria carta e quella di un altro giocatore",
+    "de": "nimm deine Karte und die eines anderen Spielers"
   },
+  { "it": "senza guardarle.", "de": "ohne sie anzusehen." },
   {
-    "it": "ma un processo di riconoscimento.",
-    "de": "sondern ein Prozess der Erkennung."
+    "it": "Poi, sempre senza guardarle,",
+    "de": "Dann, immer noch ohne sie anzusehen,"
   },
   {
-    "it": "Il giudizio come difesa:",
-    "de": "Das Urteil als Verteidigung:"
+    "it": "portare entrambe le carte sotto al tavolo",
+    "de": "führe beide Karten unter den Tisch"
   },
   {
-    "it": "Definire una persona 'facile' perché cercava leggerezza dopo un rapporto tossico è un modo per metterti su un piano di superiorità morale che,",
-    "de": "Jemanden 'leicht' zu nennen, weil sie nach einer toxischen Beziehung Leichtigkeit suchte, ist eine Art, sich auf eine Ebene moralischer Überlegenheit zu stellen, die jedoch,"
+    "it": "e scambiarle (o fingere di farlo).",
+    "de": "und tausche sie (oder tue so, als ob)."
   },
   {
-    "it": "però,",
-    "de": "allerdings,"
+    "it": "Infine, rimettere le carte sul tavolo davanti ai rispettivi giocatori.",
+    "de": "Lege die Karten schließlich vor den jeweiligen Spielern wieder auf den Tisch."
   },
   {
-    "it": "ti condanna all'infelicità.",
-    "de": "Sie zur Unglücklichkeit verurteilt."
+    "it": "Solo i primi quattro giocatori dovranno effettuare un turno iniziale,",
+    "de": "Nur die ersten vier Spieler führen eine Einführungsrunde aus,"
   },
   {
-    "it": "Come dico spesso ai miei pazienti,",
-    "de": "Wie ich meinen Patienten oft sage,"
+    "it": "dopodiché i turni proseguono seguendo le regole normali.",
+    "de": "danach werden die Züge nach den normalen Regeln fortgesetzt."
   },
+  { "it": "Turno del giocatore", "de": "Spielzug eines Spielers" },
+  { "it": "Dopo i turni iniziali,", "de": "Nach den Einführungsrunden" },
   {
-    "it": "il passato di una persona non è un marchio di infamia,",
-    "de": "die Vergangenheit einer Person ist kein Schandmal,"
+    "it": "la partita prosegue in senso orario secondo le regole seguenti.",
+    "de": "verläuft die Partie im Uhrzeigersinn nach den folgenden Regeln."
   },
   {
-    "it": "ma il terreno su cui è cresciuta.",
-    "de": "sondern der Boden, auf dem sie gewachsen ist."
+    "it": "Durante il suo turno, il giocatore effettua 1 azione a scelta tra:",
+    "de": "Während seines Zuges wählt der Spieler 1 Aktion aus:"
   },
   {
-    "it": "La libertà di vivere la propria sessualità o i propri approcci non toglie valore alla capacità di amare profondamente oggi.",
-    "de": "Die Freiheit, die eigene Sexualität oder die eigenen Annäherungsweisen zu leben, mindert nicht die Fähigkeit, heute tief zu lieben."
+    "it": "A. Guardare la propria Maschera",
+    "de": "A. Die eigene Maske ansehen"
   },
   {
-    "it": "Noi non siamo animali,",
-    "de": "Wir sind keine Tiere,"
+    "it": "B. Scambiare la propria Maschera",
+    "de": "B. Die eigene Maske tauschen"
   },
   {
-    "it": "ma siamo esseri emotivi:",
-    "de": "sondern emotionale Wesen:"
+    "it": "C. Dichiarare la propria Maschera",
+    "de": "C. Die eigene Maske ansagen"
   },
   {
-    "it": "Dici che 'si pensa prima di agire',",
-    "de": "Sie sagen, dass 'man denkt, bevor man handelt',"
+    "it": "Poi il giocatore successivo esegue il proprio turno.",
+    "de": "Dann ist der nächste Spieler an der Reihe."
   },
   {
-    "it": "ma la psiche umana,",
-    "de": "aber die menschliche Psyche,"
+    "it": "A. Guardare la propria Maschera",
+    "de": "A. Die eigene Maske ansehen"
   },
   {
-    "it": "specialmente dopo un trauma (come un ex tossico),",
-    "de": "besonders nach einem Trauma (wie ein toxischer Ex),"
+    "it": "Guardare segretamente la carta Maschera di fronte a sé.",
+    "de": "Sieh dir heimlich die Maskenkarte vor dir an."
   },
   {
-    "it": "cerca spesso vie di fuga,",
-    "de": "sucht oft Auswege,"
+    "it": "Se un giocatore guarda accidentalmente la sua carta all’infuori del proprio turno,",
+    "de": "Falls ein Spieler versehentlich seine Karte außerhalb seines Zuges ansieht,"
   },
   {
-    "it": "distrazioni o conferme rapide per sentirsi di nuovo 'viva'.",
-    "de": "Ablenkungen oder schnelle Bestätigungen, um sich wieder 'lebendig' zu fühlen."
+    "it": "quel giocatore deve effettuare questa azione nel suo turno.",
+    "de": "muss dieser Spieler diese Aktion in seinem Zug ausführen."
   },
   {
-    "it": "Quello che tu chiami 'agire senza pensare' era probabilmente un grido di libertà di una ragazza che cercava di respirare dopo un'oppressione.",
-    "de": "Was Sie 'ohne Nachdenken handeln' nennen, war wahrscheinlich ein Freiheitsschrei eines Mädchens, das versuchte, nach einer Unterdrückung wieder zu atmen."
+    "it": "B. Scambiare la propria Maschera",
+    "de": "B. Die eigene Maske tauschen"
   },
   {
-    "it": "Il bivio:",
-    "de": "Die Weggabelung:"
+    "it": "Prendere la propria carta e quella di un altro giocatore,",
+    "de": "Nimm deine Karte und die eines anderen Spielers,"
   },
   {
-    "it": "Se continui a guardare questa ragazza attraverso la lente del sospetto e del pregiudizio,",
-    "de": "Wenn Sie dieses Mädchen weiterhin durch die Linse des Verdachts und des Vorurteils betrachten,"
+    "it": "poi, senza guardarle, portarle sotto al tavolo",
+    "de": "dann, ohne sie anzusehen, führe sie unter den Tisch"
   },
   {
-    "it": "finirai per distruggere ciò che di buono c'è tra voi.",
-    "de": "werden Sie am Ende das Gute zerstören, das zwischen Ihnen besteht."
+    "it": "e scambiarle (o fingere di farlo).",
+    "de": "und tausche sie (oder tue so, als ob)."
   },
   {
-    "it": "La domanda che dovresti farti non è 'cosa ha fatto con il mio amico',",
-    "de": "Die Frage, die Sie sich stellen sollten, ist nicht 'was hat sie mit meinem Freund gemacht',"
+    "it": "Infine, rimettere le carte sul tavolo a faccia in giù.",
+    "de": "Lege die Karten schließlich verdeckt auf den Tisch zurück."
   },
   {
-    "it": "ma:",
-    "de": "sondern:"
+    "it": "Nota: In 4 o 5 giocatori, è possibile farlo con una carta al centro.",
+    "de": "Hinweis: Bei 4 oder 5 Spielern ist dies auch mit einer Karte in der Mitte möglich."
   },
   {
-    "it": "'Sono capace di accogliere questa persona per chi è oggi,",
-    "de": "'Bin ich in der Lage, diese Person so zu empfangen, wie sie heute ist,"
+    "it": "C. Dichiarare la propria Maschera",
+    "de": "C. Die eigene Maske ansagen"
   },
   {
-    "it": "o sono troppo legato a un'idea ideale (e un po' rigida) di come dovrebbe essere una donna?",
-    "de": "oder bin ich zu sehr an eine ideale (und etwas starre) Vorstellung davon gebunden, wie eine Frau sein sollte?"
+    "it": "Dichiarare la propria carta Maschera permette di attivare il suo potere.",
+    "de": "Die eigene Maske anzusagen erlaubt es, ihre Kraft zu aktivieren."
   },
   {
-    "it": "'Il modo migliore per prevedere il tuo futuro con lei è smettere di processare il suo passato e iniziare a costruire un presente basato sulla fiducia che lei ti sta dimostrando.",
-    "de": "Der beste Weg, Ihre Zukunft mit ihr vorherzusagen, ist aufzuhören, ihre Vergangenheit zu verarbeiten, und damit zu beginnen, eine Gegenwart aufzubauen, die auf dem Vertrauen basiert, das sie Ihnen zeigt."
+    "it": "Se si è stati obbligati a rivelare la carta nel turno precedente,",
+    "de": "Musste man die Karte im vorherigen Zug aufdecken,"
   },
   {
-    "it": "Un cordiale saluto,",
-    "de": "Mit freundlichen Grüßen,"
+    "it": "non è possibile effettuare questa azione in questo turno.",
+    "de": "ist diese Aktion in diesem Zug nicht möglich."
   },
   {
-    "it": "Dott.",
-    "de": "Dr."
+    "it": "Per effettuare questa azione, dichiarare il nome della Maschera",
+    "de": "Um diese Aktion auszuführen, nenne den Namen der Maske,"
   },
+  { "it": "senza rivelare la carta.", "de": "ohne die Karte aufzudecken." },
   {
-    "it": "ssa Maria Pandolfo",
-    "de": "Maria Pandolfo"
+    "it": "Gli altri giocatori hanno l'opzione di contestare la dichiarazione.",
+    "de": "Die anderen Spieler haben die Möglichkeit, der Ansage zu widersprechen."
   },
+  { "it": "Nessuna contestazione", "de": "Kein Einspruch" },
   {
-    "it": "Caro Mario,",
-    "de": "Lieber Mario,"
+    "it": "Se nessuno afferma di possedere la Maschera,",
+    "de": "Wenn niemand behauptet, diese Maske zu besitzen,"
   },
   {
-    "it": "capisco il disagio,",
-    "de": "ich verstehe das Unbehagen,"
+    "it": "si applica il potere senza rivelare la carta.",
+    "de": "wird die Kraft angewendet, ohne die Karte aufzudecken."
   },
   {
-    "it": "ma stai costruendo molto su interpretazioni e giudizi.",
-    "de": "aber Sie bauen viel auf Interpretationen und Urteilen auf."
+    "it": "Nota: Bluffare è una componente fondamentale del gioco.",
+    "de": "Hinweis: Bluffen ist ein wesentlicher Bestandteil des Spiels."
   },
+  { "it": "Fine della partita", "de": "Spielende" },
   {
-    "it": "Conoscere qualcuno è ancora lontano da una relazione:",
-    "de": "Jemanden kennenzulernen ist noch weit von einer Beziehung entfernt:"
+    "it": "Un giocatore ottiene 13 Monete e viene dichiarato vincitore.",
+    "de": "Ein Spieler erhält 13 Münzen und wird zum Sieger erklärt."
   },
   {
-    "it": "serve tempo,",
-    "de": "es braucht Zeit,"
+    "it": "Un giocatore perde la sua ultima Moneta e il più ricco vince.",
+    "de": "Ein Spieler verliert seine letzte Münze und der Reichste gewinnt."
   },
+  { "it": "Una o più contestazioni", "de": "Ein oder mehrere Einsprüche" },
   {
-    "it": "spazio e osservazione reciproca.",
-    "de": "Raum und gegenseitige Beobachtung."
+    "it": "Se uno o più giocatori contestano, tutti rivelano le proprie carte.",
+    "de": "Wenn einer oder mehrere Spieler widersprechen, decken alle ihre Karten auf."
   },
   {
-    "it": "Etichette come 'facile' ti allontanano dalla realtà e creano tensione inutile.",
-    "de": "Etiketten wie „leicht' entfernen Sie von der Realität und erzeugen unnötige Spannung."
+    "it": "Il giocatore che possiede effettivamente la carta applica il potere.",
+    "de": "Der Spieler, der die Karte tatsächlich besitzt, nutzt die Kraft."
   },
   {
-    "it": "Sì,",
-    "de": "Ja,"
+    "it": "Chi ha sbagliato paga 1 Moneta al Tribunale.",
+    "de": "Wer sich geirrt hat, zahlt 1 Münze an das Gericht."
   },
+  { "it": "Poteri delle Maschere", "de": "Kräfte der Masken" },
   {
-    "it": "siamo anche esseri istintivi e sessuali:",
-    "de": "wir sind auch instinktive und sexuelle Wesen:"
+    "it": "Imperatrice: prende 3 Monete dalla Banca.",
+    "de": "Kaiserin: nimmt 3 Münzen von der Bank."
   },
   {
-    "it": "questo non definisce il valore di una persona né la qualità di una futura relazione.",
-    "de": "das definiert weder den Wert einer Person noch die Qualität einer zukünftigen Beziehung."
+    "it": "Giudice: prende tutte le Monete sul Tribunale.",
+    "de": "Richter: nimmt alle Münzen vom Gerichtstableau."
   },
   {
-    "it": "Il punto centrale è un altro:",
-    "de": "Der zentrale Punkt ist ein anderer:"
+    "it": "Guru: Sceglie un giocatore che deve dichiarare la sua Maschera.",
+    "de": "Guru: Wählt einen Spieler, der seine Maske ansagen muss."
   },
   {
-    "it": "ti fidi di lei oggi?",
-    "de": "vertrauen Sie ihr heute?"
+    "it": "Se non corrisponde, quel giocatore cede 4 Monete al Guru.",
+    "de": "Stimmt sie nicht überein, gibt dieser Spieler 4 Münzen an den Guru."
   },
   {
-    "it": "Ti fa stare bene nel presente?",
-    "de": "Lässt sie Sie sich in der Gegenwart wohlfühlen?"
+    "it": "Burattinaio: Sceglie due giocatori e prende 1 Moneta da ciascuno.",
+    "de": "Puppenspieler: Wählt zwei Spieler und nimmt von jedem 1 Münze."
   },
   {
-    "it": "Se la risposta è sì,",
-    "de": "Wenn die Antwort Ja lautet,"
+    "it": "Baro: Se ha 10 o più Monete, vince immediatamente.",
+    "de": "Betrüger: Wenn er 10 oder mehr Münzen hat, gewinnt er sofort."
   },
   {
-    "it": "prova a lasciare andare il controllo sul passato e concentrarti su come si comporta adesso con te.",
-    "de": "versuchen Sie, die Kontrolle über die Vergangenheit loszulassen und sich darauf zu konzentrieren, wie sie sich jetzt Ihnen gegenüber verhält."
+    "it": "Contadino (x2): Prende 1 Moneta. Se sono due, prendono 2 Monete ciascuno.",
+    "de": "Bauer (x2): Nimmt 1 Münze. Sind es zwei, nehmen sie jeweils 2 Münzen."
   },
   {
-    "it": "Se invece il dubbio ti logora,",
-    "de": "Wenn Sie hingegen der Zweifel zermürbt,"
+    "it": "Giullare: Prende 1 Moneta e scambia due carte sotto al tavolo.",
+    "de": "Narr: Nimmt 1 Münze und tauscht zwei Karten unter dem Tisch."
   },
   {
-    "it": "fermati e chiarisci i tuoi confini:",
-    "de": "halten Sie inne und klären Sie Ihre Grenzen:"
+    "it": "Imbroglione: Prende 2 Monete dal giocatore più ricco.",
+    "de": "Schwindler: Stiehlt 2 Münzen vom reichsten Spieler."
   },
   {
-    "it": "cosa cerchi davvero e cosa non riesci ad accettare.",
-    "de": "was Sie wirklich suchen und was Sie nicht akzeptieren können."
+    "it": "Vedova: Prende Monete finché non ne ha esattamente 10.",
+    "de": "Witwe: Nimmt Münzen, bis sie genau 10 hat."
   },
   {
-    "it": "Investi più fiducia in te stesso e negli altri.",
-    "de": "Investieren Sie mehr Vertrauen in sich selbst und andere."
+    "it": "Spia: Guarda la sua carta e quella di un altro, poi scambia (o finge).",
+    "de": "Spion: Sieht sich seine und eine andere Karte an, dann tauscht er (oder tut so)."
   },
   {
-    "it": "Meno moralismo,",
-    "de": "Weniger Moralismus,"
+    "it": "Mendicante: Chiede 1 Moneta a chi è più ricco di lui.",
+    "de": "Bettler: Verlangt 1 Münze von jedem, der reicher ist als er."
   },
   {
-    "it": "più consapevolezza.",
-    "de": "mehr Bewusstsein."
+    "it": "Principessa: Prende 2 Monete e fa rivelare la carta a un altro.",
+    "de": "Prinzessin: Nimmt 2 Münzen und lässt einen anderen seine Karte zeigen."
   },
   {
-    "it": "Lasciati andare senza paura,",
-    "de": "Lassen Sie sich ohne Angst gehen,"
+    "it": "Sciamana: Scambia tutto il suo denaro con quello di un altro.",
+    "de": "Schamanin: Tauscht ihr gesamtes Geld mit dem eines anderen."
   },
   {
-    "it": "ma con lucidità.",
-    "de": "aber mit Klarheit."
+    "it": "Mecenate: Prende 3 Monete, i vicini ne prendono 1 ciascuno.",
+    "de": "Mäzen: Nimmt 3 Münzen, die Nachbarn nehmen jeweils 1."
   },
   {
-    "it": "C'è spazio per crescere,",
-    "de": "Es gibt Raum zum Wachsen,"
+    "it": "Re: prende 2 Monete dalla Banca.",
+    "de": "König: nimmt 2 Münzen von der Bank."
   },
   {
-    "it": "in un senso o nell'altro.",
-    "de": "in die eine oder andere Richtung."
+    "it": "Ladro: prende 1 Moneta dai vicini di destra e sinistra.",
+    "de": "Dieb: stiehlt 1 Münze von den Nachbarn links und rechts."
   },
+  { "it": "Creare Scenari personalizzati", "de": "Eigene Szenarien erstellen" },
   {
-    "it": "Se vuoi,",
-    "de": "Wenn Sie möchten,"
+    "it": "La Maschera Giudice deve essere inclusa nella partita.",
+    "de": "Der Richter muss in der Partie enthalten sein."
   },
   {
-    "it": "ne parliamo meglio.",
-    "de": "sprechen wir ausführlicher darüber."
+    "it": "Almeno un terzo delle Maschere deve avere il simbolo nell'angolo.",
+    "de": "Mindestens ein Drittel der Masken muss das Symbol in der Ecke haben."
   },
-  {
-    "it": "Dott.",
-    "de": "Dr."
-  },
-  {
-    "it": "ssa Chiara GirolamoPsicologa Clinica,",
-    "de": "Chiara Girolamo, Klinische Psychologin,"
-  },
-  {
-    "it": "Facilitatrice MindffulnessRicevo anche online",
-    "de": "Mindfulness-Facilitatorin – Ich empfange auch online"
-  },
-  {
-    "it": "Capisco bene il punto in cui sei:",
-    "de": "Ich verstehe gut, an welchem Punkt Sie sich befinden:"
-  },
-  {
-    "it": "da una parte stai bene con lei dall'altra hai dentro una specie di 'nodo' che non riesci a sciogliere.",
-    "de": "einerseits geht es Ihnen gut mit ihr, andererseits haben Sie innerlich eine Art „Knoten', den Sie nicht lösen können."
-  },
-  {
-    "it": "E quel nodo non è tanto quello che lei ha fatto,",
-    "de": "Und dieser Knoten ist nicht so sehr das, was sie getan hat,"
-  },
-  {
-    "it": "ma quello che quel comportamento significa per te.",
-    "de": "sondern das, was dieses Verhalten für Sie bedeutet."
-  },
-  {
-    "it": "Quello che ti sta facendo stare male non è solo il fatto che lei inizialmente si sia avvicinata al tuo amico,",
-    "de": "Was Ihnen zu schaffen macht, ist nicht nur die Tatsache, dass sie sich anfangs Ihrem Freund genähert hat,"
-  },
-  {
-    "it": "ma il significato che tu dai a quella cosa:",
-    "de": "sondern die Bedeutung, die Sie dem beimessen:"
-  },
-  {
-    "it": "'non mi ha scelto',",
-    "de": "„sie hat mich nicht gewählt',"
-  },
-  {
-    "it": "'è una facile',",
-    "de": "„sie ist leichtfertig',"
-  },
-  {
-    "it": "'non è il tipo di ragazza che voglio'.",
-    "de": "„sie ist nicht der Typ Mädchen, den ich will'."
-  },
-  {
-    "it": "Sono pensieri molto forti e soprattutto molto definitivi.",
-    "de": "Das sind sehr starke und vor allem sehr endgültige Gedanken."
-  },
-  {
-    "it": "Il problema è che,",
-    "de": "Das Problem ist, dass,"
-  },
-  {
-    "it": "una volta che li hai costruiti così,",
-    "de": "wenn Sie sie einmal so aufgebaut haben,"
-  },
-  {
-    "it": "è difficile poi vivere la relazione serenamente,",
-    "de": "es schwierig ist, die Beziehung danach gelassen zu leben,"
-  },
-  {
-    "it": "anche se lei oggi si comporta bene con te.",
-    "de": "auch wenn sie sich heute gut Ihnen gegenüber verhält."
-  },
-  {
-    "it": "Ti dico una cosa in modo diretto:",
-    "de": "Ich sage Ihnen etwas direkt:"
-  },
-  {
-    "it": "il rischio più grande qui non è lei,",
-    "de": "das größte Risiko hier ist nicht sie,"
-  },
-  {
-    "it": "sei tu che rischi di sabotare una relazione che ti fa stare bene perché non riesci ad accettare il passato e la libertà che lei ha avuto prima di te.",
-    "de": "Sie sind es, der riskiert, eine Beziehung zu sabotieren, die Ihnen gut tut, weil Sie die Vergangenheit und die Freiheit, die sie vor Ihnen hatte, nicht akzeptieren können."
-  },
-  {
-    "it": "Sul fatto che 'non ti abbia scelto subito',",
-    "de": "Was die Tatsache betrifft, dass „sie Sie nicht sofort gewählt hat',"
-  },
-  {
-    "it": "bisogna essere onesti:",
-    "de": "muss man ehrlich sein:"
-  },
-  {
-    "it": "all'inizio tra persone che non si conoscono davvero,",
-    "de": "am Anfang zwischen Menschen, die sich nicht wirklich kennen,"
-  },
-  {
-    "it": "le scelte sono spesso superficiali,",
-    "de": "sind die Entscheidungen oft oberflächlich,"
-  },
-  {
-    "it": "casuali,",
-    "de": "zufällig,"
-  },
-  {
-    "it": "influenzate dal momento,",
-    "de": "vom Moment beeinflusst,"
-  },
-  {
-    "it": "dagli amici,",
-    "de": "von den Freunden,"
-  },
-  {
-    "it": "dal contesto.",
-    "de": "vom Kontext."
-  },
-  {
-    "it": "Non sono scelte 'profonde'.",
-    "de": "Es sind keine „tiefen' Entscheidungen."
-  },
-  {
-    "it": "Il fatto che oggi,",
-    "de": "Die Tatsache, dass sie heute,"
-  },
-  {
-    "it": "conoscendoti meglio,",
-    "de": "da sie Sie besser kennt,"
-  },
-  {
-    "it": "lei abbia scelto te,",
-    "de": "Sie gewählt hat,"
-  },
-  {
-    "it": "ha un valore molto diverso rispetto a quello che è successo la prima sera.",
-    "de": "hat einen ganz anderen Wert als das, was am ersten Abend passiert ist."
-  },
-  {
-    "it": "Sul tema 'è una facile',",
-    "de": "Zum Thema „sie ist leichtfertig',"
-  },
-  {
-    "it": "ti invito a fermarti un attimo perché qui c'è un giudizio molto rigido.",
-    "de": "lade ich Sie ein, einen Moment innezuhalten, weil hier ein sehr starres Urteil vorliegt."
-  },
-  {
-    "it": "Una persona che si bacia o va in macchina con qualcuno dopo poco tempo non è automaticamente una persona 'di poco valore'.",
-    "de": "Eine Person, die sich nach kurzer Zeit mit jemandem küsst oder ins Auto steigt, ist nicht automatisch eine Person „von geringem Wert'."
-  },
-  {
-    "it": "È una persona che in quel momento ha fatto una scelta,",
-    "de": "Es ist eine Person, die in diesem Moment eine Entscheidung getroffen hat,"
-  },
-  {
-    "it": "magari impulsiva,",
-    "de": "vielleicht impulsiv,"
-  },
-  {
-    "it": "magari legata al bisogno di leggerezza dopo una relazione pesante.",
-    "de": "vielleicht verbunden mit dem Bedürfnis nach Leichtigkeit nach einer schweren Beziehung."
-  },
-  {
-    "it": "Tu puoi non condividere quel modo di vivere le cose ed è legittimo,",
-    "de": "Sie können diese Art, die Dinge zu leben, nicht teilen und das ist legitim,"
-  },
-  {
-    "it": "ma trasformarlo in un'etichetta sulla persona rischia di farti vedere solo quello e ignorare tutto il resto di lei.",
-    "de": "aber es in ein Etikett auf der Person zu verwandeln, riskiert, Sie nur das sehen zu lassen und alles andere an ihr zu ignorieren."
-  },
-  {
-    "it": "La domanda vera che devi farti non è 'lei è giusta in assoluto?",
-    "de": "Die wahre Frage, die Sie sich stellen müssen, ist nicht „Ist sie absolut die Richtige?"
-  },
-  {
-    "it": "ma:",
-    "de": "sondern:"
-  },
-  {
-    "it": "riesco io ad accettare la sua storia e quello che è stata,",
-    "de": "Kann ich ihre Geschichte und das, was sie war, akzeptieren,"
-  },
-  {
-    "it": "senza viverla come un tradimento personale?",
-    "de": "ohne es als persönlichen Verrat zu erleben?"
-  },
-  {
-    "it": "Perché se la risposta è no,",
-    "de": "Denn wenn die Antwort Nein lautet,"
-  },
-  {
-    "it": "allora continuerai a stare male anche se lei si comporta benissimo.",
-    "de": "dann werden Sie weiter leiden, auch wenn sie sich sehr gut verhält."
-  },
-  {
-    "it": "Un altro punto importante è la fiducia.",
-    "de": "Ein weiterer wichtiger Punkt ist das Vertrauen."
-  },
-  {
-    "it": "Mi dici che lei ti dimostra di volere te,",
-    "de": "Sie sagen mir, dass sie Ihnen zeigt, dass sie Sie will,"
-  },
-  {
-    "it": "che è presente,",
-    "de": "dass sie präsent ist,"
-  },
-  {
-    "it": "che ti cerca.",
-    "de": "dass sie Sie sucht."
-  },
-  {
-    "it": "Questo è il presente.",
-    "de": "Das ist die Gegenwart."
-  },
-  {
-    "it": "Il problema è che la tua testa continua a tornare al passato e a metterlo davanti a quello che succede ora.",
-    "de": "Das Problem ist, dass Ihr Kopf immer wieder in die Vergangenheit zurückkehrt und sie vor das stellt, was jetzt passiert."
-  },
-  {
-    "it": "Non devi convincerti a forza a stare con lei.",
-    "de": "Sie müssen sich nicht zwingen, mit ihr zusammen zu sein."
-  },
-  {
-    "it": "Ma devi essere onesto:",
-    "de": "Aber Sie müssen ehrlich sein:"
-  },
-  {
-    "it": "se per te certi valori sono davvero non negoziabili,",
-    "de": "wenn für Sie bestimmte Werte wirklich nicht verhandelbar sind,"
-  },
-  {
-    "it": "allora forse questa relazione non è coerente con quello che cerchi.",
-    "de": "dann ist diese Beziehung vielleicht nicht kohärent mit dem, was Sie suchen."
-  },
-  {
-    "it": "Se invece ti rendi conto che è più una ferita sull'ego ('non mi ha scelto subito',",
-    "de": "Wenn Sie hingegen erkennen, dass es eher eine Wunde am Ego ist („sie hat mich nicht sofort gewählt',"
-  },
-  {
-    "it": "'ha scelto un mio amico') e una difficoltà ad accettare la libertà dell'altro,",
-    "de": "„sie hat einen meiner Freunde gewählt') und eine Schwierigkeit, die Freiheit des anderen zu akzeptieren,"
-  },
-  {
-    "it": "allora è lì che c'è da lavorare.",
-    "de": "dann ist das der Bereich, an dem gearbeitet werden muss."
-  },
-  {
-    "it": "In poche parole:",
-    "de": "Kurzum:"
-  },
-  {
-    "it": "o accetti davvero chi è lei,",
-    "de": "Entweder akzeptieren Sie wirklich, wer sie ist,"
-  },
-  {
-    "it": "passato compreso oppure la relazione diventerà un continuo logorarti.",
-    "de": "Vergangenheit eingeschlossen, oder die Beziehung wird Sie kontinuierlich zermürben."
-  },
-  {
-    "it": "Stare nel mezzo è la cosa che fa più male.",
-    "de": "In der Mitte zu stehen ist das, was am meisten schmerzt."
-  },
-  {
-    "it": "Salve Mario,",
-    "de": "Guten Tag Mario,"
-  },
-  {
-    "it": "quello che racconta sembra toccare un punto molto sensibile:",
-    "de": "was Sie erzählen, scheint einen sehr empfindlichen Punkt zu berühren:"
-  },
-  {
-    "it": "il vissuto di non essere stato scelto subito.",
-    "de": "das Erlebnis, nicht sofort gewählt worden zu sein."
-  },
-  {
-    "it": "Più che i fatti in sé,",
-    "de": "Mehr als die Fakten an sich,"
-  },
-  {
-    "it": "è il significato che questo ha assunto per lei a farla stare male.",
-    "de": "ist es die Bedeutung, die dies für Sie angenommen hat, die Ihnen zu schaffen macht."
-  },
-  {
-    "it": "Quando si attivano vissuti di esclusione o di 'non essere preferiti',",
-    "de": "Wenn Erlebnisse von Ausschluss oder „nicht bevorzugt werden' aktiviert werden,"
-  },
-  {
-    "it": "spesso si riaprono ferite più antiche,",
-    "de": "öffnen sich oft ältere Wunden wieder,"
-  },
-  {
-    "it": "legate al bisogno profondo di essere riconosciuti e sentiti come importanti per l'altro.",
-    "de": "verbunden mit dem tiefen Bedürfnis, anerkannt und als wichtig für den anderen gefühlt zu werden."
-  },
-  {
-    "it": "Quando questo bisogno viene eluso,",
-    "de": "Wenn dieses Bedürfnis umgangen wird,"
-  },
-  {
-    "it": "può emergere una sofferenza narcisistica:",
-    "de": "kann ein narzisstisches Leiden entstehen:"
-  },
-  {
-    "it": "una parte di sé si sente messa in discussione e rifiutata.",
-    "de": "ein Teil von sich fühlt sich in Frage gestellt und abgelehnt."
-  },
-  {
-    "it": "Per difendersi da questo dolore,",
-    "de": "Um sich vor diesem Schmerz zu schützen,"
-  },
-  {
-    "it": "può accadere di oscillare:",
-    "de": "kann es vorkommen zu schwanken:"
-  },
-  {
-    "it": "da un lato il coinvolgimento e il piacere di stare con lei,",
-    "de": "einerseits das Engagement und die Freude, mit ihr zusammen zu sein,"
-  },
-  {
-    "it": "dall'altro pensieri che la svalutano (ad esempio definirla 'facile'),",
-    "de": "andererseits Gedanken, die sie abwerten (zum Beispiel sie „leichtfertig' zu nennen),"
-  },
-  {
-    "it": "come se questo aiutasse a prendere le distanze da ciò che la ferisce.",
-    "de": "als ob das helfen würde, Abstand von dem zu nehmen, was Sie verletzt."
-  },
-  {
-    "it": "Il punto quindi non è tanto stabilire com'è la sua ragazza,",
-    "de": "Der Punkt ist also nicht so sehr festzustellen, wie Ihre Freundin ist,"
-  },
-  {
-    "it": "ma comprendere cosa ha toccato in lei questa esperienza.",
-    "de": "sondern zu verstehen, was diese Erfahrung in Ihnen berührt hat."
-  },
-  {
-    "it": "Perché il rischio è che questa ferita continui a ripresentarsi,",
-    "de": "Denn das Risiko besteht darin, dass diese Wunde sich immer wieder zeigt,"
-  },
-  {
-    "it": "anche in altre relazioni.",
-    "de": "auch in anderen Beziehungen."
-  },
-  {
-    "it": "Fermarsi su questo,",
-    "de": "Dabei innezuhalten,"
-  },
-  {
-    "it": "magari con un aiuto psicologico,",
-    "de": "vielleicht mit psychologischer Hilfe,"
-  },
-  {
-    "it": "può aiutarla a dare senso a ciò che prova e a vivere i legami con maggiore serenità.",
-    "de": "kann Ihnen helfen, dem, was Sie erleben, Sinn zu geben und Beziehungen mit mehr Gelassenheit zu leben."
-  },
-  {
-    "it": "Gentile Mario,",
-    "de": "Lieber Mario,"
-  },
-  {
-    "it": "Quello che ti fa stare male non è quello che lei ha fatto all'inizio,",
-    "de": "Was Ihnen zu schaffen macht, ist nicht das, was sie am Anfang getan hat,"
-  },
-  {
-    "it": "ma il modo in cui tu lo stai leggendo oggi.",
-    "de": "sondern die Art, wie Sie es heute lesen."
-  },
-  {
-    "it": "Dentro di te si è aperta una ferita:",
-    "de": "In Ihnen hat sich eine Wunde geöffnet:"
-  },
-  {
-    "it": "la paura di non essere stato scelto subito,",
-    "de": "die Angst, nicht sofort gewählt worden zu sein,"
-  },
-  {
-    "it": "la paura di valere meno del tuo amico,",
-    "de": "die Angst, weniger wert zu sein als Ihr Freund,"
-  },
-  {
-    "it": "la paura che il suo passato dica qualcosa su di lei o su di voi.",
-    "de": "die Angst, dass ihre Vergangenheit etwas über sie oder über Sie beide aussagt."
-  },
-  {
-    "it": "È una sensazione comprensibile,",
-    "de": "Das ist ein verständliches Gefühl,"
-  },
-  {
-    "it": "ma non è la realtà dei fatti.",
-    "de": "aber es ist nicht die Realität der Fakten."
-  },
-  {
-    "it": "Lei non ti conosceva.",
-    "de": "Sie kannte Sie nicht."
-  },
-  {
-    "it": "Non poteva scegliere te prima di incontrarti davvero.",
-    "de": "Sie konnte Sie nicht wählen, bevor sie Sie wirklich kennengelernt hatte."
-  },
-  {
-    "it": "E quando ti ha conosciuto,",
-    "de": "Und als sie Sie kennengelernt hat,"
-  },
-  {
-    "it": "ti ha scelto in modo chiaro,",
-    "de": "hat sie Sie klar gewählt,"
-  },
-  {
-    "it": "costante,",
-    "de": "beständig,"
-  },
-  {
-    "it": "insistente.",
-    "de": "beharrlich."
-  },
-  {
-    "it": "Questo è ciò che conta.",
-    "de": "Das ist das, was zählt."
-  },
-  {
-    "it": "Il resto — i baci,",
-    "de": "Der Rest — die Küsse,"
-  },
-  {
-    "it": "le uscite,",
-    "de": "die Dates,"
-  },
-  {
-    "it": "la leggerezza dopo una storia tossica — non definisce chi è oggi né cosa prova per te.",
-    "de": "die Leichtigkeit nach einer toxischen Beziehung — definiert nicht, wer sie heute ist, noch was sie für Sie empfindet."
-  },
-  {
-    "it": "Sono comportamenti di un momento di vita,",
-    "de": "Es sind Verhaltensweisen eines Lebensmoments,"
-  },
-  {
-    "it": "non un'etichetta sulla persona.",
-    "de": "kein Etikett auf der Person."
-  },
-  {
-    "it": "E soprattutto non sono una minaccia per la vostra relazione.",
-    "de": "Und vor allem sind sie keine Bedrohung für Ihre Beziehung."
-  },
-  {
-    "it": "La verità è che tu stai lottando con un'idea rigida di 'ragazza giusta',",
-    "de": "Die Wahrheit ist, dass Sie mit einer starren Vorstellung von „richtiges Mädchen' kämpfen,"
-  },
-  {
-    "it": "un modello che ti fa sentire al sicuro ma che rischia di farti perdere una relazione che ti fa stare bene.",
-    "de": "ein Modell, das Sie sich sicher fühlen lässt, aber das riskiert, Sie eine Beziehung verlieren zu lassen, die Ihnen gut tut."
-  },
-  {
-    "it": "Lei oggi ti rispetta,",
-    "de": "Sie respektiert Sie heute,"
-  },
-  {
-    "it": "ti sceglie,",
-    "de": "wählt Sie,"
-  },
-  {
-    "it": "ti dimostra presenza.",
-    "de": "zeigt Ihnen Präsenz."
-  },
-  {
-    "it": "Questo è ciò che costruisce una coppia,",
-    "de": "Das ist das, was ein Paar aufbaut,"
-  },
-  {
-    "it": "non ciò che è successo prima.",
-    "de": "nicht das, was vorher passiert ist."
-  },
-  {
-    "it": "Il punto non è giudicare lei,",
-    "de": "Der Punkt ist nicht, sie zu beurteilen,"
-  },
-  {
-    "it": "ma ascoltare te:",
-    "de": "sondern auf Sie zu hören:"
-  },
-  {
-    "it": "questa gelosia parla della tua insicurezza,",
-    "de": "diese Eifersucht spricht von Ihrer Unsicherheit,"
-  },
-  {
-    "it": "non del suo valore.",
-    "de": "nicht von ihrem Wert."
-  },
-  {
-    "it": "E questa parte si può comprendere,",
-    "de": "Und dieser Teil kann verstanden werden,"
-  },
-  {
-    "it": "rassicurare,",
-    "de": "beruhigt werden,"
-  },
-  {
-    "it": "trasformare.",
-    "de": "transformiert werden."
-  },
-  {
-    "it": "Se vuoi resto a tua disposizione per un incontro online.",
-    "de": "Wenn Sie möchten, stehe ich Ihnen für ein Online-Gespräch zur Verfügung."
-  },
-  {
-    "it": "Saluti sentitiDottoressa Arianna BagniniPsicologa Clinica- del LavoroRisorse Umane- OrganizzazioniRicevo Online",
-    "de": "Herzliche GrüßeDoktorin Arianna BagniniKlinische Psychologin – ArbeitspsychologiePersonalwesen – OrganisationenEmpfange online"
-  },
-  {
-    "it": "Ciao,",
-    "de": "Hallo,"
-  },
-  {
-    "it": "Mario.",
-    "de": "Mario."
-  },
-  {
-    "it": "Emerge chiaramente un conflitto interiore,",
-    "de": "Es zeigt sich deutlich ein innerer Konflikt,"
-  },
-  {
-    "it": "tra il tuo ideale femminile e ciò che questa ragazza rappresenta ai tuoi occhi,",
-    "de": "zwischen Ihrem weiblichen Ideal und dem, was dieses Mädchen in Ihren Augen darstellt,"
-  },
-  {
-    "it": "avendola definita 'facile'.",
-    "de": "da Sie sie als „leichtfertig' bezeichnet haben."
-  },
-  {
-    "it": "Una persona che ha rapporti sessuali,",
-    "de": "Eine Person, die sexuelle Beziehungen hat,"
-  },
-  {
-    "it": "anche senza aver conosciuto bene qualcuno,",
-    "de": "auch ohne jemanden gut zu kennen,"
-  },
-  {
-    "it": "vive semplicemente la sua sessualità in una maniera diversa ma non per questo squalificante e condannabile,",
-    "de": "lebt ihre Sexualität einfach auf eine andere Weise, aber deshalb nicht disqualifizierend und verurteilenswert,"
-  },
-  {
-    "it": "rispetto a come la vivi tu.",
-    "de": "im Vergleich dazu, wie Sie sie leben."
-  },
-  {
-    "it": "Siamo esseri umani,",
-    "de": "Wir sind Menschen,"
-  },
-  {
-    "it": "con pregi e difetti,",
-    "de": "mit Stärken und Schwächen,"
-  },
-  {
-    "it": "possiamo anche agire mossi da tormenti personali ma proviamo sentimenti e a volte i comportamenti contraddittori nascondono più di quel che mostrano.",
-    "de": "wir können auch durch persönliche Qualen angetrieben handeln, aber wir empfinden Gefühle und manchmal verbergen widersprüchliche Verhaltensweisen mehr, als sie zeigen."
-  },
-  {
-    "it": "Se non te la senti di frequentarla non sei obbligato a farlo ma t'inviterei a riflettere sul tuo pensiero e sul perché questa tipologia di donna attivi in te sfiducia ed evitamento,",
-    "de": "Wenn Sie sich nicht dazu bereit fühlen, sie zu treffen, sind Sie nicht verpflichtet, es zu tun, aber ich würde Sie einladen, über Ihren Gedankengang nachzudenken und darüber, warum dieser Typ von Frau in Ihnen Misstrauen und Vermeidung auslöst,"
-  },
-  {
-    "it": "pur non sapendo come si sarebbe comportata con te,",
-    "de": "obwohl Sie nicht wissen, wie sie sich Ihnen gegenüber verhalten hätte,"
-  },
-  {
-    "it": "a conti fatti.",
-    "de": "letzten Endes."
-  },
-  {
-    "it": "Ogni rapporto è una storia a sé.",
-    "de": "Jede Beziehung ist eine Geschichte für sich."
-  },
-  {
-    "it": "Dobbiamo semplicemente seguire i nostri desideri e ciò che ci fa stare bene in quel momento.",
-    "de": "Wir müssen einfach unseren Wünschen folgen und dem, was uns in diesem Moment gut tut."
-  },
-  {
-    "it": "Cordiali saluti,",
-    "de": "Mit freundlichen Grüßen,"
-  },
-  {
-    "it": "Dott.",
-    "de": "Dr."
-  },
-  {
-    "it": "ssa Ornella Esposito.",
-    "de": "Ornella Esposito."
-  },
-  {
-    "it": "Buongiorno Mario,",
-    "de": "Guten Morgen Mario,"
-  },
-  {
-    "it": "e grazie per averci interpellato.",
-    "de": "und danke, dass Sie uns kontaktiert haben."
-  },
-  {
-    "it": "Da quello che racconti sento una forte tensione dentro di te.",
-    "de": "Aus dem, was Sie erzählen, spüre ich eine starke Spannung in Ihnen."
-  },
-  {
-    "it": "È come se una parte fosse davvero coinvolta da questa ragazza,",
-    "de": "Es ist, als ob ein Teil wirklich von diesem Mädchen bewegt wäre,"
-  },
-  {
-    "it": "mentre un'altra si sentisse ferita,",
-    "de": "während ein anderer sich verletzt fühlt,"
-  },
-  {
-    "it": "messa in secondo piano,",
-    "de": "in den Hintergrund gedrängt,"
-  },
-  {
-    "it": "quasi svalutata da come sono andate le cose all'inizio.",
-    "de": "fast abgewertet durch den Verlauf der Dinge am Anfang."
-  },
-  {
-    "it": "Mi arriva il tuo bisogno di chiarezza,",
-    "de": "Ich verstehe Ihr Bedürfnis nach Klarheit,"
-  },
-  {
-    "it": "di coerenza,",
-    "de": "nach Kohärenz,"
-  },
-  {
-    "it": "di sentirti scelto davvero.",
-    "de": "sich wirklich gewählt zu fühlen."
-  },
-  {
-    "it": "E capisco quanto possa pesare aver saputo di comportamenti che non rispecchiano l'idea di relazione che desideri.",
-    "de": "Und ich verstehe, wie schwer es sein kann, von Verhaltensweisen erfahren zu haben, die nicht der Vorstellung von Beziehung entsprechen, die Sie sich wünschen."
-  },
-  {
-    "it": "Allo stesso tempo noto che lei oggi ti cerca,",
-    "de": "Gleichzeitig bemerke ich, dass sie Sie heute sucht,"
-  },
-  {
-    "it": "ti vuole,",
-    "de": "Sie will,"
-  },
-  {
-    "it": "ti dimostra presenza.",
-    "de": "Ihnen Präsenz zeigt."
-  },
-  {
-    "it": "E tu rimani sospeso tra ciò che provi adesso e ciò che ti ha fatto male all'inizio.",
-    "de": "Und Sie bleiben zwischen dem, was Sie jetzt empfinden, und dem, was Ihnen am Anfang wehgetan hat, schwebend."
-  },
-  {
-    "it": "Quello che mi sembra centrale non è il passato in sé,",
-    "de": "Was mir zentral erscheint, ist nicht die Vergangenheit an sich,"
-  },
-  {
-    "it": "ma l'effetto che quel passato ha su di te:",
-    "de": "sondern der Effekt, den diese Vergangenheit auf Sie hat:"
-  },
-  {
-    "it": "la paura di non essere abbastanza,",
-    "de": "die Angst, nicht genug zu sein,"
-  },
-  {
-    "it": "il timore che possa ripetere alcuni comportamenti,",
-    "de": "die Befürchtung, dass sie bestimmte Verhaltensweisen wiederholen könnte,"
-  },
-  {
-    "it": "il dubbio sul poterti fidare.",
-    "de": "der Zweifel, ob Sie ihr vertrauen können."
-  },
-  {
-    "it": "Non c'è giusto o sbagliato qui.",
-    "de": "Es gibt hier kein Richtig oder Falsch."
-  },
-  {
-    "it": "C'è solo da ascoltare con sincerità cosa senti:",
-    "de": "Es geht nur darum, ehrlich zu hören, was Sie fühlen:"
-  },
-  {
-    "it": "se dentro di te esiste lo spazio per costruire fiducia con lei,",
-    "de": "ob in Ihnen der Raum existiert, Vertrauen mit ihr aufzubauen,"
-  },
-  {
-    "it": "oppure se quella ferita iniziale continua a impedirti di stare bene.",
-    "de": "oder ob diese anfängliche Wunde Sie weiterhin daran hindert, sich wohlzufühlen."
-  },
-  {
-    "it": "Una domanda che può aiutarti è questa:",
-    "de": "Eine Frage, die Ihnen helfen kann, ist diese:"
-  },
-  {
-    "it": "se togliessi dalla mente l'inizio,",
-    "de": "wenn Sie den Anfang aus dem Sinn nehmen würden,"
-  },
-  {
-    "it": "oggi con lei come starei?",
-    "de": "wie würde es mir heute mit ihr gehen?"
-  },
-  {
-    "it": "La risposta che emerge da lì potrebbe chiarirti molto ed essere decisiva per il tuo futuro atteggiamento e di conseguenza comportamento riguardo questo rapporto.",
-    "de": "Die Antwort, die sich daraus ergibt, könnte Ihnen vieles klären und entscheidend für Ihre zukünftige Haltung und damit Ihr Verhalten in Bezug auf diese Beziehung sein."
-  },
-  {
-    "it": "Cordialmente.",
-    "de": "Freundlich."
-  },
-  {
-    "it": "Marcello Pirrotta.",
-    "de": "Marcello Pirrotta."
-  },
-  {
-    "it": "Buongiorno Mario,",
-    "de": "Guten Morgen Mario,"
-  },
-  {
-    "it": "quello che descrive sembra metterla in una posizione di forte conflitto:",
-    "de": "was Sie beschreiben, scheint Sie in eine Position starken Konflikts zu versetzen:"
-  },
-  {
-    "it": "da una parte il benessere che prova con questa ragazza,",
-    "de": "einerseits das Wohlbefinden, das Sie mit diesem Mädchen erleben,"
-  },
-  {
-    "it": "dall'altra un pensiero insistente che riguarda le sue scelte iniziali e ciò che queste rappresentano per lei.",
-    "de": "andererseits ein hartnäckiger Gedanke bezüglich ihrer anfänglichen Entscheidungen und was diese für Sie bedeuten."
-  },
-  {
-    "it": "Forse non è solo 'ciò che lei ha fatto',",
-    "de": "Vielleicht ist es nicht nur „das, was sie getan hat',"
-  },
-  {
-    "it": "ma il significato che questo assume per lei:",
-    "de": "sondern die Bedeutung, die dies für Sie annimmt:"
-  },
-  {
-    "it": "come se mettesse in discussione il suo valore,",
-    "de": "als ob es Ihren Wert in Frage stellen würde,"
-  },
-  {
-    "it": "il suo posto nella relazione,",
-    "de": "Ihren Platz in der Beziehung,"
-  },
-  {
-    "it": "o un'idea di ciò che 'dovrebbe essere' una partner.",
-    "de": "oder eine Vorstellung davon, was eine Partnerin „sein sollte'."
-  },
-  {
-    "it": "In questo senso,",
-    "de": "In diesem Sinne,"
-  },
-  {
-    "it": "più che il fatto in sé,",
-    "de": "mehr als die Tatsache an sich,"
-  },
-  {
-    "it": "potrebbe essere ciò che tocca dentro di lei a farla soffrire.",
-    "de": "könnte es das sein, was in Ihnen berührt wird, was Sie leiden lässt."
-  },
-  {
-    "it": "È possibile anche che si attivi una difficoltà ad accettare di non essere stato scelto 'subito',",
-    "de": "Es ist auch möglich, dass eine Schwierigkeit aktiviert wird, nicht „sofort' gewählt worden zu sein,"
-  },
-  {
-    "it": "come se questo introducesse una ferita narcisistica difficile da tollerare,",
-    "de": "als ob dies eine narzisstische Wunde einführen würde, die schwer zu tolerieren ist,"
-  },
-  {
-    "it": "nonostante il presente dica altro.",
-    "de": "obwohl die Gegenwart etwas anderes sagt."
-  },
-  {
-    "it": "Freud ricordava che 'non siamo padroni in casa nostra':",
-    "de": "Freud erinnerte daran, dass „wir nicht Herren im eigenen Haus sind':"
-  },
-  {
-    "it": "a volte ciò che ci muove non coincide con ciò che razionalmente riteniamo giusto o accettabile.",
-    "de": "manchmal stimmt das, was uns bewegt, nicht mit dem überein, was wir rational für richtig oder akzeptabel halten."
-  },
-  {
-    "it": "Potrebbe allora essere utile interrogarsi su quale posto occupa lei in questa dinamica,",
-    "de": "Es könnte dann nützlich sein, sich zu fragen, welchen Platz Sie in dieser Dynamik einnehmen,"
-  },
-  {
-    "it": "e perché,",
-    "de": "und warum,"
-  },
-  {
-    "it": "pur stando bene con questa persona,",
-    "de": "obwohl es Ihnen mit dieser Person gut geht,"
-  },
-  {
-    "it": "qualcosa la riporta sempre lì,",
-    "de": "etwas Sie immer dorthin zurückbringt,"
-  },
-  {
-    "it": "a quel punto iniziale.",
-    "de": "zu diesem anfänglichen Punkt."
-  },
-  {
-    "it": "Se questa situazione continua a farla stare così,",
-    "de": "Wenn diese Situation Sie weiterhin so leiden lässt,"
-  },
-  {
-    "it": "un percorso psicologico (a mio avviso meglio se di orientamento psicoanalitico) può aiutarla a comprendere più a fondo questi vissuti.",
-    "de": "kann ein psychologischer Weg (meiner Meinung nach besser, wenn er psychoanalytisch orientiert ist) Ihnen helfen, diese Erlebnisse tiefer zu verstehen."
-  },
-  {
-    "it": "Le mando un saluto,",
-    "de": "Ich sende Ihnen einen Gruß,"
-  },
-  {
-    "it": "Dott.",
-    "de": "Dr."
-  },
-  {
-    "it": "Valentino Moretto",
-    "de": "Valentino Moretto"
-  },
-  {
-    "it": "Gentile Mario,",
-    "de": "Lieber Mario,"
-  },
-  {
-    "it": "la situazione che descrive appare comprensibilmente fonte di disagio.",
-    "de": "die Situation, die Sie beschreiben, erscheint verständlicherweise als Quelle des Unbehagens."
-  },
-  {
-    "it": "Dal suo racconto emerge un vissuto di ambivalenza:",
-    "de": "Aus Ihrem Bericht tritt ein Erleben von Ambivalenz hervor:"
-  },
-  {
-    "it": "da un lato il benessere che prova nella relazione,",
-    "de": "einerseits das Wohlbefinden, das Sie in der Beziehung erleben,"
-  },
-  {
-    "it": "dall'altro la difficoltà ad accettare alcuni aspetti legati al suo inizio.",
-    "de": "andererseits die Schwierigkeit, bestimmte Aspekte zu akzeptieren, die mit ihrem Beginn zusammenhängen."
-  },
-  {
-    "it": "In particolare,",
-    "de": "Insbesondere,"
-  },
-  {
-    "it": "il fatto di non essere stato scelto inizialmente e i comportamenti della ragazza in quella fase sembrano aver assunto per lei un significato importante,",
-    "de": "scheint die Tatsache, anfangs nicht gewählt worden zu sein, und die Verhaltensweisen des Mädchens in dieser Phase für Sie eine wichtige Bedeutung angenommen zu haben,"
-  },
-  {
-    "it": "che oggi continua a influenzare il modo in cui la percepisce.",
-    "de": "die heute weiterhin beeinflusst, wie Sie sie wahrnehmen."
-  },
-  {
-    "it": "Può essere utile provare a distinguere se il suo malessere sia maggiormente legato a una distanza rispetto ai suoi valori e a ciò che desidera in una relazione,",
-    "de": "Es kann nützlich sein zu versuchen zu unterscheiden, ob Ihr Unbehagen stärker mit einer Distanz zu Ihren Werten und dem, was Sie sich in einer Beziehung wünschen, zusammenhängt,"
-  },
-  {
-    "it": "oppure a vissuti personali connessi al sentirsi messo in secondo piano.",
-    "de": "oder mit persönlichen Erlebnissen, die mit dem Gefühl verbunden sind, in den Hintergrund gedrängt zu werden."
-  },
-  {
-    "it": "Questa riflessione può aiutarla a comprendere più a fondo ciò che sta provando.",
-    "de": "Diese Reflexion kann Ihnen helfen, tiefer zu verstehen, was Sie gerade erleben."
-  },
-  {
-    "it": "Allo stesso tempo,",
-    "de": "Gleichzeitig,"
-  },
-  {
-    "it": "considerare che le persone,",
-    "de": "zu berücksichtigen, dass Menschen,"
-  },
-  {
-    "it": "in momenti particolari della loro vita,",
-    "de": "in bestimmten Momenten ihres Lebens,"
-  },
-  {
-    "it": "possano agire in modo diverso rispetto a ciò che farebbero in altre circostanze,",
-    "de": "anders handeln können als das, was sie in anderen Umständen täten,"
-  },
-  {
-    "it": "può offrire una lettura più ampia di quanto accaduto.",
-    "de": "kann eine umfassendere Interpretation des Geschehenen bieten."
-  },
-  {
-    "it": "Resta centrale comprendere se,",
-    "de": "Es bleibt zentral zu verstehen, ob Sie,"
-  },
-  {
-    "it": "nel presente,",
-    "de": "in der Gegenwart,"
-  },
-  {
-    "it": "lei riesca a riconoscere il valore della relazione per come si sta sviluppando,",
-    "de": "den Wert der Beziehung so anerkennen können, wie sie sich entwickelt,"
-  },
-  {
-    "it": "oppure se il peso attribuito agli eventi passati continui a incidere in modo significativo sul suo benessere.",
-    "de": "oder ob das Gewicht, das vergangenen Ereignissen beigemessen wird, weiterhin erheblich auf Ihr Wohlbefinden einwirkt."
-  },
-  {
-    "it": "Una maggiore chiarezza su questi aspetti potrà aiutarla a orientarsi verso una scelta più serena e coerente con i suoi bisogni.",
-    "de": "Mehr Klarheit über diese Aspekte kann Ihnen helfen, sich auf eine gelassenere und mit Ihren Bedürfnissen kohärente Entscheidung hinzubewegen."
-  },
-  {
-    "it": "Cordiali salutiDott.",
-    "de": "Mit freundlichen GrüßenDr."
-  },
-  {
-    "it": "ssa Riolli Afrodite",
-    "de": "Riolli Afrodite"
-  },
-  {
-    "it": "Caro Mario,",
-    "de": "Lieber Mario,"
-  },
-  {
-    "it": "dal suo racconto sembra che ciò che descrive non riguardi tanto un problema 'di lei',",
-    "de": "aus Ihrem Bericht scheint es, dass das, was Sie beschreiben, nicht so sehr ein Problem „von ihr' betrifft,"
-  },
-  {
-    "it": "quanto un suo conflitto interno molto forte.",
-    "de": "sondern einen sehr starken inneren Konflikt von Ihnen."
-  },
-  {
-    "it": "Penso che potrebbe esserle utile fare una riflessione su cosa questa situazione rappresenta per lei piuttosto che concentrarsi su cosa sarebbe più \"giusto\" fare.",
-    "de": "Ich denke, dass es Ihnen nützlich sein könnte, eine Reflexion darüber anzustellen, was diese Situation für Sie bedeutet, anstatt sich darauf zu konzentrieren, was „richtiger' zu tun wäre."
-  },
-  {
-    "it": "La centralità della questione potrebbe riguardare una tensione interna tra il \"sentirsi benissimo con lei\" e contemporaneamente il non riuscire ad accettarla.",
-    "de": "Das Zentrale der Frage könnte eine innere Spannung zwischen dem „sich sehr wohl mit ihr fühlen' und gleichzeitig dem Nicht-Akzeptieren-Können betreffen."
-  },
-  {
-    "it": "Un primo punto da approfondire potrebbe essere l'immagine,",
-    "de": "Ein erster zu vertiefender Punkt könnte das Bild sein,"
-  },
-  {
-    "it": "l'ideale femminile che lei ha interiorizzato,",
-    "de": "das weibliche Ideal, das Sie verinnerlicht haben,"
-  },
-  {
-    "it": "fatta di valori e aspettative e che la portano a pensare che una donna debba essere in un modo preciso.",
-    "de": "bestehend aus Werten und Erwartungen, die Sie dazu bringen zu denken, dass eine Frau auf eine bestimmte Weise sein muss."
-  },
-  {
-    "it": "Dal suo racconto emerge un'immagine di una ragazza che non deve essere \"facile\",",
-    "de": "Aus Ihrem Bericht ergibt sich das Bild eines Mädchens, das nicht „leichtfertig' sein darf,"
-  },
-  {
-    "it": "associando il valore di una partner al suo comportamento sessuale iniziale,",
-    "de": "indem der Wert einer Partnerin mit ihrem anfänglichen sexuellen Verhalten assoziiert wird,"
-  },
-  {
-    "it": "facendo pensare a una sua fatica ad integrare la spontaneità o libertà sessuale.",
-    "de": "was auf eine Schwierigkeit hindeutet, sexuelle Spontaneität oder Freiheit zu integrieren."
-  },
-  {
-    "it": "Il conflitto,",
-    "de": "Der Konflikt,"
-  },
-  {
-    "it": "in questo senso,",
-    "de": "in diesem Sinne,"
-  },
-  {
-    "it": "potrebbe essere tra la donna reale e il suo ideale di donna.",
-    "de": "könnte zwischen der realen Frau und Ihrem Ideal einer Frau liegen."
-  },
-  {
-    "it": "Se queste non coincidono possono emergere disagio e sofferenza,",
-    "de": "Wenn diese nicht übereinstimmen, können Unbehagen und Leiden entstehen,"
-  },
-  {
-    "it": "derivanti dal giudizio.",
-    "de": "die aus dem Urteil resultieren."
-  },
-  {
-    "it": "Un secondo aspetto da approfondire potrebbe riguardare quelle sue parti interne inconsce che fatica a riconoscere e che il comportamento di questa donna in qualche modo attiva.",
-    "de": "Ein zweiter zu vertiefender Aspekt könnte jene unbewussten inneren Teile betreffen, die Sie schwer erkennen und die das Verhalten dieser Frau irgendwie aktiviert."
-  },
-  {
-    "it": "L'impulsività e la spontaneità sessuale che lei giudica negativamente,",
-    "de": "Die Impulsivität und sexuelle Spontaneität, die Sie negativ beurteilen,"
-  },
-  {
-    "it": "potrebbero rappresentare qualcosa che la destabilizza perché rompe i suoi schemi o la provoca interiormente.",
-    "de": "könnten etwas darstellen, das Sie destabilisiert, weil es Ihre Muster bricht oder Sie innerlich herausfordert."
-  },
-  {
-    "it": "Un'altra parte importante del suo racconto mi sembra essere quella in cui descrive il disagio che deriva dal \"non essere stato scelto per primo\".",
-    "de": "Ein weiterer wichtiger Teil Ihres Berichts scheint mir der zu sein, in dem Sie das Unbehagen beschreiben, das aus dem „nicht als Erster gewählt worden sein' resultiert."
-  },
-  {
-    "it": "Questa dinamica potrebbe riferirsi al suo senso di valore,",
-    "de": "Diese Dynamik könnte sich auf Ihr Wertgefühl beziehen,"
-  },
-  {
-    "it": "a un suo bisogno interno di essere visto,",
-    "de": "auf ein inneres Bedürfnis, gesehen zu werden,"
-  },
-  {
-    "it": "più che al comportamento in sé della ragazza.",
-    "de": "mehr als auf das Verhalten des Mädchens an sich."
-  },
-  {
-    "it": "A livello inconscio potrebbe avere a che fare con sentimenti profondi di svalutazione e rifiuto.",
-    "de": "Auf unbewusster Ebene könnte es mit tiefen Gefühlen der Abwertung und Ablehnung zu tun haben."
-  },
-  {
-    "it": "Penso che potrebbe aiutarla fare una riflessione su questa discrepanza tra la realtà e l'idea,",
-    "de": "Ich denke, dass es Ihnen helfen könnte, eine Reflexion über diese Diskrepanz zwischen Realität und Idee anzustellen,"
-  },
-  {
-    "it": "accettare una relazione con questa donna significherebbe accettare la persona reale con tutte le sue contraddizioni,",
-    "de": "eine Beziehung mit dieser Frau zu akzeptieren würde bedeuten, die reale Person mit all ihren Widersprüchen zu akzeptieren,"
-  },
-  {
-    "it": "accettare il suo passato senza doverlo usare contro di lei e mettere in discussione le sue rigidità,",
-    "de": "ihre Vergangenheit zu akzeptieren, ohne sie gegen sie verwenden zu müssen, und Ihre Starrheiten in Frage zu stellen,"
-  },
-  {
-    "it": "approfondendo ciò che viene toccato nel suo mondo interno da questa storia.",
-    "de": "indem Sie vertiefen, was in Ihrer inneren Welt durch diese Geschichte berührt wird."
-  },
-  {
-    "it": "Un percorso psicologico di supporto potrebbe aiutarla ad approfondire questi due aspetti:",
-    "de": "Ein psychologischer Unterstützungsweg könnte Ihnen helfen, diese zwei Aspekte zu vertiefen:"
-  },
-  {
-    "it": "il suo ideale di ragazza e la necessità di essere scelto per primo,",
-    "de": "Ihr Ideal eines Mädchens und die Notwendigkeit, als Erster gewählt zu werden,"
-  },
-  {
-    "it": "così da riuscire ad affrontare questa situazione per lei angosciante e fare la sua \"scelta\" sciogliendo prima il conflitto interno che la attanaglia.",
-    "de": "so dass Sie in der Lage sein können, diese für Sie beängstigende Situation anzugehen und Ihre „Wahl' zu treffen, indem Sie zunächst den inneren Konflikt lösen, der Sie festhält."
-  },
-  {
-    "it": "Grazie per la sua condivisione,",
-    "de": "Danke für Ihre Mitteilung,"
-  },
-  {
-    "it": "Dott.",
-    "de": "Dr."
-  },
-  {
-    "it": "ssa Angela MaccaronePsicologa clinica",
-    "de": "Angela Maccarone, Klinische Psychologin"
-  },
-  {
-    "it": "Caro Mario,",
-    "de": "Lieber Mario,"
-  },
-  {
-    "it": "comprendo profondamente il tumulto interiore che sta vivendo:",
-    "de": "ich verstehe tief den inneren Aufruhr, den Sie durchleben:"
-  },
-  {
-    "it": "sentirsi divisi tra un sentimento forte e il dubbio che i propri valori non siano condivisi è una posizione molto faticosa.",
-    "de": "sich zwischen einem starken Gefühl und dem Zweifel geteilt zu fühlen, dass die eigenen Werte nicht geteilt werden, ist eine sehr anstrengende Position."
-  },
-  {
-    "it": "Colgo nel suo racconto una ferita legata al senso di valore personale:",
-    "de": "Ich erkenne in Ihrem Bericht eine Wunde, die mit dem Gefühl des persönlichen Werts zusammenhängt:"
-  },
-  {
-    "it": "l'idea di non essere stato la \"prima scelta\" può attivare un profondo senso di insicurezza,",
-    "de": "die Vorstellung, nicht die „erste Wahl' gewesen zu sein, kann ein tiefes Unsicherheitsgefühl auslösen,"
-  },
-  {
-    "it": "ma provi a considerare che l'insistenza con cui lei l'ha cercata dopo quel breve flirt dimostra quanto,",
-    "de": "aber versuchen Sie zu bedenken, dass die Beharrlichkeit, mit der sie Sie nach diesem kurzen Flirt gesucht hat, zeigt, wie sehr,"
-  },
-  {
-    "it": "nel suo \"stile di vita\",",
-    "de": "in ihrem „Lebensstil',"
-  },
-  {
-    "it": "lei abbia trovato in lei qualcosa di unico che l'amico non possedeva.",
-    "de": "sie in Ihnen etwas Einzigartiges gefunden hat, das der Freund nicht besaß."
-  },
-  {
-    "it": "Le versioni contraddittorie che lei le ha fornito,",
-    "de": "Die widersprüchlichen Versionen, die sie Ihnen gegeben hat,"
-  },
-  {
-    "it": "pur creando confusione,",
-    "de": "obwohl sie Verwirrung schaffen,"
-  },
-  {
-    "it": "potrebbero nascere dal timore del suo giudizio e dalla paura di perderla,",
-    "de": "könnten aus der Angst vor Ihrem Urteil und der Angst entstehen, Sie zu verlieren,"
-  },
-  {
-    "it": "trasformando la realtà per apparire \"migliore\" ai suoi occhi.",
-    "de": "indem die Realität so verändert wird, um in Ihren Augen „besser' zu erscheinen."
-  },
-  {
-    "it": "Quello che lei definisce come \"essere facile\" è spesso,",
-    "de": "Was Sie als „leichtfertig sein' bezeichnen, ist oft,"
-  },
-  {
-    "it": "per chi esce da relazioni tossiche,",
-    "de": "für diejenigen, die aus toxischen Beziehungen herauskommen,"
-  },
-  {
-    "it": "un tentativo maldestro di recuperare autonomia e leggerezza,",
-    "de": "ein unbeholfener Versuch, Autonomie und Leichtigkeit zurückzugewinnen,"
-  },
-  {
-    "it": "non necessariamente una mancanza di valori.",
-    "de": "nicht notwendigerweise ein Mangel an Werten."
-  },
-  {
-    "it": "La sfida oggi è capire se lei può dare più peso alla scelta che questa ragazza compie oggi verso di lei,",
-    "de": "Die Herausforderung heute ist zu verstehen, ob Sie der Wahl mehr Gewicht beimessen können, die dieses Mädchen heute Ihnen gegenüber trifft,"
-  },
-  {
-    "it": "piuttosto che agli errori del passato.",
-    "de": "anstatt den Fehlern der Vergangenheit."
-  },
-  {
-    "it": "La fiducia è un atto di coraggio che si costruisce nel tempo:",
-    "de": "Vertrauen ist ein Akt des Mutes, der mit der Zeit aufgebaut wird:"
-  },
-  {
-    "it": "provi a osservare i fatti presenti e la sincerità che lei le dimostra,",
-    "de": "versuchen Sie, die gegenwärtigen Fakten und die Aufrichtigkeit zu beobachten, die sie Ihnen zeigt,"
-  },
-  {
-    "it": "poiché il valore di un legame risiede spesso nella capacità di evolvere insieme oltre le prime,",
-    "de": "denn der Wert einer Bindung liegt oft in der Fähigkeit, gemeinsam über die ersten,"
-  },
-  {
-    "it": "confuse,",
-    "de": "verwirrenden,"
-  },
-  {
-    "it": "impressioni.",
-    "de": "Eindrücke hinaus zu wachsen."
-  },
-  {
-    "it": "Buongiorno,",
-    "de": "Guten Morgen,"
-  },
-  {
-    "it": "da quello che racconta dentro di lei convivono due vissuti opposti.",
-    "de": "aus dem, was Sie erzählen, leben in Ihnen zwei entgegengesetzte Erlebnisse zusammen."
-  },
-  {
-    "it": "Da una parte c'è il coinvolgimento:",
-    "de": "Einerseits gibt es das Engagement:"
-  },
-  {
-    "it": "sta bene con questa ragazza,",
-    "de": "es geht Ihnen gut mit diesem Mädchen,"
-  },
-  {
-    "it": "riconosce che oggi lei è presente e interessata.",
-    "de": "Sie erkennen, dass sie heute präsent und interessiert ist."
-  },
-  {
-    "it": "Dall'altra,",
-    "de": "Andererseits,"
-  },
-  {
-    "it": "però,",
-    "de": "jedoch,"
-  },
-  {
-    "it": "ci sono pensieri e giudizi che continuano a tornare e che le fanno vivere tutto con disagio:",
-    "de": "gibt es Gedanken und Urteile, die immer wieder zurückkehren und alles mit Unbehagen erleben lassen:"
-  },
-  {
-    "it": "il non essersi sentito scelto all'inizio,",
-    "de": "das Nicht-Gewählt-Worden-Sein-Gefühl am Anfang,"
-  },
-  {
-    "it": "il modo in cui lei si è comportata,",
-    "de": "die Art, wie sie sich verhalten hat,"
-  },
-  {
-    "it": "il dubbio sulla sua coerenza.",
-    "de": "der Zweifel an ihrer Kohärenz."
-  },
-  {
-    "it": "È comprensibile che questi elementi la tocchino,",
-    "de": "Es ist verständlich, dass diese Elemente Sie berühren,"
-  },
-  {
-    "it": "perché vanno a impattare su aspetti profondi come il bisogno di sentirsi scelto,",
-    "de": "weil sie tiefe Aspekte beeinflussen, wie das Bedürfnis, sich gewählt zu fühlen,"
-  },
-  {
-    "it": "rispettato,",
-    "de": "respektiert zu werden,"
-  },
-  {
-    "it": "in linea con i propri valori.",
-    "de": "im Einklang mit den eigenen Werten zu sein."
-  },
-  {
-    "it": "Allo stesso tempo,",
-    "de": "Gleichzeitig,"
-  },
-  {
-    "it": "però,",
-    "de": "jedoch,"
-  },
-  {
-    "it": "il fatto che questi pensieri restino così attivi nel presente indica che non sono ancora stati davvero elaborati,",
-    "de": "weist die Tatsache, dass diese Gedanken in der Gegenwart so aktiv bleiben, darauf hin, dass sie noch nicht wirklich verarbeitet wurden,"
-  },
-  {
-    "it": "e continuano a influenzare il modo in cui vive la relazione.",
-    "de": "und weiterhin beeinflussen, wie Sie die Beziehung erleben."
-  },
-  {
-    "it": "Il rischio,",
-    "de": "Das Risiko,"
-  },
-  {
-    "it": "in queste situazioni,",
-    "de": "in diesen Situationen,"
-  },
-  {
-    "it": "è rimanere in una posizione ambivalente:",
-    "de": "ist es, in einer ambivalenten Position zu bleiben:"
-  },
-  {
-    "it": "coinvolto emotivamente ma allo stesso tempo critico e insoddisfatto.",
-    "de": "emotional engagiert, aber gleichzeitig kritisch und unzufrieden."
-  },
-  {
-    "it": "Questo,",
-    "de": "Das,"
-  },
-  {
-    "it": "nel tempo,",
-    "de": "mit der Zeit,"
-  },
-  {
-    "it": "può diventare faticoso e portare a stare male,",
-    "de": "kann ermüdend werden und dazu führen, sich schlecht zu fühlen,"
-  },
-  {
-    "it": "anche se la relazione in sé ha aspetti positivi.",
-    "de": "auch wenn die Beziehung an sich positive Aspekte hat."
-  },
-  {
-    "it": "Può essere utile soffermarsi su ciò che questa situazione attiva dentro di lei:",
-    "de": "Es kann nützlich sein, bei dem innezuhalten, was diese Situation in Ihnen aktiviert:"
-  },
-  {
-    "it": "quali aspettative ha rispetto a una relazione,",
-    "de": "welche Erwartungen Sie an eine Beziehung haben,"
-  },
-  {
-    "it": "quanto pesa il sentirsi 'non scelto',",
-    "de": "wie schwer das Gefühl wiegt, „nicht gewählt' zu werden,"
-  },
-  {
-    "it": "quanto riesce a integrare ciò che prova con ciò che pensa.",
-    "de": "wie gut Sie das, was Sie empfinden, mit dem integrieren können, was Sie denken."
-  },
-  {
-    "it": "Proprio perché si tratta di un conflitto interno,",
-    "de": "Gerade weil es sich um einen inneren Konflikt handelt,"
-  },
-  {
-    "it": "e non solo di una questione legata all'altra persona,",
-    "de": "und nicht nur um eine Frage, die mit der anderen Person zusammenhängt,"
-  },
-  {
-    "it": "un confronto con un professionista può essere utile.",
-    "de": "kann ein Gespräch mit einem Fachmann nützlich sein."
-  },
-  {
-    "it": "Uno spazio psicologico le permetterebbe di comprendere meglio questi vissuti,",
-    "de": "Ein psychologischer Raum würde Ihnen ermöglichen, diese Erlebnisse besser zu verstehen,"
-  },
-  {
-    "it": "senza giudicarli,",
-    "de": "ohne sie zu beurteilen,"
-  },
-  {
-    "it": "e di arrivare a una posizione più chiara e coerente con se stesso.",
-    "de": "und zu einer klareren und mit sich selbst kohärenten Position zu gelangen."
-  },
-  {
-    "it": "Rimango a disposizione,",
-    "de": "Ich stehe zur Verfügung,"
-  },
-  {
-    "it": "Dott.",
-    "de": "Dr."
-  },
-  {
-    "it": "ssa Aurora Bacchetta",
-    "de": "Aurora Bacchetta"
-  },
-  {
-    "it": "Buongiorno Mario,",
-    "de": "Guten Morgen Mario,"
-  },
-  {
-    "it": "dal suo racconto si capisce che la storia con la sua ragazza l'ha messo in uno stato di confusione e indecesione.",
-    "de": "aus Ihrem Bericht versteht man, dass die Geschichte mit Ihrer Freundin Sie in einen Zustand der Verwirrung und Unentschlossenheit versetzt hat."
-  },
-  {
-    "it": "Da una parte ci sta benissimo ma dall'altra non è la ragazza ideale per lei (\"non è quello che cerco\").",
-    "de": "Einerseits fühlen Sie sich sehr wohl mit ihr, aber andererseits ist sie nicht das ideale Mädchen für Sie („sie ist nicht das, was ich suche')."
-  },
-  {
-    "it": "Ciò che le impedisce di prendere una decisione  è il fatto che lei ha molti pregiudizi nei confronti  della ragazza e quando comunicate lei diventa giudice e non ascolta.",
-    "de": "Was Sie daran hindert, eine Entscheidung zu treffen, ist die Tatsache, dass Sie viele Vorurteile gegenüber dem Mädchen haben und wenn Sie kommunizieren, werden Sie zum Richter und hören nicht zu."
-  },
-  {
-    "it": "La ragazza non l'ha scelto per primo e già questo la ferisce,",
-    "de": "Das Mädchen hat Sie nicht als Ersten gewählt und schon das verletzt Sie,"
-  },
-  {
-    "it": "la definisce una ragazza facile perchè è andata in macchina col suo amico e lo ha baciato e poi ha avuto rapporti con un altro.",
-    "de": "Sie bezeichnen sie als leichtfertiges Mädchen, weil sie mit Ihrem Freund ins Auto gestiegen ist und ihn geküsst hat und dann mit einem anderen geschlafen hat."
-  },
-  {
-    "it": "La ragazza le ha spiegato di non averla scelta subito perchè la sua amica era interessata.",
-    "de": "Das Mädchen hat Ihnen erklärt, Sie nicht sofort gewählt zu haben, weil ihre Freundin interessiert war."
-  },
-  {
-    "it": "Può non farle piacere però le ha dato una spiegazione,",
-    "de": "Das mag Ihnen nicht gefallen, aber sie hat Ihnen eine Erklärung gegeben,"
-  },
-  {
-    "it": "così come ha giustificato  la  sua voglia di leggerezza perchè era appena uscita da una relazione pesante.",
-    "de": "genauso wie sie ihren Wunsch nach Leichtigkeit damit gerechtfertigt hat, dass sie gerade aus einer schweren Beziehung herausgekommen war."
-  },
-  {
-    "it": "Cosa deve dire e fare per convincerla?",
-    "de": "Was muss sie sagen und tun, um Sie zu überzeugen?"
-  },
-  {
-    "it": "O meglio cosa deve dire e fare per riparare il suo orgoglio ferito,",
-    "de": "Oder besser, was muss sie sagen und tun, um Ihren verletzten Stolz zu heilen,"
-  },
-  {
-    "it": "il suo moralismo e rendere meno tagliente il giudizio nei suoi confronti?",
-    "de": "Ihren Moralismus und das Urteil ihr gegenüber weniger scharf zu machen?"
-  },
-  {
-    "it": "Spero che la mia sincera risposta possa aiutarla a cambiare postura,",
-    "de": "Ich hoffe, dass meine aufrichtige Antwort Ihnen helfen kann, Ihre Haltung zu ändern,"
-  },
-  {
-    "it": "a renderla più flessibile nei confronti di una ragazza che non ha nessuna colpa.",
-    "de": "flexibler gegenüber einem Mädchen zu werden, das keine Schuld hat."
-  },
-  {
-    "it": "Se lei sinceramente pensa che non sia la ragazza che fa per lei,",
-    "de": "Wenn Sie wirklich glauben, dass sie nicht das Mädchen für Sie ist,"
-  },
-  {
-    "it": "guardi altrove e la smetta di tormentarla con i suoi giudizi e i suoi moralismi.",
-    "de": "schauen Sie woanders und hören Sie auf, sie mit Ihren Urteilen und Ihrem Moralismus zu quälen."
-  },
-  {
-    "it": "Un saluto.",
-    "de": "Einen Gruß."
-  },
-  {
-    "it": "Dott.",
-    "de": "Dr."
-  },
-  {
-    "it": "ssa Noemi Sembranti",
-    "de": "Noemi Sembranti"
-  },
-  {
-    "it": "Buongiorno Mario,",
-    "de": "Guten Morgen Mario,"
-  },
-  {
-    "it": "grazie per la sua condivisione.",
-    "de": "danke für Ihre Mitteilung."
-  },
-  {
-    "it": "Dal suo racconto sembrano emergere due aspetti principali:",
-    "de": "Aus Ihrem Bericht scheinen zwei Hauptaspekte hervorzutreten:"
-  },
-  {
-    "it": "da una parte la frustrazione e dall'altra il giudizio.",
-    "de": "einerseits die Frustration und andererseits das Urteil."
-  },
-  {
-    "it": "Da una parte sente il desiderio e la motivazione ad intraprendere una storia con la ragazza che le piace,",
-    "de": "Einerseits fühlen Sie den Wunsch und die Motivation, eine Geschichte mit dem Mädchen zu beginnen, das Ihnen gefällt,"
-  },
-  {
-    "it": "dall'altra però la giudica in base ad un sistema di valori fondato su aspettative legate al genere.",
-    "de": "andererseits beurteilen Sie sie jedoch auf der Grundlage eines Wertesystems, das auf geschlechtsbezogenen Erwartungen beruht."
-  },
-  {
-    "it": "Tali aspettative la portano a credere implicitamente che il comportamento osservato non corrisponda a quello di una 'brava ragazza' e in qualche modo lei avverte la possibilità che avvicinarsi a lei potrebbe comportare una minaccia,",
-    "de": "Solche Erwartungen führen Sie dazu, implizit zu glauben, dass das beobachtete Verhalten nicht dem eines 'braven Mädchens' entspricht, und irgendwie spüren Sie die Möglichkeit, dass eine Annäherung an sie eine Bedrohung darstellen könnte,"
-  },
-  {
-    "it": "quindi non si sente al sicuro immaginando gli sviluppi possibili della vostra conoscenza.",
-    "de": "also fühlen Sie sich nicht sicher, wenn Sie sich die möglichen Entwicklungen Ihrer Beziehung vorstellen."
-  },
-  {
-    "it": "Potrebbe pensare di essere giudicato dall'ambiente che la circonda,",
-    "de": "Sie könnten denken, von der Umgebung, die Sie umgibt, beurteilt zu werden,"
-  },
-  {
-    "it": "dai pari,",
-    "de": "von Gleichaltrigen,"
-  },
-  {
-    "it": "ad esempio dai compagni di scuola o dagli amici.",
-    "de": "zum Beispiel von Schulkameraden oder Freunden."
-  },
-  {
-    "it": "Oppure potrebbe avere il timore che la ragazza scelga di allontanarsi da lei,",
-    "de": "Oder Sie könnten die Angst haben, dass das Mädchen sich entscheidet, sich von Ihnen zu entfernen,"
-  },
-  {
-    "it": "che cambi idea.",
-    "de": "ihre Meinung zu ändern."
-  },
-  {
-    "it": "So che mettersi in gioco è molto difficile,",
-    "de": "Ich weiß, dass es sehr schwierig ist, sich einzubringen,"
-  },
-  {
-    "it": "e che essere presi nella morsa di una scelta che appare impossibile è un'esperienza emotivamente intensa.",
-    "de": "und dass es in der Zange einer unmöglich erscheinenden Entscheidung gefangen zu sein, eine emotional intensive Erfahrung ist."
-  },
-  {
-    "it": "Infatti probabilmente il sistema di valori che sta alla base del significato che lei attribuisce al comportamento della ragazza di cui parla ha anche un valore protettivo,",
-    "de": "Tatsächlich hat das Wertesystem, das der Bedeutung zugrunde liegt, die Sie dem Verhalten des Mädchens, über das Sie sprechen, zuschreiben, wahrscheinlich auch einen schützenden Wert,"
-  },
-  {
-    "it": "la difende dall'intensità di ciò che potrebbe provare.",
-    "de": "er schützt Sie vor der Intensität dessen, was Sie fühlen könnten."
-  },
-  {
-    "it": "Ma lo fa determinando una chiusura rispetto all'esperienza stessa,",
-    "de": "Aber er tut es, indem er eine Schließung gegenüber der Erfahrung selbst bestimmt,"
-  },
-  {
-    "it": "e probabilmente precludendole anche delle gioie.",
-    "de": "und Ihnen wahrscheinlich auch Freuden verschließt."
-  },
-  {
-    "it": "Ci pensi.",
-    "de": "Denken Sie darüber nach."
-  },
-  {
-    "it": "Resto volentieri a disposizione.",
-    "de": "Ich stehe gerne zur Verfügung."
-  },
-  {
-    "it": "Un saluto.",
-    "de": "Einen Gruß."
-  },
-  {
-    "it": "Margherita Barberi,",
-    "de": "Margherita Barberi,"
-  },
-  {
-    "it": "PsicologaRicevo anche online",
-    "de": "PsychologinEmpfange auch online"
-  },
-  {
-    "it": "Gentile Mario,",
-    "de": "Lieber Mario,"
-  },
-  {
-    "it": "la situazione che descrive sembra caratterizzata da una tensione tra il benessere che prova nel presente della relazione e alcune rappresentazioni legate alle fasi iniziali della conoscenza.",
-    "de": "die Situation, die Sie beschreiben, scheint durch eine Spannung zwischen dem Wohlbefinden, das Sie in der Gegenwart der Beziehung erleben, und einigen Darstellungen, die mit den Anfangsphasen des Kennenlernens zusammenhängen, gekennzeichnet zu sein."
-  },
-  {
-    "it": "In questi casi può essere utile considerare anche il contesto culturale più ampio in cui si formano certe aspettative.",
-    "de": "In diesen Fällen kann es nützlich sein, auch den breiteren kulturellen Kontext zu berücksichtigen, in dem bestimmte Erwartungen entstehen."
-  },
-  {
-    "it": "Non è raro,",
-    "de": "Es ist nicht selten,"
-  },
-  {
-    "it": "infatti,",
-    "de": "tatsächlich,"
-  },
-  {
-    "it": "che uomini e donne vengano implicitamente valutati con criteri differenti rispetto ai comportamenti affettivi e sessuali,",
-    "de": "dass Männer und Frauen implizit mit unterschiedlichen Kriterien in Bezug auf affektive und sexuelle Verhaltensweisen bewertet werden,"
-  },
-  {
-    "it": "soprattutto nelle fasi iniziali di frequentazione.",
-    "de": "besonders in den Anfangsphasen des Kennenlernens."
-  },
-  {
-    "it": "Questo può influenzare il modo in cui attribuiamo significato a determinati episodi,",
-    "de": "Das kann beeinflussen, wie wir bestimmten Episoden Bedeutung beimessen,"
-  },
-  {
-    "it": "talvolta irrigidendo il giudizio.",
-    "de": "manchmal das Urteil versteifend."
-  },
-  {
-    "it": "Ciò non significa negare i suoi valori personali,",
-    "de": "Das bedeutet nicht, Ihre persönlichen Werte zu leugnen,"
-  },
-  {
-    "it": "che restano legittimi,",
-    "de": "die legitim bleiben,"
-  },
-  {
-    "it": "ma piuttosto riconoscere che alcune interpretazioni possono essere,",
-    "de": "sondern vielmehr zu erkennen, dass einige Interpretationen sein können,"
-  },
-  {
-    "it": "almeno in parte,",
-    "de": "zumindest teilweise,"
-  },
-  {
-    "it": "il risultato di schemi appresi più che di elementi realmente predittivi della qualità della relazione.",
-    "de": "das Ergebnis erlernter Schemata mehr als wirklich vorhersagender Elemente der Qualität der Beziehung."
-  },
-  {
-    "it": "Può quindi essere utile chiedersi se il disagio che prova deriva principalmente da ciò che questa ragazza è oggi nel rapporto con lei,",
-    "de": "Es kann daher nützlich sein, sich zu fragen, ob das Unbehagen, das Sie erleben, hauptsächlich davon herrührt, was dieses Mädchen heute in der Beziehung zu Ihnen ist,"
-  },
-  {
-    "it": "oppure da come vengono letti e valutati alcuni comportamenti passati alla luce di tali schemi.",
-    "de": "oder davon, wie bestimmte vergangene Verhaltensweisen im Lichte solcher Schemata gelesen und bewertet werden."
-  },
-  {
-    "it": "Questo tipo di distinzione può aiutarla a orientarsi con maggiore chiarezza rispetto a ciò che desidera per sé.",
-    "de": "Diese Art von Unterscheidung kann Ihnen helfen, sich klarer in Bezug auf das, was Sie für sich selbst wünschen, zu orientieren."
-  },
-  {
-    "it": "Resto a disposizione per eventuali ulteriori approfondimenti.",
-    "de": "Ich stehe für eventuelle weitere Vertiefungen zur Verfügung."
-  },
-  {
-    "it": "Cordiali salutiDott.",
-    "de": "Mit freundlichen GrüßenDr."
-  },
-  {
-    "it": "Mattia Carolo",
-    "de": "Mattia Carolo"
-  },
-  {
-    "it": "Salve Mario.",
-    "de": "Guten Tag Mario."
-  },
-  {
-    "it": ".",
-    "de": "."
-  },
-  {
-    "it": "capisco il suo disagio.",
-    "de": "ich verstehe Ihr Unbehagen."
-  },
-  {
-    "it": ".",
-    "de": "."
-  },
-  {
-    "it": "ma tra ragazzi queste sono cose che possono capitare.",
-    "de": "aber unter jungen Leuten sind das Dinge, die passieren können."
-  },
-  {
-    "it": ".",
-    "de": "."
-  },
-  {
-    "it": "ma non significa che adesso la sua ragazza lo sta prendendo in giro o che non sia la ragazza giusta per lei specialmente dal momento che giorno dopo giorno le sta dimostrando di tenere tanto a lei .",
-    "de": "aber das bedeutet nicht, dass Ihre Freundin Sie jetzt zum Narren hält oder nicht das richtige Mädchen für Sie ist, besonders da sie Ihnen Tag für Tag zeigt, wie sehr sie Ihnen zugetan ist."
-  },
-  {
-    "it": ".",
-    "de": "."
-  },
-  {
-    "it": "quindi le consiglierei di lasciare il passato alle spalle e di vivere il presente pensando a ciò che questa ragazza le sta dimostrando.",
-    "de": "daher würde ich Ihnen raten, die Vergangenheit hinter sich zu lassen und die Gegenwart zu leben, indem Sie an das denken, was Ihnen dieses Mädchen zeigt."
-  },
-  {
-    "it": ".",
-    "de": "."
-  },
-  {
-    "it": "spero di esserle stata d'aiuto.",
-    "de": "ich hoffe, Ihnen geholfen zu haben."
-  },
-  {
-    "it": ".",
-    "de": "."
-  },
-  {
-    "it": "cordiali saluti Dott.",
-    "de": "freundliche Grüße Dr."
-  },
-  {
-    "it": "ssa Lorena Truscelli",
-    "de": "Lorena Truscelli"
-  },
-  {
-    "it": "Buongiorno,",
-    "de": "Guten Morgen,"
-  },
-  {
-    "it": "da quello che racconta si sente quanto questa situazione la stia facendo stare male e mettendo in conflitto:",
-    "de": "aus dem, was Sie erzählen, spürt man, wie sehr diese Situation Ihnen zu schaffen macht und Sie in Konflikt bringt:"
-  },
-  {
-    "it": "da una parte c'è il benessere che prova con questa ragazza,",
-    "de": "einerseits gibt es das Wohlbefinden, das Sie mit diesem Mädchen erleben,"
-  },
-  {
-    "it": "dall'altra un pensiero che ritorna e la ferisce,",
-    "de": "andererseits ein Gedanke, der zurückkehrt und Sie verletzt,"
-  },
-  {
-    "it": "quello di non essersi sentito scelto fin dall'inizio e di non riconoscere in lei alcune caratteristiche per lei importanti.",
-    "de": "der, sich von Anfang an nicht gewählt gefühlt zu haben und in ihr einige für Sie wichtige Eigenschaften nicht zu erkennen."
-  },
-  {
-    "it": "È comprensibile che questo la porti a vivere emozioni contrastanti,",
-    "de": "Es ist verständlich, dass dies Sie dazu bringt, widersprüchliche Emotionen zu erleben,"
-  },
-  {
-    "it": "perché quando c'è coinvolgimento affettivo non è semplice mettere ordine tra ciò che si prova e ciò che si pensa 'dovrebbe essere giusto'.",
-    "de": "weil es bei emotionalem Engagement nicht einfach ist, Ordnung zu schaffen zwischen dem, was man fühlt, und dem, was man für „richtig' hält."
-  },
-  {
-    "it": "Il punto forse non è tanto ciò che è successo all'inizio,",
-    "de": "Der Punkt ist vielleicht nicht so sehr das, was am Anfang passiert ist,"
-  },
-  {
-    "it": "ma il significato che quell'episodio continua ad avere per lei oggi:",
-    "de": "sondern die Bedeutung, die dieser Vorfall für Sie heute weiterhin hat:"
-  },
-  {
-    "it": "sembra toccare un senso di valore personale,",
-    "de": "er scheint ein Gefühl des persönlichen Werts zu berühren,"
-  },
-  {
-    "it": "di scelta e di rispetto che per lei è fondamentale.",
-    "de": "von Wahl und Respekt, der für Sie grundlegend ist."
-  },
-  {
-    "it": "Allo stesso tempo,",
-    "de": "Gleichzeitig,"
-  },
-  {
-    "it": "il giudizio che esprime nei suoi confronti ('è stata facile') rischia di irrigidire ancora di più la situazione,",
-    "de": "riskiert das Urteil, das Sie ihr gegenüber ausdrücken („sie war leichtfertig'), die Situation noch mehr zu versteifen,"
-  },
-  {
-    "it": "perché la porta a guardarla attraverso una lente che può alimentare distanza e malessere,",
-    "de": "weil es Sie dazu bringt, sie durch eine Linse zu betrachten, die Distanz und Unbehagen nähren kann,"
-  },
-  {
-    "it": "anche se una parte di lei continua a starci bene.",
-    "de": "auch wenn ein Teil von Ihnen weiterhin gut mit ihr auskommt."
-  },
-  {
-    "it": "Potrebbe essere utile provare a spostare l'attenzione da ciò che lei ha fatto prima di conoscerla a ciò che succede tra voi adesso:",
-    "de": "Es könnte nützlich sein zu versuchen, die Aufmerksamkeit von dem, was sie getan hat, bevor Sie sie kannten, auf das zu lenken, was jetzt zwischen Ihnen passiert:"
-  },
-  {
-    "it": "come si sente nella relazione?",
-    "de": "Wie fühlen Sie sich in der Beziehung?"
-  },
-  {
-    "it": "Si sente visto,",
-    "de": "Fühlen Sie sich gesehen,"
-  },
-  {
-    "it": "scelto,",
-    "de": "gewählt,"
-  },
-  {
-    "it": "rispettato oggi?",
-    "de": "respektiert heute?"
-  },
-  {
-    "it": "Perché è su questo che si costruisce un rapporto nel presente.",
-    "de": "Denn darauf baut sich eine Beziehung in der Gegenwart auf."
-  },
-  {
-    "it": "Se però quel pensiero continua a tornare e non riesce a lasciarlo andare,",
-    "de": "Wenn jedoch dieser Gedanke immer wieder zurückkommt und Sie ihn nicht loslassen können,"
-  },
-  {
-    "it": "è importante ascoltarlo:",
-    "de": "ist es wichtig, ihm zuzuhören:"
-  },
-  {
-    "it": "a volte indica un bisogno profondo non soddisfatto o un valore personale con cui non si riesce a scendere a compromessi.",
-    "de": "manchmal weist er auf ein tiefes unerfülltes Bedürfnis oder einen persönlichen Wert hin, mit dem man keine Kompromisse schließen kann."
-  },
-  {
-    "it": "Non esiste una scelta giusta in assoluto,",
-    "de": "Es gibt keine absolut richtige Wahl,"
-  },
-  {
-    "it": "ma una scelta che la faccia stare il più possibile in pace con se stesso,",
-    "de": "sondern eine Wahl, die Sie so weit wie möglich mit sich selbst in Frieden sein lässt,"
-  },
-  {
-    "it": "senza dover continuamente combattere dentro di sé.",
-    "de": "ohne ständig innerlich kämpfen zu müssen."
-  },
-  {
-    "it": "Resto a disposizione,",
-    "de": "Ich stehe zur Verfügung,"
-  },
-  {
-    "it": "un caro saluto.",
-    "de": "herzliche Grüße."
-  },
-  {
-    "it": "D.",
-    "de": "Dr."
-  },
-  {
-    "it": "ssa Giulia Martinelli",
-    "de": "Giulia Martinelli"
-  },
-  {
-    "it": "Ciao Mario,",
-    "de": "Hallo Mario,"
-  },
-  {
-    "it": "Il tuo disagio è comprensibile,",
-    "de": "Ihr Unbehagen ist verständlich,"
-  },
-  {
-    "it": "ma non riguarda solo lei:",
-    "de": "betrifft aber nicht nur sie:"
-  },
-  {
-    "it": "riguarda il tuo modo di leggere il valore e la scelta.",
-    "de": "es betrifft Ihre Art, Wert und Wahl zu lesen."
-  },
-  {
-    "it": "Stai attribuendo un significato molto forte al fatto di non essere stato scelto subito,",
-    "de": "Sie messen der Tatsache, nicht sofort gewählt worden zu sein, eine sehr starke Bedeutung bei,"
-  },
-  {
-    "it": "come se questo definisse il tuo posto.",
-    "de": "als ob das Ihren Platz definieren würde."
-  },
-  {
-    "it": "Questo attiva vissuti di svalutazione e ti porta a mettere in discussione lei ('è facile') per ristabilire un equilibrio interno.",
-    "de": "Das aktiviert Erlebnisse der Abwertung und bringt Sie dazu, sie in Frage zu stellen („sie ist leichtfertig'), um ein inneres Gleichgewicht wiederherzustellen."
-  },
-  {
-    "it": "In realtà,",
-    "de": "Tatsächlich,"
-  },
-  {
-    "it": "il comportamento iniziale di una persona non definisce necessariamente la sua capacità relazionale o affettiva.",
-    "de": "definiert das anfängliche Verhalten einer Person nicht notwendigerweise ihre beziehungsmäßige oder affektive Fähigkeit."
-  },
-  {
-    "it": "Lei oggi ti sceglie e te lo dimostra con coerenza comportamentale,",
-    "de": "Sie wählt Sie heute und zeigt es Ihnen mit Verhaltenskohärenz,"
-  },
-  {
-    "it": "non solo a parole.",
-    "de": "nicht nur mit Worten."
-  },
-  {
-    "it": "Il rischio è che tu resti ancorato a un'idea rigida di 'come dovrebbe essere una ragazza' e perda di vista la relazione reale.",
-    "de": "Das Risiko besteht darin, dass Sie an einer starren Vorstellung davon, „wie ein Mädchen sein sollte', festhängen und die reale Beziehung aus den Augen verlieren."
-  },
-  {
-    "it": "Inoltre,",
-    "de": "Außerdem,"
-  },
-  {
-    "it": "il tema della sessualità precoce viene da te letto in termini morali.",
-    "de": "das Thema der frühen Sexualität wird von Ihnen in moralischen Begriffen gelesen."
-  },
-  {
-    "it": ".",
-    "de": "."
-  },
-  {
-    "it": "Questo può indicare valori tuoi legittimi,",
-    "de": "Das kann Ihre legitimen Werte anzeigen,"
-  },
-  {
-    "it": "ma anche rigidità che limitano la possibilità di costruire legami.",
-    "de": "aber auch Starrheiten, die die Möglichkeit einschränken, Bindungen aufzubauen."
-  },
-  {
-    "it": "Chiediti:",
-    "de": "Fragen Sie sich:"
-  },
-  {
-    "it": "ciò che cerchi è una relazione autentica o una persona che rispecchi uno standard ideale?",
-    "de": "suchen Sie eine authentische Beziehung oder eine Person, die einem idealen Standard entspricht?"
-  },
-  {
-    "it": "Perché le due cose non sempre coincidono.",
-    "de": "Denn die beiden Dinge stimmen nicht immer überein."
-  },
-  {
-    "it": "Se continui a rimanere focalizzato sull'inizio,",
-    "de": "Wenn Sie weiterhin auf den Anfang fokussiert bleiben,"
-  },
-  {
-    "it": "rischi di sabotare qualcosa che nel presente funziona.",
-    "de": "riskieren Sie, etwas zu sabotieren, das in der Gegenwart funktioniert."
-  },
-  {
-    "it": "Il punto centrale è capire se riesci a tollerare l'imperfezione dell'altro.",
-    "de": "Der zentrale Punkt ist zu verstehen, ob Sie die Unvollkommenheit des anderen tolerieren können."
-  },
-  {
-    "it": "E soprattutto:",
-    "de": "Und vor allem:"
-  },
-  {
-    "it": "se riesci a sentirti scelto oggi,",
-    "de": "ob Sie sich heute gewählt fühlen können,"
-  },
-  {
-    "it": "senza bisogno di esserlo stato 'per primo'.",
-    "de": "ohne dazu „als Erster' gewählt worden zu sein."
-  }
+  { "it": "Riconoscimenti", "de": "Danksagungen" }
 ]
