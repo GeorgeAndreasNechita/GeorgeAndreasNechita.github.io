@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-url = "https://www.guidapsicologi.it/domande/sparizione-forse-e-un-evitante"
+url = "https://www.guidapsicologi.it/domande/passione-o-ossessione"
 headers = {"User-Agent": "Mozilla/5.0"}
 response = requests.get(url, headers=headers)
 

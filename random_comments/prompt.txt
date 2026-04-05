@@ -1,1046 +1,297 @@
-Bitte diesen Text in kleine Stücke teilen(die sinn machen) und Übersetzen:
-Du solltest so was machen: gefilterter_text = re.sub(r'([.,;?:!])\s*', r'\1\n', text). Wenn der sinn noch bleibt, kannst du noch auch das erweiter. Je kleiner das Stück, desto besser
-Ergebniss soll einen solchen .json sein. SEHR WICHTIG: Bitte achte, dass das Ergebnis ein valides .json ist.
-  {
-    "it": "Cosa deve dire e fare per convincerla?",
-    "de": "Was muss sie sagen und tun, um Sie zu überzeugen?"
-  },
+Bitte die Deutsche Übersetzung ausfüllen.
+SEHR WICHTIG: Bitte achte, dass das Ergebnis ein valides .json ist.
 Jetzt der Text:
 [
   {
-    "it": "Sparizione.",
+    "it": "Passione o ossessione?",
     "de": ""
   },
   {
-    "it": "forse e' un evitante?",
+    "it": "Buongiorno,",
     "de": ""
   },
   {
-    "it": "Buonasera,",
+    "it": "ho 40 anni,",
     "de": ""
   },
   {
-    "it": "cerco di farla breve anche se e' difficile.",
+    "it": "in adolescenza ho avuto difficoltà relazionali e ad instaurare amicizie,",
     "de": ""
   },
   {
-    "it": "Io 46 anni,",
+    "it": "ero ben integrato coi miei compagni di classe,",
     "de": ""
   },
   {
-    "it": "lui ora 28 (ai tempi 27).",
+    "it": "son stato anche rappresentante,",
     "de": ""
   },
   {
-    "it": "Mi scrive via social a Dicembre,",
+    "it": "punto di riferimento per tante cose,",
     "de": ""
   },
   {
-    "it": "io non sono tipo che accetta complimenti ne che si fa circuire ma lui ci e' riuscito.",
+    "it": "ma finite le lezioni mi ritrovavo a casa da solo con me stesso.",
     "de": ""
   },
   {
-    "it": "E' stato bravo,",
+    "it": "Ho perso la verginità a 26 anni con l'unica ragazza che ho avuto e con la quale ho costruito una famiglia.",
     "de": ""
   },
   {
-    "it": "tanto e nonostante la mia diffidenza iniziale ed il mio farlo desistere e' stato cosi' presente in tutto che mi ha conquistata anche se esteticamente non fosse vicino ai miei gusti.",
+    "it": "Per anni sono stato insicuro del mio corpo,",
     "de": ""
   },
   {
-    "it": "Prima di Natale sparisce ed io capisco che la sua assenza di quei giorni mi pesa da matti.",
+    "it": "causa sovrappeso,",
     "de": ""
   },
   {
-    "it": "Lo cerco io.",
+    "it": "oltre a non sentirmi all'altezza dei miei coetanei con i quali non ho potuto condividere tante cose da ragazzo,",
     "de": ""
   },
   {
-    "it": "riniziamo a scriverci e non smettiamo piu!",
+    "it": "mentre sul lavoro son sempre stato 'uno dei migliori'.",
     "de": ""
   },
   {
-    "it": "A Gennaio ci vediamo,",
+    "it": "Tutto questo preambolo perché credo sia connesso ad una 'passione' che non vorrei possa portare a qualcosa di 'malsano'.",
     "de": ""
   },
   {
-    "it": "andiamo a letto insieme ed il nostro 'rapporto' inizia ad essere sempre piu' in sintonia.",
+    "it": "Intorno ai 23/24 anni,",
     "de": ""
   },
   {
-    "it": "Io pero' sono fidanzata,",
+    "it": "solo e senza aver mai visto una ragazza che non avesse quanto meno un bikini,",
     "de": ""
   },
   {
-    "it": "lui non vuole una storia perche' esce da una precedente storia che lo ha fatto stare male ma dice di averla superata nonostante le mie perplessita'.",
+    "it": "ho iniziato ad avvicinarmi al nudismo,",
     "de": ""
   },
   {
-    "it": "Ha sentito altre persone ma quasi subito ha smesso.",
+    "it": "per curiosità,",
     "de": ""
   },
   {
-    "it": "Con me invece continua a durare.",
+    "it": "per gusto voyeutistico,",
     "de": ""
   },
   {
-    "it": "Mi riempi di complimenti,",
+    "it": "e l'ho trovato piacevolmente naturale.",
     "de": ""
   },
   {
-    "it": "dice che sono speciale,",
+    "it": "Stavo bene con me stesso,",
     "de": ""
   },
   {
-    "it": "diversa da tutto cio' che aveva frequentato fino a quel momento.",
+    "it": "non mi sentivo giudicato per come ero vestito o se il costume evidenziava la ciccia di troppo,",
     "de": ""
   },
   {
-    "it": "Sessualmente una sintonia pazzesca e lui si lascia andare a cose che dice di non aver mai fatto prima (tipo venire con un rapporto,",
+    "it": "e non posso negare che condividere la nudità con altri,",
     "de": ""
   },
   {
-    "it": "addirittura venirmi dentro nonostante la non protezione,",
+    "it": "vedere ed essere visto,",
     "de": ""
   },
   {
-    "it": "la voglia di coler dormire con me cosa che trova molto intima,",
+    "it": "mi eccitasse.",
     "de": ""
   },
   {
-    "it": "ecc).",
+    "it": "Vedo queste esperienze come se condividessi dei segreti con delle persone che non mi giudicano,",
     "de": ""
   },
   {
-    "it": "E' uno sportivo,",
+    "it": "e provo la stessa sensazione come quando qualcuno si confida con te perché reputa di potersi fidare.",
     "de": ""
   },
   {
-    "it": "gioca a calcio di livello non dove abita ma fuori dove poi risiede fino alla fine del campionato.",
+    "it": "Questa passione la coltivo tuttora,",
     "de": ""
   },
   {
-    "it": "rientra dalle festivita' ed iniziano una serie di impegni legati alla squadra tra allenamenti intensivi,",
+    "it": "anche con un amico e la propria ragazza con la quale si è instaurato un rapporto direi di fratellanza,",
     "de": ""
   },
   {
-    "it": "partite,",
+    "it": "due sconosciuti nudi che parlano di qualsiasi cosa come se si conoscessero da anni,",
     "de": ""
   },
   {
-    "it": "allenamenti dell' under 19 che lui tiene e dei bambini di cui mi aveva gia' parlato e che avrebbero portato a sentirci meno ma non a sparire!",
+    "it": "senza sfiorsrsi né con un dito né col pensiero.",
     "de": ""
   },
   {
-    "it": "Continuiamo a sentirci ed a febbraio ci rivediamo.",
+    "it": "Il nudismo estivo in inverno si trasforma in ricerca di spa 'nordiche' dove poter condividere la propria nudità con altri sconosciuti,",
     "de": ""
   },
   {
-    "it": "Incontro non andato benissimo a causa di alcuni intoppo per arrivare da lui che comunque mi hanno fatto stare con lui poco tempo rispetto a quello ipotizzato (2 ore di viaggio cn la macchina e ho bucato).",
+    "it": "con lo stesso benessere e rispetto delle spiagge nudiste.",
     "de": ""
   },
   {
-    "it": "comunque stiamo insieme ed io poi torno a casa.",
+    "it": "Il problema nasce dal fatto che tutto ciò è diventata quasi una fissa:",
     "de": ""
   },
   {
-    "it": "La sera mi dice che forse avevo ragione e che aveva capito di provare ancora qualcosa per la ex perche' gli era  apparsa una storia dove lei faceva vedere di essersi fidanzata.",
+    "it": "in estate il pensiero è sempre volto a poter andare alla spiaggia nudista (che dista 60 km) e le vacanze estive e invernali son sempre preferibilmente in luoghi dove poter usufruire di spa senza costume,",
     "de": ""
   },
   {
-    "it": "Io faccio la comprensiva,",
+    "it": "condizionando inconsciamente la scelta della destinazione.",
     "de": ""
   },
   {
-    "it": "cerco di ascoltarlo,",
+    "it": "Questo gusto per la nudità e per il voyeurismo si ripete anche quando vado alla ricerca di contenuti sessualità in rete,",
     "de": ""
   },
   {
-    "it": "lui sembrava collaborativo.",
+    "it": "piuttosto che cercare contenuti prettamente pornografici.",
     "de": ""
   },
   {
-    "it": "poi iniziano i malesseri.",
+    "it": "Mi sembra di essere sempre insoddisfatto,",
     "de": ""
   },
   {
-    "it": "inizia a sparire.",
+    "it": "sempre alla ricerca di poter sbirciare com'è fatta la vicina di turno,",
     "de": ""
   },
   {
-    "it": "io gli chiedo notizie,",
+    "it": "immaginare che io possa vederla come tanti altri vorrebbero e non ne hanno mai avuto nemmeno la lontana occasione e non mi sazio mai.",
     "de": ""
   },
   {
-    "it": "lui me le da.",
+    "it": "Preciso che non c'è mai stata mancanza di rispetto di nessun tipo in queste occasioni son sempre stato tranquillo al mio posto in qualsiasi situazione.",
     "de": ""
   },
   {
-    "it": "ancora il pensiero della ex.",
+    "it": "È nell'ordine normale delle cose avere un pensiero fisso per una cosa che ci attrae e ci dà soddisfazione o pensarci continuamente e ogni giorno,",
     "de": ""
   },
   {
-    "it": "pensava di aver superato una cosa ed invece capire che ci era ancora dentro lo aveva distrutto.",
+    "it": "ad ogni occasione,",
     "de": ""
   },
   {
-    "it": "Un sera mi fa vedere un video che lui aveva fatto riepilogativo della loro storia,",
+    "it": "è qualcosa di eccessivo?",
     "de": ""
   },
   {
-    "it": "talmente bello che io ho pianto ma non gliel' ho detto.",
+    "it": "·&nbspQuesta risposta è stata utile per10persone",
     "de": ""
   },
   {
-    "it": "Poi mi sparisce.",
+    "it": "Le rispondo in un’ottica cognitivo-costruttivista,",
     "de": ""
   },
   {
-    "it": "prima 2 giorni.",
+    "it": "provando a tenere insieme la sua storia,",
     "de": ""
   },
   {
-    "it": "io chiedo notizie,",
+    "it": "il significato che attribuisce al nudismo e la sua preoccupazione attuale.",
     "de": ""
   },
   {
-    "it": "lui si scusa,",
+    "it": "Intanto è importante riconoscere la coerenza del suo racconto:",
     "de": ""
   },
   {
-    "it": "dice che aveva bisogno di staccare.",
+    "it": "il nudismo non nasce come semplice eccitazione sessuale,",
     "de": ""
   },
   {
-    "it": "argomento sempre lo stesso.",
+    "it": "ma come esperienza di non giudizio,",
     "de": ""
   },
   {
-    "it": "sembrava tutto risolto ma poi da li' il delirio.",
+    "it": "di accettazione del corpo,",
     "de": ""
   },
   {
-    "it": "nell' ultimo mese iniziano un serie di sparizioni (prima 2 giorni,",
+    "it": "di condivisione autentica.",
     "de": ""
   },
   {
-    "it": "poi ritorna,",
+    "it": "In un periodo della sua vita in cui si sentiva insicuro,",
     "de": ""
   },
   {
-    "it": "poi risparisce per 3) sempre con la stessa scusante 'problemi di cui non voglio parlare'.",
+    "it": "fuori posto rispetto ai coetanei e non pienamente legittimato nel proprio valore corporeo,",
     "de": ""
   },
   {
-    "it": "sistematicamente torna e poi risparisce.",
+    "it": "trovarsi nudo tra altri nudi le ha dato una sensazione opposta:",
     "de": ""
   },
   {
-    "it": "in piu' iniziano partite sempre piu' vicine per la chiusura del campionato che nel frattempo hanno vinto e poi iniziano le partite piu' impegnative della coppa italia che nel frattempo hanno vinto e sono diventati campioni.",
+    "it": "parità,",
     "de": ""
   },
   {
-    "it": "Io ho atteso in disparte che passasse questo sue momento impegnativo a livello fisico e mentale di enorme soddisfazione!",
+    "it": "trasparenza,",
     "de": ""
   },
   {
-    "it": "Lui con i suoi 'amore' ha pero iniziato a non dirmi piu' che gli mancavo ma mia domanda la risposta sempre la stessa 'certo che mi manchi' oppure 'ovvio'.",
+    "it": "appartenenza.",
     "de": ""
   },
   {
-    "it": "facendomi vedere che il fatto di non di non dirlo non voleva dire che non fosse cosi.",
+    "it": "Mi colpisce molto questa frase:",
     "de": ""
   },
   {
-    "it": "mi ha chiesto scusa perche0 il periodo lo avrebbe portanto ad essere distante ed a non trattarmi da regina,",
+    "it": "“come condividere un segreto con qualcuno che non ti giudica”.",
     "de": ""
   },
   {
-    "it": "che io non meritavo le sue sparizioni ed un serie di altre belle cose che mi hanno spinto a crederci.",
+    "it": "Sembra che la nudità per lei non sia solo erotica,",
     "de": ""
   },
   {
-    "it": "a capire il suo meccanismo.",
+    "it": "ma simbolica:",
     "de": ""
   },
   {
-    "it": "quando e' nel suo momento no sparisce.",
+    "it": "è un’esperienza di intimità senza maschere.",
     "de": ""
   },
   {
-    "it": "non legge i miei messaggi.",
+    "it": "In adolescenza e prima età adulta lei racconta di essere riconosciuto per le competenze (rappresentante,",
     "de": ""
   },
   {
-    "it": "quando  si riprende legge ed automaticamente mi risponde.",
+    "it": "bravo sul lavoro),",
     "de": ""
   },
   {
-    "it": "il 17 marzo contro ogni apettativa perche' non era in programma,",
+    "it": "ma solo.",
     "de": ""
   },
   {
-    "it": "ci siamo visti.",
+    "it": "Forse la nudità condivisa ha rappresentato una forma di contatto più profondo,",
     "de": ""
   },
   {
-    "it": "Abbiamo passato 5 ore stupende .",
+    "it": "più autentico,",
     "de": ""
   },
   {
-    "it": "nonostante i suoi numerosi problemi fisici tra crampi,",
+    "it": "meno mediato dal ruolo.",
     "de": ""
   },
   {
-    "it": "mal di testa,",
+    "it": "Il punto che oggi la preoccupa non è la pratica in sé – che descrive come rispettosa e consensuale – ma la dimensione della fissazione e dell’insaziabilità.",
     "de": ""
   },
   {
-    "it": "schiena bloccata ecc un sesso straordinario,",
-    "de": ""
-  },
-  {
-    "it": "il migliore di tutte le volte (la domenica prima mi aveva addiruttura chiesto di raggiungerlo e dormire da lui perche' il suo collega di casa sarebbe andato fuori ma io abitando con il mio compagno ovviamente all' ultimo non sono riuscita ad organizzarmi).",
-    "de": ""
-  },
-  {
-    "it": "Torno a casa lui sparisce,",
-    "de": ""
-  },
-  {
-    "it": "gli auguro buon viaggio per la trasferta di semifinale del sabato con la speranza che vincano e che possano giocare la finale il giorno dopo.",
-    "de": ""
-  },
-  {
-    "it": "lui mi risponde mi ringrazia i soliti amore.",
-    "de": ""
-  },
-  {
-    "it": "vincono la finale,",
-    "de": ""
-  },
-  {
-    "it": "gli scrivo.",
-    "de": ""
-  },
-  {
-    "it": "alle 2 di mattina del giorno dopo mi manda 5 cuori.",
-    "de": ""
-  },
-  {
-    "it": "poi sparisce.",
-    "de": ""
-  },
-  {
-    "it": "il giovedi pomeriggio riappare.",
-    "de": ""
-  },
-  {
-    "it": "aveva voglia di me e come spesso accade finisce il tutto con una video chiamata in cu i entrambi ci tocchiamo.",
-    "de": ""
-  },
-  {
-    "it": "lui voleva vedermi nuda.",
-    "de": ""
-  },
-  {
-    "it": "gli chiedo perche' non si fosse fatto vivo e mi dice 'per problemi di cui non parlero'' .",
-    "de": ""
-  },
-  {
-    "it": "finiamo la telefonata con lui che mi dice 'ci sentiamo dopo' .",
-    "de": ""
-  },
-  {
-    "it": "io gli rispondo 'Grazie' con un cuoricino cosa che ho sempre fatto dopo queste telefonate ed un 'mi scopi come l'altra volta per favore la prossima volta che ci vediamo?",
-    "de": ""
-  },
-  {
-    "it": "' perche' in tutto questo durante la telefonata si era parlato proprio di rivedersi con piu serenita' e piu' spesso visto che da questa sarebbe finalmente tornato a casa.",
-    "de": ""
-  },
-  {
-    "it": "comunque.",
-    "de": ""
-  },
-  {
-    "it": "sparisce.",
-    "de": ""
-  },
-  {
-    "it": "non legge i miei messaggi.",
-    "de": ""
-  },
-  {
-    "it": "pubblica storie di continuo sulla vittoria e relativi post.",
-    "de": ""
-  },
-  {
-    "it": "poi piano piano diminuisce la frequenza anche  perche' orami di tempo da quella partita ne e' passato.",
-    "de": ""
-  },
-  {
-    "it": "Si collega su ig,",
-    "de": ""
-  },
-  {
-    "it": "ha messo storia per amici stretti dove io sono inserita,",
-    "de": ""
-  },
-  {
-    "it": "io metto le mia e le guarda.",
-    "de": ""
-  },
-  {
-    "it": "e ieri decido di scrivergli un semplice 'Amore come stai?",
-    "de": ""
-  },
-  {
-    "it": "Mi Manchi.",
-    "de": ""
-  },
-  {
-    "it": "mi manca il NOME SUO'.",
-    "de": ""
-  },
-  {
-    "it": "prima di fare accedo su wa em i rendo conto che 2 minuti prima aveva letto i miei precedenti messaggio.",
-    "de": ""
-  },
-  {
-    "it": "e non mi aveva risposto.",
-    "de": ""
-  },
-  {
-    "it": "MAI SUCCESSO.",
-    "de": ""
-  },
-  {
-    "it": "lo vedo su ig,",
-    "de": ""
-  },
-  {
-    "it": "di scollega.",
-    "de": ""
-  },
-  {
-    "it": "rimane scollegato piu di 1 ora (probabilemte sara' svenuto come spesso accadeva).",
-    "de": ""
-  },
-  {
-    "it": "riappare su ig dopo 1 ora,",
-    "de": ""
-  },
-  {
-    "it": "gli mando il messaggio.",
-    "de": ""
-  },
-  {
-    "it": "riscompare da ig,",
-    "de": ""
-  },
-  {
-    "it": "non lo legge.",
-    "de": ""
-  },
-  {
-    "it": "Io sono allibita!",
-    "de": ""
-  },
-  {
-    "it": "Non si e' mai comportato cosi.",
-    "de": ""
-  },
-  {
-    "it": "non capisco cosa sia successo.",
-    "de": ""
-  },
-  {
-    "it": "non capisco perche' mi stia facendo questo,",
-    "de": ""
-  },
-  {
-    "it": "perche' non mi cerchi,",
-    "de": ""
-  },
-  {
-    "it": "perche questo silenzio,",
-    "de": ""
-  },
-  {
-    "it": "perche' mi abbia letto ma non abbia scritto!",
-    "de": ""
-  },
-  {
-    "it": "MAI ACCADUTO.",
-    "de": ""
-  },
-  {
-    "it": "tra due giorni partira per le terme per 3 giorni.",
-    "de": ""
-  },
-  {
-    "it": "ed io mi sto arrivellando il fegato e sto piangendo come una disperata perche' non erop ronta e non so che fare!",
-    "de": ""
-  },
-  {
-    "it": "Non gli scrivo ovvio.",
-    "de": ""
-  },
-  {
-    "it": "del resto l' ho gia' fatto.",
-    "de": ""
-  },
-  {
-    "it": "MA CHE SENSO HA TUTTO QUESTO?",
-    "de": ""
-  },
-  {
-    "it": "?",
-    "de": ""
-  },
-  {
-    "it": "?",
-    "de": ""
-  },
-  {
-    "it": "?",
-    "de": ""
-  },
-  {
-    "it": "·&nbspQuesta risposta è stata utile per7persone",
-    "de": ""
-  },
-  {
-    "it": "Salve Signora,",
-    "de": ""
-  },
-  {
-    "it": "In effetti da quello che dice sembra un rapporto che si è consumato velocemente.",
-    "de": ""
-  },
-  {
-    "it": "Ma mentre lei ha sviluppato attaccamento,",
-    "de": ""
-  },
-  {
-    "it": "l’altro sembra avere un’incostanza che può far molto soffrire chi ci incappa.",
-    "de": ""
-  },
-  {
-    "it": "Lei sembra aver bisogno di comprendere come mai si sia infatuata di una persona che abbandona.",
-    "de": ""
-  },
-  {
-    "it": "Questo è molto importante capirlo e lo si può raggiungere attraverso un lavoro su di sè di tipo psicoterapeutico.",
-    "de": ""
-  },
-  {
-    "it": "Quindi sarebbe opportuno che lei potesse iniziarlo.",
-    "de": ""
-  },
-  {
-    "it": "Dott.",
-    "de": ""
-  },
-  {
-    "it": "Pietro Salemme",
-    "de": ""
-  },
-  {
-    "it": "Buonasera.",
-    "de": ""
-  },
-  {
-    "it": "Capisco profondamente il suo stato di smarrimento e il dolore che sta provando;",
-    "de": ""
-  },
-  {
-    "it": "è una situazione che toglie il respiro perché la lascia sospesa in un vuoto di spiegazioni che non arrivano.",
-    "de": ""
-  },
-  {
-    "it": "Dalla sua narrazione emergono alcuni elementi su cui vorrei invitarla a riflettere,",
-    "de": ""
-  },
-  {
-    "it": "guardandoli con la lente della psicologia dinamica.",
-    "de": ""
-  },
-  {
-    "it": "Lei descrive un uomo che è stato capace di abbattere le sue difese con una presenza massiccia e 'speciale'.",
-    "de": ""
-  },
-  {
-    "it": "In psicologia,",
-    "de": ""
-  },
-  {
-    "it": "questo inizio travolgente spesso serve a creare un legame di dipendenza rapido.",
-    "de": ""
-  },
-  {
-    "it": "Il fatto che lui le dicesse che lei è 'diversa da tutte le altre' e che con lei faceva cose 'mai fatte prima' sono segnali di una idealizzazione precoce.",
-    "de": ""
-  },
-  {
-    "it": "Quando una persona ci mette su un piedistallo così in fretta,",
-    "de": ""
-  },
-  {
-    "it": "purtroppo è altrettanto rapida nel ritirarsi non appena la realtà o i suoi conflitti interni,",
-    "de": ""
-  },
-  {
-    "it": "come il pensiero della ex o lo stress agonistico,",
-    "de": ""
-  },
-  {
-    "it": "riemergono.",
-    "de": ""
-  },
-  {
-    "it": "Il dolore che lui prova per la ex fidanzata non è un dettaglio secondario.",
-    "de": ""
-  },
-  {
-    "it": "Sembra che lui stia usando il rapporto con lei come un ammortizzatore emotivo.",
-    "de": ""
-  },
-  {
-    "it": "Quando sta con lei,",
-    "de": ""
-  },
-  {
-    "it": "il sesso 'straordinario' e l'intimità lo aiutano a non sentire il vuoto della perdita.",
-    "de": ""
-  },
-  {
-    "it": "Tuttavia,",
-    "de": ""
-  },
-  {
-    "it": "non appena lei si allontana fisicamente,",
-    "de": ""
-  },
-  {
-    "it": "il vuoto ritorna e lui si chiude in quel silenzio per 'problemi di cui non vuole parlare'.",
-    "de": ""
-  },
-  {
-    "it": "Questo silenzio è una forma di ritiro narcisistico:",
-    "de": ""
-  },
-  {
-    "it": "lui si cura le ferite da solo,",
-    "de": ""
-  },
-  {
-    "it": "escludendola completamente,",
-    "de": ""
-  },
-  {
-    "it": "perché in verità non ha ancora lo spazio mentale per una relazione reale e reciproca.",
-    "de": ""
-  },
-  {
-    "it": "Il fatto che lui visualizzi e non risponda,",
-    "de": ""
-  },
-  {
-    "it": "o che pubblichi storie su Instagram ignorando i suoi messaggi,",
-    "de": ""
-  },
-  {
-    "it": "invia un messaggio preciso,",
-    "de": ""
-  },
-  {
-    "it": "per quanto crudele:",
-    "de": ""
-  },
-  {
-    "it": "in questo momento esiste solo lui.",
-    "de": ""
-  },
-  {
-    "it": "Le sue sparizioni sistematiche seguite da ritorni passionali creano in lei un meccanismo di rinforzo intermittente.",
-    "de": ""
-  },
-  {
-    "it": "È lo stesso principio del gioco d’azzardo:",
-    "de": ""
-  },
-  {
-    "it": "poiché lui ogni tanto le dà tantissimo,",
-    "de": ""
-  },
-  {
-    "it": "lei è disposta a tollerare lunghi periodi di nulla sperando in quel momento di picco.",
-    "de": ""
-  },
-  {
-    "it": "Questo però la sta logorando.",
-    "de": ""
-  },
-  {
-    "it": "Lei scrive che 'non si è mai comportato così',",
-    "de": ""
-  },
-  {
-    "it": "ma in realtà lui ha già mostrato questo schema sparendo per giorni.",
-    "de": ""
-  },
-  {
-    "it": "Ora il tempo si è dilatato perché,",
-    "de": ""
-  },
-  {
-    "it": "con la fine del campionato e l'imminente vacanza alle terme,",
-    "de": ""
-  },
-  {
-    "it": "lui sta cercando di resettare la sua vita,",
-    "de": ""
-  },
-  {
-    "it": "e in questo processo lei rischia di essere messa in pausa senza troppe spiegazioni.",
-    "de": ""
-  },
-  {
-    "it": "Il suo pianto è legittimo:",
-    "de": ""
-  },
-  {
-    "it": "è il pianto di chi si sente usata dopo aver aperto il cuore nonostante i dubbi iniziali.",
-    "de": ""
-  },
-  {
-    "it": "Le suggerisco di fermarsi.",
-    "de": ""
-  },
-  {
-    "it": "Non gli scriva più,",
-    "de": ""
-  },
-  {
-    "it": "non per strategia,",
-    "de": ""
-  },
-  {
-    "it": "ma per preservare la sua dignità.",
-    "de": ""
-  },
-  {
-    "it": "Ogni messaggio non risposto è una ferita che lei infligge a se stessa.",
-    "de": ""
-  },
-  {
-    "it": "Lui sa perfettamente che lei c'è;",
-    "de": ""
-  },
-  {
-    "it": "se sceglie di non rispondere,",
-    "de": ""
-  },
-  {
-    "it": "sta facendo una scelta deliberata.",
-    "de": ""
-  },
-  {
-    "it": "Provi a chiedersi cosa stia cercando in quest'uomo che non trova nella sua relazione ufficiale.",
-    "de": ""
-  },
-  {
-    "it": "Forse questa storia è stata una potente distrazione da qualcosa che non va nella sua quotidianità,",
-    "de": ""
-  },
-  {
-    "it": "ma ora la distrazione è diventata più dolorosa del problema originario.",
-    "de": ""
-  },
-  {
-    "it": "Si prenda questi tre giorni in cui lui sarà alle terme per stare nel suo,",
-    "de": ""
-  },
-  {
-    "it": "di silenzio.",
-    "de": ""
-  },
-  {
-    "it": "Non guardi le sue storie.",
-    "de": ""
-  },
-  {
-    "it": "Provi a riascoltare i suoi bisogni,",
-    "de": ""
-  },
-  {
-    "it": "quelli di una donna che merita la costanza della presenza,",
-    "de": ""
-  },
-  {
-    "it": "non solo parole altisonanti.",
-    "de": ""
-  },
-  {
-    "it": "Resto a disposizione.",
-    "de": ""
-  },
-  {
-    "it": "Un caro saluto.",
-    "de": ""
-  },
-  {
-    "it": "Ricevo anche online.",
-    "de": ""
-  },
-  {
-    "it": "Dott.",
-    "de": ""
-  },
-  {
-    "it": "ssa Roberta Fornarelli",
-    "de": ""
-  },
-  {
-    "it": "Quello che stai vivendo ha molto senso,",
-    "de": ""
-  },
-  {
-    "it": "anche se fa male.",
-    "de": ""
-  },
-  {
-    "it": "Non sei “esagerata” né “debole”:",
-    "de": ""
-  },
-  {
-    "it": "sei coinvolta in una relazione che è stata intensa,",
-    "de": ""
-  },
-  {
-    "it": "ambigua e soprattutto discontinua.",
-    "de": ""
-  },
-  {
-    "it": "Ed è proprio questa discontinuità che ti sta logorando.",
-    "de": ""
-  },
-  {
-    "it": "Lui non è stato costante fin dall’inizio.",
-    "de": ""
-  },
-  {
-    "it": "Ti ha dato tanto,",
-    "de": ""
-  },
-  {
-    "it": "sì,",
-    "de": ""
-  },
-  {
-    "it": "ma a ondate:",
-    "de": ""
-  },
-  {
-    "it": "presenza forte,",
-    "de": ""
-  },
-  {
-    "it": "parole importanti,",
-    "de": ""
-  },
-  {
-    "it": "intimità profonda e poi sparizioni,",
-    "de": ""
-  },
-  {
-    "it": "silenzi,",
-    "de": ""
-  },
-  {
-    "it": "confusione sulla ex,",
-    "de": ""
-  },
-  {
-    "it": "“problemi di cui non parla”.",
-    "de": ""
-  },
-  {
-    "it": "Questo crea un meccanismo molto potente:",
-    "de": ""
-  },
-  {
-    "it": "ti agganci quando c’è,",
-    "de": ""
-  },
-  {
-    "it": "e soffri quando sparisce.",
-    "de": ""
-  },
-  {
-    "it": "È una dinamica quasi “additiva” perché alterna gratificazione e privazione.",
-    "de": ""
-  },
-  {
-    "it": "Il punto però è questo,",
-    "de": ""
-  },
-  {
-    "it": "e te lo dico con molta chiarezza:",
-    "de": ""
-  },
-  {
-    "it": "il suo comportamento è coerente con una persona che non è emotivamente disponibile.",
-    "de": ""
-  },
-  {
-    "it": "Non è pronto,",
-    "de": ""
-  },
-  {
-    "it": "non è stabile,",
-    "de": ""
-  },
-  {
-    "it": "non è chiaro.",
-    "de": ""
-  },
-  {
-    "it": "E non lo è mai stato davvero,",
-    "de": ""
-  },
-  {
-    "it": "al di là di quello che diceva nei momenti di vicinanza.",
-    "de": ""
-  },
-  {
-    "it": "Il fatto che questa volta abbia letto e non risposto non è un dettaglio tecnico,",
-    "de": ""
-  },
-  {
-    "it": "è un segnale.",
-    "de": ""
-  },
-  {
-    "it": "Non tanto perché “non ti ha risposto”,",
-    "de": ""
-  },
-  {
-    "it": "ma perché rompe un pattern che ti faceva sentire comunque “vista”.",
-    "de": ""
-  },
-  {
-    "it": "E questo ti ha fatto crollare perché ti sei resa conto (anche se dolorosamente) che non hai più controllo su niente.",
-    "de": ""
-  },
-  {
-    "it": "Tu cerchi un senso,",
-    "de": ""
-  },
-  {
-    "it": "ma il senso purtroppo non è nascosto:",
-    "de": ""
-  },
-  {
-    "it": "è già davanti a te.",
-    "de": ""
-  },
-  {
-    "it": "Lui entra ed esce quando può,",
-    "de": ""
-  },
-  {
-    "it": "quando vuole,",
-    "de": ""
-  },
-  {
-    "it": "quando gli fa comodo emotivamente.",
-    "de": ""
-  },
-  {
-    "it": "Non c’è uno spazio stabile per te nella sua vita e questo non dipende da quello che fai o dici.",
-    "de": ""
-  },
-  {
-    "it": "C’è anche un altro pezzo importante,",
-    "de": ""
-  },
-  {
-    "it": "che non va evitato:",
-    "de": ""
-  },
-  {
-    "it": "tu sei fidanzata.",
-    "de": ""
-  },
-  {
-    "it": "Questo ti ha tenuta in una posizione “a metà” fin dall’inizio.",
-    "de": ""
-  },
-  {
-    "it": "Da un lato ti sei lasciata andare completamente con lui,",
-    "de": ""
-  },
-  {
-    "it": "dall’altro non eri davvero libera.",
-    "de": ""
-  },
-  {
-    "it": "E lui,",
-    "de": ""
-  },
-  {
-    "it": "che già era fragile e confuso,",
-    "de": ""
-  },
-  {
-    "it": "si è inserito in questa zona grigia.",
-    "de": ""
-  },
-  {
-    "it": "Non è un giudizio,",
-    "de": ""
-  },
-  {
-    "it": "è per aiutarti a vedere il quadro completo.",
-    "de": ""
-  },
-  {
-    "it": "Quello che ti sta facendo stare così male non è solo lui.",
-    "de": ""
-  },
-  {
-    "it": "È il tipo di legame che si è creato:",
-    "de": ""
-  },
-  {
-    "it": "intenso,",
-    "de": ""
-  },
-  {
-    "it": "segreto,",
-    "de": ""
-  },
-  {
-    "it": "instabile,",
-    "de": ""
-  },
-  {
-    "it": "pieno di picchi e vuoti.",
-    "de": ""
-  },
-  {
-    "it": "Questo tipo di legame aggancia tantissimo,",
-    "de": ""
-  },
-  {
-    "it": "soprattutto quando c’è una forte sintonia anche fisica.",
-    "de": ""
-  },
-  {
-    "it": "La domanda che ti farei non è “perché lui fa così?",
+    "it": "Qui la domanda non è tanto “è normale o no?",
     "de": ""
   },
   {
@@ -1048,315 +299,571 @@ Jetzt der Text:
     "de": ""
   },
   {
-    "it": "perché in realtà lo hai già visto.",
+    "it": "ma:",
     "de": ""
   },
   {
-    "it": "La domanda più utile è:",
+    "it": "Che funzione sta svolgendo oggi questo pensiero ricorrente?",
     "de": ""
   },
   {
-    "it": "“io cosa sto accettando e perché mi fa così paura perderlo,",
+    "it": "È un piacere scelto o un bisogno che la spinge?",
     "de": ""
   },
   {
-    "it": "nonostante tutto questo dolore?",
+    "it": "Cosa succede emotivamente quando non può farlo?",
     "de": ""
   },
   {
-    "it": "”Perché oggi stai piangendo non solo per lui,",
+    "it": "In ottica costruttivista,",
     "de": ""
   },
   {
-    "it": "ma per quello che rappresentava:",
+    "it": "un comportamento diventa problematico non quando è atipico,",
     "de": ""
   },
   {
-    "it": "sentirti desiderata,",
+    "it": "ma quando restringe la libertà della persona,",
     "de": ""
   },
   {
-    "it": "speciale,",
+    "it": "quando organizza rigidamente le scelte e diventa l’unico canale di regolazione emotiva.",
     "de": ""
   },
   {
-    "it": "viva,",
+    "it": "Lei stesso dice che le vacanze vengono orientate quasi automaticamente in quella direzione.",
     "de": ""
   },
   {
-    "it": "vista in un modo diverso.",
+    "it": "Questo fa pensare che la nudità non sia solo un interesse,",
     "de": ""
   },
   {
-    "it": "E ora che lui si allontana,",
+    "it": "ma forse una modalità privilegiata per sentirsi vivo,",
     "de": ""
   },
   {
-    "it": "senti che perdi anche quella parte.",
+    "it": "desiderante,",
     "de": ""
   },
   {
-    "it": "Capisco che tu voglia scrivergli,",
+    "it": "visibile.",
     "de": ""
   },
   {
-    "it": "capire,",
+    "it": "Potrebbe essere che riattivi una parte di lei legata alla scoperta tardiva della sessualità,",
     "de": ""
   },
   {
-    "it": "avere una spiegazione.",
+    "it": "al “recupero” di ciò che sente di non aver vissuto da ragazzo.",
     "de": ""
   },
   {
-    "it": "Ma anche se arrivasse,",
+    "it": "Anche il tema del voyeurismo che descrive – più legato allo “sbirciare”,",
     "de": ""
   },
   {
-    "it": "cambierebbe davvero il modo in cui si comporta?",
+    "it": "al poter vedere ciò che altri non vedono – sembra avere una dimensione simbolica:",
     "de": ""
   },
   {
-    "it": "Oppure ti darebbe solo un altro piccolo “gancio” per restare dentro questo ciclo?",
+    "it": "accesso privilegiato,",
     "de": ""
   },
   {
-    "it": "Non è una questione di “non scrivergli” come regola,",
+    "it": "esclusività,",
     "de": ""
   },
   {
-    "it": "ma di proteggerti.",
+    "it": "sentirsi dentro qualcosa da cui un tempo si percepiva escluso.",
     "de": ""
   },
   {
-    "it": "Perché ogni volta che torni lì,",
+    "it": "Non emerge nel suo racconto perdita di controllo comportamentale,",
     "de": ""
   },
   {
-    "it": "riapri qualcosa che lui non sta tenendo in piedi insieme a te.",
+    "it": "né agiti trasgressivi o non consensuali.",
     "de": ""
   },
   {
-    "it": "Buonasera,",
+    "it": "Il nodo sembra più interno:",
     "de": ""
   },
   {
-    "it": "provo a restituirle ciò che emerge dal suo racconto,",
+    "it": "una sensazione di perenne insoddisfazione e ricerca.",
     "de": ""
   },
   {
-    "it": "che è molto intenso e carico emotivamente.",
+    "it": "Le proporrei alcune piste di riflessione:",
     "de": ""
   },
   {
-    "it": "Lei descrive un coinvolgimento forte,",
+    "it": "Quando pensa alla nudità condivisa,",
     "de": ""
   },
   {
-    "it": "nato rapidamente e alimentato da una presenza iniziale molto costante,",
+    "it": "quale parte di sé si sente più attiva?",
     "de": ""
   },
   {
-    "it": "da parole importanti e da una grande sintonia,",
+    "it": "Il ragazzo insicuro?",
     "de": ""
   },
   {
-    "it": "anche sul piano fisico ed emotivo.",
+    "it": "L’uomo desiderante?",
     "de": ""
   },
   {
-    "it": "Questo tipo di dinamica può creare un legame profondo in poco tempo,",
+    "it": "L’uomo finalmente legittimato?",
     "de": ""
   },
   {
-    "it": "rendendo poi molto difficile tollerare cambiamenti o distanze.",
+    "it": "Se questa “fissa” sparisse,",
     "de": ""
   },
   {
-    "it": "Allo stesso tempo,",
+    "it": "cosa teme che perderebbe?",
     "de": ""
   },
   {
-    "it": "però,",
+    "it": "Nella sua vita attuale (relazione,",
     "de": ""
   },
   {
-    "it": "accanto a questi momenti di vicinanza,",
+    "it": "lavoro,",
     "de": ""
   },
   {
-    "it": "sono sempre stati presenti segnali altrettanto chiari di discontinuità:",
+    "it": "amicizie) sente spazi di autenticità e libertà simili a quelli che trova nel nudismo?",
     "de": ""
   },
   {
-    "it": "sparizioni,",
+    "it": "Avere fantasie ricorrenti o interessi forti è umano.",
     "de": ""
   },
   {
-    "it": "difficoltà a comunicare,",
+    "it": "Diventa eccessivo quando diventa l’unico organizzatore del desiderio o quando serve a colmare costantemente un vuoto che altrove non trova spazio.",
     "de": ""
   },
   {
-    "it": "un legame con la ex mai del tutto risolto,",
+    "it": "La questione forse non è eliminare questa passione,",
     "de": ""
   },
   {
-    "it": "e soprattutto una dichiarata indisponibilità a costruire una relazione.",
+    "it": "ma comprendere che posto occupa nella sua identità e se sta compensando qualcosa che fatica a trovare altre forme di espressione.",
     "de": ""
   },
   {
-    "it": "Questi elementi non sono arrivati dopo,",
+    "it": "Se vuole,",
     "de": ""
   },
   {
-    "it": "ma erano già presenti fin dall’inizio,",
+    "it": "possiamo approfondire cosa rappresenta per lei oggi la parola “malsano”:",
     "de": ""
   },
   {
-    "it": "anche se forse in quel momento erano più facili da mettere in secondo piano.",
+    "it": "cosa teme davvero possa accadere?",
     "de": ""
   },
   {
-    "it": "Quello che oggi la fa soffrire - il silenzio,",
+    "it": "Buongiorno,",
     "de": ""
   },
   {
-    "it": "il non rispondere,",
+    "it": "la ringrazio per la profondità e l’onestà con cui si racconta.",
     "de": ""
   },
   {
-    "it": "il sentirsi messa da parte - non sembra essere qualcosa di improvviso o incomprensibile,",
+    "it": "Non c’è nulla di “banale” in quello che porta:",
     "de": ""
   },
   {
-    "it": "ma piuttosto l’evoluzione coerente di un modo di stare nella relazione che lui ha mostrato più volte:",
+    "it": "sta cercando di capire se un piacere legittimo sta diventando qualcosa che la domina.",
     "de": ""
   },
   {
-    "it": "avvicinarsi quando sente il bisogno,",
+    "it": "Questa è già una posizione molto consapevole.",
     "de": ""
   },
   {
-    "it": "allontanarsi quando qualcosa lo tocca o lo mette in difficoltà,",
+    "it": "Provo a separare alcuni livelli.",
     "de": ""
   },
   {
-    "it": "senza riuscire a mantenere una continuità.",
+    "it": "1.",
     "de": ""
   },
   {
-    "it": "Capisco quanto possa essere destabilizzante il fatto che questa volta abbia letto e non risposto:",
+    "it": "Nudismo e voyeurismo:",
     "de": ""
   },
   {
-    "it": "è un segnale che colpisce perché rompe uno schema a cui si era abituata.",
+    "it": "non sono di per sé “malsani”Il nudismo vissuto in contesti consensuali e rispettosi non è patologico.",
     "de": ""
   },
   {
-    "it": "Ma forse la domanda più utile non è tanto “perché lo sta facendo proprio ora?",
+    "it": "Anzi,",
     "de": ""
   },
   {
-    "it": "”,",
+    "it": "da ciò che descrive,",
     "de": ""
   },
   {
-    "it": "quanto “cosa mi sta mostrando,",
+    "it": "per lei ha avuto funzioni molto chiare:",
     "de": ""
   },
   {
-    "it": "nel complesso,",
+    "it": "riparare un senso di vergogna corporea,",
     "de": ""
   },
   {
-    "it": "questa relazione?",
+    "it": "sentirsi accettato senza giudizio,",
     "de": ""
   },
   {
-    "it": "C’è anche un altro aspetto importante che attraversa tutto il suo racconto:",
+    "it": "vivere una forma di intimità non minacciosa,",
     "de": ""
   },
   {
-    "it": "lei è già impegnata in una relazione stabile.",
+    "it": "sperimentare eccitazione senza performance.",
     "de": ""
   },
   {
-    "it": "Questo rende la situazione ancora più complessa,",
+    "it": "In un uomo che ha vissuto insicurezza fisica e ritardo nelle esperienze affettivo-sessuali,",
     "de": ""
   },
   {
-    "it": "perché la espone a un doppio livello di coinvolgimento e,",
+    "it": "è comprensibile che la nudità condivisa abbia assunto un valore potente:",
     "de": ""
   },
   {
-    "it": "probabilmente,",
+    "it": "non è solo pelle,",
     "de": ""
   },
   {
-    "it": "a bisogni diversi che stanno cercando spazio.",
+    "it": "è riconoscimento.",
     "de": ""
   },
   {
-    "it": "Il dolore che prova è reale e comprensibile,",
+    "it": "Anche l’elemento voyeuristico,",
     "de": ""
   },
   {
-    "it": "ma allo stesso tempo questa esperienza sembra portare con sé molti elementi di instabilità e poca reciprocità.",
+    "it": "finché resta nella fantasia o in contesti consensuali,",
     "de": ""
   },
   {
-    "it": "Non si tratta tanto di capire cosa fare per “riattivarlo” o per farlo tornare,",
+    "it": "rientra nella variabilità della sessualità umana.",
     "de": ""
   },
   {
-    "it": "ma di interrogarsi su cosa sta ricevendo davvero e su quanto questo corrisponda a ciò che desidera per sé.",
+    "it": "2.",
     "de": ""
   },
   {
-    "it": "A volte,",
+    "it": "Il punto non è “cosa”,",
     "de": ""
   },
   {
-    "it": "più che trovare un senso nei comportamenti dell’altro,",
+    "it": "ma “quanto spazio occupa”.",
     "de": ""
   },
   {
-    "it": "è importante riconoscere l’effetto che hanno su di noi.",
+    "it": "La domanda che fa è molto centrata:",
     "de": ""
   },
   {
-    "it": "E da lì iniziare a chiedersi:",
+    "it": "È normale pensarci spesso o è eccessivo?",
     "de": ""
   },
   {
-    "it": "“È qualcosa che posso e voglio continuare a vivere?",
+    "it": "Un interesse diventa problematico non per il contenuto,",
     "de": ""
   },
   {
-    "it": "”Si dia il tempo di fermarsi e ascoltarsi,",
+    "it": "ma quando:",
     "de": ""
   },
   {
-    "it": "al di là dell’urgenza del momento.",
+    "it": "- condiziona sistematicamente le scelte di vita,",
     "de": ""
   },
   {
-    "it": "Le risposte più utili,",
+    "it": "- diventa l’unica fonte di eccitazione o regolazione emotiva,",
     "de": ""
   },
   {
-    "it": "in questi casi,",
+    "it": "- genera senso di insoddisfazione cronica,",
     "de": ""
   },
   {
-    "it": "arrivano spesso da lì.",
+    "it": "- crea una ricerca compulsiva senza reale appagamento.",
     "de": ""
   },
   {
-    "it": "Resto a disposizioneCordialmente,",
+    "it": "Lei scrive:",
     "de": ""
   },
   {
-    "it": "Dott.",
+    "it": "“non mi sazio mai” e “è diventata quasi una fissa”.",
+    "de": ""
+  },
+  {
+    "it": "Qui siamo più nel territorio della compulsività che della semplice passione.",
+    "de": ""
+  },
+  {
+    "it": "3.",
+    "de": ""
+  },
+  {
+    "it": "Cosa sembra muoversi sotto?",
+    "de": ""
+  },
+  {
+    "it": "Dal suo racconto emergono temi forti:",
+    "de": ""
+  },
+  {
+    "it": "esclusione adolescenziale “dopo la campanella”,",
+    "de": ""
+  },
+  {
+    "it": "confronto con i coetanei,",
+    "de": ""
+  },
+  {
+    "it": "vergogna corporea,",
+    "de": ""
+  },
+  {
+    "it": "senso di essere arrivato tardi.",
+    "de": ""
+  },
+  {
+    "it": "Il nudismo potrebbe aver rappresentato una scena simbolica in cui lei finalmente:",
+    "de": ""
+  },
+  {
+    "it": "“vede ciò che gli altri vedevano prima di me”,",
+    "de": ""
+  },
+  {
+    "it": "“accede a qualcosa che mi era mancato”,",
+    "de": ""
+  },
+  {
+    "it": "“non sono escluso”.",
+    "de": ""
+  },
+  {
+    "it": "La frase che colpisce è questa:",
+    "de": ""
+  },
+  {
+    "it": "“Immaginare che io possa vederla come tanti altri vorrebbero e non ne hanno mai avuto occasione.",
+    "de": ""
+  },
+  {
+    "it": "”Qui non c’è solo eccitazione.",
+    "de": ""
+  },
+  {
+    "it": "C’è riscatto.",
+    "de": ""
+  },
+  {
+    "it": "4.",
+    "de": ""
+  },
+  {
+    "it": "La dinamica della ricerca infinitaLa sensazione di non sazietà è tipica quando l’oggetto esterno (nudità,",
+    "de": ""
+  },
+  {
+    "it": "sguardo,",
+    "de": ""
+  },
+  {
+    "it": "contenuti online) sta cercando di riempire qualcosa di interno.",
+    "de": ""
+  },
+  {
+    "it": "Non è diverso da altre forme di gratificazione ripetitiva.",
+    "de": ""
+  },
+  {
+    "it": "5.",
+    "de": ""
+  },
+  {
+    "it": "Non vedo perversione,",
+    "de": ""
+  },
+  {
+    "it": "vedo regolazione emotivaNon descrive comportamenti non consensuali.",
+    "de": ""
+  },
+  {
+    "it": "Non descrive perdita di controllo.",
+    "de": ""
+  },
+  {
+    "it": "Descrive però un pensiero ricorrente e una ricerca costante.",
+    "de": ""
+  },
+  {
+    "it": "La domanda clinica diventa:",
+    "de": ""
+  },
+  {
+    "it": "- Se per un anno non potesse accedere a contesti nudisti,",
+    "de": ""
+  },
+  {
+    "it": "cosa accadrebbe dentro di lei?",
+    "de": ""
+  },
+  {
+    "it": "Ansia?",
+    "de": ""
+  },
+  {
+    "it": "Irritazione?",
+    "de": ""
+  },
+  {
+    "it": "Frustrazione intensa?",
+    "de": ""
+  },
+  {
+    "it": "O semplice dispiacere?",
+    "de": ""
+  },
+  {
+    "it": "La risposta a questa domanda aiuta a capire se siamo in un ambito di preferenza forte o di dipendenza comportamentale.",
+    "de": ""
+  },
+  {
+    "it": "6.",
+    "de": ""
+  },
+  {
+    "it": "Un altro punto delicato è la coppia:",
+    "de": ""
+  },
+  {
+    "it": "non ha detto che questa passione crei conflitti,",
+    "de": ""
+  },
+  {
+    "it": "ma mi chiedo:",
+    "de": ""
+  },
+  {
+    "it": "sua moglie sa tutto?",
+    "de": ""
+  },
+  {
+    "it": "condivide?",
+    "de": ""
+  },
+  {
+    "it": "tollera?",
+    "de": ""
+  },
+  {
+    "it": "ignora?",
+    "de": ""
+  },
+  {
+    "it": "la vostra sessualità è soddisfacente?",
+    "de": ""
+  },
+  {
+    "it": "A volte l’iperfocalizzazione su una dimensione erotica può anche segnalare qualcosa che nella relazione è rimasto silenzioso.",
+    "de": ""
+  },
+  {
+    "it": "Per concludere:",
+    "de": ""
+  },
+  {
+    "it": "non c’è nulla di “anormale” nell’essere attratti dalla nudità.",
+    "de": ""
+  },
+  {
+    "it": "Sì,",
+    "de": ""
+  },
+  {
+    "it": "può diventare eccessivo se diventa l’asse portante della regolazione emotiva.",
+    "de": ""
+  },
+  {
+    "it": "La sua lucidità mi fa pensare che non siamo davanti a qualcosa di fuori controllo,",
+    "de": ""
+  },
+  {
+    "it": "ma a un interesse che sta assumendo troppo peso simbolico.",
+    "de": ""
+  },
+  {
+    "it": "Se volesse lavorarci in modo più profondo,",
+    "de": ""
+  },
+  {
+    "it": "un percorso psicologico potrebbe aiutarla non tanto a “togliere il nudismo”,",
+    "de": ""
+  },
+  {
+    "it": "ma a capire:",
+    "de": ""
+  },
+  {
+    "it": "cosa rappresenta,",
+    "de": ""
+  },
+  {
+    "it": "- quale parte di sé sta nutrendo,",
+    "de": ""
+  },
+  {
+    "it": "- quale parte invece resta affamata.",
+    "de": ""
+  },
+  {
+    "it": "Le lascio una domanda finale,",
+    "de": ""
+  },
+  {
+    "it": "forse la più importante:",
+    "de": ""
+  },
+  {
+    "it": "Quando si immagina completamente in pace con se stesso,",
+    "de": ""
+  },
+  {
+    "it": "sicuro,",
+    "de": ""
+  },
+  {
+    "it": "appagato… il nudismo avrebbe ancora lo stesso peso centrale?",
+    "de": ""
+  },
+  {
+    "it": "Se vuole,",
+    "de": ""
+  },
+  {
+    "it": "possiamo continuare da qui.",
+    "de": ""
+  },
+  {
+    "it": "CordialmenteDott.",
     "de": ""
   },
   {
@@ -1368,615 +875,123 @@ Jetzt der Text:
     "de": ""
   },
   {
-    "it": "leggo nelle tue parole tutto il disorientamento e il dolore di questo momento.",
+    "it": "il modo in cui descrive la sua esperienza fa pensare che il nudismo,",
     "de": ""
   },
   {
-    "it": "È comprensibile sentirsi 'allibiti' e feriti quando il senso che avevamo dato a un rapporto viene improvvisamente messo in discussione da un silenzio che sembra inspiegabile.",
+    "it": "per lei,",
     "de": ""
   },
   {
-    "it": "​In questo approccio che stiamo seguendo,",
+    "it": "non sia soltanto una pratica legata all’eccitazione,",
     "de": ""
   },
   {
-    "it": "proviamo a guardare questa situazione non come un errore o una colpa,",
+    "it": "ma un luogo psichico preciso:",
     "de": ""
   },
   {
-    "it": "ma come l'incontro tra due modi diversi di dare senso agli eventi.",
+    "it": "uno spazio in cui non si sente giudicato,",
     "de": ""
   },
   {
-    "it": "Da una parte ci sei tu,",
+    "it": "in cui il corpo non è motivo di vergogna e dove può condividere qualcosa di intimo senza sentirsi inadeguato.",
     "de": ""
   },
   {
-    "it": "che hai investito fiducia e che leggi nel silenzio una minaccia profonda;",
+    "it": "In questo senso,",
     "de": ""
   },
   {
-    "it": "dall'altra sembra esserci lui che,",
+    "it": "più che “malsano”,",
     "de": ""
   },
   {
-    "it": "per sua stessa ammissione,",
+    "it": "sembra aver avuto una funzione riparativa rispetto a un’adolescenza vissuta con solitudine e insicurezza corporea.",
     "de": ""
   },
   {
-    "it": "attraversa momenti di 'ritiro' ogni volta che la realtà diventa emotivamente troppo carica o faticosa (il fantasma della ex,",
+    "it": "La nudità,",
     "de": ""
   },
   {
-    "it": "la pressione sportiva,",
+    "it": "così come la racconta,",
     "de": ""
   },
   {
-    "it": "la vicinanza intima con te).",
+    "it": "appare connessa al tema dell’essere visto e del vedere,",
     "de": ""
   },
   {
-    "it": "​Questo suo sparire,",
+    "it": "ma in un contesto di rispetto.",
     "de": ""
   },
   {
-    "it": "per quanto faccia male,",
+    "it": "Non tanto pornografia esplicita,",
     "de": ""
   },
   {
-    "it": "sembra essere il suo modo – seppur disfunzionale – di gestire un sovraccarico interno.",
+    "it": "quanto uno sguardo che conferma l’esistenza reciproca.",
     "de": ""
   },
   {
-    "it": "Il fatto che ti abbia letta e non abbia risposto è un dato nuovo,",
+    "it": "Potremmo dire che lì si intrecciano eccitazione e riconoscimento.",
     "de": ""
   },
   {
-    "it": "è vero,",
+    "it": "Il punto che la interroga oggi non è il nudismo in sé,",
     "de": ""
   },
   {
-    "it": "ma forse ci dice più del suo attuale stato di 'blocco' che del valore che hai tu come persona.",
+    "it": "ma la sua intensità:",
     "de": ""
   },
   {
-    "it": "​Ti propongo una piccola sfida per questi due giorni in cui lui sarà alle terme:",
+    "it": "quando un’esperienza diventa quasi centrale,",
     "de": ""
   },
   {
-    "it": "prova a spostare il focus dal 'Perché lui fa così?",
+    "it": "quando orienta scelte e pensieri in modo ricorrente,",
     "de": ""
   },
   {
-    "it": "' (una domanda che dà a lui tutto il potere sul tuo benessere) a 'Cosa succede a me quando l'altro sparisce?",
+    "it": "può essere utile chiedersi quale bisogno stia cercando di soddisfare continuamente.",
     "de": ""
   },
   {
-    "it": "'.",
+    "it": "A volte ciò che si ripete non è solo desiderio,",
     "de": ""
   },
   {
-    "it": "Quale parte di te si sente così disperata?",
+    "it": "ma anche una ricerca di rassicurazione identitaria.",
     "de": ""
   },
   {
-    "it": "​Non scrivergli è una scelta di protezione verso te stessa,",
+    "it": "Non esiste una misura oggettiva di “normalità”.",
     "de": ""
   },
   {
-    "it": "non una strategia di attesa.",
+    "it": "La questione è piuttosto:",
     "de": ""
   },
   {
-    "it": "Salve!",
+    "it": "questa passione arricchisce la sua vita o rischia di restringerla?",
     "de": ""
   },
   {
-    "it": "Capisco quanto questa situazione ti stia facendo soffrire e confondendo.",
+    "it": "Se sente che qualcosa la domina più di quanto vorrebbe,",
     "de": ""
   },
   {
-    "it": "Al di là delle parole e dei momenti intensi,",
+    "it": "potrebbe essere interessante esplorarne il significato in uno spazio psicologico,",
     "de": ""
   },
   {
-    "it": "il comportamento di lui è molto altalenante e poco stabile:",
+    "it": "meglio se a orientamento psicoanalitico,",
     "de": ""
   },
   {
-    "it": "presenza e assenza,",
-    "de": ""
-  },
-  {
-    "it": "coinvolgimento e distanza.",
-    "de": ""
-  },
-  {
-    "it": "Questo crea dipendenza emotiva e insicurezza.",
-    "de": ""
-  },
-  {
-    "it": "La domanda forse non è più “cosa prova lui”,",
-    "de": ""
-  },
-  {
-    "it": "ma “come stai tu dentro questa relazione?",
-    "de": ""
-  },
-  {
-    "it": "Inoltre,",
-    "de": ""
-  },
-  {
-    "it": "sei già in una relazione:",
-    "de": ""
-  },
-  {
-    "it": "anche questo merita uno spazio di riflessione onesto.",
-    "de": ""
-  },
-  {
-    "it": "Più che inseguire risposte da lui,",
-    "de": ""
-  },
-  {
-    "it": "può essere importante fermarti e chiederti cosa desideri davvero e cosa sei disposta ad accettare.",
-    "de": ""
-  },
-  {
-    "it": "Rimango a disposizione,",
-    "de": ""
-  },
-  {
-    "it": "cordialmente Dott.",
-    "de": ""
-  },
-  {
-    "it": "ssa Covini Sofia",
-    "de": ""
-  },
-  {
-    "it": "Gentile Signora,",
-    "de": ""
-  },
-  {
-    "it": "la sua lunga lettera  racconta la storia di un incontro fra una donna matura e un giovane uomo.",
-    "de": ""
-  },
-  {
-    "it": "Lei fidanzata mentre lui con un rapporto finito alle spalle ma forse ancora presente nella sua testa.",
-    "de": ""
-  },
-  {
-    "it": "Iniziate una relazione sessualmente libera e molto appagante per entrambi.",
-    "de": ""
-  },
-  {
-    "it": "In breve tempo però i vostri incontri si fanno difficili e vanno incontro ai primi impedimenti:",
-    "de": ""
-  },
-  {
-    "it": "un viaggio difficile,",
-    "de": ""
-  },
-  {
-    "it": "i suoi impegni nella squadra di calcio dove gioca un torneo e poi il fantasma dell'altra che torna a farsi presente.",
-    "de": ""
-  },
-  {
-    "it": "Lui comincia a mettere una distanza e lei inizia a stare male.",
-    "de": ""
-  },
-  {
-    "it": "Questo giovane uomo ha riacceso in lei desideri  legati soprattutto alla sfera sessuale e alla sua immagine di donna attraente e desiderabile.",
-    "de": ""
-  },
-  {
-    "it": "Mi rendo conto che sia difficile rinunciare a tutto ciò.",
-    "de": ""
-  },
-  {
-    "it": "Lui ha mandato dei chiari segnali di voler interrompere la relazione e lei si chiede 'che senso ha tutto questo?",
-    "de": ""
-  },
-  {
-    "it": "'Ha vissuto una breve e intensa storia sessuale con un uomo che l'ha fatta di nuovo sentire donna e vi siete scambiati reciproco piacere.",
-    "de": ""
-  },
-  {
-    "it": "Non le basta?",
-    "de": ""
-  },
-  {
-    "it": "Era scritto fin dall'inizio che sarebbe finita.",
-    "de": ""
-  },
-  {
-    "it": "Il suo inatteso coinvolgimento emotivo però chiede di essere capito ed ascoltato.",
-    "de": ""
-  },
-  {
-    "it": "Provi a rivolgersi ad un* psicoterapeuta e vedrà che potrà rispondere alla sua domanda trovando un nuovo senso da dare alla vita e alla relazione col suo fidanzato.",
-    "de": ""
-  },
-  {
-    "it": "Rimango a disposizioneDott.",
-    "de": ""
-  },
-  {
-    "it": "ssa Noemi Sembranti",
-    "de": ""
-  },
-  {
-    "it": "Buongiorno,",
-    "de": ""
-  },
-  {
-    "it": "e grazie per la sua condivisione.",
-    "de": ""
-  },
-  {
-    "it": "Noto alcune cose:",
-    "de": ""
-  },
-  {
-    "it": "si chiede - a gran voce,",
-    "de": ""
-  },
-  {
-    "it": "con le maiuscole - che senso abbia tutto questo,",
-    "de": ""
-  },
-  {
-    "it": "pensa che non avrebbe dovuto dargli fiducia,",
-    "de": ""
-  },
-  {
-    "it": "ipotizza che possa essere 'un evitante'.",
-    "de": ""
-  },
-  {
-    "it": "Io provo a chiederle di cambiare prospettiva.",
-    "de": ""
-  },
-  {
-    "it": "Se si è fidata un motivo ci sarà,",
-    "de": ""
-  },
-  {
-    "it": "provi a chiedersi quale.",
-    "de": ""
-  },
-  {
-    "it": "Di quale bisogno le parla il suo investimento in questo rapporto?",
-    "de": ""
-  },
-  {
-    "it": "Adesso questo investimento la carica di angoscia,",
-    "de": ""
-  },
-  {
-    "it": "con la stessa forza con cui sentiva la sintonia travolgente tra voi due.",
-    "de": ""
-  },
-  {
-    "it": "Gli effetti delle sparizioni improvvise e impreviste sono dirompenti e lasciano un vuoto che il pensiero cerca di riempire provando a trovare una spiegazione.",
-    "de": ""
-  },
-  {
-    "it": "Pensi al momento in cui è iniziato il vostro rapporto,",
-    "de": ""
-  },
-  {
-    "it": "a come stava,",
-    "de": ""
-  },
-  {
-    "it": "a quali erano le sue prospettive e i suoi desideri magari nascosti.",
-    "de": ""
-  },
-  {
-    "it": "Entrambi eravate legati ad altre persone,",
-    "de": ""
-  },
-  {
-    "it": "lei perché fidanzata lui perché  appena uscito da una rottura non ancora assestata e rielaborata.",
-    "de": ""
-  },
-  {
-    "it": "Questo contesto lascia facilmente spazio a dinamiche di idealizzazione,",
-    "de": ""
-  },
-  {
-    "it": "come succede in tutte le storie ma in modo più estremo.",
-    "de": ""
-  },
-  {
-    "it": "Adesso il contatto con la quotidianità ha messo a dura prova la relazione che avevate e il suo partner ha attuato una chiusura,",
-    "de": ""
-  },
-  {
-    "it": "non sappiamo di quale natura o quale sarà il decorso,",
-    "de": ""
-  },
-  {
-    "it": "quello nella migliore delle ipotesi può saperlo solo lui.",
-    "de": ""
-  },
-  {
-    "it": "Quello che lei può fare adesso è accettare il turbinio emotivo che sta vivendo,",
-    "de": ""
-  },
-  {
-    "it": "essere gentile con se stessa ed eventualmente cercare di approfondire tramite un consulto psicologico.",
-    "de": ""
-  },
-  {
-    "it": "Resto volentieri a disposizione.",
-    "de": ""
-  },
-  {
-    "it": "Un caro saluto.",
-    "de": ""
-  },
-  {
-    "it": "Margherita Barberi,",
-    "de": ""
-  },
-  {
-    "it": "psicologaRicevo anche online",
-    "de": ""
-  },
-  {
-    "it": "Buongiorno,",
-    "de": ""
-  },
-  {
-    "it": "posso comprendere quanto questo continuo alternarsi di vicinanza e sparizione ti stia creando confusione,",
-    "de": ""
-  },
-  {
-    "it": "ansia e dolore emotivo.",
-    "de": ""
-  },
-  {
-    "it": "È naturale che tu ti senta destabilizzata quando la persona che ti interessa appare presente in modo intenso e poi scompare senza spiegazioni chiare.",
-    "de": ""
-  },
-  {
-    "it": "In situazioni come questa,",
-    "de": ""
-  },
-  {
-    "it": "spesso il tuo cuore e la tua mente si trovano in conflitto:",
-    "de": ""
-  },
-  {
-    "it": "desideri vicinanza e rassicurazione,",
-    "de": ""
-  },
-  {
-    "it": "ma ti trovi a fronteggiare comportamenti imprevedibili e non sempre coerenti con i tuoi bisogni affettivi.",
-    "de": ""
-  },
-  {
-    "it": "Può essere utile prenderti un momento per riconoscere i tuoi sentimenti senza giudicarli,",
-    "de": ""
-  },
-  {
-    "it": "e chiederti cosa davvero ti fa stare bene e ti fa sentire rispettata in una relazione.",
-    "de": ""
-  },
-  {
-    "it": "Ricorda che anche se lui attraversa momenti difficili o è legato a passate relazioni,",
-    "de": ""
-  },
-  {
-    "it": "i tuoi bisogni e la tua serenità emotiva meritano attenzione e cura.",
-    "de": ""
-  },
-  {
-    "it": "Talvolta,",
-    "de": ""
-  },
-  {
-    "it": "fermarsi a riflettere su quali limiti e spazi ti proteggono può aiutarti a muoverti con maggiore chiarezza e sicurezza.",
-    "de": ""
-  },
-  {
-    "it": "Non sei sola in questo tipo di difficoltà emotive:",
-    "de": ""
-  },
-  {
-    "it": "accogliere i tuoi sentimenti e osservarli con gentilezza è un primo passo importante verso scelte più consapevoli per il tuo benessere.",
-    "de": ""
-  },
-  {
-    "it": "Un caro saluto,",
-    "de": ""
-  },
-  {
-    "it": "Dott.",
-    "de": ""
-  },
-  {
-    "it": "Fabio MallardoPsicologo-PsicoterapeutaRicevo anche on-line",
-    "de": ""
-  },
-  {
-    "it": "Una relazione sana si basa sul rispetto,",
-    "de": ""
-  },
-  {
-    "it": "dialogo,",
-    "de": ""
-  },
-  {
-    "it": "comprensione,",
-    "de": ""
-  },
-  {
-    "it": "preferenza,",
-    "de": ""
-  },
-  {
-    "it": "fedeltà,",
-    "de": ""
-  },
-  {
-    "it": "lealtà,",
-    "de": ""
-  },
-  {
-    "it": "volontà concreta,",
-    "de": ""
-  },
-  {
-    "it": "di costruire un futuro insieme,",
-    "de": ""
-  },
-  {
-    "it": "obiettivi concreti e comuniTutto questo nel concreto,",
-    "de": ""
-  },
-  {
-    "it": "tutto questo da entrambe le partiLa differenza di età può giocare un ruolo importante,",
-    "de": ""
-  },
-  {
-    "it": "perché ad età così diverse ci possono essere venute nel futuro gli obiettivi differenti ed incompatibiliIl fatto che vi siete trovati un ultimamente sessuale può essere un dato che invece di aiutare a peggiorato la situazioneSpesso,",
-    "de": ""
-  },
-  {
-    "it": "quando si ha un’ottima intesa sessuale sin da subito ci credi di aver trovato la persona giusta e ci si sente legati a quella persona,",
-    "de": ""
-  },
-  {
-    "it": "basandosi esclusivamente su quel dato.",
-    "de": ""
-  },
-  {
-    "it": "Quando in realtà non è così.",
-    "de": ""
-  },
-  {
-    "it": "Avere un’intesa sessuale non significa automaticamente che la coppia sia adatta a costruire un futuro sano,",
-    "de": ""
-  },
-  {
-    "it": "gli durature insiemeIn quanto l’intesa sessuale ha una forte componente emotiva fisica e psicologica su chi la compie che porta a non vedere altri aspetti importanti della relazione,",
-    "de": ""
-  },
-  {
-    "it": "quali presenza comunicazioni e obiettiviÈ importante fermarsi prendersi il tempo e valutare se con questa persona ci siano oggettivamente realisticamente le possibilità per costruire un futuro insiemeUn percorso Psicologico può essere l’aiuto a comprendere meglio ed affrontare la situazione",
-    "de": ""
-  },
-  {
-    "it": "Buongiorno,",
-    "de": ""
-  },
-  {
-    "it": "il suo racconto è molto intenso e restituisce tutta la forza di un coinvolgimento che,",
-    "de": ""
-  },
-  {
-    "it": "nel giro di poco tempo,",
-    "de": ""
-  },
-  {
-    "it": "sembra aver preso molto spazio dentro di lei.",
-    "de": ""
-  },
-  {
-    "it": "Più che cercare una spiegazione univoca nel comportamento di lui (ad esempio definirlo “evitante”),",
-    "de": ""
-  },
-  {
-    "it": "forse può essere utile osservare la dinamica che si è creata tra voi.",
-    "de": ""
-  },
-  {
-    "it": "Si potrebbe considerare che l’alternanza tra presenza intensa e sparizioni improvvise abbia prodotto un effetto particolare:",
-    "de": ""
-  },
-  {
-    "it": "ogni suo ritorno riaccende qualcosa,",
-    "de": ""
-  },
-  {
-    "it": "mentre ogni assenza lascia un vuoto difficile da tollerare.",
-    "de": ""
-  },
-  {
-    "it": "Questo tipo di movimento spesso amplifica il legame,",
-    "de": ""
-  },
-  {
-    "it": "proprio perché non è stabile.",
-    "de": ""
-  },
-  {
-    "it": "Allo stesso tempo,",
-    "de": ""
-  },
-  {
-    "it": "emerge che lui si trova in una posizione ambigua (ancora legato alla ex,",
-    "de": ""
-  },
-  {
-    "it": "non disponibile a una relazione chiara),",
-    "de": ""
-  },
-  {
-    "it": "mentre lei,",
-    "de": ""
-  },
-  {
-    "it": "pur essendo già impegnata,",
-    "de": ""
-  },
-  {
-    "it": "sembra trovarsi molto coinvolta emotivamente.",
-    "de": ""
-  },
-  {
-    "it": "È possibile che,",
-    "de": ""
-  },
-  {
-    "it": "a sua insaputa,",
-    "de": ""
-  },
-  {
-    "it": "si sia ritrovata in una posizione di attesa,",
-    "de": ""
-  },
-  {
-    "it": "nel tentativo di “tenere” qualcosa che però lui non sembra poter sostenere in modo continuativo.",
-    "de": ""
-  },
-  {
-    "it": "A volte ci si trova coinvolti proprio in rapporti dove manca qualcosa di fondamentale,",
-    "de": ""
-  },
-  {
-    "it": "e questo paradossalmente alimenta il desiderio.",
-    "de": ""
-  },
-  {
-    "it": "La domanda forse più importante non è tanto “perché lui fa così”,",
-    "de": ""
-  },
-  {
-    "it": "ma che cosa la tiene così legata a una situazione che la fa soffrire in questo modo.",
-    "de": ""
-  },
-  {
-    "it": "Se sente che questo coinvolgimento sta diventando difficile da gestire,",
-    "de": ""
-  },
-  {
-    "it": "un percorso psicologico (a mio avviso meglio se di orientamento psicoanalitico) potrebbe aiutarla a comprendere più a fondo la sua posizione in questa dinamica.",
+    "it": "per comprendere cosa rappresenta per lei lo sguardo dell’altro e perché resta così centrale.",
     "de": ""
   },
   {
@@ -1992,351 +1007,311 @@ Jetzt der Text:
     "de": ""
   },
   {
-    "it": "Buonasera Gentile Utente,",
+    "it": "Buongiorno Luc,",
     "de": ""
   },
   {
-    "it": "intanto grazie per averci contattato su questo portale ed essersi confidata con noi ma anche aver chiarito dentro se stessa cosa la fa star male.",
+    "it": "il nudismo,",
     "de": ""
   },
   {
-    "it": "Viene da una dinamica complessa in cui c'è una circolarità:",
+    "it": "in sé,",
     "de": ""
   },
   {
-    "it": "avvicinamento e sparizione.",
+    "it": "non è affatto sinonimo di patologia:",
     "de": ""
   },
   {
-    "it": "Cosa le manca della relazione?",
+    "it": "per molte persone è un’esperienza di libertà corporea,",
     "de": ""
   },
   {
-    "it": "Stare con lui o il fatto che sia sparito?",
+    "it": "di riduzione della vergogna e di normalizzazione del corpo reale.",
     "de": ""
   },
   {
-    "it": "Cosa non funziona nella relazione con il suo attuale fidanzato?",
+    "it": "Nel suo racconto,",
     "de": ""
   },
   {
-    "it": "Perché cerca ed era soddisfatta nell' altra relazione?",
+    "it": "anzi,",
     "de": ""
   },
   {
-    "it": "Se vuole approfondire resto disponibile.",
+    "it": "appare con chiarezza una funzione psicologica importante:",
     "de": ""
   },
   {
-    "it": "Cordiali saluti.",
+    "it": "per anni il corpo è stato un luogo di giudizio e inadeguatezza;",
     "de": ""
   },
   {
-    "it": "Dottoressa Margherita Romeo",
+    "it": "la nudità condivisa,",
     "de": ""
   },
   {
-    "it": "Ciao,",
+    "it": "in un contesto consensuale e rispettoso,",
     "de": ""
   },
   {
-    "it": "provo a restituirti quello che arriva dal tuo racconto:",
+    "it": "ha avuto il valore di una riconciliazione,",
     "de": ""
   },
   {
-    "it": "un coinvolgimento molto intenso,",
+    "it": "quasi di un rito di ritorno a una corporeità non umiliata.",
     "de": ""
   },
   {
-    "it": "fatto di momenti di grande vicinanza,",
+    "it": "Questo è un dato da non svalutare.",
     "de": ""
   },
   {
-    "it": "passione,",
+    "it": "Il punto critico che lei segnala non è quindi l’interesse,",
     "de": ""
   },
   {
-    "it": "parole importanti,",
+    "it": "ma la sua qualità compulsiva:",
     "de": ""
   },
   {
-    "it": "alternati però a sparizioni,",
+    "it": "il pensiero ricorrente,",
     "de": ""
   },
   {
-    "it": "silenzi,",
+    "it": "la ricerca di sazietà che non arriva,",
     "de": ""
   },
   {
-    "it": "incertezze e dolore.",
+    "it": "la tendenza a orientare scelte e desideri quasi esclusivamente attorno a quell’esperienza,",
     "de": ""
   },
   {
-    "it": "È come stare su un’altalena emotiva,",
+    "it": "e lo slittamento verso lo “sbirciare” come modalità eccitatoria.",
     "de": ""
   },
   {
-    "it": "in cui quando lui c’è tutto sembra pieno e significativo,",
+    "it": "In psicologia clinica,",
     "de": ""
   },
   {
-    "it": "e quando scompare resta un vuoto difficile da tollerare.",
+    "it": "quando un’attrazione diventa rigida e monopolizzante,",
     "de": ""
   },
   {
-    "it": "Capisco quanto questo possa farti stare male e quanto sia difficile “darsi una spiegazione”.",
+    "it": "spesso non è più soltanto piacere:",
     "de": ""
   },
   {
-    "it": "Ma forse,",
+    "it": "è anche regolazione emotiva.",
     "de": ""
   },
   {
-    "it": "più che chiederti perché lui fa così,",
+    "it": "In altri termini,",
     "de": ""
   },
   {
-    "it": "potrebbe essere utile iniziare a chiederti che effetto ha su di te questo modo di stare in relazione.",
+    "it": "quella condotta potrebbe star funzionando come un dispositivo per calmare ansia,",
     "de": ""
   },
   {
-    "it": "Da quello che descrivi,",
+    "it": "colmare vuoti,",
     "de": ""
   },
   {
-    "it": "lui è stato chiaro su alcuni aspetti fin dall’inizio;",
+    "it": "recuperare senso di potere o appartenenza,",
     "de": ""
   },
   {
-    "it": "non voleva una relazione,",
+    "it": "oppure riattivare,",
     "de": ""
   },
   {
-    "it": "era reduce da una storia non del tutto elaborata,",
+    "it": "senza mai risolverla,",
     "de": ""
   },
   {
-    "it": "e nei momenti di difficoltà tende a ritirarsi.",
+    "it": "una dinamica antica di vergogna e riscatto.",
     "de": ""
   },
   {
-    "it": "Quello che però è comprensibilmente confondente è che a queste premesse si sono affiancati comportamenti molto coinvolgenti (parole affettuose,",
+    "it": "L’immagine erotica non va trattata come “nemico morale”,",
     "de": ""
   },
   {
-    "it": "intimità forte,",
+    "it": "ma interrogata come messaggero:",
     "de": ""
   },
   {
-    "it": "progettualità accennata),",
+    "it": "che cosa vuole l’anima attraverso quella scena?",
     "de": ""
   },
   {
-    "it": "che possono far alludere a qualcosa di diverso.",
+    "it": "Quale bisogno di riconoscimento,",
     "de": ""
   },
   {
-    "it": "Questa alternanza (presenza intensa / assenza improvvisa) crea facilmente legame e allo stesso tempo insicurezza.",
+    "it": "quale intimità,",
     "de": ""
   },
   {
-    "it": "Non è tanto ciò che dice,",
+    "it": "quale iniziazione del corpo sta cercando?",
     "de": ""
   },
   {
-    "it": "ma ciò che fa nel tempo che sembra parlare,",
+    "it": "C’è poi un discrimine etico e legale fondamentale:",
     "de": ""
   },
   {
-    "it": "ovvero una difficoltà a mantenere continuità,",
+    "it": "la nudità condivisa in luoghi e contesti consensuali è una cosa;",
     "de": ""
   },
   {
-    "it": "a esserci davvero in modo stabile.",
+    "it": "il voyeurismo che invade la privacy altrui,",
     "de": ""
   },
   {
-    "it": "C’è poi un altro elemento importante,",
+    "it": "anche solo sbirciando,",
     "de": ""
   },
   {
-    "it": "che riguarda te:",
+    "it": "è un’altra.",
     "de": ""
   },
   {
-    "it": "tu stessa dici di essere in una relazione.",
+    "it": "Lei sottolinea il rispetto e l’assenza di agiti invadenti:",
     "de": ""
   },
   {
-    "it": "Questo rende la situazione ancora più complessa,",
+    "it": "è importante che questa linea resti netta,",
     "de": ""
   },
   {
-    "it": "perché ti trovi emotivamente molto coinvolta in un rapporto che però,",
+    "it": "perché quando la ricerca diventa compulsiva il rischio non è soltanto la sofferenza interna,",
     "de": ""
   },
   {
-    "it": "per come è strutturato,",
+    "it": "ma anche l’erosione dei confini.",
     "de": ""
   },
   {
-    "it": "ha già diversi limiti e zone di instabilità.",
+    "it": "La domanda che lei pone - “è normale o è eccessivo?",
     "de": ""
   },
   {
-    "it": "Quando ti chiedi “che senso ha tutto questo?",
+    "it": "” - ha una risposta:",
     "de": ""
   },
   {
-    "it": "”,",
+    "it": "diventa eccessivo quando produce perdita di libertà,",
     "de": ""
   },
   {
-    "it": "forse una possibile risposta è che questo rapporto,",
+    "it": "cioè quando non è più lei a scegliere,",
     "de": ""
   },
   {
-    "it": "così com’è,",
+    "it": "ma è il bisogno a scegliere per lei;",
     "de": ""
   },
   {
-    "it": "non sembra offrirti quello di cui avresti bisogno (presenza,",
+    "it": "quando cresce l’insoddisfazione;",
     "de": ""
   },
   {
-    "it": "chiarezza,",
+    "it": "quando la fantasia colonizza la quotidianità;",
     "de": ""
   },
   {
-    "it": "continuità,",
+    "it": "quando il comportamento diventa la via privilegiata per regolare stati interni;",
     "de": ""
   },
   {
-    "it": "riconoscimento emotivo).",
+    "it": "o quando interferisce con la relazione di coppia e con il senso di integrità personale.",
     "de": ""
   },
   {
-    "it": "E il dolore che provi ora potrebbe avere a che fare proprio con questo scarto tra ciò che vivi nei momenti “alti” e ciò che accade nel resto del tempo.",
+    "it": "In questi casi,",
     "de": ""
   },
   {
-    "it": "Il fatto che lui abbia letto e non risposto,",
+    "it": "più che “tagliare” l’interesse (che spesso peggiora la compulsione),",
     "de": ""
   },
   {
-    "it": "che sparisca,",
+    "it": "è utile capirne la funzione e ampliare l’orizzonte:",
     "de": ""
   },
   {
-    "it": "che torni quando vuole,",
+    "it": "restituire all’eros una pluralità di forme,",
     "de": ""
   },
   {
-    "it": "sono comportamenti che fanno male,",
+    "it": "affinché non si coaguli in un’unica scena.",
     "de": ""
   },
   {
-    "it": "e che,",
+    "it": "Un percorso psicoterapeutico può aiutarla a tenere insieme tre livelli:",
     "de": ""
   },
   {
-    "it": "al di là delle spiegazioni (ex,",
+    "it": "la storia della vergogna corporea e del riscatto (che merita cura),",
     "de": ""
   },
   {
-    "it": "stress,",
+    "it": "la dimensione erotica come immaginazione (che non va demonizzata),",
     "de": ""
   },
   {
-    "it": "impegni),",
+    "it": "e il versante compulsivo (che va trattato con strumenti concreti di regolazione e confine,",
     "de": ""
   },
   {
-    "it": "hanno un impatto concreto su di te:",
+    "it": "anche rispetto all’uso della rete).",
     "de": ""
   },
   {
-    "it": "ti fanno sentire in attesa,",
+    "it": "Talvolta è utile anche un lavoro di coppia,",
     "de": ""
   },
   {
-    "it": "confusa,",
+    "it": "non perché ci sia “colpa”,",
     "de": ""
   },
   {
-    "it": "non considerata.",
+    "it": "ma perché la vita erotica e immaginativa non vive nel vuoto:",
     "de": ""
   },
   {
-    "it": "Per questo,",
+    "it": "vive dentro un patto relazionale che può essere pensato,",
     "de": ""
   },
   {
-    "it": "oiù che capire cosa gli passa per la testa,",
+    "it": "nominato,",
     "de": ""
   },
   {
-    "it": "potrebbe essere importante fermarti su alcune domande:",
+    "it": "reso più libero e meno segreto.",
     "de": ""
   },
   {
-    "it": "- Che tipo di relazione desideri davvero per te?",
+    "it": "In fondo,",
     "de": ""
   },
   {
-    "it": "- Come ti fa sentire questa situazione,",
+    "it": "la meta non è spegnere il desiderio,",
     "de": ""
   },
   {
-    "it": "nel complesso?",
+    "it": "ma restituirgli dignità e governo:",
     "de": ""
   },
   {
-    "it": "- Quanto spazio stai dando a te stessa dentro questa dinamica?",
+    "it": "trasformare una fissazione in una esperienza scelta,",
     "de": ""
   },
   {
-    "it": "A volte si resta agganciati nonostante la sofferenza perché i momenti belli sono molto intensi.",
-    "de": ""
-  },
-  {
-    "it": "Ma l’intensità non sempre coincide con il benessere.",
-    "de": ""
-  },
-  {
-    "it": "Capisco che ora ti senta molto attivata emotivamente,",
-    "de": ""
-  },
-  {
-    "it": "e che il silenzio ti faccia “arrovellare”.",
-    "de": ""
-  },
-  {
-    "it": "Il fatto di non scrivergli è già un modo per provare a proteggerti,",
-    "de": ""
-  },
-  {
-    "it": "anche se faticoso.",
-    "de": ""
-  },
-  {
-    "it": "Forse,",
-    "de": ""
-  },
-  {
-    "it": "più che cercare un senso nei suoi comportamenti,",
-    "de": ""
-  },
-  {
-    "it": "questo momento potrebbe diventare un’occasione per riportare lo sguardo su di te e su ciò che desideri,",
-    "de": ""
-  },
-  {
-    "it": "non solo nei momenti in cui lui c’è,",
-    "de": ""
-  },
-  {
-    "it": "ma soprattutto in quelli in cui non c’è.",
+    "it": "integrata e non tirannica.",
     "de": ""
   },
   {
@@ -2344,295 +1319,63 @@ Jetzt der Text:
     "de": ""
   },
   {
-    "it": "dott.",
+    "it": "Dottoressa Giulia Foddai",
     "de": ""
   },
   {
-    "it": "ssa Martina VeraciniPsicologa(Empoli & Online)",
+    "it": "Gentilissimo,",
     "de": ""
   },
   {
-    "it": "Buongiorno,",
+    "it": "la ringrazio per la profondità con cui ha descritto la sua storia.",
     "de": ""
   },
   {
-    "it": "comprendo il suo dolore:",
+    "it": "È evidente che per lei il nudismo non rappresenta solo un’esperienza corporea,",
     "de": ""
   },
   {
-    "it": "è come essere salita su una giostra molto intensa,",
+    "it": "ma qualcosa di più articolato:",
     "de": ""
   },
   {
-    "it": "piena di emozioni forti,",
+    "it": "un luogo psicologico in cui si intrecciano accettazione di sé,",
     "de": ""
   },
   {
-    "it": "e ritrovarsi improvvisamente ferma… senza capire perché lui sia sceso senza avvisareIl punto da cui poter partire non è tanto cosa è successo all’improvviso,",
+    "it": "assenza di giudizio,",
     "de": ""
   },
   {
-    "it": "ma vedere che questo schema c’era già:",
+    "it": "senso di appartenenza e anche una componente eccitatoria legata al “vedere ed essere visto”.",
     "de": ""
   },
   {
-    "it": "avvicinarsi molto e poi sparire.",
+    "it": "Dal suo racconto emerge un elemento centrale:",
     "de": ""
   },
   {
-    "it": "Solo che ora,",
+    "it": "per molti anni il corpo è stato vissuto con insicurezza e confronto.",
     "de": ""
   },
   {
-    "it": "per la prima volta,",
+    "it": "In questo senso il contesto nudista sembra aver avuto anche una funzione riparativa,",
     "de": ""
   },
   {
-    "it": "lei si trova davanti a un silenzio più netto,",
+    "it": "quasi correttiva,",
     "de": ""
   },
   {
-    "it": "che fa ancora più male perché rompe l’illusione del ritorno.",
+    "it": "rispetto a vissuti di inadeguatezza e vergogna.",
     "de": ""
   },
   {
-    "it": "La domanda “che senso ha?",
+    "it": "Sentirsi esposto ma non giudicato può avere un forte valore simbolico e identitario.",
     "de": ""
   },
   {
-    "it": "” è del tutto normale,",
-    "de": ""
-  },
-  {
-    "it": "ma a volte il senso non è in ciò che fa l’altro,",
-    "de": ""
-  },
-  {
-    "it": "ma in ciò che succede a noi dentro:",
-    "de": ""
-  },
-  {
-    "it": "lei si è affezionata a qualcuno che le ha dato momenti piacevoli,",
-    "de": ""
-  },
-  {
-    "it": "ma senza basi solide.",
-    "de": ""
-  },
-  {
-    "it": "perchè?",
-    "de": ""
-  },
-  {
-    "it": "C’è un punto che non va ignorato:",
-    "de": ""
-  },
-  {
-    "it": "lei è già in una relazione.",
-    "de": ""
-  },
-  {
-    "it": "È come se stesse cercando altrove qualcosa che nella sua vita attuale forse manca o si è spento.",
-    "de": ""
-  },
-  {
-    "it": "Più che capire lui,",
-    "de": ""
-  },
-  {
-    "it": "forse è il momento di riportare lo sguardo su di sé:",
-    "de": ""
-  },
-  {
-    "it": "cosa sto cercando davvero?",
-    "de": ""
-  },
-  {
-    "it": "cosa mi ha dato questa storia che mi manca così tanto?",
-    "de": ""
-  },
-  {
-    "it": "Perché il senso,",
-    "de": ""
-  },
-  {
-    "it": "probabilmente,",
-    "de": ""
-  },
-  {
-    "it": "è lì.",
-    "de": ""
-  },
-  {
-    "it": "Resto a disposizione.",
-    "de": ""
-  },
-  {
-    "it": "Dott.",
-    "de": ""
-  },
-  {
-    "it": "ssa Gaia Rotondo,",
-    "de": ""
-  },
-  {
-    "it": "psicologa clinicaDisponibile a Taranto e on-line",
-    "de": ""
-  },
-  {
-    "it": "Buongiorno,",
-    "de": ""
-  },
-  {
-    "it": "si percepisce quanto questa situazione la stia coinvolgendo emotivamente e quanto le stia facendo male.",
-    "de": ""
-  },
-  {
-    "it": "Non è solo la relazione in sé,",
-    "de": ""
-  },
-  {
-    "it": "ma soprattutto l’andamento altalenante,",
-    "de": ""
-  },
-  {
-    "it": "le sparizioni,",
-    "de": ""
-  },
-  {
-    "it": "i ritorni,",
-    "de": ""
-  },
-  {
-    "it": "i messaggi affettuosi seguiti dal silenzio,",
-    "de": ""
-  },
-  {
-    "it": "che creano confusione e la tengono costantemente agganciata.",
-    "de": ""
-  },
-  {
-    "it": "Provo a restituirle una lettura più chiara possibile.",
-    "de": ""
-  },
-  {
-    "it": "Può essere che quello che si è creato tra voi non è tanto una relazione stabile,",
-    "de": ""
-  },
-  {
-    "it": "quanto una dinamica intermittente:",
-    "de": ""
-  },
-  {
-    "it": "momenti molto intensi (affetto,",
-    "de": ""
-  },
-  {
-    "it": "sesso,",
-    "de": ""
-  },
-  {
-    "it": "vicinanza,",
-    "de": ""
-  },
-  {
-    "it": "parole importanti) seguiti da assenza e distanza.",
-    "de": ""
-  },
-  {
-    "it": "Questo tipo di alternanza ha un effetto molto impattante,",
-    "de": ""
-  },
-  {
-    "it": "perché attiva continuamente aspettativa,",
-    "de": ""
-  },
-  {
-    "it": "speranza e bisogno di conferma.",
-    "de": ""
-  },
-  {
-    "it": "È proprio questo meccanismo che rende così difficile “staccarsi” e che porta a pensare continuamente “cosa è successo?",
-    "de": ""
-  },
-  {
-    "it": "”,",
-    "de": ""
-  },
-  {
-    "it": "“perché ora no?",
-    "de": ""
-  },
-  {
-    "it": "”,",
-    "de": ""
-  },
-  {
-    "it": "“tornerà?",
-    "de": ""
-  },
-  {
-    "it": "Il fatto che lui sparisca,",
-    "de": ""
-  },
-  {
-    "it": "non risponda,",
-    "de": ""
-  },
-  {
-    "it": "poi torni come se nulla fosse,",
-    "de": ""
-  },
-  {
-    "it": "e che negli ultimi tempi questo schema si sia accentuato,",
-    "de": ""
-  },
-  {
-    "it": "è un dato molto importante.",
-    "de": ""
-  },
-  {
-    "it": "Al di là delle spiegazioni che dà (ex,",
-    "de": ""
-  },
-  {
-    "it": "problemi,",
-    "de": ""
-  },
-  {
-    "it": "impegni),",
-    "de": ""
-  },
-  {
-    "it": "ciò che conta è il comportamento concreto:",
-    "de": ""
-  },
-  {
-    "it": "presenza non stabile e non affidabile.",
-    "de": ""
-  },
-  {
-    "it": "La sua reazione – il dolore,",
-    "de": ""
-  },
-  {
-    "it": "il pianto,",
-    "de": ""
-  },
-  {
-    "it": "il bisogno di capire – è assolutamente comprensibile dentro questa dinamica.",
-    "de": ""
-  },
-  {
-    "it": "Non è “esagerata”:",
-    "de": ""
-  },
-  {
-    "it": "è coerente con un legame che si attiva e si interrompe continuamente.",
-    "de": ""
-  },
-  {
-    "it": "Il punto centrale,",
+    "it": "La questione che lei pone,",
     "de": ""
   },
   {
@@ -2640,99 +1383,143 @@ Jetzt der Text:
     "de": ""
   },
   {
-    "it": "è riconoscere l’effetto che questo ha su di lei.",
+    "it": "non riguarda tanto la liceità o meno del nudismo – che,",
     "de": ""
   },
   {
-    "it": "In questo momento lei è dentro un meccanismo che la porta adaspettare,",
+    "it": "se vissuto in contesti consensuali e rispettosi,",
     "de": ""
   },
   {
-    "it": "interpretare ogni segnale,",
+    "it": "non è di per sé problematico – quanto il carattere pervasivo del pensiero.",
     "de": ""
   },
   {
-    "it": "soffrire per ogni assenza,",
+    "it": "In ambito psicologico,",
     "de": ""
   },
   {
-    "it": "rimanere emotivamente legata nonostante la mancanza di stabilità.",
+    "it": "più che il contenuto in sé,",
     "de": ""
   },
   {
-    "it": "Questo tipo di coinvolgimento,",
+    "it": "osserviamo la funzione e il grado di controllo:",
     "de": ""
   },
   {
-    "it": "nel tempo,",
+    "it": "quando un interesse diventa “fissa” tende a occupare spazio mentale in modo ricorrente,",
     "de": ""
   },
   {
-    "it": "tende a diventare molto logorante.",
+    "it": "orienta le scelte,",
     "de": ""
   },
   {
-    "it": "Un altro aspetto importante è che lei stessa si trova in una relazione parallela.",
+    "it": "crea anticipazione costante e talvolta lascia una sensazione di insoddisfazione o ricerca continua.",
     "de": ""
   },
   {
-    "it": "Questo rende la situazione ancora più complessa,",
+    "it": "Un criterio utile può essere questo:",
     "de": ""
   },
   {
-    "it": "perché si intrecciano bisogni affettivi,",
+    "it": "– È una scelta o una spinta?",
     "de": ""
   },
   {
-    "it": "desiderio,",
+    "it": "– Se decidesse di rinunciare per un periodo,",
     "de": ""
   },
   {
-    "it": "senso di colpa e ricerca di qualcosa di diverso.",
+    "it": "proverebbe solo dispiacere o anche irritazione,",
     "de": ""
   },
   {
-    "it": "La domanda che si pone (“che senso ha tutto questo?",
+    "it": "agitazione,",
     "de": ""
   },
   {
-    "it": "”) è molto significativa.",
+    "it": "senso di mancanza difficilmente gestibile?",
     "de": ""
   },
   {
-    "it": "Più che avere una risposta su di lui,",
+    "it": "– Questa ricerca sta ampliando la sua vita o la sta restringendo attorno a un unico canale di gratificazione?",
     "de": ""
   },
   {
-    "it": "può essere utile iniziare a chiedersi che senso ha per lei restare dentro questa dinamica,",
+    "it": "Il fatto che descriva una sensazione di “non sazietà” e di ricerca costante può far pensare a un meccanismo di rinforzo simile a quello di altri comportamenti appetitivi:",
     "de": ""
   },
   {
-    "it": "nonostante il dolore che le provoca.",
+    "it": "l’anticipazione e la fantasia talvolta diventano più centrali dell’esperienza stessa.",
     "de": ""
   },
   {
-    "it": "Proprio perché questa situazione è così coinvolgente e difficile da gestire da sola,",
+    "it": "Non è automaticamente patologico,",
     "de": ""
   },
   {
-    "it": "un supporto psicologico può essere davvero utile.",
+    "it": "ma merita consapevolezza.",
     "de": ""
   },
   {
-    "it": "Un percorso può aiutarla a fare chiarezza su ciò che la tiene agganciata,",
+    "it": "Un altro aspetto interessante è il tema del segreto e della condivisione “privilegiata”.",
     "de": ""
   },
   {
-    "it": "a lavorare sui pensieri ricorrenti e sull’attesa,",
+    "it": "Potrebbe essere utile esplorare quanto questa dimensione compensi bisogni relazionali più ampi (riconoscimento,",
     "de": ""
   },
   {
-    "it": "e soprattutto a recuperare una posizione più stabile e protettiva per sé.",
+    "it": "validazione,",
     "de": ""
   },
   {
-    "it": "Rimango a disposizione,",
+    "it": "sentirsi speciale o ammesso a qualcosa che altri non hanno).",
+    "de": ""
+  },
+  {
+    "it": "In sintesi:",
+    "de": ""
+  },
+  {
+    "it": "l’attrazione per la nudità e una componente voyeuristica lieve,",
+    "de": ""
+  },
+  {
+    "it": "entro contesti consensuali,",
+    "de": ""
+  },
+  {
+    "it": "rientrano nella variabilità della sessualità umana.",
+    "de": ""
+  },
+  {
+    "it": "Diventa importante interrogarsi non sul “giusto o sbagliato”,",
+    "de": ""
+  },
+  {
+    "it": "ma su quanto questo interesse sia integrato in modo flessibile nella sua vita o stia assumendo un ruolo centrale e regolativo dell’umore e dell’autostima.",
+    "de": ""
+  },
+  {
+    "it": "Se sente che il pensiero è quotidiano,",
+    "de": ""
+  },
+  {
+    "it": "intrusivo o difficile da modulare,",
+    "de": ""
+  },
+  {
+    "it": "potrebbe essere utile un confronto clinico per comprendere meglio la funzione che questa esperienza ha per lei oggi,",
+    "de": ""
+  },
+  {
+    "it": "al di là dell’aspetto erotico.",
+    "de": ""
+  },
+  {
+    "it": "Un caro saluto,",
     "de": ""
   },
   {
@@ -2740,159 +1527,407 @@ Jetzt der Text:
     "de": ""
   },
   {
-    "it": "ssa Aurora Bacchetta",
+    "it": "ssa Grazia Melchiorre - Psicologa clinica",
     "de": ""
   },
   {
-    "it": "Più che ragionare in termini di “categoria” (evitante sì/no) sarebbe più utile pensare alla relazionale che si è costruita tra voi due e che oggi la sta facendo soffrire.",
+    "it": "Grazie per la fiducia e per la profondità con cui hai raccontato la tua storia.",
     "de": ""
   },
   {
-    "it": "Se prova a spostare lo sguardo da lui al “tra voi”,",
+    "it": "Quello che descrivi non ha nulla di “automaticamente malsano”.",
     "de": ""
   },
   {
-    "it": "cosa vede?",
+    "it": "Il nudismo,",
     "de": ""
   },
   {
-    "it": "Un contatto molto intenso,",
+    "it": "vissuto in contesti consensuali e rispettosi,",
     "de": ""
   },
   {
-    "it": "soprattutto sul piano sessuale e di conferma reciproca,",
+    "it": "non è di per sé una deviazione né un problema.",
     "de": ""
   },
   {
-    "it": "alternato a fasi di assenza in cui lui si sottrae senza spiegazioni.",
+    "it": "Anzi,",
     "de": ""
   },
   {
-    "it": "Questa alternanza,",
+    "it": "nel tuo racconto emerge qualcosa di molto significativo:",
     "de": ""
   },
   {
-    "it": "per come è strutturata,",
+    "it": "per te la nudità non è solo esposizione del corpo,",
     "de": ""
   },
   {
-    "it": "tende a creare aggancio e dipendenza,",
+    "it": "ma esperienza di accettazione,",
     "de": ""
   },
   {
-    "it": "più che stabilità.",
+    "it": "sospensione del giudizio,",
     "de": ""
   },
   {
-    "it": "C’è poi un altro elemento che merita attenzione:",
+    "it": "senso di appartenenza e intimità emotiva.",
     "de": ""
   },
   {
-    "it": "lei è in una relazione.",
+    "it": "È come se lì trovassi uno spazio in cui non devi dimostrare nulla,",
     "de": ""
   },
   {
-    "it": "Che funzione sta avendo questo legame parallelo nella sua vita in questo momento?",
+    "it": "non devi competere,",
     "de": ""
   },
   {
-    "it": "Che spazio le permette di vivere che altrove non trova?",
+    "it": "non devi nasconderti.",
     "de": ""
   },
   {
-    "it": "E,",
+    "it": "Se mettiamo insieme i pezzi della tua storia,",
     "de": ""
   },
   {
-    "it": "al contrario,",
+    "it": "si vede un filo conduttore.",
     "de": ""
   },
   {
-    "it": "cosa le sta costando?",
+    "it": "Da adolescente eri riconosciuto,",
     "de": ""
   },
   {
-    "it": "Quando lui dice di non voler una storia e contemporaneamente usa parole e gesti molto coinvolgenti,",
+    "it": "stimato,",
     "de": ""
   },
   {
-    "it": "lei come organizza dentro di sé queste informazioni contraddittorie?",
+    "it": "competente.",
     "de": ""
   },
   {
-    "it": "A cosa dà più peso:",
+    "it": "Ma finita la “scena pubblica”,",
     "de": ""
   },
   {
-    "it": "a ciò che dice quando c’è o a ciò che fa quando sparisce?",
+    "it": "rimaneva una solitudine profonda.",
     "de": ""
   },
   {
-    "it": "E ancora:",
+    "it": "Il corpo,",
     "de": ""
   },
   {
-    "it": "che idea si è fatta del fatto che nei momenti critici lui si chiuda e interrompa il contatto invece di negoziarlo?",
+    "it": "il sovrappeso,",
     "de": ""
   },
   {
-    "it": "Più che chiedersi “perché fa così”,",
+    "it": "il confronto con i coetanei più “esperti”,",
     "de": ""
   },
   {
-    "it": "può essere utile chiedersi:",
+    "it": "probabilmente hanno alimentato un senso di inadeguatezza silenziosa.",
     "de": ""
   },
   {
-    "it": "“Io cosa sto accettando e perché?",
+    "it": "Il nudismo,",
     "de": ""
   },
   {
-    "it": "Che tipo di relazione sto contribuendo a mantenere?",
+    "it": "iniziato in una fase in cui ti sentivi solo e inesperto,",
     "de": ""
   },
   {
-    "it": "Perché al di là delle sue spiegazioni (ex,",
+    "it": "potrebbe aver rappresentato una forma di riscatto:",
     "de": ""
   },
   {
-    "it": "stress,",
+    "it": "guardare ed essere guardato,",
     "de": ""
   },
   {
-    "it": "partite.",
+    "it": "ma senza giudizio;",
     "de": ""
   },
   {
-    "it": "),",
+    "it": "condividere qualcosa di intimo senza dover performare;",
     "de": ""
   },
   {
-    "it": "il dato relazionale è che lei rimane in una posizione di attesa,",
+    "it": "sentirti parte di un “segreto” collettivo.",
     "de": ""
   },
   {
-    "it": "mentre lui regola la distanza.",
+    "it": "Il punto centrale non è tanto l’eccitazione o il voyeurismo in sé,",
     "de": ""
   },
   {
-    "it": "Se questo andamento non cambiasse,",
+    "it": "che sono componenti umane comuni,",
     "de": ""
   },
   {
-    "it": "sarebbe una relazione che desidera continuare?",
+    "it": "quanto il fatto che oggi descrivi questa ricerca come qualcosa che ti occupa la mente in modo ricorrente,",
     "de": ""
   },
   {
-    "it": "E cosa le servirebbe,",
+    "it": "quasi compulsivo e che orienta le scelte di vita.",
     "de": ""
   },
   {
-    "it": "concretamente,",
+    "it": "La differenza tra una passione e una fissazione non sta nella frequenza del pensiero in senso assoluto,",
     "de": ""
   },
   {
-    "it": "per sentirsi trattata in modo più coerente e rispettoso?",
+    "it": "ma nel grado di libertà che senti.",
+    "de": ""
+  },
+  {
+    "it": "Se potessi non andare alla spiaggia nudista per un’estate,",
+    "de": ""
+  },
+  {
+    "it": "come ti sentiresti?",
+    "de": ""
+  },
+  {
+    "it": "Se una vacanza non offrisse quell’opportunità,",
+    "de": ""
+  },
+  {
+    "it": "riusciresti comunque a viverla con piacere o proveresti frustrazione intensa,",
+    "de": ""
+  },
+  {
+    "it": "irritazione,",
+    "de": ""
+  },
+  {
+    "it": "senso di perdita?",
+    "de": ""
+  },
+  {
+    "it": "Un altro aspetto interessante è la sensazione di “non saziarti mai”,",
+    "de": ""
+  },
+  {
+    "it": "di voler sempre sbirciare,",
+    "de": ""
+  },
+  {
+    "it": "di immaginare di avere accesso a qualcosa che altri non hanno.",
+    "de": ""
+  },
+  {
+    "it": "Qui non siamo più solo nel nudismo come accettazione,",
+    "de": ""
+  },
+  {
+    "it": "ma in una dinamica più legata alla ricerca continua di stimolo e alla conferma di un potere simbolico:",
+    "de": ""
+  },
+  {
+    "it": "io posso vedere,",
+    "de": ""
+  },
+  {
+    "it": "io posso accedere,",
+    "de": ""
+  },
+  {
+    "it": "io sono dentro qualcosa di speciale.",
+    "de": ""
+  },
+  {
+    "it": "Questo può avere radici profonde nella storia di chi si è sentito escluso o in ritardo rispetto agli altri sul piano relazionale e sessuale.",
+    "de": ""
+  },
+  {
+    "it": "Non stai raccontando comportamenti invasivi o irrispettosi e questo è importante.",
+    "de": ""
+  },
+  {
+    "it": "Il confine etico è integro.",
+    "de": ""
+  },
+  {
+    "it": "La domanda che ti stai facendo però è sana:",
+    "de": ""
+  },
+  {
+    "it": "quando qualcosa che mi dona piacere diventa un pensiero dominante?",
+    "de": ""
+  },
+  {
+    "it": "In genere diventa eccessivo quando smette di essere una scelta e diventa una necessità psicologica per regolare l’umore,",
+    "de": ""
+  },
+  {
+    "it": "l’autostima o la tensione interna.",
+    "de": ""
+  },
+  {
+    "it": "Ti farei una riflessione:",
+    "de": ""
+  },
+  {
+    "it": "al di là dell’eccitazione,",
+    "de": ""
+  },
+  {
+    "it": "cosa ti dona emotivamente quella situazione che altrove non trovi?",
+    "de": ""
+  },
+  {
+    "it": "È libertà?",
+    "de": ""
+  },
+  {
+    "it": "È accettazione?",
+    "de": ""
+  },
+  {
+    "it": "È sentirti desiderante e desiderabile?",
+    "de": ""
+  },
+  {
+    "it": "È sentirti parte di qualcosa?",
+    "de": ""
+  },
+  {
+    "it": "Spesso il comportamento è solo la superficie,",
+    "de": ""
+  },
+  {
+    "it": "sotto c’è un bisogno più antico.",
+    "de": ""
+  },
+  {
+    "it": "Non c’è nulla di patologico nell’essere attratti dalla nudità o nel provare piacere voyeuristico in contesti consensuali.",
+    "de": ""
+  },
+  {
+    "it": "Diventa problematico solo se restringe la tua vita invece di ampliarla,",
+    "de": ""
+  },
+  {
+    "it": "se ti rende inquieto anziché sereno,",
+    "de": ""
+  },
+  {
+    "it": "se ti allontana da altre forme di intimità o soddisfazione.",
+    "de": ""
+  },
+  {
+    "it": "La tua domanda finale è molto matura.",
+    "de": ""
+  },
+  {
+    "it": "Pensare spesso a ciò che ci dona piacere è umano.",
+    "de": ""
+  },
+  {
+    "it": "Pensarci continuamente al punto che orienta in modo rigido le scelte e lascia un senso di insoddisfazione costante merita invece di essere esplorato con calma,",
+    "de": ""
+  },
+  {
+    "it": "non per reprimere la passione ma per capire cosa la alimenta davvero.",
+    "de": ""
+  },
+  {
+    "it": "La distinzione che pone tra passione e ossessione è pertinente,",
+    "de": ""
+  },
+  {
+    "it": "ma forse la risposta non sta tanto nell’oggetto del desiderio quanto nel ruolo che questo ha assunto nella sua economia psichica e relazionale.",
+    "de": ""
+  },
+  {
+    "it": "Dal suo racconto la nudità non appare solo come stimolo erotico,",
+    "de": ""
+  },
+  {
+    "it": "ma come uno spazio di sospensione del giudizio,",
+    "de": ""
+  },
+  {
+    "it": "di riconciliazione con il corpo e di appartenenza,",
+    "de": ""
+  },
+  {
+    "it": "arrivato in una fase della vita in cui si sentiva solo,",
+    "de": ""
+  },
+  {
+    "it": "inadeguato e fuori da alcune esperienze condivise dai coetanei.",
+    "de": ""
+  },
+  {
+    "it": "In questo senso,",
+    "de": ""
+  },
+  {
+    "it": "più che “malsana”,",
+    "de": ""
+  },
+  {
+    "it": "questa passione sembra aver avuto una funzione regolativa e identitaria.",
+    "de": ""
+  },
+  {
+    "it": "Il punto critico emerge quando diventa il principale canale di benessere,",
+    "de": ""
+  },
+  {
+    "it": "al punto da orientare costantemente pensieri,",
+    "de": ""
+  },
+  {
+    "it": "fantasie e scelte,",
+    "de": ""
+  },
+  {
+    "it": "lasciando una sensazione di insoddisfazione che non si colma mai.",
+    "de": ""
+  },
+  {
+    "it": "Le chiederei allora:",
+    "de": ""
+  },
+  {
+    "it": "che cosa trova lì che fatica a trovare altrove oggi,",
+    "de": ""
+  },
+  {
+    "it": "nella vita quotidiana e nelle relazioni?",
+    "de": ""
+  },
+  {
+    "it": "E cosa succede dentro di lei quando questa possibilità non è accessibile?",
+    "de": ""
+  },
+  {
+    "it": "Non è tanto la frequenza del pensiero a definire l’eccesso,",
+    "de": ""
+  },
+  {
+    "it": "quanto il rischio che quella esperienza diventi l’unico modo per sentirsi vivo,",
+    "de": ""
+  },
+  {
+    "it": "visto e “a posto” con se stesso.",
+    "de": ""
+  },
+  {
+    "it": "Un lavoro psicologico potrebbe aiutarla a comprendere se questa ricerca continua stia compensando bisogni più ampi di conferma,",
+    "de": ""
+  },
+  {
+    "it": "intimità o libertà,",
+    "de": ""
+  },
+  {
+    "it": "e come integrarli senza che tutto ruoti attorno a un solo fulcro.",
     "de": ""
   },
   {
@@ -2908,171 +1943,171 @@ Jetzt der Text:
     "de": ""
   },
   {
-    "it": "Gentile  utente,",
+    "it": "Buongiorno Luc,",
     "de": ""
   },
   {
-    "it": "è possibile che gli allontanamenti di lui siano legati alla sua ex,",
+    "it": "grazie per aver condiviso la sua esperienza.",
     "de": ""
   },
   {
-    "it": "o a una maggiore consapevolezza sulla differenza di età,",
+    "it": "In psicoanalisi,",
     "de": ""
   },
   {
-    "it": "ma forse la cosa migliore è fare un passo indietro e vedere le cose più da lontano.",
+    "it": "il corpo è spesso visto come un’estensione simbolica della psiche:",
     "de": ""
   },
   {
-    "it": "Qual è il senso di costruire una relazione  avendone già una?",
+    "it": "ciò che sentiamo,",
     "de": ""
   },
   {
-    "it": "Quali vuoti relazionali è andata a riempire?",
+    "it": "rimuoviamo o rifiutiamo di noi stessi può manifestarsi attraverso la percezione corporea.",
     "de": ""
   },
   {
-    "it": "Nel tradimento è importante capire cosa porta fuori dalla relazione e se il tradimento stesso  è uno strumento di allontanamento o avvicinamento alla relazione ufficiale.",
+    "it": "L’insicurezza corporea (ad esempio il sovrappeso,",
     "de": ""
   },
   {
-    "it": "Un cordiale salutoDr.",
+    "it": "eventuali difetti percepiti) non è solo un giudizio estetico,",
     "de": ""
   },
   {
-    "it": "Patrizia Mattioli",
+    "it": "può riflettere insicurezze interne legate alla percezione del proprio valore,",
     "de": ""
   },
   {
-    "it": "Salve cara capisco benissimo la situazione.",
+    "it": "può intaccare l'autostima e influenzare il confronto e la relazione con gli altri.",
     "de": ""
   },
   {
-    "it": "però penso che rimanere intrappolata in una situazione che non fa altro che tenerla in bilico anziché darle sicurezza e stabilità come possibilmente può darle il suo compagno penso che sia una situazione abbastanza complicata e che possibilmente nel tempo potrà arrecarla parecchia sofferenza.",
+    "it": "Nel suo racconto,",
     "de": ""
   },
   {
-    "it": "quindi io mi soffermerei a pensare se è questo ciò che vuole x la sua vita o se è soltanto un avventura passeggera dovuta magari ad un periodo di crisi con il suo compagno.",
+    "it": "dice di “non essersi sentito all’altezza” dei suoi coetanei,",
     "de": ""
   },
   {
-    "it": "ma soprattutto mi soffermerei a pensare se ne vale davvero la pena.",
+    "it": "che potrebbe far pensare a emozioni correlate come la vergogna o il senso di inadeguatezza.",
     "de": ""
   },
   {
-    "it": "Questo rapporto così o se è meglio rivalutare il suo rapporto recente.",
+    "it": "Negli anni successivi ha poi 'scoperto' il nudismo,",
     "de": ""
   },
   {
-    "it": "cordiali saluti Dott.",
+    "it": "che non rappresenta un'attività patologica o malvagia in sé,",
     "de": ""
   },
   {
-    "it": "ssa Lorena Truscelli",
+    "it": "ma può essere simbolicamente approfondita come un processo di integrazione:",
     "de": ""
   },
   {
-    "it": "Buongiorno,",
+    "it": "venendo da un rapporto tra mente e corpo caratterizzato da sentimenti ed emozioni negative,",
     "de": ""
   },
   {
-    "it": "grazie di aver condiviso la sua storia .",
+    "it": "potersi sentire a proprio agio in una situazione collettiva potrebbe averle permesso di riprendersi il suo corpo,",
     "de": ""
   },
   {
-    "it": "Una storia,",
+    "it": "senza filtri sociali o giudizi.",
     "de": ""
   },
   {
-    "it": "che analizzata senza coinvolgimento emotivo mette in evidenza dei punti fragilità:",
+    "it": "Il corpo,",
     "de": ""
   },
   {
-    "it": "la conoscenza sui social ,",
+    "it": "quindi,",
     "de": ""
   },
   {
-    "it": "la grande differenza di età,",
+    "it": "è divenuto una manifestazione autentica dell’Io,",
     "de": ""
   },
   {
-    "it": "il suo compagno.",
+    "it": "riducendo la divisione tra sé interiore e sé esteriore.",
     "de": ""
   },
   {
-    "it": "Per prima cosa cercherei di capire il rapporto con il suo compagno:",
+    "it": "La condivisione della nudità con altri,",
     "de": ""
   },
   {
-    "it": "lei si dispera delle sue assenze ,",
+    "it": "senza contatto sessuale o giudizio,",
     "de": ""
   },
   {
-    "it": "dei suoi vuoti ma intanto ha un’altra relazione stabile.",
+    "it": "crea una situazione di fiducia e apertura,",
     "de": ""
   },
   {
-    "it": "Lui che rimugina la sua ex e che piano piano diventa un motivo di allontanamento .",
+    "it": "dove una parte di sé che fino a quel momento rifiutava ora viene accettata in un contesto sicuro.",
     "de": ""
   },
   {
-    "it": "Essere presente ,",
+    "it": "In questo senso,",
     "de": ""
   },
   {
-    "it": "sparire è una in una dinamica che si ripete mette in evidenza la sua poca convinzione sul rapporto.",
+    "it": "penso che il nudismo non sia da riferire unicamente al piacere fisico o al voyeurismo:",
     "de": ""
   },
   {
-    "it": "Avete un ottima intesa sessuale ma molte volte non basta.",
+    "it": "è un processo psicologico che permette di riconciliare il sé con il proprio corpo,",
     "de": ""
   },
   {
-    "it": "Può darsi che semplicemente da ragazzo giovane abbia pensato che intraprendere una storia con una persona già impegnata non è quello che vuole.",
+    "it": "spesso carico di insicurezze o sensazioni rimosse.",
     "de": ""
   },
   {
-    "it": "Forse non era pronto per una storia importante dal momento che il ricordo della sua ex è ancora vivo.",
+    "it": "Per quanto riguarda il timore che ha che questa sua esperienza diventi un'ossessione o un qualcosa di patologico,",
     "de": ""
   },
   {
-    "it": "Possono essere tanti i motivi.",
+    "it": "penso che potrebbe esserle utile approfondire il significato che questa modalità relazionale assume per lei rispetto al suo mondo interno e ai suoi bisogni inespressi o frustrati negli anni precedenti.",
     "de": ""
   },
   {
-    "it": "Ma io mi farei   semplicemente  un auto analisi per  capire cosa manca al mio rapporto sentimentale,",
+    "it": "Il bisogno di ripetizione e la fissità del pensiero,",
     "de": ""
   },
   {
-    "it": "cosa ho provato di talmente importante che mi ha creato così tanto dolore.",
+    "it": "potrebbero collegarsi a una possibile ricorrenza psicologica di un bisogno insoddisfatto di connessione e relazione,",
     "de": ""
   },
   {
-    "it": "Cosa lei cerca  e vuole veramente dalla vita.",
+    "it": "autenticità e accettazione del sé.",
     "de": ""
   },
   {
-    "it": "E poi   Vent’anni di meno non sono pochi cambiano strategie ,",
+    "it": "Attribuire o restituire un significato a un comportamento o a una modalità relazionale,",
     "de": ""
   },
   {
-    "it": "prospettive ,",
+    "it": "può aiutarla a vivere con maggiore serenità le esperienze che intende portare avanti,",
     "de": ""
   },
   {
-    "it": "desideri.",
+    "it": "tenendo presente che il confine tra un'attività 'normale' o 'patologica',",
     "de": ""
   },
   {
-    "it": "Lei ora è sulle spine perchè non riesce a stogliere il pensiero da lui,",
+    "it": "può essere stabilito solo in maniera estremamente individuale,",
     "de": ""
   },
   {
-    "it": "questa sua dinamica comportamentale la tiene legata ma sorretta solo da un sottilissimo filo .",
+    "it": "in base a quanto questa condiziona le sue scelte quotidiane e il suo benessere emotivo.",
     "de": ""
   },
   {
-    "it": "Vedrà che troverà in lei la risposta .",
+    "it": "Le auguro una buona giornata,",
     "de": ""
   },
   {
@@ -3080,7 +2115,1131 @@ Jetzt der Text:
     "de": ""
   },
   {
-    "it": "ssa Beatrice Canino",
+    "it": "ssa Angela MaccaronePsicologa clinica",
+    "de": ""
+  },
+  {
+    "it": "Buongiorno Luc,",
+    "de": ""
+  },
+  {
+    "it": "Da quello che racconti emerge una grande consapevolezza di te stesso e del tuo mondo interno,",
+    "de": ""
+  },
+  {
+    "it": "e questo è già un punto molto importante.",
+    "de": ""
+  },
+  {
+    "it": "Il fatto che il nudismo ti faccia sentire libero,",
+    "de": ""
+  },
+  {
+    "it": "non giudicato e più a tuo agio non ha nulla malsano di per sé:",
+    "de": ""
+  },
+  {
+    "it": "molti vivono esperienze simili come spazi autenticità e verità.",
+    "de": ""
+  },
+  {
+    "it": "La differenza però sta in quanto questa dimensione occupi i tuoi pensieri e le tue scelte:",
+    "de": ""
+  },
+  {
+    "it": "quando qualcosa che dà piacere diventa quasi l’unico centro mentale,",
+    "de": ""
+  },
+  {
+    "it": "può essere un segnale che sta assumendo un peso eccessivo più sul piano psicologico che su quello comportamentale.",
+    "de": ""
+  },
+  {
+    "it": "Non significa che tu abbia un problema o che ci sia qualcosa di patologico,",
+    "de": ""
+  },
+  {
+    "it": "ma può voler dire che lì si concentrano bisogni profondi  che forse meritano di essere esplorati con più comprensione.",
+    "de": ""
+  },
+  {
+    "it": "Proprio perché ti poni queste domande con lucidità,",
+    "de": ""
+  },
+  {
+    "it": "parlarne con uno psicologo potrebbe aiutarti a capire cosa rappresenta davvero per te questa “fissa” e a riportarla dentro un equilibrio più sereno,",
+    "de": ""
+  },
+  {
+    "it": "ma senza sentirti dominato da essa.",
+    "de": ""
+  },
+  {
+    "it": "Resto a disposizione.",
+    "de": ""
+  },
+  {
+    "it": "Dott.",
+    "de": ""
+  },
+  {
+    "it": "ssa Gaia Rotondo,",
+    "de": ""
+  },
+  {
+    "it": "psicologa clinicaDisponibile anche on-line",
+    "de": ""
+  },
+  {
+    "it": "Ciao LucGrazie per la condivisioneIn ottica Control-Mastery Theory,",
+    "de": ""
+  },
+  {
+    "it": "ciò che descrivi non è definibile di per sé come “malsano”,",
+    "de": ""
+  },
+  {
+    "it": "ma come una soluzione adattiva costruita nel tempo.",
+    "de": ""
+  },
+  {
+    "it": "Il nudismo sembra aver funzionato come un antidoto a schemi patogeni legati al corpo (“sono giudicabile”,",
+    "de": ""
+  },
+  {
+    "it": "“non sono all’altezza”).",
+    "de": ""
+  },
+  {
+    "it": "La nudità condivisa,",
+    "de": ""
+  },
+  {
+    "it": "non sessualizzata,",
+    "de": ""
+  },
+  {
+    "it": "ha permesso esperienze correttive di accettazione senza valutazione,",
+    "de": ""
+  },
+  {
+    "it": "fondamentali per il suo equilibrio.",
+    "de": ""
+  },
+  {
+    "it": "L’eccitazione associata non è il problema ma un correlato affettivo di sicurezza e riconoscimento.",
+    "de": ""
+  },
+  {
+    "it": "Il punto critico emerge quando la mente inizia a dipendere rigidamente da questa esperienza per sentirsi vivo,",
+    "de": ""
+  },
+  {
+    "it": "visto,",
+    "de": ""
+  },
+  {
+    "it": "integrato.",
+    "de": ""
+  },
+  {
+    "it": "Qui il sistema interno sta testando una credenza più profonda:",
+    "de": ""
+  },
+  {
+    "it": "“senza questo contesto torno invisibile o solo”.",
+    "de": ""
+  },
+  {
+    "it": "Il pensiero ricorrente segnala non tanto desiderio,",
+    "de": ""
+  },
+  {
+    "it": "quanto ansia di perdita della regolazione emotiva.",
+    "de": ""
+  },
+  {
+    "it": "Non è l’attrazione a essere eccessiva,",
+    "de": ""
+  },
+  {
+    "it": "ma la funzione regolatoria esclusiva che ha assunto.",
+    "de": ""
+  },
+  {
+    "it": "La ricerca continua (“non mi sazio mai”) indica che il bisogno sottostante non è ancora pienamente soddisfatto.",
+    "de": ""
+  },
+  {
+    "it": "Il lavoro terapeutico mira a disconfermare il tuo schema che intimità,",
+    "de": ""
+  },
+  {
+    "it": "valore e appartenenza passino solo da lì.",
+    "de": ""
+  },
+  {
+    "it": "Ampliare le fonti di riconoscimento riduce automaticamente la fissazione.",
+    "de": ""
+  },
+  {
+    "it": "Quando il sistema apprende che può sentirsi visto anche altrove,",
+    "de": ""
+  },
+  {
+    "it": "l’urgenza cala.",
+    "de": ""
+  },
+  {
+    "it": "Quindi la riduzione del sintomo segue la sicurezza emotiva,",
+    "de": ""
+  },
+  {
+    "it": "non il controllo forzato.",
+    "de": ""
+  },
+  {
+    "it": "La domanda non è “devo smettere?",
+    "de": ""
+  },
+  {
+    "it": "”,",
+    "de": ""
+  },
+  {
+    "it": "ma “cosa temo di perdere se smetto?",
+    "de": ""
+  },
+  {
+    "it": "Un caro saluto,",
+    "de": ""
+  },
+  {
+    "it": "Dr.",
+    "de": ""
+  },
+  {
+    "it": "ssa Bolzoni",
+    "de": ""
+  },
+  {
+    "it": "Buongiorno Luc,",
+    "de": ""
+  },
+  {
+    "it": "la ringrazio per aver condiviso in modo così aperto e riflessivo la sua esperienza.",
+    "de": ""
+  },
+  {
+    "it": "Da ciò che descrive,",
+    "de": ""
+  },
+  {
+    "it": "il nudismo sembra aver rappresentato per lei,",
+    "de": ""
+  },
+  {
+    "it": "in diversi momenti della vita,",
+    "de": ""
+  },
+  {
+    "it": "uno spazio di accettazione,",
+    "de": ""
+  },
+  {
+    "it": "libertà e minore giudizio sul proprio corpo,",
+    "de": ""
+  },
+  {
+    "it": "oltre che una modalità di contatto e condivisione con gli altri.",
+    "de": ""
+  },
+  {
+    "it": "In sé,",
+    "de": ""
+  },
+  {
+    "it": "l’interesse per la nudità o per il voyeurismo,",
+    "de": ""
+  },
+  {
+    "it": "se vissuto nel rispetto reciproco e del consenso,",
+    "de": ""
+  },
+  {
+    "it": "non è necessariamente indice di qualcosa di problematico.",
+    "de": ""
+  },
+  {
+    "it": "L’aspetto che merita attenzione,",
+    "de": ""
+  },
+  {
+    "it": "come lei stesso coglie,",
+    "de": ""
+  },
+  {
+    "it": "è piuttosto il grado di centralità che questo interesse sembra aver assunto:",
+    "de": ""
+  },
+  {
+    "it": "quando un pensiero o un comportamento diventa ricorrente,",
+    "de": ""
+  },
+  {
+    "it": "pervasivo o condiziona scelte e benessere personale,",
+    "de": ""
+  },
+  {
+    "it": "può essere utile interrogarsi sul significato che assume nella propria vita e sui bisogni emotivi o relazionali che esprime.",
+    "de": ""
+  },
+  {
+    "it": "Più che chiedersi se sia “normale” o “eccessivo”,",
+    "de": ""
+  },
+  {
+    "it": "può essere utile domandarsi quanto questa dimensione la faccia sentire davvero libero e soddisfatto,",
+    "de": ""
+  },
+  {
+    "it": "oppure se generi una sensazione di insoddisfazione o di ricerca continua difficile da regolare.",
+    "de": ""
+  },
+  {
+    "it": "Un percorso psicologico può offrire uno spazio protetto per esplorare serenamente questi aspetti,",
+    "de": ""
+  },
+  {
+    "it": "comprendere più a fondo i vissuti legati all’autostima,",
+    "de": ""
+  },
+  {
+    "it": "al rapporto con il corpo e alle relazioni,",
+    "de": ""
+  },
+  {
+    "it": "e trovare un equilibrio che favorisca il suo benessere complessivo.",
+    "de": ""
+  },
+  {
+    "it": "Aver riconosciuto e posto questa domanda è già un passo importante di consapevolezza.",
+    "de": ""
+  },
+  {
+    "it": "Un caro saluto,",
+    "de": ""
+  },
+  {
+    "it": "Dott.",
+    "de": ""
+  },
+  {
+    "it": "Fabio MallardoPsicologo-PsicoterapeutaRicevo anche on-line",
+    "de": ""
+  },
+  {
+    "it": "Il nudismo a una scelta molto soggettivaSe fino adesso lei l’ha praticato senza problemi,",
+    "de": ""
+  },
+  {
+    "it": "ok.",
+    "de": ""
+  },
+  {
+    "it": "Se sente percepisce che sta diventando un problema un disagio è bene,",
+    "de": ""
+  },
+  {
+    "it": "comprendere meglio questa sua nuova situazionePer quale motivo da far sentire a disagio?",
+    "de": ""
+  },
+  {
+    "it": "Cos’è che le dà fastidio?",
+    "de": ""
+  },
+  {
+    "it": "Si sente che sta diventando una cosa obbligata con me,",
+    "de": ""
+  },
+  {
+    "it": "una dipendenza è bene smettereLe situazioni cambiano quello che prima poteva far star bene ora può far star maleSe lei sente che questa situazione le provo a disagio,",
+    "de": ""
+  },
+  {
+    "it": "non lo faccio piùÈ una cosa che può succedereTi consiglio di intraprendere un percorso psicologico che la possa aiutare a comprendere meglio e affrontare la situazione",
+    "de": ""
+  },
+  {
+    "it": "Buongiorno Luca,",
+    "de": ""
+  },
+  {
+    "it": "la ringrazio per la chiarezza e l’onestà con cui ha raccontato aspetti molto intimi della sua storia.",
+    "de": ""
+  },
+  {
+    "it": "Il suo messaggio restituisce una buona capacità di auto-osservazione e una sensibilità verso il proprio funzionamento psicologico:",
+    "de": ""
+  },
+  {
+    "it": "questo è già un elemento di grande valore.",
+    "de": ""
+  },
+  {
+    "it": "Dalla sua narrazione emergono alcuni temi centrali:",
+    "de": ""
+  },
+  {
+    "it": "il vissuto di solitudine emotiva nell’adolescenza,",
+    "de": ""
+  },
+  {
+    "it": "un rapporto complesso con il corpo e l’autostima,",
+    "de": ""
+  },
+  {
+    "it": "un forte senso di competenza e riconoscimento in ambito lavorativo,",
+    "de": ""
+  },
+  {
+    "it": "e infine l’esperienza del nudismo come spazio di libertà,",
+    "de": ""
+  },
+  {
+    "it": "accettazione e contatto umano non giudicante.",
+    "de": ""
+  },
+  {
+    "it": "È importante sottolineare che il nudismo,",
+    "de": ""
+  },
+  {
+    "it": "di per sé,",
+    "de": ""
+  },
+  {
+    "it": "non è patologico:",
+    "de": ""
+  },
+  {
+    "it": "per molte persone rappresenta una modalità legittima di stare nel mondo,",
+    "de": ""
+  },
+  {
+    "it": "di riconciliarsi con il corpo e di vivere una dimensione sociale e sensoriale autentica.",
+    "de": ""
+  },
+  {
+    "it": "Nel suo caso,",
+    "de": ""
+  },
+  {
+    "it": "il nudismo sembra aver svolto (e svolgere tuttora) anche una funzione psicologica profonda:",
+    "de": ""
+  },
+  {
+    "it": "ridurre il senso di vergogna corporea,",
+    "de": ""
+  },
+  {
+    "it": "favorire un’esperienza di parità e appartenenza,",
+    "de": ""
+  },
+  {
+    "it": "creare un’intimità “sicura”,",
+    "de": ""
+  },
+  {
+    "it": "priva di giudizio,",
+    "de": ""
+  },
+  {
+    "it": "che forse in passato è mancata.",
+    "de": ""
+  },
+  {
+    "it": "Il fatto che queste esperienze possano essere anche eccitanti non le rende automaticamente problematiche.",
+    "de": ""
+  },
+  {
+    "it": "L’eccitazione è una componente naturale della sessualità e può convivere con il rispetto,",
+    "de": ""
+  },
+  {
+    "it": "come lei stesso sottolinea.",
+    "de": ""
+  },
+  {
+    "it": "Il punto che merita attenzione non è il contenuto della passione,",
+    "de": ""
+  },
+  {
+    "it": "ma la sua modalità.",
+    "de": ""
+  },
+  {
+    "it": "In psicoterapia ci si chiede spesso non “è giusto o sbagliato?",
+    "de": ""
+  },
+  {
+    "it": "”,",
+    "de": ""
+  },
+  {
+    "it": "bensì:",
+    "de": ""
+  },
+  {
+    "it": "Quanto spazio occupa nella mia mente?",
+    "de": ""
+  },
+  {
+    "it": "Quanto condiziona le mie scelte?",
+    "de": ""
+  },
+  {
+    "it": "È una fonte di benessere o anche di tensione,",
+    "de": ""
+  },
+  {
+    "it": "insoddisfazione,",
+    "de": ""
+  },
+  {
+    "it": "irrequietezza?",
+    "de": ""
+  },
+  {
+    "it": "Riesco a farne a meno,",
+    "de": ""
+  },
+  {
+    "it": "oppure sento che “devo” pensarci,",
+    "de": ""
+  },
+  {
+    "it": "cercarla,",
+    "de": ""
+  },
+  {
+    "it": "inseguirla?",
+    "de": ""
+  },
+  {
+    "it": "Lei descrive una sorta di fissazione progressiva,",
+    "de": ""
+  },
+  {
+    "it": "una ricerca che non si placa,",
+    "de": ""
+  },
+  {
+    "it": "una sensazione di fame più che di piacere.",
+    "de": ""
+  },
+  {
+    "it": "Quando un interesse diventa costantemente intrusivo,",
+    "de": ""
+  },
+  {
+    "it": "quando orienta in modo rigido le decisioni e quando non produce più appagamento ma solo desiderio di “ancora”,",
+    "de": ""
+  },
+  {
+    "it": "allora non parliamo necessariamente di qualcosa di “malsano”,",
+    "de": ""
+  },
+  {
+    "it": "ma di qualcosa che sta cercando di compensare un vuoto.",
+    "de": ""
+  },
+  {
+    "it": "Il voyeurismo che descrive,",
+    "de": ""
+  },
+  {
+    "it": "più che come trasgressione,",
+    "de": ""
+  },
+  {
+    "it": "sembra avere il significato di sentirsi incluso in un’esperienza rara,",
+    "de": ""
+  },
+  {
+    "it": "avere accesso a qualcosa che prima era negato,",
+    "de": ""
+  },
+  {
+    "it": "confermare il proprio valore attraverso lo sguardo.",
+    "de": ""
+  },
+  {
+    "it": "Un saluto,",
+    "de": ""
+  },
+  {
+    "it": "Dott.",
+    "de": ""
+  },
+  {
+    "it": "ssa Tiziana Citti",
+    "de": ""
+  },
+  {
+    "it": "Caro Luc,",
+    "de": ""
+  },
+  {
+    "it": "Da quanto descrivi emerge un rapporto con la nudità che ti dà sollievo,",
+    "de": ""
+  },
+  {
+    "it": "accettazione e piacere,",
+    "de": ""
+  },
+  {
+    "it": "ma che al tempo stesso è diventato molto centrale nella tua vita e condiziona scelte e pensieri.",
+    "de": ""
+  },
+  {
+    "it": "Questo non significa automaticamente che ci sia qualcosa di patologico:",
+    "de": ""
+  },
+  {
+    "it": "molte persone trovano nel nudismo uno spazio di libertà e di accettazione corporea.",
+    "de": ""
+  },
+  {
+    "it": "Ciò che invece merita attenzione è l’impatto che questa passione ha sul tuo benessere quotidiano:",
+    "de": ""
+  },
+  {
+    "it": "quando un interesse occupa gran parte dei pensieri,",
+    "de": ""
+  },
+  {
+    "it": "orienta le vacanze,",
+    "de": ""
+  },
+  {
+    "it": "influenza le relazioni o lascia un senso di insoddisfazione,",
+    "de": ""
+  },
+  {
+    "it": "vale la pena esplorarne le radici e capire se e come ritrovare un equilibrio che ti faccia stare bene senza rinunciare a ciò che ti piace.",
+    "de": ""
+  },
+  {
+    "it": "Se senti che questi pensieri ti sfuggono di mano,",
+    "de": ""
+  },
+  {
+    "it": "che ti causano disagio o che interferiscono con la vita di coppia,",
+    "de": ""
+  },
+  {
+    "it": "il lavoro o la serenità personale,",
+    "de": ""
+  },
+  {
+    "it": "può essere utile parlarne con uno psicologo.",
+    "de": ""
+  },
+  {
+    "it": "Un confronto professionale può essere uno spazio per comprendere cosa ti attrae di queste esperienze,",
+    "de": ""
+  },
+  {
+    "it": "per mettere ordine tra desideri,",
+    "de": ""
+  },
+  {
+    "it": "bisogni e limiti,",
+    "de": ""
+  },
+  {
+    "it": "e per decidere insieme come vivere questa parte di te in modo più soddisfacente e meno vincolante.",
+    "de": ""
+  },
+  {
+    "it": "Se vuoi,",
+    "de": ""
+  },
+  {
+    "it": "puoi contattarmi per un colloquio:",
+    "de": ""
+  },
+  {
+    "it": "possiamo esplorare insieme la storia di questi interessi,",
+    "de": ""
+  },
+  {
+    "it": "il loro significato per te e le possibili strade per ritrovare maggiore controllo e benessere.",
+    "de": ""
+  },
+  {
+    "it": "Ti saluto con rispetto.",
+    "de": ""
+  },
+  {
+    "it": "Dottoressa Arianna BagniniPsicologa Clinica- del LavoroOrganizzazioni- Risorse UmaneRicevo anche online",
+    "de": ""
+  },
+  {
+    "it": "Buongiorno Luca,",
+    "de": ""
+  },
+  {
+    "it": "Quello che racconti non fa pensare a qualcosa di “sbagliato” in sé.",
+    "de": ""
+  },
+  {
+    "it": "Il nudismo,",
+    "de": ""
+  },
+  {
+    "it": "quando vissuto nel rispetto e nel consenso,",
+    "de": ""
+  },
+  {
+    "it": "può essere un’esperienza di libertà e di riconciliazione con il proprio corpo.",
+    "de": ""
+  },
+  {
+    "it": "Nel tuo caso sembra avere avuto anche un significato più profondo:",
+    "de": ""
+  },
+  {
+    "it": "dopo anni di insicurezza e senso di esclusione,",
+    "de": ""
+  },
+  {
+    "it": "è stato uno spazio in cui ti sei sentito accettato,",
+    "de": ""
+  },
+  {
+    "it": "visibile,",
+    "de": ""
+  },
+  {
+    "it": "non giudicato.",
+    "de": ""
+  },
+  {
+    "it": "Questo è un punto importante.",
+    "de": ""
+  },
+  {
+    "it": "A volte alcune esperienze diventano significative non solo per l’aspetto erotico,",
+    "de": ""
+  },
+  {
+    "it": "ma perché toccano corde legate all’identità,",
+    "de": ""
+  },
+  {
+    "it": "all’autostima e al bisogno di appartenenza.",
+    "de": ""
+  },
+  {
+    "it": "La questione che poni,",
+    "de": ""
+  },
+  {
+    "it": "però,",
+    "de": ""
+  },
+  {
+    "it": "riguarda altro:",
+    "de": ""
+  },
+  {
+    "it": "non tanto il contenuto,",
+    "de": ""
+  },
+  {
+    "it": "ma l’intensità e la centralità che questa ricerca sta assumendo.",
+    "de": ""
+  },
+  {
+    "it": "Quando qualcosa comincia a orientare molte scelte,",
+    "de": ""
+  },
+  {
+    "it": "torna nei pensieri con insistenza e lascia una sensazione di “non basta mai”,",
+    "de": ""
+  },
+  {
+    "it": "vale la pena fermarsi a riflettere.",
+    "de": ""
+  },
+  {
+    "it": "Non per giudicarsi,",
+    "de": ""
+  },
+  {
+    "it": "ma per capire.",
+    "de": ""
+  },
+  {
+    "it": "Potrebbe essere utile chiederti:",
+    "de": ""
+  },
+  {
+    "it": "cosa mi dà davvero questa esperienza oggi?",
+    "de": ""
+  },
+  {
+    "it": "È soprattutto eccitazione?",
+    "de": ""
+  },
+  {
+    "it": "È sentirsi riconosciuto?",
+    "de": ""
+  },
+  {
+    "it": "È colmare una parte di me che per anni si è sentita indietro rispetto agli altri?",
+    "de": ""
+  },
+  {
+    "it": "Spesso ciò che rischia di diventare ripetitivo o compulsivo non è l’oggetto in sé,",
+    "de": ""
+  },
+  {
+    "it": "ma la funzione che svolge:",
+    "de": ""
+  },
+  {
+    "it": "regolare emozioni,",
+    "de": ""
+  },
+  {
+    "it": "attenuare tensioni,",
+    "de": ""
+  },
+  {
+    "it": "riempire spazi di insoddisfazione.",
+    "de": ""
+  },
+  {
+    "it": "La differenza non sta nella frequenza con cui ci pensi,",
+    "de": ""
+  },
+  {
+    "it": "ma nella libertà che senti.",
+    "de": ""
+  },
+  {
+    "it": "Se puoi scegliere di viverla o di non viverla senza che questo generi frustrazione intensa o senso di vuoto,",
+    "de": ""
+  },
+  {
+    "it": "allora è una preferenza.",
+    "de": ""
+  },
+  {
+    "it": "Se invece senti che ti “tira” anche quando non vorresti,",
+    "de": ""
+  },
+  {
+    "it": "allora sta assumendo un peso diverso.",
+    "de": ""
+  },
+  {
+    "it": "Il fatto che tu ti stia ponendo la domanda è già un segnale di consapevolezza.",
+    "de": ""
+  },
+  {
+    "it": "Se senti che questa dinamica merita di essere compresa più a fondo,",
+    "de": ""
+  },
+  {
+    "it": "un percorso con un professionista può offrirti uno spazio sicuro per esplorare cosa rappresenta oggi per te questa ricerca,",
+    "de": ""
+  },
+  {
+    "it": "senza giudizio e con maggiore chiarezza.",
+    "de": ""
+  },
+  {
+    "it": "Un caro saluto",
+    "de": ""
+  },
+  {
+    "it": "Ciao Luc,",
+    "de": ""
+  },
+  {
+    "it": "il punto centrale non è il nudismo in sé.",
+    "de": ""
+  },
+  {
+    "it": "Il nudismo,",
+    "de": ""
+  },
+  {
+    "it": "vissuto nel rispetto e nel consenso,",
+    "de": ""
+  },
+  {
+    "it": "è una pratica legittima e per molte persone ha una dimensione di libertà,",
+    "de": ""
+  },
+  {
+    "it": "accettazione corporea e autenticità.",
+    "de": ""
+  },
+  {
+    "it": "Nel tuo racconto emerge chiaramente che per te ha avuto una funzione importante:",
+    "de": ""
+  },
+  {
+    "it": "ti ha fatto sentire non giudicato,",
+    "de": ""
+  },
+  {
+    "it": "accolto,",
+    "de": ""
+  },
+  {
+    "it": "esposto ma al tempo stesso sicuro.",
+    "de": ""
+  },
+  {
+    "it": "Considerando la tua storia di insicurezza corporea e di solitudine relazionale,",
+    "de": ""
+  },
+  {
+    "it": "è comprensibile che quella dimensione abbia avuto un valore riparativo.",
+    "de": ""
+  },
+  {
+    "it": "Il tema non è “è normale o no?",
+    "de": ""
+  },
+  {
+    "it": "”,",
+    "de": ""
+  },
+  {
+    "it": "ma:",
+    "de": ""
+  },
+  {
+    "it": "che ruolo sta occupando nella tua vita oggi?",
+    "de": ""
+  },
+  {
+    "it": "Ci sono alcuni indicatori utili per capire se qualcosa sta diventando eccessivo:",
+    "de": ""
+  },
+  {
+    "it": "– condiziona sistematicamente le scelte (vacanze,",
+    "de": ""
+  },
+  {
+    "it": "spostamenti,",
+    "de": ""
+  },
+  {
+    "it": "tempo libero)– occupa il pensiero in modo ricorrente e intrusivo– genera insoddisfazione crescente anziché appagamento– diventa l’unica o principale fonte di eccitazione– aumenta nel tempo la ricerca di stimoli similiNel tuo caso scrivi che è “quasi una fissa” e che ti senti sempre insoddisfatto,",
+    "de": ""
+  },
+  {
+    "it": "mai sazio.",
+    "de": ""
+  },
+  {
+    "it": "Questo è il passaggio interessante.",
+    "de": ""
+  },
+  {
+    "it": "Non stai descrivendo un piacere stabile,",
+    "de": ""
+  },
+  {
+    "it": "ma una ricerca continua.",
+    "de": ""
+  },
+  {
+    "it": "Ed è lì che vale la pena interrogarsi.",
+    "de": ""
+  },
+  {
+    "it": "Il nudismo per te sembra intrecciarsi con più dimensioni:",
+    "de": ""
+  },
+  {
+    "it": "– accettazione corporea– senso di appartenenza– condivisione intima ma non sessuale– voyeurismo– bisogno di sentirti “dentro qualcosa di speciale”La componente voyeuristica non è patologica di per sé,",
+    "de": ""
+  },
+  {
+    "it": "finché resta nella fantasia o in contesti consensuali.",
+    "de": ""
+  },
+  {
+    "it": "Diventa problematica quando la mente entra in modalità ricerca compulsiva,",
+    "de": ""
+  },
+  {
+    "it": "cioè quando il pensiero torna continuamente lì anche senza reale bisogno.",
+    "de": ""
+  },
+  {
+    "it": "Spesso quando qualcosa diventa una “fissa” non è tanto per il contenuto,",
+    "de": ""
+  },
+  {
+    "it": "ma per la funzione regolativa:",
+    "de": ""
+  },
+  {
+    "it": "serve a colmare vuoti,",
+    "de": ""
+  },
+  {
+    "it": "tensioni,",
+    "de": ""
+  },
+  {
+    "it": "insoddisfazioni,",
+    "de": ""
+  },
+  {
+    "it": "stress o bisogno di conferma.",
+    "de": ""
+  },
+  {
+    "it": "È una forma di autoregolazione.",
+    "de": ""
+  },
+  {
+    "it": "La domanda più utile non è:",
+    "de": ""
+  },
+  {
+    "it": "“è normale pensarci ogni giorno?",
+    "de": ""
+  },
+  {
+    "it": "” ma:",
+    "de": ""
+  },
+  {
+    "it": "“Cosa sto cercando davvero quando penso a questo?",
+    "de": ""
+  },
+  {
+    "it": "”“È desiderio erotico?",
+    "de": ""
+  },
+  {
+    "it": "È bisogno di validazione?",
+    "de": ""
+  },
+  {
+    "it": "È bisogno di sentirsi desiderato?",
+    "de": ""
+  },
+  {
+    "it": "È fuga dalla noia?",
+    "de": ""
+  },
+  {
+    "it": "È compensazione?",
+    "de": ""
+  },
+  {
+    "it": "”Un altro aspetto importante è che tu parli di insoddisfazione.",
+    "de": ""
+  },
+  {
+    "it": "La compulsività non si misura dalla frequenza,",
+    "de": ""
+  },
+  {
+    "it": "ma dalla perdita di libertà.",
+    "de": ""
+  },
+  {
+    "it": "Se tu potessi scegliere di non pensarci e non viverlo per un periodo senza provare irritazione o frustrazione eccessiva,",
+    "de": ""
+  },
+  {
+    "it": "allora è una passione.",
+    "de": ""
+  },
+  {
+    "it": "Se invece senti tensione,",
+    "de": ""
+  },
+  {
+    "it": "urgenza o vuoto quando non puoi accedere a quell’esperienza,",
+    "de": ""
+  },
+  {
+    "it": "allora sta assumendo una funzione più regolativa che ricreativa.",
+    "de": ""
+  },
+  {
+    "it": "Non stai descrivendo qualcosa di “malsano” in senso morale.",
+    "de": ""
+  },
+  {
+    "it": "Stai descrivendo una possibile dinamica di rinforzo psicologico.",
+    "de": ""
+  },
+  {
+    "it": "Il fatto che tu te lo stia chiedendo a 40 anni,",
+    "de": ""
+  },
+  {
+    "it": "con una famiglia costruita,",
+    "de": ""
+  },
+  {
+    "it": "indica consapevolezza.",
+    "de": ""
+  },
+  {
+    "it": "E la consapevolezza è il contrario della compulsione cieca.",
+    "de": ""
+  },
+  {
+    "it": "Se senti che sta diventando un pensiero dominante o che aumenta il bisogno di stimoli sempre nuovi,",
+    "de": ""
+  },
+  {
+    "it": "potrebbe essere utile parlarne in uno spazio terapeutico non giudicante.",
+    "de": ""
+  },
+  {
+    "it": "Non per eliminare il nudismo,",
+    "de": ""
+  },
+  {
+    "it": "ma per capire che funzione emotiva sta svolgendo oggi.",
+    "de": ""
+  },
+  {
+    "it": "La differenza tra passione e fissazione non è il contenuto,",
+    "de": ""
+  },
+  {
+    "it": "è la libertà interiore con cui la vivi.",
+    "de": ""
+  },
+  {
+    "it": "Un caro saluto,",
+    "de": ""
+  },
+  {
+    "it": "Dott.",
+    "de": ""
+  },
+  {
+    "it": "ssa Valeria Di StasiPsicologa clinicaRicevo anche online",
     "de": ""
   }
 ]
