@@ -1,5 +1,3001 @@
 [
   {
+    "it": "Me lo ha detto lui stesso, senza esitare.",
+    "de": "Er hat es mir selbst gesagt, ohne zu zögern."
+  },
+  {
+    "it": "Te lo ripeto: non è colpa tua.",
+    "de": "Ich sage es dir noch einmal: es ist nicht deine Schuld."
+  },
+  {
+    "it": "Glielo avevo già comunicato per iscritto.",
+    "de": "Ich hatte es ihm bereits schriftlich mitgeteilt."
+  },
+  {
+    "it": "Ce ne siamo accorti troppo tardi, purtroppo.",
+    "de": "Wir haben es leider zu spät gemerkt."
+  },
+  {
+    "it": "Ve lo confermo: la riunione è annullata.",
+    "de": "Ich bestätige es euch: das Meeting ist abgesagt."
+  },
+  {
+    "it": "Se ne è andato senza salutare nessuno.",
+    "de": "Er ist gegangen, ohne sich von jemandem zu verabschieden."
+  },
+  {
+    "it": "Mi si è presentata un'occasione irripetibile.",
+    "de": "Mir bot sich eine einmalige Gelegenheit."
+  },
+  {
+    "it": "Ti sei mai chiesto perché lo fa?",
+    "de": "Hast du dich jemals gefragt, warum er das tut?"
+  },
+  {
+    "it": "Si è comportato come se nulla fosse.",
+    "de": "Er hat sich verhalten, als wäre nichts gewesen."
+  },
+  {
+    "it": "Ci siamo detti tutto quello che pensavamo.",
+    "de": "Wir haben uns alles gesagt, was wir dachten."
+  },
+  {
+    "it": "Vi rendete conto di quello che avete fatto?",
+    "de": "Macht ihr euch klar, was ihr getan habt?"
+  },
+  {
+    "it": "Lo so che è difficile, ma ci provo.",
+    "de": "Ich weiß, dass es schwer ist, aber ich versuche es."
+  },
+  {
+    "it": "La conosco da anni: è una persona fidata.",
+    "de": "Ich kenne sie seit Jahren: sie ist eine vertrauenswürdige Person."
+  },
+  {
+    "it": "Li ho incontrati per caso al mercato.",
+    "de": "Ich bin ihnen zufällig auf dem Markt begegnet."
+  },
+  {
+    "it": "Le ho scritto una lettera di ringraziamento.",
+    "de": "Ich habe ihr einen Dankesbrief geschrieben."
+  },
+  {
+    "it": "Ne ho sentito parlare molto, ma non la conosco.",
+    "de": "Ich habe viel davon gehört, aber ich kenne sie nicht."
+  },
+  {
+    "it": "Ci vuole pazienza per capirlo davvero.",
+    "de": "Es braucht Geduld, um es wirklich zu verstehen."
+  },
+  {
+    "it": "Si fa presto a dire, ma è più difficile farlo.",
+    "de": "Es ist leicht gesagt, aber schwerer getan."
+  },
+  {
+    "it": "Me ne sono andato prima che finisse.",
+    "de": "Ich bin gegangen, bevor es endete."
+  },
+  {
+    "it": "Te ne pentirai, prima o poi.",
+    "de": "Du wirst es bereuen, früher oder später."
+  },
+  {
+    "it": "Gliene ho parlato, ma non vuole sentire.",
+    "de": "Ich habe es mit ihm besprochen, aber er will nicht hören."
+  },
+  {
+    "it": "Ce ne vogliono almeno tre per completare il lavoro.",
+    "de": "Es braucht mindestens drei davon, um die Arbeit abzuschließen."
+  },
+  {
+    "it": "Ve ne darò notizia appena possibile.",
+    "de": "Ich werde euch so bald wie möglich Bescheid geben."
+  },
+  {
+    "it": "Non me ne capacito: come è potuto succedere?",
+    "de": "Ich kann es nicht fassen: wie konnte das passieren?"
+  },
+  {
+    "it": "Ti ci vuole coraggio per affrontare una simile situazione.",
+    "de": "Es braucht Mut, um eine solche Situation zu bewältigen."
+  },
+  {
+    "it": "Ci tengo molto a che tu sappia la verità.",
+    "de": "Mir liegt sehr daran, dass du die Wahrheit weißt."
+  },
+  {
+    "it": "Lo trovo straordinariamente ben scritto, devo ammettere.",
+    "de": "Ich finde es außergewöhnlich gut geschrieben, muss ich zugeben."
+  },
+  {
+    "it": "La questione mi preoccupa più di quanto sembri.",
+    "de": "Die Sache beunruhigt mich mehr als es scheint."
+  },
+  {
+    "it": "Li considero i migliori nel loro settore.",
+    "de": "Ich halte sie für die Besten in ihrem Bereich."
+  },
+  {
+    "it": "Le piaceva viaggiare, specialmente in luoghi sconosciuti.",
+    "de": "Sie reiste gerne, besonders an unbekannte Orte."
+  },
+  {
+    "it": "Ne parleremo con calma quando sarà il momento.",
+    "de": "Wir werden darüber in Ruhe reden, wenn die Zeit kommt."
+  },
+  {
+    "it": "Ci sono aspetti che non mi convincono affatto.",
+    "de": "Es gibt Aspekte, die mich überhaupt nicht überzeugen."
+  },
+  {
+    "it": "Si tratta di una questione di principio, non di soldi.",
+    "de": "Es geht um eine Prinzipienfrage, nicht um Geld."
+  },
+  {
+    "it": "Me lo aspettavo, ma speravo di sbagliarmi.",
+    "de": "Ich hatte es erwartet, aber ich hoffte, mich zu irren."
+  },
+  {
+    "it": "Te lo meriti, dopo tutto quello che hai passato.",
+    "de": "Du verdienst es, nach allem, was du durchgemacht hast."
+  },
+  {
+    "it": "Glielo dirò io stesso, per evitare malintesi.",
+    "de": "Ich werde es ihm selbst sagen, um Missverständnisse zu vermeiden."
+  },
+  {
+    "it": "Ce lo ricordiamo ancora come se fosse ieri.",
+    "de": "Wir erinnern uns noch daran, als wäre es gestern gewesen."
+  },
+  {
+    "it": "Ve lo giuro: non sapevo nulla di questo.",
+    "de": "Ich schwöre euch: ich wusste nichts davon."
+  },
+  {
+    "it": "Non me ne frega nulla di quello che dicono.",
+    "de": "Es ist mir völlig egal, was sie sagen."
+  },
+  {
+    "it": "Ti sei messa in una situazione complicata.",
+    "de": "Du hast dich in eine komplizierte Situation gebracht."
+  },
+  {
+    "it": "Si dice che le cose cambieranno presto.",
+    "de": "Es heißt, dass sich die Dinge bald ändern werden."
+  },
+  {
+    "it": "Ci aspettavamo di meglio da parte sua.",
+    "de": "Wir hatten Besseres von ihm erwartet."
+  },
+  {
+    "it": "Vi auguro ogni bene per il futuro.",
+    "de": "Ich wünsche euch alles Gute für die Zukunft."
+  },
+  {
+    "it": "Lo ritengo un errore imperdonabile nelle circostanze date.",
+    "de": "Ich halte es unter den gegebenen Umständen für einen unverzeihlichen Fehler."
+  },
+  {
+    "it": "La ringrazio per la sua disponibilità e cortesia.",
+    "de": "Ich danke Ihnen für Ihre Hilfsbereitschaft und Freundlichkeit."
+  },
+  {
+    "it": "Li ho visti discutere animatamente davanti all'ingresso.",
+    "de": "Ich habe sie lebhaft streitend vor dem Eingang gesehen."
+  },
+  {
+    "it": "Le ho chiesto spiegazioni, ma non ha risposto.",
+    "de": "Ich habe sie um Erklärungen gebeten, aber sie hat nicht geantwortet."
+  },
+  {
+    "it": "Ne sono convinto: ci riusciremo insieme.",
+    "de": "Ich bin überzeugt davon: wir werden es gemeinsam schaffen."
+  },
+  {
+    "it": "Ci penso spesso, soprattutto di notte.",
+    "de": "Ich denke oft daran, besonders nachts."
+  },
+  {
+    "it": "Si fa largo tra la folla con disinvoltura.",
+    "de": "Er bahnt sich seinen Weg durch die Menge mit Leichtigkeit."
+  },
+  {
+    "it": "Me ne occupo io, non ti preoccupare.",
+    "de": "Ich kümmere mich darum, mach dir keine Sorgen."
+  },
+  {
+    "it": "Te ne accorgeresti subito se qualcosa non andasse.",
+    "de": "Du würdest sofort merken, wenn etwas nicht stimmt."
+  },
+  {
+    "it": "Gliene sono grato con tutto il cuore.",
+    "de": "Ich bin ihm dafür von ganzem Herzen dankbar."
+  },
+  {
+    "it": "Ce ne sono abbastanza per tutti, tranquilli.",
+    "de": "Es gibt genug für alle, keine Sorge."
+  },
+  {
+    "it": "Ve ne renderete conto con il tempo.",
+    "de": "Mit der Zeit werdet ihr es euch bewusst werden."
+  },
+  {
+    "it": "Chiunque abbia visto qualcosa è pregato di farsi avanti.",
+    "de": "Wer immer etwas gesehen hat, wird gebeten, sich zu melden."
+  },
+  {
+    "it": "Chi non risica non rosica, si dice.",
+    "de": "Wer nicht wagt, der nicht gewinnt, sagt man."
+  },
+  {
+    "it": "Quello che mi preoccupa è il silenzio.",
+    "de": "Was mich beunruhigt, ist die Stille."
+  },
+  {
+    "it": "Ciò che è stato fatto non si può disfare.",
+    "de": "Was getan wurde, kann nicht rückgängig gemacht werden."
+  },
+  {
+    "it": "Ognuno è responsabile delle proprie azioni.",
+    "de": "Jeder ist für seine eigenen Handlungen verantwortlich."
+  },
+  {
+    "it": "Nessuno di loro ha voluto assumersi la responsabilità.",
+    "de": "Keiner von ihnen wollte die Verantwortung übernehmen."
+  },
+  {
+    "it": "Qualcosa mi dice che non andrà bene.",
+    "de": "Irgendetwas sagt mir, dass es nicht gut gehen wird."
+  },
+  {
+    "it": "Ciascuno faccia la propria parte senza lamentarsi.",
+    "de": "Jeder soll seinen Teil tun, ohne zu klagen."
+  },
+  {
+    "it": "Il quale ha poi dichiarato di non saperne nulla.",
+    "de": "Welcher dann erklärte, nichts davon zu wissen."
+  },
+  {
+    "it": "La persona di cui ti ho parlato è qui.",
+    "de": "Die Person, von der ich dir erzählt habe, ist hier."
+  },
+  {
+    "it": "Il motivo per cui l'ha fatto rimane oscuro.",
+    "de": "Der Grund, warum er es getan hat, bleibt unklar."
+  },
+  {
+    "it": "Colui che ha torto raramente lo ammette.",
+    "de": "Derjenige, der Unrecht hat, gibt es selten zu."
+  },
+  {
+    "it": "Colei che parla è la direttrice generale.",
+    "de": "Diejenige, die spricht, ist die Generaldirektorin."
+  },
+  {
+    "it": "Mi pento di averlo detto in quel modo.",
+    "de": "Ich bereue es, es auf diese Weise gesagt zu haben."
+  },
+  {
+    "it": "Ti imploro di non prendere decisioni affrettate.",
+    "de": "Ich flehe dich an, keine übereilten Entscheidungen zu treffen."
+  },
+  {
+    "it": "Si è scoperto che l'alibi non reggeva.",
+    "de": "Es stellte sich heraus, dass das Alibi nicht standhielt."
+  },
+  {
+    "it": "Ci siamo resi conto dell'errore troppo tardi.",
+    "de": "Wir haben den Fehler zu spät erkannt."
+  },
+  {
+    "it": "Vi chiedo scusa per il disagio causato.",
+    "de": "Ich bitte euch um Entschuldigung für die verursachten Unannehmlichkeiten."
+  },
+  {
+    "it": "Lo ammiro per la sua capacità di resistere.",
+    "de": "Ich bewundere ihn für seine Widerstandsfähigkeit."
+  },
+  {
+    "it": "La questione riguarda tutti noi, nessuno escluso.",
+    "de": "Die Angelegenheit betrifft uns alle, niemanden ausgenommen."
+  },
+  {
+    "it": "Li ho sorpresi nel bel mezzo di una discussione.",
+    "de": "Ich habe sie mitten in einer Diskussion überrascht."
+  },
+  {
+    "it": "Le dispiace immensamente per quello che è successo.",
+    "de": "Es tut ihr unendlich leid für das, was passiert ist."
+  },
+  {
+    "it": "Ne deriva che le nostre previsioni erano sbagliate.",
+    "de": "Daraus ergibt sich, dass unsere Prognosen falsch waren."
+  },
+  {
+    "it": "Ci tengo a precisare che non ero presente.",
+    "de": "Ich lege Wert darauf zu betonen, dass ich nicht anwesend war."
+  },
+  {
+    "it": "Si presume che fosse a conoscenza dei fatti.",
+    "de": "Es wird vermutet, dass er die Fakten kannte."
+  },
+  {
+    "it": "Me ne vado, non c'è altro da dire.",
+    "de": "Ich gehe, es gibt nichts mehr zu sagen."
+  },
+  {
+    "it": "Te ne sei fatto un'idea sbagliata, temo.",
+    "de": "Du hast dir eine falsche Vorstellung davon gemacht, fürchte ich."
+  },
+  {
+    "it": "Gliene devo rendere conto a prescindere.",
+    "de": "Ich muss ihm sowieso Rechenschaft ablegen."
+  },
+  {
+    "it": "Ce ne rendiamo conto solo a posteriori.",
+    "de": "Wir werden uns dessen nur im Nachhinein bewusst."
+  },
+  {
+    "it": "Ve ne parlerò in modo dettagliato domani mattina.",
+    "de": "Ich werde euch morgen früh ausführlich darüber sprechen."
+  },
+  {
+    "it": "Non me ne capacito: è contrario ad ogni logica.",
+    "de": "Ich kann es nicht begreifen: es widerspricht jeder Logik."
+  },
+  {
+    "it": "Ti ci vorrà del tempo per abituarti.",
+    "de": "Du wirst Zeit brauchen, um dich daran zu gewöhnen."
+  },
+  {
+    "it": "Ci sono voluti anni per raggiungere questo risultato.",
+    "de": "Es hat Jahre gedauert, dieses Ergebnis zu erreichen."
+  },
+  {
+    "it": "Lo considero un privilegio, non un diritto acquisito.",
+    "de": "Ich betrachte es als Privileg, nicht als erworbenes Recht."
+  },
+  {
+    "it": "La situazione mi sembra più grave di quanto dici.",
+    "de": "Die Situation erscheint mir ernster, als du sagst."
+  },
+  {
+    "it": "Li ho invitati, ma non so se verranno.",
+    "de": "Ich habe sie eingeladen, weiß aber nicht, ob sie kommen."
+  },
+  {
+    "it": "Le ho trasmesso tutte le informazioni necessarie.",
+    "de": "Ich habe ihr alle notwendigen Informationen übermittelt."
+  },
+  {
+    "it": "Ne discuteremo in sede opportuna, non ora.",
+    "de": "Wir werden es zum gegebenen Zeitpunkt besprechen, nicht jetzt."
+  },
+  {
+    "it": "Ci mancherebbe che tu non venissi alla festa!",
+    "de": "Es würde fehlen, wenn du nicht zur Feier kämst!"
+  },
+  {
+    "it": "Si evince chiaramente dalla relazione allegata.",
+    "de": "Es geht klar aus dem beigefügten Bericht hervor."
+  },
+  {
+    "it": "Me ne assumo la piena responsabilità.",
+    "de": "Ich übernehme die volle Verantwortung dafür."
+  },
+  {
+    "it": "Te ne sarei infinitamente grato se potessi aiutarmi.",
+    "de": "Ich wäre dir unendlich dankbar, wenn du mir helfen könntest."
+  },
+  {
+    "it": "Glielo avevo sconsigliato, ma non ha voluto ascoltare.",
+    "de": "Ich hatte es ihm abgeraten, aber er wollte nicht hören."
+  },
+  {
+    "it": "Ce ne ricorderemo a lungo, di questo puoi star certo.",
+    "de": "Wir werden uns noch lange daran erinnern, dessen kannst du sicher sein."
+  },
+  {
+    "it": "Ve lo dico francamente: la situazione è preoccupante.",
+    "de": "Ich sage es euch offen: die Lage ist besorgniserregend."
+  },
+  {
+    "it": "Tra lui e me non corre buon sangue.",
+    "de": "Zwischen ihm und mir herrscht keine gute Stimmung."
+  },
+  {
+    "it": "Con te non si può ragionare quando sei così.",
+    "de": "Mit dir kann man nicht reden, wenn du so bist."
+  },
+  {
+    "it": "Per me è una questione di dignità personale.",
+    "de": "Für mich ist es eine Frage der persönlichen Würde."
+  },
+  {
+    "it": "Senza di lui il progetto non sarebbe mai decollato.",
+    "de": "Ohne ihn wäre das Projekt nie abgehoben."
+  },
+  {
+    "it": "Dopo di lei non è rimasto nessuno disposto ad aiutarci.",
+    "de": "Nach ihr war niemand mehr bereit, uns zu helfen."
+  },
+  {
+    "it": "Nonostante lui, siamo riusciti a portare a termine il lavoro.",
+    "de": "Trotz ihm haben wir es geschafft, die Arbeit abzuschließen."
+  },
+  {
+    "it": "Secondo me, avresti dovuto parlarne prima.",
+    "de": "Meiner Meinung nach hättest du vorher darüber sprechen sollen."
+  },
+  {
+    "it": "Anche loro hanno diritto a essere ascoltati.",
+    "de": "Auch sie haben das Recht, gehört zu werden."
+  },
+  {
+    "it": "Proprio lei ha avuto il coraggio di dirlo.",
+    "de": "Genau sie hatte den Mut, es zu sagen."
+  },
+  {
+    "it": "Tocca a noi prendere una decisione definitiva.",
+    "de": "Es liegt an uns, eine endgültige Entscheidung zu treffen."
+  },
+  {
+    "it": "Non è da voi comportarvi in questo modo.",
+    "de": "Es ist nicht eure Art, sich so zu verhalten."
+  },
+  {
+    "it": "A loro non importa nulla delle conseguenze.",
+    "de": "Die Folgen sind ihnen völlig egal."
+  },
+  {
+    "it": "Mi chiedo se ci fosse un modo migliore.",
+    "de": "Ich frage mich, ob es einen besseren Weg gab."
+  },
+  {
+    "it": "Ti supplico di riconsiderare la tua posizione.",
+    "de": "Ich bitte dich inständig, deine Position zu überdenken."
+  },
+  {
+    "it": "Gli ho spiegato la situazione con la massima chiarezza.",
+    "de": "Ich habe ihm die Situation mit größtmöglicher Klarheit erklärt."
+  },
+  {
+    "it": "Le ho affidato un compito di grande responsabilità.",
+    "de": "Ich habe ihr eine Aufgabe von großer Verantwortung übertragen."
+  },
+  {
+    "it": "Ci siamo confrontati a lungo senza trovare accordo.",
+    "de": "Wir haben lange diskutiert, ohne eine Einigung zu finden."
+  },
+  {
+    "it": "Vi comunico ufficialmente la mia decisione di dimettermi.",
+    "de": "Ich teile euch offiziell meine Entscheidung mit, zurückzutreten."
+  },
+  {
+    "it": "Lo sapevo da tempo, ma non osavo dirlo.",
+    "de": "Ich wusste es seit Langem, aber wagte es nicht zu sagen."
+  },
+  {
+    "it": "La vicenda mi ha lasciato un senso di amarezza.",
+    "de": "Der Vorfall hat mir ein Gefühl der Bitterkeit hinterlassen."
+  },
+  {
+    "it": "Li ho difesi strenuamente, forse più del necessario.",
+    "de": "Ich habe sie hart verteidigt, vielleicht mehr als nötig."
+  },
+  {
+    "it": "Le ho promesso che sarei rimasto al suo fianco.",
+    "de": "Ich habe ihr versprochen, an ihrer Seite zu bleiben."
+  },
+  {
+    "it": "Ne traggo la conclusione che il piano è fallito.",
+    "de": "Ich ziehe daraus den Schluss, dass der Plan gescheitert ist."
+  },
+  {
+    "it": "Ci aspetta un compito arduo, non dobbiamo illuderci.",
+    "de": "Eine schwierige Aufgabe erwartet uns, wir sollten uns keine Illusionen machen."
+  },
+  {
+    "it": "Si sostiene, senza prove, che fosse coinvolto.",
+    "de": "Es wird ohne Beweise behauptet, dass er verwickelt war."
+  },
+  {
+    "it": "Me ne sto in disparte, non voglio interferire.",
+    "de": "Ich halte mich im Hintergrund, ich will nicht einmischen."
+  },
+  {
+    "it": "Te ne chiedo conto: perché non mi hai avvisato?",
+    "de": "Ich verlange eine Erklärung von dir: warum hast du mich nicht gewarnt?"
+  },
+  {
+    "it": "Gliene ho date abbastanza di opportunità per rimediare.",
+    "de": "Ich habe ihm genug Gelegenheiten gegeben, es wiedergutzumachen."
+  },
+  {
+    "it": "Ce ne faremo una ragione, anche se fa male.",
+    "de": "Wir werden damit klarkommen, auch wenn es wehtut."
+  },
+  {
+    "it": "Ve ne accorgerete presto di aver sbagliato strada.",
+    "de": "Ihr werdet bald merken, dass ihr den falschen Weg eingeschlagen habt."
+  },
+  {
+    "it": "Chiunque si trovi in questa situazione capisce il disagio.",
+    "de": "Wer immer sich in dieser Situation befindet, versteht das Unbehagen."
+  },
+  {
+    "it": "Chi tace acconsente, almeno in apparenza.",
+    "de": "Wer schweigt, stimmt zu, zumindest dem Anschein nach."
+  },
+  {
+    "it": "Quello a cui tengo di più è la sincerità.",
+    "de": "Das, was mir am meisten am Herzen liegt, ist die Aufrichtigkeit."
+  },
+  {
+    "it": "Ciò nonostante, continuo a credere nella sua buona fede.",
+    "de": "Trotzdem glaube ich weiterhin an seinen guten Willen."
+  },
+  {
+    "it": "Ognuno ha le proprie debolezze, inutile nasconderlo.",
+    "de": "Jeder hat seine eigenen Schwächen, es hat keinen Sinn, das zu verstecken."
+  },
+  {
+    "it": "Nessuno ti obbliga a restare se non vuoi.",
+    "de": "Niemand zwingt dich zu bleiben, wenn du nicht willst."
+  },
+  {
+    "it": "Qualcosa non torna in questa storia.",
+    "de": "Irgendetwas stimmt in dieser Geschichte nicht."
+  },
+  {
+    "it": "Ciascuno di noi porta una parte del peso.",
+    "de": "Jeder von uns trägt einen Teil der Last."
+  },
+  {
+    "it": "La persona con cui parli è mia sorella.",
+    "de": "Die Person, mit der du sprichst, ist meine Schwester."
+  },
+  {
+    "it": "Il progetto al quale lavoriamo richiede mesi di impegno.",
+    "de": "Das Projekt, an dem wir arbeiten, erfordert monatelangen Einsatz."
+  },
+  {
+    "it": "L'idea da cui siamo partiti si è rivelata giusta.",
+    "de": "Die Idee, von der wir ausgegangen sind, hat sich als richtig erwiesen."
+  },
+  {
+    "it": "Coloro che hanno partecipato sanno di cosa parlo.",
+    "de": "Diejenigen, die teilgenommen haben, wissen, wovon ich spreche."
+  },
+  {
+    "it": "Mi sono pentito di non averlo fatto prima.",
+    "de": "Ich habe es bereut, es nicht vorher getan zu haben."
+  },
+  {
+    "it": "Ti rendi conto di quanto sei stato fortunato?",
+    "de": "Erkennst du, wie viel Glück du gehabt hast?"
+  },
+  {
+    "it": "Si è rivelato all'altezza della situazione.",
+    "de": "Er hat sich der Situation gewachsen gezeigt."
+  },
+  {
+    "it": "Ci siamo stretti la mano e abbiamo chiuso.",
+    "de": "Wir haben uns die Hand geschüttelt und abgeschlossen."
+  },
+  {
+    "it": "Vi ho tenuto informati come promesso.",
+    "de": "Ich habe euch wie versprochen auf dem Laufenden gehalten."
+  },
+  {
+    "it": "Lo interpreto come un segnale incoraggiante.",
+    "de": "Ich interpretiere es als ermutigendes Signal."
+  },
+  {
+    "it": "La definirei una svolta storica per il paese.",
+    "de": "Ich würde es als historische Wende für das Land bezeichnen."
+  },
+  {
+    "it": "Li abbiamo incaricati di gestire l'intera operazione.",
+    "de": "Wir haben sie beauftragt, die gesamte Operation zu leiten."
+  },
+  {
+    "it": "Le spetta di diritto una parte dell'eredità.",
+    "de": "Ihr steht von Rechts wegen ein Teil der Erbschaft zu."
+  },
+  {
+    "it": "Ne consegue un obbligo morale di intervenire.",
+    "de": "Daraus ergibt sich eine moralische Pflicht einzugreifen."
+  },
+  {
+    "it": "Ci vuole ben altro per scoraggiarmi.",
+    "de": "Es braucht viel mehr, um mich zu entmutigen."
+  },
+  {
+    "it": "Si dà per scontato troppo spesso il loro contributo.",
+    "de": "Ihr Beitrag wird allzu oft als selbstverständlich angesehen."
+  },
+  {
+    "it": "Me ne importa eccome, anche se faccio finta di niente.",
+    "de": "Es liegt mir sehr daran, auch wenn ich so tue, als wäre mir alles egal."
+  },
+  {
+    "it": "Te ne sei assunta la responsabilità di tua iniziativa.",
+    "de": "Du hast die Verantwortung auf eigene Initiative übernommen."
+  },
+  {
+    "it": "Gliene ho rese abbastanza di spiegazioni.",
+    "de": "Ich habe ihm genug Erklärungen geliefert."
+  },
+  {
+    "it": "Ce ne vorranno di anni per ricostruire la fiducia.",
+    "de": "Es werden Jahre brauchen, um das Vertrauen wiederherzustellen."
+  },
+  {
+    "it": "Ve ne siete dimenticati nel momento più importante.",
+    "de": "Ihr habt es im wichtigsten Moment vergessen."
+  },
+  {
+    "it": "Con noi non funzionano i mezzi termini.",
+    "de": "Mit uns funktionieren keine halben Maßnahmen."
+  },
+  {
+    "it": "Per te ho fatto eccezioni che non avrei dovuto.",
+    "de": "Für dich habe ich Ausnahmen gemacht, die ich nicht hätte machen sollen."
+  },
+  {
+    "it": "Tra noi è sempre stato un rapporto leale.",
+    "de": "Zwischen uns war es immer eine loyale Beziehung."
+  },
+  {
+    "it": "Senza di noi il progetto non avrebbe senso.",
+    "de": "Ohne uns hätte das Projekt keinen Sinn."
+  },
+  {
+    "it": "Prima di te nessuno aveva osato tanto.",
+    "de": "Vor dir hatte niemand so viel gewagt."
+  },
+  {
+    "it": "A causa sua abbiamo perso un'opportunità irripetibile.",
+    "de": "Seinetwegen haben wir eine einmalige Gelegenheit verpasst."
+  },
+  {
+    "it": "Grazie a voi abbiamo superato il momento peggiore.",
+    "de": "Dank euch haben wir den schlimmsten Moment überstanden."
+  },
+  {
+    "it": "In merito a ciò che hai detto, mi riservo di rispondere.",
+    "de": "Bezüglich dessen, was du gesagt hast, behalte ich mir eine Antwort vor."
+  },
+  {
+    "it": "Mi si accusa ingiustamente di qualcosa che non ho fatto.",
+    "de": "Man beschuldigt mich zu Unrecht für etwas, das ich nicht getan habe."
+  },
+  {
+    "it": "Ti si vede in faccia che stai mentendo.",
+    "de": "Man sieht dir im Gesicht an, dass du lügst."
+  },
+  {
+    "it": "Gli si deve riconoscere almeno il merito della coerenza.",
+    "de": "Man muss ihm zumindest das Verdienst der Konsequenz zugestehen."
+  },
+  {
+    "it": "Le si può rimproverare solo una certa ingenuità.",
+    "de": "Man kann ihr nur eine gewisse Naivität vorwerfen."
+  },
+  {
+    "it": "Ci si aspetta di più da chi ha più responsabilità.",
+    "de": "Von dem, der mehr Verantwortung trägt, wird mehr erwartet."
+  },
+  {
+    "it": "Vi si chiede il massimo impegno in questa fase.",
+    "de": "Von euch wird in dieser Phase maximales Engagement verlangt."
+  },
+  {
+    "it": "Lo si capisce subito che ha esperienza.",
+    "de": "Man merkt sofort, dass er Erfahrung hat."
+  },
+  {
+    "it": "La si ricorda come una delle più grandi oratrici.",
+    "de": "Sie wird als eine der größten Rednerinnen in Erinnerung bleiben."
+  },
+  {
+    "it": "Li si convoca con un preavviso di almeno tre giorni.",
+    "de": "Sie werden mit mindestens drei Tagen Vorankündigung einberufen."
+  },
+  {
+    "it": "Le si attribuiscono poteri quasi soprannaturali.",
+    "de": "Man schreibt ihr fast übernatürliche Kräfte zu."
+  },
+  {
+    "it": "Ne sono rimasto stupito, confesso.",
+    "de": "Ich war davon überrascht, muss ich gestehen."
+  },
+  {
+    "it": "Ci sto riflettendo da ore senza trovare soluzione.",
+    "de": "Ich denke seit Stunden darüber nach, ohne eine Lösung zu finden."
+  },
+  {
+    "it": "Si fa un gran parlare di riforme senza attuarle.",
+    "de": "Es wird viel über Reformen geredet, ohne sie umzusetzen."
+  },
+  {
+    "it": "Me lo sono chiesto mille volte, senza risposta.",
+    "de": "Ich habe es mir tausend Mal gefragt, ohne Antwort."
+  },
+  {
+    "it": "Te lo chiedo per l'ultima volta: dimmi la verità.",
+    "de": "Ich frage dich ein letztes Mal: sag mir die Wahrheit."
+  },
+  {
+    "it": "Glielo avrei detto prima se avessi saputo.",
+    "de": "Ich hätte es ihm früher gesagt, wenn ich es gewusst hätte."
+  },
+  {
+    "it": "Ce lo siamo guadagnato con anni di sacrifici.",
+    "de": "Wir haben es uns mit Jahren von Opfern verdient."
+  },
+  {
+    "it": "Ve lo meritate, avete lavorato sodo.",
+    "de": "Ihr verdient es, ihr habt hart gearbeitet."
+  },
+  {
+    "it": "Non me ne vergogno: ho cambiato idea.",
+    "de": "Ich schäme mich nicht dafür: ich habe meine Meinung geändert."
+  },
+  {
+    "it": "Ti ci ritroveresti in una situazione molto imbarazzante.",
+    "de": "Du würdest dich in einer sehr peinlichen Situation wiederfinden."
+  },
+  {
+    "it": "Ci si stanca di spiegare le stesse cose all'infinito.",
+    "de": "Man wird es müde, dieselben Dinge endlos zu erklären."
+  },
+  {
+    "it": "Lo si intuisce dal tono della voce.",
+    "de": "Man erahnt es am Tonfall der Stimme."
+  },
+  {
+    "it": "La si percepisce come una minaccia, non come un'opportunità.",
+    "de": "Man nimmt sie als Bedrohung wahr, nicht als Chance."
+  },
+  {
+    "it": "Li si potrebbe accusare di superficialità, non di malafede.",
+    "de": "Man könnte ihnen Oberflächlichkeit vorwerfen, nicht bösen Willen."
+  },
+  {
+    "it": "Le si è offerta una possibilità che non ha colto.",
+    "de": "Ihr wurde eine Gelegenheit angeboten, die sie nicht ergriffen hat."
+  },
+  {
+    "it": "Ne rimango affascinato ogni volta che ci penso.",
+    "de": "Ich bin jedes Mal fasziniert davon, wenn ich daran denke."
+  },
+  {
+    "it": "Ci ha messo molto ad ammetterlo, ma alla fine l'ha fatto.",
+    "de": "Er brauchte lange, um es zuzugeben, aber am Ende hat er es getan."
+  },
+  {
+    "it": "Si è dovuto scontrare con una realtà dura.",
+    "de": "Er musste sich einer harten Realität stellen."
+  },
+  {
+    "it": "Me ne sono fatto una ragione col tempo.",
+    "de": "Mit der Zeit habe ich mich damit abgefunden."
+  },
+  {
+    "it": "Te ne sei uscito con una battuta inopportuna.",
+    "de": "Du bist mit einem unangemessenen Witz herausgekommen."
+  },
+  {
+    "it": "Gliela farò pagare cara, prima o poi.",
+    "de": "Ich werde sie ihm teuer bezahlen lassen, früher oder später."
+  },
+  {
+    "it": "Ce la caviamo sempre, anche nelle situazioni più difficili.",
+    "de": "Wir kommen immer durch, auch in den schwierigsten Situationen."
+  },
+  {
+    "it": "Ve la siete cercata con questo atteggiamento.",
+    "de": "Ihr habt es euch mit dieser Einstellung selbst zuzuschreiben."
+  },
+  {
+    "it": "Non me la sento di abbandonarti in questo momento.",
+    "de": "Ich kann es nicht über mich bringen, dich in diesem Moment zu verlassen."
+  },
+  {
+    "it": "Te la sei presa inutilmente per una sciocchezza.",
+    "de": "Du hast dich unnötigerweise über eine Kleinigkeit aufgeregt."
+  },
+  {
+    "it": "Gliel'ha fatta sotto il naso senza che se ne accorgesse.",
+    "de": "Er hat es ihm direkt vor der Nase getan, ohne dass er es merkte."
+  },
+  {
+    "it": "Ce la siamo goduta da matti quella serata.",
+    "de": "Wir haben diesen Abend ungemein genossen."
+  },
+  {
+    "it": "Ve la dovrete vedere voi con le conseguenze.",
+    "de": "Ihr müsst selbst mit den Konsequenzen umgehen."
+  },
+  {
+    "it": "Non me ne perdono ancora, a distanza di anni.",
+    "de": "Ich verzeihe mir es noch immer nicht, Jahre später."
+  },
+  {
+    "it": "Ti è mai capitato di sentirti completamente solo?",
+    "de": "Ist es dir jemals passiert, dich völlig allein zu fühlen?"
+  },
+  {
+    "it": "Gli è bastato uno sguardo per capire tutto.",
+    "de": "Ein Blick hat ihm gereicht, um alles zu verstehen."
+  },
+  {
+    "it": "Le è venuta un'idea geniale all'ultimo momento.",
+    "de": "Ihr ist im letzten Moment eine geniale Idee gekommen."
+  },
+  {
+    "it": "Ci è voluto coraggio per affrontare quella situazione.",
+    "de": "Es hat Mut gebraucht, um diese Situation zu meistern."
+  },
+  {
+    "it": "Vi è mai sembrato che tutto andasse per il verso sbagliato?",
+    "de": "Hat es euch jemals schienen, dass alles schiefläuft?"
+  },
+  {
+    "it": "Lo si deve considerare alla luce del contesto storico.",
+    "de": "Man muss es im Lichte des historischen Kontexts betrachten."
+  },
+  {
+    "it": "La si ricorda come la più brillante della sua generazione.",
+    "de": "Sie wird als die glänzendste ihrer Generation in Erinnerung behalten."
+  },
+  {
+    "it": "Li si tiene deliberatamente all'oscuro per ragioni strategiche.",
+    "de": "Man hält sie absichtlich aus strategischen Gründen im Dunkeln."
+  },
+  {
+    "it": "Le si può imputare una certa mancanza di tatto.",
+    "de": "Man kann ihr eine gewisse Taktlosigkeit anlasten."
+  },
+  {
+    "it": "Ne sono rimasto profondamente turbato.",
+    "de": "Ich war davon tief erschüttert."
+  },
+  {
+    "it": "Ci tengo a sottolineare l'impegno di tutti.",
+    "de": "Ich lege Wert darauf, das Engagement aller hervorzuheben."
+  },
+  {
+    "it": "Si è posta la questione in modo sbagliato.",
+    "de": "Die Frage wurde falsch gestellt."
+  },
+  {
+    "it": "Mi ha convinto con argomenti solidi e documentati.",
+    "de": "Er hat mich mit soliden und belegten Argumenten überzeugt."
+  },
+  {
+    "it": "Ti ha deluso profondamente, e lo capisco.",
+    "de": "Er hat dich tief enttäuscht, und ich verstehe das."
+  },
+  {
+    "it": "Gli ho ceduto il mio posto senza esitazione.",
+    "de": "Ich habe ihm meinen Platz ohne Zögern überlassen."
+  },
+  {
+    "it": "Le ha tolto ogni speranza con quella risposta.",
+    "de": "Er hat ihr mit dieser Antwort jede Hoffnung genommen."
+  },
+  {
+    "it": "Ci ha sorpreso con una proposta del tutto inaspettata.",
+    "de": "Er hat uns mit einem völlig unerwarteten Vorschlag überrascht."
+  },
+  {
+    "it": "Vi ha messo a disagio con le sue domande indiscrete.",
+    "de": "Er hat euch mit seinen indiskreten Fragen in Verlegenheit gebracht."
+  },
+  {
+    "it": "Lo ha fatto intenzionalmente, ne sono certo.",
+    "de": "Er hat es absichtlich getan, davon bin ich überzeugt."
+  },
+  {
+    "it": "La ha abbandonata nei momenti di maggior difficoltà.",
+    "de": "Er hat sie in den schwierigsten Momenten verlassen."
+  },
+  {
+    "it": "Li ha esortati a mantenere la calma.",
+    "de": "Er hat sie aufgefordert, die Ruhe zu bewahren."
+  },
+  {
+    "it": "Le ha restituito fiducia in un momento cruciale.",
+    "de": "Er hat ihr in einem entscheidenden Moment Vertrauen zurückgegeben."
+  },
+  {
+    "it": "Ne ha tratto vantaggio in modo spregiudicato.",
+    "de": "Er hat daraus auf skrupellose Weise Nutzen gezogen."
+  },
+  {
+    "it": "Ci ha convinto della necessità di un cambiamento radicale.",
+    "de": "Er hat uns von der Notwendigkeit eines radikalen Wandels überzeugt."
+  },
+  {
+    "it": "Vi ha comunicato la sua decisione attraverso i suoi legali.",
+    "de": "Er hat euch seine Entscheidung über seine Anwälte mitgeteilt."
+  },
+  {
+    "it": "Mi sembra opportuno chiarire alcuni punti fondamentali.",
+    "de": "Es erscheint mir angebracht, einige grundlegende Punkte zu klären."
+  },
+  {
+    "it": "Ti risulta che abbiano già firmato il contratto?",
+    "de": "Ist dir bekannt, ob sie den Vertrag bereits unterzeichnet haben?"
+  },
+  {
+    "it": "Gli riconosco il merito di essere sempre stato onesto.",
+    "de": "Ich erkenne ihm das Verdienst an, immer ehrlich gewesen zu sein."
+  },
+  {
+    "it": "Le appartiene di diritto la scelta finale.",
+    "de": "Die endgültige Entscheidung steht ihr von Rechts wegen zu."
+  },
+  {
+    "it": "Ci riguarda direttamente, non possiamo ignorarlo.",
+    "de": "Es betrifft uns direkt, wir können es nicht ignorieren."
+  },
+  {
+    "it": "Vi spetta un risarcimento per quanto subito.",
+    "de": "Euch steht eine Entschädigung für das Erlittene zu."
+  },
+  {
+    "it": "Lo considero inadeguato al ruolo che ricopre.",
+    "de": "Ich halte ihn für ungeeignet für die Rolle, die er bekleidet."
+  },
+  {
+    "it": "La trovo brillante, ma a volte poco pratica.",
+    "de": "Ich finde sie brilliant, aber manchmal wenig praktisch."
+  },
+  {
+    "it": "Li giudico severamente, forse troppo.",
+    "de": "Ich beurteile sie streng, vielleicht zu streng."
+  },
+  {
+    "it": "Le riconosco una competenza fuori dal comune.",
+    "de": "Ich erkenne ihr eine außergewöhnliche Kompetenz an."
+  },
+  {
+    "it": "Ne ricavo l'impressione che qualcosa non quadri.",
+    "de": "Ich gewinne den Eindruck, dass irgendetwas nicht stimmt."
+  },
+  {
+    "it": "Ci vuole del tempo per assimilare una notizia simile.",
+    "de": "Es braucht Zeit, eine solche Nachricht zu verarbeiten."
+  },
+  {
+    "it": "Si deve prendere atto della realtà, per quanto scomoda.",
+    "de": "Man muss die Realität zur Kenntnis nehmen, so unbequem sie auch ist."
+  },
+  {
+    "it": "Me ne faccio garante personalmente.",
+    "de": "Ich bürge persönlich dafür."
+  },
+  {
+    "it": "Te ne rendo partecipe con tutto il piacere.",
+    "de": "Ich teile es gern mit dir."
+  },
+  {
+    "it": "Gliene dirò quattro la prossima volta che lo vedo.",
+    "de": "Ich werde ihm beim nächsten Treffen die Meinung sagen."
+  },
+  {
+    "it": "Ce ne andiamo? Sì, è ora di tornare.",
+    "de": "Gehen wir? Ja, es ist Zeit zurückzukehren."
+  },
+  {
+    "it": "Ve ne siete preoccupati più del dovuto.",
+    "de": "Ihr habt euch mehr als nötig darum gesorgt."
+  },
+  {
+    "it": "Non riesco a farmene una ragione.",
+    "de": "Ich kann mich damit nicht abfinden."
+  },
+  {
+    "it": "Fammelo sapere appena hai notizie.",
+    "de": "Lass es mich wissen, sobald du Neuigkeiten hast."
+  },
+  {
+    "it": "Daglielo tu, io non me la sento.",
+    "de": "Gib es ihm du, ich bringe es nicht über mich."
+  },
+  {
+    "it": "Dimmelo chiaramente: sei d'accordo o no?",
+    "de": "Sag es mir klar: bist du einverstanden oder nicht?"
+  },
+  {
+    "it": "Mostrateglielo prima di presentarlo al pubblico.",
+    "de": "Zeigt es ihm, bevor ihr es der Öffentlichkeit präsentiert."
+  },
+  {
+    "it": "Parliamoci chiaro: la situazione è insostenibile.",
+    "de": "Reden wir offen: die Situation ist untragbar."
+  },
+  {
+    "it": "Ricordatevene quando sarà il momento di decidere.",
+    "de": "Denkt daran, wenn es Zeit ist zu entscheiden."
+  },
+  {
+    "it": "Convincetelo voi, io ci ho già provato invano.",
+    "de": "Überzeugt ihr ihn, ich habe es bereits vergeblich versucht."
+  },
+  {
+    "it": "Affrontalo a viso aperto, senza girarci intorno.",
+    "de": "Geh offen damit um, ohne um den heißen Brei herumzureden."
+  },
+  {
+    "it": "Scrivile quanto prima, non lasciarla in attesa.",
+    "de": "Schreib ihr so bald wie möglich, lass sie nicht warten."
+  },
+  {
+    "it": "Mandaglielo per posta raccomandata, per sicurezza.",
+    "de": "Schick es ihm per Einschreiben, zur Sicherheit."
+  },
+  {
+    "it": "Tienilo d'occhio: è capace di tutto.",
+    "de": "Behalte ihn im Auge: er ist zu allem fähig."
+  },
+  {
+    "it": "Lasciamocene un po' per dopo.",
+    "de": "Lassen wir uns etwas davon für später."
+  },
+  {
+    "it": "Dateglielo quando ve ne fa richiesta formale.",
+    "de": "Gebt es ihm, wenn er eine formelle Anfrage stellt."
+  },
+  {
+    "it": "Portatemene altri due, per favore.",
+    "de": "Bringt mir noch zwei davon, bitte."
+  },
+  {
+    "it": "Sbrigatevi: non abbiamo tutto il tempo del mondo.",
+    "de": "Beeilt euch: wir haben nicht alle Zeit der Welt."
+  },
+  {
+    "it": "Dimmelo solo se sei pronto ad accettarne le conseguenze.",
+    "de": "Sag es mir nur, wenn du bereit bist, die Konsequenzen zu tragen."
+  },
+  {
+    "it": "Fidarsi è bene, ma non fidarsi è meglio.",
+    "de": "Vertrauen ist gut, aber kein Vertrauen ist besser."
+  },
+  {
+    "it": "Chi la dura la vince, nella maggior parte dei casi.",
+    "de": "Wer durchhält, gewinnt, in den meisten Fällen."
+  },
+  {
+    "it": "Quello che non ti uccide ti rende più forte.",
+    "de": "Was dich nicht tötet, macht dich stärker."
+  },
+  {
+    "it": "Ciò che conta non è la meta, ma il cammino.",
+    "de": "Was zählt, ist nicht das Ziel, sondern der Weg."
+  },
+  {
+    "it": "Nessuno è profeta in patria, purtroppo.",
+    "de": "Niemand ist Prophet im eigenen Land, leider."
+  },
+  {
+    "it": "Ognuno porta i segni della propria storia.",
+    "de": "Jeder trägt die Spuren seiner eigenen Geschichte."
+  },
+  {
+    "it": "Chiunque lo conosca sa quanto sia caparbio.",
+    "de": "Wer ihn kennt, weiß, wie stur er ist."
+  },
+  {
+    "it": "Qualcosa di profondo lo lega a questo luogo.",
+    "de": "Irgendetwas Tiefes verbindet ihn mit diesem Ort."
+  },
+  {
+    "it": "Ciascuno di loro porta una diversa visione del mondo.",
+    "de": "Jeder von ihnen trägt eine andere Weltsicht."
+  },
+  {
+    "it": "Il quale ha poi ritrattato tutto quanto detto in precedenza.",
+    "de": "Welcher dann alles zuvor Gesagte widerrief."
+  },
+  {
+    "it": "Il modo in cui lo guarda dice tutto.",
+    "de": "Die Art, wie er es betrachtet, sagt alles."
+  },
+  {
+    "it": "L'argomento su cui si discute è di grande rilevanza.",
+    "de": "Das Thema, über das diskutiert wird, ist von großer Bedeutung."
+  },
+  {
+    "it": "La ragione per cui insiste mi sfugge del tutto.",
+    "de": "Der Grund, warum er besteht, entgeht mir völlig."
+  },
+  {
+    "it": "Coloro che dubitano hanno spesso più saggezza di chi crede.",
+    "de": "Diejenigen, die zweifeln, haben oft mehr Weisheit als die Gläubigen."
+  },
+  {
+    "it": "Mi sono ritrovato in una posizione scomoda.",
+    "de": "Ich habe mich in einer unangenehmen Lage wiedergefunden."
+  },
+  {
+    "it": "Ti sei dimostrato all'altezza delle aspettative.",
+    "de": "Du hast dich den Erwartungen gewachsen gezeigt."
+  },
+  {
+    "it": "Si è messo in testa un'idea difficile da abbandonare.",
+    "de": "Er hat sich eine Idee in den Kopf gesetzt, die schwer loszulassen ist."
+  },
+  {
+    "it": "Ci siamo persi in inutili discussioni per troppo tempo.",
+    "de": "Wir haben uns zu lange in nutzlosen Diskussionen verloren."
+  },
+  {
+    "it": "Vi siete comportati in modo encomiabile.",
+    "de": "Ihr habt euch lobenswert verhalten."
+  },
+  {
+    "it": "Lo si evince dal tenore delle sue dichiarazioni.",
+    "de": "Es geht aus dem Tonfall seiner Aussagen hervor."
+  },
+  {
+    "it": "La si può interpretare in molti modi diversi.",
+    "de": "Man kann sie auf viele verschiedene Arten interpretieren."
+  },
+  {
+    "it": "Li si ritiene coinvolti, ma le prove sono deboli.",
+    "de": "Man hält sie für verwickelt, aber die Beweise sind schwach."
+  },
+  {
+    "it": "Le si imputa una gestione discutibile della crisi.",
+    "de": "Man wirft ihr eine fragwürdige Krisenführung vor."
+  },
+  {
+    "it": "Ne capisco il valore, anche se non lo condivido.",
+    "de": "Ich verstehe den Wert davon, auch wenn ich ihn nicht teile."
+  },
+  {
+    "it": "Ci risiamo: la storia si ripete ancora una volta.",
+    "de": "Da haben wir es wieder: die Geschichte wiederholt sich."
+  },
+  {
+    "it": "Si è creata una situazione di stallo difficile da sbloccare.",
+    "de": "Es ist eine Pattsituation entstanden, die schwer zu lösen ist."
+  },
+  {
+    "it": "Me lo sono sempre chiesto, ma non ho mai avuto risposta.",
+    "de": "Ich habe es mich immer gefragt, aber nie eine Antwort erhalten."
+  },
+  {
+    "it": "Te lo si legge in faccia che sei stanco.",
+    "de": "Man sieht dir im Gesicht an, dass du müde bist."
+  },
+  {
+    "it": "Glielo si deve comunicare con la massima delicatezza.",
+    "de": "Man muss es ihm mit größter Behutsamkeit mitteilen."
+  },
+  {
+    "it": "Ce lo siamo ripetuto come un mantra per anni.",
+    "de": "Wir haben es uns jahrelang wie ein Mantra wiederholt."
+  },
+  {
+    "it": "Ve lo si chiede in via del tutto eccezionale.",
+    "de": "Man bittet euch darum auf völlig außergewöhnliche Weise."
+  },
+  {
+    "it": "A me sembra che tu stia esagerando.",
+    "de": "Mir scheint, dass du übertreibst."
+  },
+  {
+    "it": "Da te mi aspettavo una risposta più matura.",
+    "de": "Von dir hatte ich eine reifere Antwort erwartet."
+  },
+  {
+    "it": "Su di lui non si può fare troppo affidamento.",
+    "de": "Auf ihn kann man sich nicht allzu sehr verlassen."
+  },
+  {
+    "it": "Verso di lei ho sempre nutrito grande ammirazione.",
+    "de": "Ihr gegenüber habe ich immer große Bewunderung empfunden."
+  },
+  {
+    "it": "Intorno a noi tutto sembra cambiare rapidamente.",
+    "de": "Um uns herum scheint sich alles schnell zu verändern."
+  },
+  {
+    "it": "Dietro di voi c'è un'intera generazione che aspetta.",
+    "de": "Hinter euch steht eine ganze Generation, die wartet."
+  },
+  {
+    "it": "Oltre a loro non c'era nessun altro presente.",
+    "de": "Außer ihnen war sonst niemand anwesend."
+  },
+  {
+    "it": "Prima di noi altri hanno già percorso questa strada.",
+    "de": "Vor uns haben andere diesen Weg bereits eingeschlagen."
+  },
+  {
+    "it": "In mezzo a loro mi sono sentito fuori posto.",
+    "de": "Inmitten von ihnen habe ich mich fehl am Platz gefühlt."
+  },
+  {
+    "it": "Contro di me non hai nessuna prova concreta.",
+    "de": "Gegen mich hast du keinen konkreten Beweis."
+  },
+  {
+    "it": "Accanto a lei mi sono sempre sentito al sicuro.",
+    "de": "An ihrer Seite habe ich mich immer sicher gefühlt."
+  },
+  {
+    "it": "Di per sé non è sbagliato, ma il contesto cambia tutto.",
+    "de": "An sich ist es nicht falsch, aber der Kontext ändert alles."
+  },
+  {
+    "it": "Me la sono presa con qualcuno che non c'entrava nulla.",
+    "de": "Ich habe jemanden beschuldigt, der nichts damit zu tun hatte."
+  },
+  {
+    "it": "Te la sei cavata egregiamente in una situazione difficile.",
+    "de": "Du hast dich in einer schwierigen Situation ausgezeichnet geschlagen."
+  },
+  {
+    "it": "Gliel'ha fatta con una semplicità disarmante.",
+    "de": "Er hat es ihm mit entwaffnender Einfachheit getan."
+  },
+  {
+    "it": "Ce la facciamo, ne sono assolutamente certo.",
+    "de": "Wir schaffen es, davon bin ich absolut überzeugt."
+  },
+  {
+    "it": "Ve la siete presa con troppa facilità.",
+    "de": "Ihr habt es euch zu leicht genommen."
+  },
+  {
+    "it": "Non me la prendo, capisco il tuo punto di vista.",
+    "de": "Ich nehme es nicht übel, ich verstehe deinen Standpunkt."
+  },
+  {
+    "it": "Ti la passi sempre liscia, non è giusto.",
+    "de": "Du kommst immer ungestraft davon, das ist nicht fair."
+  },
+  {
+    "it": "Gliel'ha detto senza mezzi termini.",
+    "de": "Er hat es ihm ohne Umschweife gesagt."
+  },
+  {
+    "it": "Ce la siamo cavata meglio del previsto.",
+    "de": "Wir haben uns besser durchgeschlagen als erwartet."
+  },
+  {
+    "it": "Ve la siete guadagnata sul campo, chapeau.",
+    "de": "Ihr habt es euch auf dem Feld verdient, Hut ab."
+  },
+  {
+    "it": "Non mi ci vedo in quella situazione.",
+    "de": "Ich sehe mich nicht in dieser Situation."
+  },
+  {
+    "it": "Ti ci vuole ancora un po' di esperienza.",
+    "de": "Du brauchst noch etwas mehr Erfahrung."
+  },
+  {
+    "it": "Gli ci vorrà del tempo per riprendersi.",
+    "de": "Er wird Zeit brauchen, um sich zu erholen."
+  },
+  {
+    "it": "Le ci vuole coraggio per fare una scelta simile.",
+    "de": "Es braucht Mut, eine solche Wahl zu treffen."
+  },
+  {
+    "it": "Ci ci mettiamo tutto l'impegno possibile.",
+    "de": "Wir stecken jede mögliche Mühe hinein."
+  },
+  {
+    "it": "Vi ci volete del bene, si vede.",
+    "de": "Ihr habt euch gegenseitig lieb, das sieht man."
+  },
+  {
+    "it": "Non me lo sarei mai aspettato da lui.",
+    "de": "Ich hätte das niemals von ihm erwartet."
+  },
+  {
+    "it": "Te lo avevo già detto: non ti fidare.",
+    "de": "Ich hatte es dir bereits gesagt: vertrau ihm nicht."
+  },
+  {
+    "it": "Glielo ha comunicato nel modo più sbagliato possibile.",
+    "de": "Er hat es ihm auf die denkbar schlechteste Art mitgeteilt."
+  },
+  {
+    "it": "Ce lo siamo meritato dopo tanto impegno.",
+    "de": "Wir haben es uns nach so viel Einsatz verdient."
+  },
+  {
+    "it": "Ve lo confermo ufficialmente con questa nota.",
+    "de": "Ich bestätige es euch offiziell mit diesem Schreiben."
+  },
+  {
+    "it": "Non si può fare a meno di notarlo.",
+    "de": "Man kann es nicht umhin, es zu bemerken."
+  },
+  {
+    "it": "Ci si aspetta sempre troppo dagli altri.",
+    "de": "Man erwartet von anderen immer zu viel."
+  },
+  {
+    "it": "Si è parlato molto, si è fatto poco.",
+    "de": "Es wurde viel geredet, wenig getan."
+  },
+  {
+    "it": "Me ne ero già dimenticato quando me lo ha ricordato.",
+    "de": "Ich hatte es schon vergessen, als er mich daran erinnerte."
+  },
+  {
+    "it": "Ti eri già fatto un'idea precisa prima ancora di sentirmi.",
+    "de": "Du hattest dir bereits eine genaue Vorstellung gemacht, bevor du mich gehört hattest."
+  },
+  {
+    "it": "Gliene avevo fatto menzione in passato, senza darci peso.",
+    "de": "Ich hatte es in der Vergangenheit erwähnt, ohne es zu betonen."
+  },
+  {
+    "it": "Ce ne avevano avvertiti, ma non abbiamo dato ascolto.",
+    "de": "Man hatte uns gewarnt, aber wir haben nicht zugehört."
+  },
+  {
+    "it": "Ve ne eravate accorti prima che lo dicesse.",
+    "de": "Ihr hattet es bemerkt, bevor er es sagte."
+  },
+  {
+    "it": "Lo si considerava un genio incompreso dalla sua epoca.",
+    "de": "Man hielt ihn für ein von seiner Zeit verkanntes Genie."
+  },
+  {
+    "it": "La si ammira per la coerenza dei suoi principi.",
+    "de": "Man bewundert sie für die Konsequenz ihrer Prinzipien."
+  },
+  {
+    "it": "Li si può accusare di negligenza, non di dolo.",
+    "de": "Man kann ihnen Fahrlässigkeit vorwerfen, nicht Vorsatz."
+  },
+  {
+    "it": "Le si riconosce una visione strategica eccezionale.",
+    "de": "Man erkennt ihr eine außergewöhnliche strategische Vision an."
+  },
+  {
+    "it": "Ne sono fiero, anche se non lo dico spesso.",
+    "de": "Ich bin stolz darauf, auch wenn ich es nicht oft sage."
+  },
+  {
+    "it": "Ci si perde in dettagli e si perde il quadro generale.",
+    "de": "Man verliert sich in Details und verliert das Gesamtbild."
+  },
+  {
+    "it": "Si è concluso un capitolo importante della nostra storia.",
+    "de": "Ein wichtiges Kapitel unserer Geschichte ist zu Ende gegangen."
+  },
+  {
+    "it": "Me ne sono assunto la piena responsabilità morale.",
+    "de": "Ich habe die volle moralische Verantwortung dafür übernommen."
+  },
+  {
+    "it": "Te ne rendo conto: non è stato facile.",
+    "de": "Ich gebe es dir zu: es war nicht einfach."
+  },
+  {
+    "it": "Gliene voglio bene nonostante tutto.",
+    "de": "Ich mag ihn trotz allem."
+  },
+  {
+    "it": "Ce ne siamo usciti con più maturità di prima.",
+    "de": "Wir sind davon reifer als zuvor hervorgegangen."
+  },
+  {
+    "it": "Ve ne renderete conto solo quando sarà troppo tardi.",
+    "de": "Ihr werdet euch dessen erst bewusst werden, wenn es zu spät ist."
+  },
+  {
+    "it": "Non me ne importa nulla delle convenzioni sociali.",
+    "de": "Gesellschaftliche Konventionen sind mir völlig gleichgültig."
+  },
+  {
+    "it": "Ti sei mai permesso di mettere in dubbio le sue parole?",
+    "de": "Hast du es dir je erlaubt, seine Worte in Frage zu stellen?"
+  },
+  {
+    "it": "Gli si deve imputare anche l'inerzia dei mesi precedenti.",
+    "de": "Man muss ihm auch die Untätigkeit der vorangegangenen Monate anlasten."
+  },
+  {
+    "it": "Le si è presentata un'occasione irripetibile.",
+    "de": "Ihr bot sich eine einmalige Gelegenheit."
+  },
+  {
+    "it": "Ci si sente smarriti di fronte all'ignoto.",
+    "de": "Man fühlt sich angesichts des Unbekannten verloren."
+  },
+  {
+    "it": "Vi si rimprovera una certa mancanza di visione.",
+    "de": "Man wirft euch einen gewissen Mangel an Weitblick vor."
+  },
+  {
+    "it": "Lo si vede spesso aggirarsi nei pressi della biblioteca.",
+    "de": "Man sieht ihn oft in der Nähe der Bibliothek herumschlendern."
+  },
+  {
+    "it": "La si definisce una personalità di grande spessore.",
+    "de": "Man bezeichnet sie als Persönlichkeit von großem Format."
+  },
+  {
+    "it": "Li si indica come i responsabili principali.",
+    "de": "Man bezeichnet sie als die Hauptverantwortlichen."
+  },
+  {
+    "it": "Le si attribuisce un ruolo chiave nella trattativa.",
+    "de": "Man schreibt ihr eine Schlüsselrolle in der Verhandlung zu."
+  },
+  {
+    "it": "Ne discende un obbligo preciso per tutti noi.",
+    "de": "Daraus ergibt sich eine genaue Verpflichtung für uns alle."
+  },
+  {
+    "it": "Ci sono cose che non si spiegano razionalmente.",
+    "de": "Es gibt Dinge, die sich nicht rational erklären lassen."
+  },
+  {
+    "it": "Si è aperto un dibattito acceso sulla questione.",
+    "de": "Über die Frage ist eine hitzige Debatte entbrannt."
+  },
+  {
+    "it": "Me ne convinco sempre di più leggendo la storia.",
+    "de": "Ich überzeuge mich davon immer mehr, wenn ich Geschichte lese."
+  },
+  {
+    "it": "Te ne sarò grato per il resto della mia vita.",
+    "de": "Ich werde dir dafür für den Rest meines Lebens dankbar sein."
+  },
+  {
+    "it": "Gliene ho date abbastanza di possibilità di rifarsi.",
+    "de": "Ich habe ihm genug Möglichkeiten gegeben, sich zu rehabilitieren."
+  },
+  {
+    "it": "Ce ne siamo andati in silenzio, senza fare scena.",
+    "de": "Wir sind schweigend gegangen, ohne eine Szene zu machen."
+  },
+  {
+    "it": "Ve ne accorgerete quando non ci sarà più niente da fare.",
+    "de": "Ihr werdet es bemerken, wenn es nichts mehr zu tun gibt."
+  },
+  {
+    "it": "Con me puoi sempre contare, in qualunque circostanza.",
+    "de": "Auf mich kannst du immer zählen, unter allen Umständen."
+  },
+  {
+    "it": "Per te farei qualsiasi cosa, lo sai.",
+    "de": "Für dich würde ich alles tun, das weißt du."
+  },
+  {
+    "it": "Tra noi non ci sono mai stati segreti.",
+    "de": "Zwischen uns gab es nie Geheimnisse."
+  },
+  {
+    "it": "Contro di lui le accuse si sono rivelate infondate.",
+    "de": "Die Vorwürfe gegen ihn haben sich als unbegründet erwiesen."
+  },
+  {
+    "it": "Dopo di noi, il silenzio è durato a lungo.",
+    "de": "Nach uns hat die Stille lange angehalten."
+  },
+  {
+    "it": "Prima di loro nessuno aveva tentato qualcosa di simile.",
+    "de": "Vor ihnen hatte niemand so etwas Ähnliches versucht."
+  },
+  {
+    "it": "Accanto a voi mi sono sentito parte di qualcosa.",
+    "de": "Neben euch habe ich mich als Teil von etwas gefühlt."
+  },
+  {
+    "it": "In mezzo a noi c'era sempre quella tensione latente.",
+    "de": "Unter uns gab es immer diese latente Spannung."
+  },
+  {
+    "it": "A causa loro abbiamo dovuto rimandare tutto.",
+    "de": "Ihretwegen mussten wir alles verschieben."
+  },
+  {
+    "it": "Grazie a lei abbiamo evitato il peggio.",
+    "de": "Dank ihr haben wir das Schlimmste vermieden."
+  },
+  {
+    "it": "Oltre a me, nessuno sembrava preoccuparsene.",
+    "de": "Außer mir schien sich niemand darum zu kümmern."
+  },
+  {
+    "it": "Senza di voi non avrei mai trovato la strada.",
+    "de": "Ohne euch hätte ich den Weg nie gefunden."
+  },
+  {
+    "it": "Mi si è aperto un mondo quando ho capito.",
+    "de": "Mir hat sich eine neue Welt geöffnet, als ich es verstanden habe."
+  },
+  {
+    "it": "Ti si perdona tutto quando hai il talento che hai.",
+    "de": "Man verzeiht dir alles, wenn du das Talent hast, das du hast."
+  },
+  {
+    "it": "Gli si legge negli occhi la stanchezza degli anni.",
+    "de": "Man liest ihm in den Augen die Erschöpfung der Jahre."
+  },
+  {
+    "it": "Le si è gonfiato il cuore di orgoglio.",
+    "de": "Ihr Herz ist vor Stolz geschwollen."
+  },
+  {
+    "it": "Ci si guarda negli occhi e si capisce tutto.",
+    "de": "Man schaut sich in die Augen und versteht alles."
+  },
+  {
+    "it": "Vi si chiede uno sforzo aggiuntivo in questa fase.",
+    "de": "Von euch wird in dieser Phase eine zusätzliche Anstrengung verlangt."
+  },
+  {
+    "it": "Lo si percepisce nell'aria: qualcosa sta per cambiare.",
+    "de": "Man spürt es in der Luft: etwas steht kurz vor einer Veränderung."
+  },
+  {
+    "it": "La si conosce come la più rigorosa del settore.",
+    "de": "Sie ist bekannt als die Strengste in der Branche."
+  },
+  {
+    "it": "Li si chiama solo in casi di estrema necessità.",
+    "de": "Man ruft sie nur in äußersten Notfällen."
+  },
+  {
+    "it": "Le si è offerto un compromesso che non ha accettato.",
+    "de": "Ihr wurde ein Kompromiss angeboten, den sie nicht akzeptiert hat."
+  },
+  {
+    "it": "Ne sono convinto come lo sono poche volte.",
+    "de": "Ich bin davon überzeugt wie selten zuvor."
+  },
+  {
+    "it": "Ci si trova davanti a un bivio storico.",
+    "de": "Man steht vor einer historischen Weggabelung."
+  },
+  {
+    "it": "Si è aperta una breccia che non si potrà più chiudere.",
+    "de": "Es hat sich eine Bresche geöffnet, die sich nicht mehr schließen lässt."
+  },
+  {
+    "it": "Me ne faccio carico io, non è un problema.",
+    "de": "Ich übernehme das, es ist kein Problem."
+  },
+  {
+    "it": "Te ne do atto: hai avuto il coraggio di ammettere l'errore.",
+    "de": "Ich erkenne es an: du hattest den Mut, den Fehler zuzugeben."
+  },
+  {
+    "it": "Gliene parlerò al momento opportuno.",
+    "de": "Ich werde es mit ihm zum richtigen Zeitpunkt besprechen."
+  },
+  {
+    "it": "Ce ne siamo accorti, anche se tardi.",
+    "de": "Wir haben es bemerkt, wenn auch spät."
+  },
+  {
+    "it": "Ve ne darete ragione con il senno di poi.",
+    "de": "Im Nachhinein werdet ihr mir Recht geben."
+  },
+  {
+    "it": "Non me ne intendo abbastanza per giudicare.",
+    "de": "Ich verstehe nicht genug davon, um zu urteilen."
+  },
+  {
+    "it": "Ti sei avvalso di ogni mezzo a tua disposizione.",
+    "de": "Du hast dich jedes dir zur Verfügung stehenden Mittels bedient."
+  },
+  {
+    "it": "Gli si deve almeno riconoscere la coerenza ideologica.",
+    "de": "Man muss ihm zumindest die ideologische Kohärenz anerkennen."
+  },
+  {
+    "it": "Le si imputa di aver agito senza mandato.",
+    "de": "Man wirft ihr vor, ohne Mandat gehandelt zu haben."
+  },
+  {
+    "it": "Ci si trova spesso a fare i conti con l'inaspettato.",
+    "de": "Man sieht sich oft mit dem Unerwarteten konfrontiert."
+  },
+  {
+    "it": "Vi si rimprovera di non aver comunicato per tempo.",
+    "de": "Man wirft euch vor, nicht rechtzeitig kommuniziert zu haben."
+  },
+  {
+    "it": "Lo si è destituito senza spiegazioni ufficiali.",
+    "de": "Man hat ihn ohne offizielle Erklärungen abgesetzt."
+  },
+  {
+    "it": "La si è elogiata per la gestione esemplare della crisi.",
+    "de": "Man hat sie für das vorbildliche Krisenmanagement gelobt."
+  },
+  {
+    "it": "Li si è convocati d'urgenza per fare il punto.",
+    "de": "Man hat sie dringend einberufen, um die Lage einzuschätzen."
+  },
+  {
+    "it": "Le si è assegnato l'incarico più delicato.",
+    "de": "Ihr wurde der heikelste Auftrag übertragen."
+  },
+  {
+    "it": "Ne è derivato un conflitto di competenze.",
+    "de": "Daraus ist ein Kompetenzkonflikt entstanden."
+  },
+  {
+    "it": "Ci sono implicazioni che vanno ben oltre il caso specifico.",
+    "de": "Es gibt Implikationen, die weit über den Einzelfall hinausgehen."
+  },
+  {
+    "it": "Si è raggiunto un accordo in extremis.",
+    "de": "In letzter Minute wurde eine Einigung erzielt."
+  },
+  {
+    "it": "Me ne son fatto carico sapendo i rischi.",
+    "de": "Ich habe es übernommen, obwohl ich die Risiken kannte."
+  },
+  {
+    "it": "Te ne sei andata senza nemmeno salutare.",
+    "de": "Du bist gegangen, ohne dich auch nur zu verabschieden."
+  },
+  {
+    "it": "Gliene ha fatte passare di tutti i colori.",
+    "de": "Er hat ihm alles Mögliche angetan."
+  },
+  {
+    "it": "Ce ne siamo usciti a fatica, ma integri.",
+    "de": "Wir sind mühsam, aber unversehrt herausgekommen."
+  },
+  {
+    "it": "Ve ne siete accorti troppo in ritardo.",
+    "de": "Ihr habt es viel zu spät bemerkt."
+  },
+  {
+    "it": "Non mi ci ritrovo più in questa situazione.",
+    "de": "Ich finde mich in dieser Situation nicht mehr zurecht."
+  },
+  {
+    "it": "Ti ci vorrà tutto il tuo talento per farcela.",
+    "de": "Du wirst dein ganzes Talent brauchen, um es zu schaffen."
+  },
+  {
+    "it": "Gli ci vuole ancora qualche anno per maturare.",
+    "de": "Er braucht noch einige Jahre, um zu reifen."
+  },
+  {
+    "it": "Le ci vogliono mesi di preparazione intensa.",
+    "de": "Sie braucht Monate intensiver Vorbereitung."
+  },
+  {
+    "it": "Ci ci mettiamo tutta la buona volontà possibile.",
+    "de": "Wir stecken jede mögliche gute Absicht hinein."
+  },
+  {
+    "it": "Vi ci vuole un po' più di umiltà, a volte.",
+    "de": "Etwas mehr Bescheidenheit würde euch gut tun, manchmal."
+  },
+  {
+    "it": "Lo so a memoria, l'ho riletto cento volte.",
+    "de": "Ich weiß es auswendig, ich habe es hundert Mal wiedergelesen."
+  },
+  {
+    "it": "La conosco come le mie tasche.",
+    "de": "Ich kenne es wie meine Westentasche."
+  },
+  {
+    "it": "Li conosco sin dall'infanzia: sono fratelli.",
+    "de": "Ich kenne sie seit der Kindheit: sie sind Brüder."
+  },
+  {
+    "it": "Le ho dato tutto quello che potevo.",
+    "de": "Ich habe ihr alles gegeben, was ich konnte."
+  },
+  {
+    "it": "Ne ho le prove schiaccianti in mio possesso.",
+    "de": "Ich habe erdrückende Beweise in meinem Besitz."
+  },
+  {
+    "it": "Ci penso su ancora prima di esprimere un giudizio.",
+    "de": "Ich denke noch darüber nach, bevor ich ein Urteil abgebe."
+  },
+  {
+    "it": "Si parla di crisi, ma la realtà è più complessa.",
+    "de": "Man spricht von einer Krise, aber die Realität ist komplexer."
+  },
+  {
+    "it": "Me ne rendo conto adesso, forse troppo tardi.",
+    "de": "Ich erkenne es jetzt, vielleicht zu spät."
+  },
+  {
+    "it": "Te ne sei sempre fregato di quello che pensano gli altri.",
+    "de": "Du hast dich nie darum geschert, was andere denken."
+  },
+  {
+    "it": "Gliene ho dette quattro senza peli sulla lingua.",
+    "de": "Ich habe ihm unverblümt die Meinung gesagt."
+  },
+  {
+    "it": "Ce ne siamo voluti bene, nonostante le difficoltà.",
+    "de": "Wir haben uns trotz der Schwierigkeiten geliebt."
+  },
+  {
+    "it": "Ve ne darete conto prima o poi.",
+    "de": "Ihr werdet es früher oder später erkennen."
+  },
+  {
+    "it": "Non me lo aspettavo: sono rimasto senza parole.",
+    "de": "Ich hatte es nicht erwartet: ich war sprachlos."
+  },
+  {
+    "it": "Ti sei mostrato all'altezza in ogni circostanza.",
+    "de": "Du hast dich unter allen Umständen als ebenbürtig erwiesen."
+  },
+  {
+    "it": "Gli è andata bene questa volta, ma non sempre.",
+    "de": "Diesmal ist es ihm gut gegangen, aber nicht immer."
+  },
+  {
+    "it": "Le è capitata una disavventura spiacevole.",
+    "de": "Ihr ist ein unangenehmes Missgeschick passiert."
+  },
+  {
+    "it": "Ci è voluta una vita per arrivare fin qui.",
+    "de": "Es hat ein Leben gedauert, um bis hierher zu kommen."
+  },
+  {
+    "it": "Vi è piaciuto? Speravo vi lasciasse qualcosa.",
+    "de": "Hat es euch gefallen? Ich hoffte, es würde euch etwas hinterlassen."
+  },
+  {
+    "it": "Lo so che fa male, ma è necessario sentirlo.",
+    "de": "Ich weiß, dass es wehtut, aber man muss es hören."
+  },
+  {
+    "it": "La sento vicina anche quando è lontana.",
+    "de": "Ich fühle sie nah, auch wenn sie weit weg ist."
+  },
+  {
+    "it": "Li sento spesso discutere di politica animate.",
+    "de": "Ich höre sie oft lebhaft über Politik diskutieren."
+  },
+  {
+    "it": "Le sento ancora la voce nella testa.",
+    "de": "Ich höre ihre Stimme noch im Kopf."
+  },
+  {
+    "it": "Ne sento la mancanza ogni singolo giorno.",
+    "de": "Ich vermisse ihn jeden einzelnen Tag."
+  },
+  {
+    "it": "Ci sento qualcosa di familiare in quello che dici.",
+    "de": "Ich erkenne etwas Vertrautes in dem, was du sagst."
+  },
+  {
+    "it": "Si sente nell'aria il profumo del cambiamento.",
+    "de": "Man riecht in der Luft den Duft des Wandels."
+  },
+  {
+    "it": "Me lo sento nell'anima: qualcosa di bello sta per accadere.",
+    "de": "Ich spüre es in meiner Seele: etwas Schönes steht bevor."
+  },
+  {
+    "it": "Te lo sento dalla voce: sei turbato.",
+    "de": "Ich höre es an deiner Stimme: du bist beunruhigt."
+  },
+  {
+    "it": "Glielo sento dire ogni giorno e non mi convince.",
+    "de": "Ich höre ihn das jeden Tag sagen und es überzeugt mich nicht."
+  },
+  {
+    "it": "Ce lo sentiamo tutti: l'atmosfera è tesa.",
+    "de": "Wir spüren es alle: die Stimmung ist angespannt."
+  },
+  {
+    "it": "Ve lo sento nel tono: non ci credete davvero.",
+    "de": "Ich höre es an eurem Ton: ihr glaubt nicht wirklich daran."
+  },
+  {
+    "it": "Non è cosa da poco, va riconosciuto.",
+    "de": "Es ist keine Kleinigkeit, das muss man anerkennen."
+  },
+  {
+    "it": "È il caso di procedere con cautela, in questa fase.",
+    "de": "Es ist angebracht, in dieser Phase vorsichtig vorzugehen."
+  },
+  {
+    "it": "Vale la pena rifletterci su prima di decidere.",
+    "de": "Es ist es wert, darüber nachzudenken, bevor man entscheidet."
+  },
+  {
+    "it": "Fa' come se fossi a casa tua.",
+    "de": "Tu so, als wärst du zu Hause."
+  },
+  {
+    "it": "Lascia perdere: non ne vale la pena.",
+    "de": "Vergiss es: es ist es nicht wert."
+  },
+  {
+    "it": "Vediamo come si sviluppa la situazione.",
+    "de": "Schauen wir, wie sich die Situation entwickelt."
+  },
+  {
+    "it": "Teniamoci in contatto: potrebbe tornare utile.",
+    "de": "Halten wir Kontakt: es könnte nützlich sein."
+  },
+  {
+    "it": "Non darla vinta così facilmente.",
+    "de": "Gib nicht so leicht nach."
+  },
+  {
+    "it": "Prendila con filosofia: peggio sarebbe non provarci.",
+    "de": "Nimm es philosophisch: schlimmer wäre es, es nicht zu versuchen."
+  },
+  {
+    "it": "Buttala lì come un'idea e vedi la reazione.",
+    "de": "Wirf sie einfach als Idee ein und schau die Reaktion."
+  },
+  {
+    "it": "Mandamela quando è pronta, non c'è fretta.",
+    "de": "Schick sie mir, wenn sie fertig ist, es eilt nicht."
+  },
+  {
+    "it": "Diglielo tu: io non sono la persona giusta.",
+    "de": "Sag es ihm du: ich bin nicht die richtige Person."
+  },
+  {
+    "it": "Fammici riflettere sopra qualche giorno.",
+    "de": "Lass mich einige Tage darüber nachdenken."
+  },
+  {
+    "it": "Portaceli domani mattina senza fallo.",
+    "de": "Bring sie mir morgen früh ohne Ausnahme."
+  },
+  {
+    "it": "Diccelo subito se hai cambiato idea.",
+    "de": "Sag es uns sofort, wenn du deine Meinung geändert hast."
+  },
+  {
+    "it": "Fagliela vedere prima di mandarla al cliente.",
+    "de": "Zeig es ihm, bevor du es an den Kunden schickst."
+  },
+  {
+    "it": "Lasciamocene un po' per domani, siamo prudenti.",
+    "de": "Lassen wir uns etwas für morgen, seien wir vorsichtig."
+  },
+  {
+    "it": "Scriviglielo di tuo pugno per renderlo più personale.",
+    "de": "Schreib es ihm eigenhändig, um es persönlicher zu machen."
+  },
+  {
+    "it": "Vattene prima che si metta ancora peggio.",
+    "de": "Geh, bevor es noch schlimmer wird."
+  },
+  {
+    "it": "Stattene zitto e ascolta per una volta.",
+    "de": "Sei still und hör einmal zu."
+  },
+  {
+    "it": "Dimmelo adesso, o per sempre taci.",
+    "de": "Sag es mir jetzt, oder schweig für immer."
+  },
+  {
+    "it": "Fanne buon uso: non capita spesso un'occasione simile.",
+    "de": "Nutz es gut: eine solche Gelegenheit kommt nicht oft."
+  },
+  {
+    "it": "Vieni da me se hai bisogno di aiuto.",
+    "de": "Komm zu mir, wenn du Hilfe brauchst."
+  },
+  {
+    "it": "Torna da loro quando sarai pronto ad ascoltare.",
+    "de": "Geh zurück zu ihnen, wenn du bereit bist zuzuhören."
+  },
+  {
+    "it": "Vai da lei e chiedi scusa senza aspettare.",
+    "de": "Geh zu ihr und entschuldige dich ohne zu warten."
+  },
+  {
+    "it": "Passa da noi quando hai un momento libero.",
+    "de": "Schau bei uns vorbei, wenn du einen freien Moment hast."
+  },
+  {
+    "it": "Rivolgiti a lui per tutto ciò che riguarda l'amministrazione.",
+    "de": "Wende dich an ihn für alles, was die Verwaltung betrifft."
+  },
+  {
+    "it": "Affidati a lei: sa quello che fa meglio di chiunque.",
+    "de": "Vertrau ihr: sie weiß, was sie besser als irgendjemand tut."
+  },
+  {
+    "it": "Contate su di me in qualunque momento.",
+    "de": "Zählt auf mich zu jedem Zeitpunkt."
+  },
+  {
+    "it": "Fidatevi di voi stessi prima di tutto.",
+    "de": "Vertraut vor allem euch selbst."
+  },
+  {
+    "it": "Appoggiatevi a loro nei momenti di difficoltà.",
+    "de": "Stützt euch in schwierigen Momenten auf sie."
+  },
+  {
+    "it": "Rivolgetegli la parola con rispetto e senza preconcetti.",
+    "de": "Sprecht mit ihm mit Respekt und ohne Vorurteile."
+  },
+  {
+    "it": "Non si vive di solo pane, si sa.",
+    "de": "Man lebt nicht von Brot allein, das weiß man."
+  },
+  {
+    "it": "Non si può avere tutto dalla vita.",
+    "de": "Man kann nicht alles vom Leben verlangen."
+  },
+  {
+    "it": "Non si sa mai come andranno a finire certe storie.",
+    "de": "Man weiß nie, wie manche Geschichten ausgehen werden."
+  },
+  {
+    "it": "Non si trova facilmente chi ti voglia davvero bene.",
+    "de": "Man findet nicht leicht jemanden, der einen wirklich mag."
+  },
+  {
+    "it": "Non si può tornare indietro: inutile piangerci sopra.",
+    "de": "Man kann nicht zurück: es hat keinen Sinn, darüber zu weinen."
+  },
+  {
+    "it": "Non si nasce imparati, per fortuna.",
+    "de": "Man wird nicht fertig gelernt geboren, zum Glück."
+  },
+  {
+    "it": "Non si cambia il mondo da soli.",
+    "de": "Man verändert die Welt nicht allein."
+  },
+  {
+    "it": "Non si mente ai propri cari senza conseguenze.",
+    "de": "Man lügt seinen Lieben nicht ohne Konsequenzen."
+  },
+  {
+    "it": "Non si dimentica facilmente chi ti ha tradito.",
+    "de": "Man vergisst leicht nicht, wer einen verraten hat."
+  },
+  {
+    "it": "Non si impara senza sbagliare qualche volta.",
+    "de": "Man lernt nicht, ohne manchmal Fehler zu machen."
+  },
+  {
+    "it": "Chiunque tu sia, sei il benvenuto tra noi.",
+    "de": "Wer immer du bist, du bist herzlich willkommen."
+  },
+  {
+    "it": "Chiunque abbia un dubbio alzi pure la mano.",
+    "de": "Wer immer einen Zweifel hat, soll ruhig die Hand heben."
+  },
+  {
+    "it": "Chi vuol capire capisce, chi non vuol capire trova scuse.",
+    "de": "Wer verstehen will, versteht; wer nicht will, findet Ausreden."
+  },
+  {
+    "it": "Chi ben comincia è a metà dell'opera.",
+    "de": "Wer gut anfängt, ist auf halbem Weg ans Ziel."
+  },
+  {
+    "it": "Ciò che non si misura non si può migliorare.",
+    "de": "Was man nicht messen kann, kann man nicht verbessern."
+  },
+  {
+    "it": "Quello di cui hai bisogno è già dentro di te.",
+    "de": "Was du brauchst, ist bereits in dir."
+  },
+  {
+    "it": "Quello che spaventa di più è ciò che non si conosce.",
+    "de": "Was am meisten Angst macht, ist das, was man nicht kennt."
+  },
+  {
+    "it": "Qualsiasi cosa accada, non perdere la calma.",
+    "de": "Was auch immer passiert, verlier nicht die Ruhe."
+  },
+  {
+    "it": "Qualunque sia la decisione, la rispetto.",
+    "de": "Was auch immer die Entscheidung ist, ich respektiere sie."
+  },
+  {
+    "it": "Nulla di ciò che ha detto mi ha convinto.",
+    "de": "Nichts von dem, was er gesagt hat, hat mich überzeugt."
+  },
+  {
+    "it": "Nessuno di quelli presenti ha detto una parola.",
+    "de": "Keiner der Anwesenden hat ein Wort gesagt."
+  },
+  {
+    "it": "Ognuno faccia il suo e il sistema funziona.",
+    "de": "Jeder tue das Seine und das System funktioniert."
+  },
+  {
+    "it": "Ciascuno ha il diritto di sbagliare e ricominciare.",
+    "de": "Jeder hat das Recht zu irren und neu anzufangen."
+  },
+  {
+    "it": "Il tale di cui ti ho parlato si è fatto vivo.",
+    "de": "Der Besagte, von dem ich dir gesprochen habe, hat sich gemeldet."
+  },
+  {
+    "it": "Tali comportamenti non sono tollerabili in nessun contesto.",
+    "de": "Solches Verhalten ist in keinem Kontext tolerierbar."
+  },
+  {
+    "it": "Questo di cui parlo è un problema strutturale.",
+    "de": "Das, wovon ich spreche, ist ein strukturelles Problem."
+  },
+  {
+    "it": "Quella a cui mi riferisco è una questione delicata.",
+    "de": "Das, worauf ich mich beziehe, ist eine heikle Angelegenheit."
+  },
+  {
+    "it": "Questi che vedi sono i risultati di anni di lavoro.",
+    "de": "Das, was du siehst, sind die Ergebnisse jahrelanger Arbeit."
+  },
+  {
+    "it": "Quelle a cui aspiriamo sono mete ambiziose ma raggiungibili.",
+    "de": "Die Ziele, nach denen wir streben, sind ehrgeizig aber erreichbar."
+  },
+  {
+    "it": "Me ne starò in disparte finché non sarà il momento.",
+    "de": "Ich werde mich im Hintergrund halten, bis der Moment kommt."
+  },
+  {
+    "it": "Te ne uscirai meglio di quanto pensi.",
+    "de": "Du wirst besser aus dieser Sache hervorgehen, als du denkst."
+  },
+  {
+    "it": "Gliene occorrono ancora di prove per convincersi.",
+    "de": "Er braucht noch Beweise, um sich zu überzeugen."
+  },
+  {
+    "it": "Ce ne staremo fuori finché le acque si calmano.",
+    "de": "Wir bleiben draußen, bis sich die Wogen glätten."
+  },
+  {
+    "it": "Ve ne andate proprio quando c'è più bisogno di voi.",
+    "de": "Ihr geht genau dann, wenn man euch am meisten braucht."
+  },
+  {
+    "it": "Non me lo perdono: avrei potuto fare di più.",
+    "de": "Ich verzeihe es mir nicht: ich hätte mehr tun können."
+  },
+  {
+    "it": "Ti ci butteresti anche tu, ammettilo.",
+    "de": "Du würdest auch einspringen, gib es zu."
+  },
+  {
+    "it": "Gli ci vuole ben altro per farlo capitolare.",
+    "de": "Es braucht viel mehr, um ihn zum Aufgeben zu bringen."
+  },
+  {
+    "it": "Le ci vorrà ancora un anno per il dottorato.",
+    "de": "Sie wird noch ein Jahr für die Promotion brauchen."
+  },
+  {
+    "it": "Ci ci tenete proprio a dimostrare di avere ragione.",
+    "de": "Ihr legt wirklich Wert darauf zu zeigen, dass ihr Recht habt."
+  },
+  {
+    "it": "Vi ci vuole una bella faccia tosta a fare certi discorsi.",
+    "de": "Es braucht eine gehörige Portion Dreistigkeit, solche Reden zu halten."
+  },
+  {
+    "it": "Lo si nota subito quando qualcuno non è al suo posto.",
+    "de": "Man merkt sofort, wenn jemand fehl am Platz ist."
+  },
+  {
+    "it": "La si giudica severamente, forse perché eccelle.",
+    "de": "Man beurteilt sie streng, vielleicht weil sie herausragt."
+  },
+  {
+    "it": "Li si ammira per l'abnegazione con cui lavorano.",
+    "de": "Man bewundert sie für die Selbstlosigkeit, mit der sie arbeiten."
+  },
+  {
+    "it": "Le si deve un riconoscimento pubblico per il lavoro svolto.",
+    "de": "Ihr ist eine öffentliche Anerkennung für die geleistete Arbeit geschuldet."
+  },
+  {
+    "it": "Ne sono uscito trasformato da quell'esperienza.",
+    "de": "Ich bin von dieser Erfahrung verwandelt hervorgegangen."
+  },
+  {
+    "it": "Ci vuole del fegato per parlare così in pubblico.",
+    "de": "Man braucht Mut, um so in der Öffentlichkeit zu sprechen."
+  },
+  {
+    "it": "Si è giunti finalmente a una conclusione condivisa.",
+    "de": "Man ist endlich zu einer gemeinsamen Schlussfolgerung gelangt."
+  },
+  {
+    "it": "Me lo porto dietro come un peso da anni.",
+    "de": "Ich trage es seit Jahren wie eine Last mit mir."
+  },
+  {
+    "it": "Te lo tengo io da parte, non preoccuparti.",
+    "de": "Ich hebe es für dich auf, mach dir keine Sorgen."
+  },
+  {
+    "it": "Glielo porto io personalmente, è il minimo.",
+    "de": "Ich bringe es ihm persönlich, das ist das Mindeste."
+  },
+  {
+    "it": "Ce lo ricorderemo come un momento di svolta.",
+    "de": "Wir werden uns daran als einen Wendepunkt erinnern."
+  },
+  {
+    "it": "Ve lo restituisco entro la settimana.",
+    "de": "Ich gebe es euch innerhalb der Woche zurück."
+  },
+  {
+    "it": "Non me lo aspettavo: sei stato eccezionale.",
+    "de": "Ich hatte es nicht erwartet: du warst außergewöhnlich."
+  },
+  {
+    "it": "Ti si vede quanto ci tieni, e fa piacere.",
+    "de": "Man sieht, wie viel es dir bedeutet, und das ist schön."
+  },
+  {
+    "it": "Gli si deve riconoscere il coraggio delle proprie opinioni.",
+    "de": "Man muss ihm den Mut seiner eigenen Überzeugungen anerkennen."
+  },
+  {
+    "it": "Le si può rimproverare solo di non aver insistito.",
+    "de": "Man kann ihr nur vorwerfen, nicht beharrt zu haben."
+  },
+  {
+    "it": "Ci si perde in un labirinto di burocrazia.",
+    "de": "Man verliert sich in einem Labyrinth der Bürokratie."
+  },
+  {
+    "it": "Vi si richiede di esprimere un parere motivato.",
+    "de": "Von euch wird eine begründete Stellungnahme verlangt."
+  },
+  {
+    "it": "Lo si aspettava da un momento all'altro.",
+    "de": "Man erwartete ihn jeden Moment."
+  },
+  {
+    "it": "La si intende come una misura temporanea.",
+    "de": "Man versteht es als vorübergehende Maßnahme."
+  },
+  {
+    "it": "Li si è licenziati senza preavviso né spiegazioni.",
+    "de": "Man hat sie ohne Vorankündigung oder Erklärung entlassen."
+  },
+  {
+    "it": "Le si è affidato un dossier molto sensibile.",
+    "de": "Ihr wurde eine sehr heikle Akte anvertraut."
+  },
+  {
+    "it": "Ne è emerso un quadro più complesso del previsto.",
+    "de": "Es ist ein komplexeres Bild als erwartet entstanden."
+  },
+  {
+    "it": "Ci si rende conto della gravità solo dopo.",
+    "de": "Man erkennt den Ernst der Lage erst danach."
+  },
+  {
+    "it": "Si è scelto il momento peggiore per agire.",
+    "de": "Man hat den denkbar schlechtesten Moment zum Handeln gewählt."
+  },
+  {
+    "it": "Nonostante le premesse, non me la sento di rischiare.",
+    "de": "Trotz der Voraussetzungen getraue ich mir nicht, es zu riskieren."
+  },
+  {
+    "it": "Qualora ne avessi bisogno, non esitare a farmelo sapere.",
+    "de": "Solltest du es benötigen, zögere nicht, es mich wissen zu lassen."
+  },
+  {
+    "it": "Ormai non ne posso più delle sue continue lamentele.",
+    "de": "Ich kann seine ständigen Beschwerden jetzt nicht mehr ertragen."
+  },
+  {
+    "it": "Ciononostante, egli non se ne avvide affatto.",
+    "de": "Trotzdem bemerkte er es überhaupt nicht."
+  },
+  {
+    "it": "Bisogna farsene una ragione, non c'è altra via d'uscita.",
+    "de": "Man muss sich damit abfinden, es gibt keinen anderen Ausweg."
+  },
+  {
+    "it": "Se ne sono andati senza nemmeno degnarci di uno sguardo.",
+    "de": "Sie sind gegangen, ohne uns auch nur eines Blickes zu würdigen."
+  },
+  {
+    "it": "Non saprei proprio come sdebitarmene con voi.",
+    "de": "Ich wüsste wirklich nicht, wie ich mich bei euch dafür revanchieren sollte."
+  },
+  {
+    "it": "Chiunque ne fosse a conoscenza avrebbe dovuto parlare.",
+    "de": "Wer auch immer davon wusste, hätte sprechen müssen."
+  },
+  {
+    "it": "Se la sono cavata per il rotto della cuffia.",
+    "de": "Sie haben es gerade noch so geschafft (mit Ach und Krach)."
+  },
+  {
+    "it": "Non riesco proprio a capacitarmi di come sia potuto accadere.",
+    "de": "Ich kann es einfach nicht fassen, wie das passieren konnte."
+  },
+  {
+    "it": "Gliela farò pagare per questo affronto imperdonabile.",
+    "de": "Ich werde es ihn für diese unverzeihliche Beleidigung büßen lassen."
+  },
+  {
+    "it": "Tutto ciò di cui necessito è un briciolo di comprensione.",
+    "de": "Alles, was ich brauche, ist ein bisschen Verständnis."
+  },
+  {
+    "it": "Non me ne volere, ma non condivido la tua tesi.",
+    "de": "Groll mir nicht, aber ich teile deine These nicht."
+  },
+  {
+    "it": "Speravo che ce lo comunicassero con maggiore anticipo.",
+    "de": "Ich hatte gehofft, dass sie es uns früher mitteilen würden."
+  },
+  {
+    "it": "Si è accanito contro di lui senza un motivo valido.",
+    "de": "Er ist ohne triftigen Grund auf ihn losgegangen."
+  },
+  {
+    "it": "Prendetene pure quanto volete, ce n'è in abbondanza.",
+    "de": "Nehmt euch ruhig so viel ihr wollt, es ist reichlich da."
+  },
+  {
+    "it": "Non se ne parla nemmeno, la decisione è presa.",
+    "de": "Davon ist gar nicht die Rede, die Entscheidung steht fest."
+  },
+  {
+    "it": "Sapevo che te la saresti presa per così poco.",
+    "de": "Ich wusste, dass du wegen so einer Kleinigkeit beleidigt sein würdest."
+  },
+  {
+    "it": "Si vede che non te ne intendi affatto di politica.",
+    "de": "Man sieht, dass du überhaupt nichts von Politik verstehst."
+  },
+  {
+    "it": "Il direttore ci ha tenuto a precisarlo personalmente.",
+    "de": "Der Direktor legte Wert darauf, es persönlich klarzustellen."
+  },
+  {
+    "it": "Non riesco a darmene pace dopo quello che è successo.",
+    "de": "Ich finde keinen Frieden damit nach dem, was passiert ist."
+  },
+  {
+    "it": "Se la prendono sempre con i più deboli.",
+    "de": "Sie lassen es immer an den Schwächsten aus."
+  },
+  {
+    "it": "Qualunque cosa accada, me la caverò da solo.",
+    "de": "Was auch immer passiert, ich werde allein zurechtkommen."
+  },
+  {
+    "it": "Non ne vale la pena, fidati del mio istinto.",
+    "de": "Es ist es nicht wert, vertrau auf meinen Instinkt."
+  },
+  {
+    "it": "Ce ne ricorderemo a lungo, statene certi.",
+    "de": "Wir werden uns lange daran erinnern, seid euch dessen sicher."
+  },
+  {
+    "it": "Hanno provato a convincermi, ma non ci sono riusciti.",
+    "de": "Sie haben versucht mich zu überzeugen, aber es ist ihnen nicht gelungen."
+  },
+  {
+    "it": "Non gliene importa nulla del parere altrui.",
+    "de": "Ihm ist die Meinung anderer völlig egal."
+  },
+  {
+    "it": "Fattene un vanto, non capita a tutti un'occasione simile.",
+    "de": "Sei stolz darauf, so eine Chance bietet sich nicht jedem."
+  },
+  {
+    "it": "Si è reso conto troppo tardi del proprio errore.",
+    "de": "Er hat seinen Fehler zu spät eingesehen."
+  },
+  {
+    "it": "Non so se ce la farò a finire in tempo.",
+    "de": "Ich weiß nicht, ob ich es schaffen werde, rechtzeitig fertigzuwerden."
+  },
+  {
+    "it": "Ne va della tua reputazione professionale.",
+    "de": "Es geht um deinen beruflichen Ruf."
+  },
+  {
+    "it": "Avresti dovuto parlarmene prima di agire di testa tua.",
+    "de": "Du hättest mit mir darüber sprechen sollen, bevor du eigenmächtig handelst."
+  },
+  {
+    "it": "Non me lo sarei mai aspettato da una come lei.",
+    "de": "Das hätte ich von einer wie ihr niemals erwartet."
+  },
+  {
+    "it": "Chi di speranza vive, disperato muore.",
+    "de": "Wer von der Hoffnung lebt, stirbt verzweifelt."
+  },
+  {
+    "it": "Mettetecela tutta, il successo dipende solo da voi.",
+    "de": "Gebt euer Bestes, der Erfolg hängt nur von euch ab."
+  },
+  {
+    "it": "Non riesco a raccapezzarmici in questo caos burocratico.",
+    "de": "Ich finde mich in diesem bürokratischen Chaos nicht zurecht."
+  },
+  {
+    "it": "Bisogna rendersene conto prima che sia troppo tardi.",
+    "de": "Man muss es einsehen, bevor es zu spät ist."
+  },
+  {
+    "it": "Vattene via e non farti più vedere!",
+    "de": "Geh weg und lass dich hier nicht mehr blicken!"
+  },
+  {
+    "it": "Non so cosa ne pensiate voi, ma io dissento.",
+    "de": "Ich weiß nicht, was ihr davon haltet, aber ich widerspreche."
+  },
+  {
+    "it": "Non ci piove, è la migliore soluzione possibile.",
+    "de": "Da gibt es kein Vertun, es ist die bestmögliche Lösung."
+  },
+  {
+    "it": "Te ne sarei grato se potessi aiutarmi.",
+    "de": "Ich wäre dir dankbar, wenn du mir helfen könntest."
+  },
+  {
+    "it": "Ce ne sono di motivi per festeggiare stasera.",
+    "de": "Es gibt genug Gründe, um heute Abend zu feiern."
+  },
+  {
+    "it": "Non si può prescindere da tale presupposto.",
+    "de": "Man kann von dieser Voraussetzung nicht absehen."
+  },
+  {
+    "it": "Non farci caso, è solo un po' stanco.",
+    "de": "Achte nicht darauf, er ist nur ein wenig müde."
+  },
+  {
+    "it": "Cercate di trarne il massimo profitto possibile.",
+    "de": "Versucht, den größtmöglichen Nutzen daraus zu ziehen."
+  },
+  {
+    "it": "Nonostante tutto, ce l'abbiamo fatta contro ogni previsione.",
+    "de": "Trotz allem haben wir es gegen jede Erwartung geschafft."
+  },
+  {
+    "it": "Se ne dicono tante, ma la verità è un'altra.",
+    "de": "Es wird viel erzählt, aber die Wahrheit ist eine andere."
+  },
+  {
+    "it": "Non ci vedo nulla di male nel chiedere aiuto.",
+    "de": "Ich sehe nichts Schlechtes daran, um Hilfe zu bitten."
+  },
+  {
+    "it": "Loro non ne sanno nulla delle nostre intenzioni.",
+    "de": "Sie wissen rein gar nichts von unseren Absichten."
+  },
+  {
+    "it": "Me lo avevi promesso e ora te ne dimentichi?",
+    "de": "Du hattest es mir versprochen und jetzt vergisst du es?"
+  },
+  {
+    "it": "A chiunque lo chieda, rispondi che non ci sono.",
+    "de": "Wem auch immer fragt, antworte, dass ich nicht da bin."
+  },
+  {
+    "it": "Non ce n'è per nessuno, lui è il migliore.",
+    "de": "Da kommt keiner ran, er ist der Beste."
+  },
+  {
+    "it": "Infischiatene del loro giudizio e vai avanti.",
+    "de": "Pfeif auf ihr Urteil und mach weiter."
+  },
+  {
+    "it": "Ci mancherebbe altro che dovessi pagare anche io!",
+    "de": "Es würde noch fehlen, dass ich auch noch bezahlen müsste!"
+  },
+  {
+    "it": "Non se ne fece nulla per mancanza di fondi.",
+    "de": "Wegen Geldmangels wurde nichts daraus."
+  },
+  {
+    "it": "Renditene conto, non sei più un bambino.",
+    "de": "Sieh es ein, du bist kein Kind mehr."
+  },
+  {
+    "it": "Qualora vogliate procedere, fatecelo sapere via mail.",
+    "de": "Sollten Sie fortfahren wollen, lassen Sie es uns per E-Mail wissen."
+  },
+  {
+    "it": "Non me ne occupo io, chieda al mio collega.",
+    "de": "Ich kümmere mich nicht darum, fragen Sie meinen Kollegen."
+  },
+  {
+    "it": "Se ne sta lì tutto il giorno senza fare nulla.",
+    "de": "Er sitzt dort den ganzen Tag rum, ohne etwas zu tun."
+  },
+  {
+    "it": "Non ne vado fiero, ma è la realtà dei fatti.",
+    "de": "Ich bin nicht stolz darauf, aber es ist die Realität."
+  },
+  {
+    "it": "Le si addice molto quel colore di capelli.",
+    "de": "Diese Haarfarbe steht ihr sehr gut."
+  },
+  {
+    "it": "Non vedo l'ora di sbarazzarmene una volta per tutte.",
+    "de": "Ich kann es kaum erwarten, es ein für alle Mal loszuwerden."
+  },
+  {
+    "it": "Non ci sto a passare per il colpevole.",
+    "de": "Ich akzeptiere es nicht, als der Schuldige dazustehen."
+  },
+  {
+    "it": "Gliene sarei debitore per il resto della vita.",
+    "de": "Ich wäre ihm dafür für den Rest meines Lebens verpflichtet."
+  },
+  {
+    "it": "Prenditela pure con comodo, non c'è fretta.",
+    "de": "Lass dir ruhig Zeit, es eilt nicht."
+  },
+  {
+    "it": "Non gliela si fa, è troppo furbo.",
+    "de": "Man kann ihn nicht austricksen, er ist zu schlau."
+  },
+  {
+    "it": "Se ne avvantaggiano sempre i soliti noti.",
+    "de": "Es profitieren immer die üblichen Verdächtigen davon."
+  },
+  {
+    "it": "Ci tenevo particolarmente a fare una buona impressione.",
+    "de": "Mir lag besonders viel daran, einen guten Eindruck zu machen."
+  },
+  {
+    "it": "Non gliene sfugge una, nota ogni minimo dettaglio.",
+    "de": "Ihm entgeht nichts, er bemerkt jedes kleinste Detail."
+  },
+  {
+    "it": "Si è scagliato contro di me senza preavviso.",
+    "de": "Er ist ohne Vorwarnung auf mich losgegangen."
+  },
+  {
+    "it": "Non ne caverai un ragno dal buco con lui.",
+    "de": "Du wirst bei ihm nichts erreichen (keinen Erfolg haben)."
+  },
+  {
+    "it": "Faccelo sapere non appena ne avrai la certezza.",
+    "de": "Lass es uns wissen, sobald du Gewissheit darüber hast."
+  },
+  {
+    "it": "Non se ne può più di questa situazione incerta.",
+    "de": "Man hält diese ungewisse Situation nicht mehr aus."
+  },
+  {
+    "it": "Ce lo siamo chiesti tutti almeno una volta.",
+    "de": "Wir haben uns das alle mindestens einmal gefragt."
+  },
+  {
+    "it": "Chiunque lo vedesse ne rimarrebbe estasiato.",
+    "de": "Wer auch immer es sähe, wäre davon hingerissen."
+  },
+  {
+    "it": "L'ho fatto per lui, benché non se lo meritasse.",
+    "de": "Ich habe es für ihn getan, obwohl er es nicht verdient hatte."
+  },
+  {
+    "it": "Non ne dubito affatto, conoscendo la tua integrità.",
+    "de": "Ich zweifle keineswegs daran, da ich deine Integrität kenne."
+  },
+  {
+    "it": "Vacci piano con le critiche, è molto sensibile.",
+    "de": "Geh vorsichtig mit Kritik um, er ist sehr empfindlich."
+  },
+  {
+    "it": "Non me la sento proprio di uscire stasera.",
+    "de": "Ich fühle mich heute Abend wirklich nicht danach, auszugehen."
+  },
+  {
+    "it": "Cerca di non pensarcene più, è acqua passata.",
+    "de": "Versuch nicht mehr daran zu denken, es ist Schnee von gestern."
+  },
+  {
+    "it": "Se ne servì per raggiungere i suoi scopi personali.",
+    "de": "Er nutzte es aus, um seine persönlichen Ziele zu erreichen."
+  },
+  {
+    "it": "Non ci avrei scommesso un centesimo su di loro.",
+    "de": "Ich hätte keinen Cent auf sie gewettet."
+  },
+  {
+    "it": "Si è accorto di averne lasciate alcune a casa.",
+    "de": "Er hat bemerkt, dass er einige davon zu Hause gelassen hat."
+  },
+  {
+    "it": "Non mi ci far pensare, mi viene il mal di testa.",
+    "de": "Lass mich nicht daran denken, davon bekomme ich Kopfschmerzen."
+  },
+  {
+    "it": "Ne ho abbastanza delle tue scuse banali.",
+    "de": "Ich habe genug von deinen banalen Ausreden."
+  },
+  {
+    "it": "Qualunque cosa ti dica, non credergli sulla parola.",
+    "de": "Was auch immer er dir sagt, glaub ihm nicht unbesehen."
+  },
+  {
+    "it": "Ce la stiamo mettendo tutta per finire il progetto.",
+    "de": "Wir geben alles, um das Projekt zu beenden."
+  },
+  {
+    "it": "Non se ne avrà a male se non veniamo?",
+    "de": "Wird er es uns nicht übel nehmen, wenn wir nicht kommen?"
+  },
+  {
+    "it": "Speriamo di potercene andare via presto da qui.",
+    "de": "Hoffen wir, dass wir hier bald weggehen können."
+  },
+  {
+    "it": "Non gliene importa un fico secco di noi.",
+    "de": "Ihm ist es völlig egal, was mit uns ist."
+  },
+  {
+    "it": "Mettetevi nei miei panni e cercate di capire.",
+    "de": "Versetzt euch in meine Lage und versucht zu verstehen."
+  },
+  {
+    "it": "Non saprei che farne di un simile regalo.",
+    "de": "Ich wüsste nicht, was ich mit so einem Geschenk anfangen sollte."
+  },
+  {
+    "it": "Si è approfittato della mia buona fede, maledetto!",
+    "de": "Er hat meine Gutgläubigkeit ausgenutzt, verdammt noch mal!"
+  },
+  {
+    "it": "Non ce la faccio più a sopportare questo rumore.",
+    "de": "Ich halte diesen Lärm nicht mehr aus."
+  },
+  {
+    "it": "C'è chi dice che se ne sia già andato.",
+    "de": "Es gibt Leute, die sagen, er sei bereits gegangen."
+  },
+  {
+    "it": "Non ci si può fidare di nessuno oggigiorno.",
+    "de": "Heutzutage kann man niemandem mehr trauen."
+  },
+  {
+    "it": "Ne è passata di acqua sotto i ponti!",
+    "de": "Seitdem ist viel Wasser den Bach runtergegangen!"
+  },
+  {
+    "it": "Prendetene atto e agite di conseguenza.",
+    "de": "Nehmt es zur Kenntnis und handelt dementsprechend."
+  },
+  {
+    "it": "Non me lo perdonerei mai se accadesse qualcosa.",
+    "de": "Ich würde es mir nie verzeihen, wenn etwas passieren würde."
+  },
+  {
+    "it": "Ce ne vuole di coraggio per ammettere i propri sbagli.",
+    "de": "Es braucht viel Mut, die eigenen Fehler zuzugeben."
+  },
+  {
+    "it": "Lo si evince chiaramente dal contesto del discorso.",
+    "de": "Das lässt sich eindeutig aus dem Kontext der Rede ableiten."
+  },
+  {
+    "it": "Ne consegue che la nostra tesi sia valida.",
+    "de": "Daraus folgt, dass unsere These gültig ist."
+  },
+  {
+    "it": "Glielo feci notare con estrema discrezione e tatto.",
+    "de": "Ich wies ihn mit äußerster Diskretion und Taktgefühl darauf hin."
+  },
+  {
+    "it": "Ci si aspetterebbe un comportamento più consono al ruolo.",
+    "de": "Man würde ein dem Amt angemesseneres Verhalten erwarten."
+  },
+  {
+    "it": "Mi si stringe il cuore a vederla così soffrire.",
+    "de": "Es bricht mir das Herz, sie so leiden zu sehen."
+  },
+  {
+    "it": "Ne va della stabilità dell'intero sistema economico.",
+    "de": "Es geht um die Stabilität des gesamten Wirtschaftssystems."
+  },
+  {
+    "it": "Chiunque lo desideri può partecipare alla conferenza stampa.",
+    "de": "Wer auch immer es wünscht, kann an der Pressekonferenz teilnehmen."
+  },
+  {
+    "it": "Me ne assumo la piena responsabilità davanti a tutti.",
+    "de": "Ich übernehme dafür vor allen die volle Verantwortung."
+  },
+  {
+    "it": "Te la sentiresti di affrontare un viaggio così lungo?",
+    "de": "Würdest du dich der Herausforderung einer so langen Reise gewachsen fühlen?"
+  },
+  {
+    "it": "Ce lo siamo chiesti ripetutamente senza trovare risposta.",
+    "de": "Wir haben uns das wiederholt gefragt, ohne eine Antwort zu finden."
+  },
+  {
+    "it": "Gliene parlai ampiamente durante il nostro ultimo incontro.",
+    "de": "Ich sprach mit ihm ausführlich darüber bei unserem letzten Treffen."
+  },
+  {
+    "it": "Qualunque cosa accada, non tradirò mai la tua fiducia.",
+    "de": "Was auch immer passiert, ich werde dein Vertrauen niemals enttäuschen."
+  },
+  {
+    "it": "Lo si credeva disperso, invece è riapparso all'improvviso.",
+    "de": "Man glaubte ihn verschollen, doch er ist plötzlich wieder aufgetaucht."
+  },
+  {
+    "it": "Ne abbiamo discusso a lungo senza giungere a una conclusione.",
+    "de": "Wir haben lange darüber diskutiert, ohne zu einem Ergebnis zu kommen."
+  },
+  {
+    "it": "Ve lo garantisco io, non rimarrete affatto delusi.",
+    "de": "Ich garantiere es euch, ihr werdet keineswegs enttäuscht sein."
+  },
+  {
+    "it": "Se ne deduce che l'esperimento sia fallito miseramente.",
+    "de": "Daraus lässt sich schließen, dass das Experiment kläglich gescheitert ist."
+  },
+  {
+    "it": "Tutto ciò che dici sembra privo di fondamento logico.",
+    "de": "Alles, was du sagst, scheint jeder logischen Grundlage zu entbehren."
+  },
+  {
+    "it": "Li si riconosce facilmente dal loro modo di vestire.",
+    "de": "Man erkennt sie leicht an ihrer Art sich zu kleiden."
+  },
+  {
+    "it": "Ciascuno di noi deve fare la propria parte.",
+    "de": "Jeder von uns muss seinen Teil beitragen."
+  },
+  {
+    "it": "Gliela abbiamo data vinta per evitare inutili polemiche.",
+    "de": "Wir haben ihn gewinnen lassen, um unnötige Polemik zu vermeiden."
+  },
+  {
+    "it": "Qualcuno ne ha parlato con il diretto interessato?",
+    "de": "Hat jemand mit dem direkt Betroffenen darüber gesprochen?"
+  },
+  {
+    "it": "Ci mancherebbe che non ti aiutassi in questo momento!",
+    "de": "Es würde noch fehlen, dass ich dir in diesem Moment nicht hülfe!"
+  },
+  {
+    "it": "Lo si definisce un genio, ma è solo un arrogante.",
+    "de": "Man nennt ihn ein Genie, aber er ist nur arrogant."
+  },
+  {
+    "it": "Me lo disse sussurrando per non farsi sentire.",
+    "de": "Er sagte es mir flüsternd, um nicht gehört zu werden."
+  },
+  {
+    "it": "Ne sono convinto, non c'è ombra di dubbio.",
+    "de": "Davon bin ich überzeugt, es gibt keinen Schatten eines Zweifels."
+  },
+  {
+    "it": "Ti si addice molto questo nuovo incarico di prestigio.",
+    "de": "Diese neue prestigeträchtige Aufgabe steht dir sehr gut."
+  },
+  {
+    "it": "Le si attribuisce la scoperta di questo raro reperto.",
+    "de": "Ihr wird die Entdeckung dieses seltenen Fundstücks zugeschrieben."
+  },
+  {
+    "it": "C'è chi sostiene che il peggio sia passato.",
+    "de": "Es gibt Leute, die behaupten, das Schlimmste sei vorbei."
+  },
+  {
+    "it": "Quello che mi preme sottolineare è la tua onestà.",
+    "de": "Was mir wichtig ist zu betonen, ist deine Ehrlichkeit."
+  },
+  {
+    "it": "Ce ne andremo non appena avremo finito il lavoro.",
+    "de": "Wir werden gehen, sobald wir die Arbeit beendet haben."
+  },
+  {
+    "it": "Ognuno si assuma le conseguenze delle proprie azioni.",
+    "de": "Jeder trage die Konsequenzen seines eigenen Handelns."
+  },
+  {
+    "it": "Niente di ciò che hai detto mi convince affatto.",
+    "de": "Nichts von dem, was du gesagt hast, überzeugt mich."
+  },
+  {
+    "it": "Le si leggeva in volto tutta la sua amarezza.",
+    "de": "Man konnte ihr die ganze Bitterkeit im Gesicht ablesen."
+  },
+  {
+    "it": "Si dice che ne sappia più di quanto ammetta.",
+    "de": "Man sagt, dass er mehr darüber weiß, als er zugibt."
+  },
+  {
+    "it": "Lo si potrebbe definire un errore di valutazione grossolano.",
+    "de": "Man könnte es als einen groben Beurteilungsfehler bezeichnen."
+  },
+  {
+    "it": "Chi di voi ne ha avuto notizia per primo?",
+    "de": "Wer von euch hat als Erster davon erfahren?"
+  },
+  {
+    "it": "Me lo sarei augurato, ma temevo il peggio.",
+    "de": "Ich hätte es mir gewünscht, aber ich befürchtete das Schlimmste."
+  },
+  {
+    "it": "Ne occorrono almeno tre per completare l'opera.",
+    "de": "Es werden mindestens drei davon benötigt, um das Werk zu vollenden."
+  },
+  {
+    "it": "Te ne darò atto quando vedrò i risultati concreti.",
+    "de": "Ich werde es dir anerkennen, wenn ich konkrete Ergebnisse sehe."
+  },
+  {
+    "it": "Ve ne prego, non insistete ulteriormente su questo punto.",
+    "de": "Ich bitte euch darum, beharrt nicht weiter auf diesem Punkt."
+  },
+  {
+    "it": "Lo si nota subito che non sei di qui.",
+    "de": "Man merkt sofort, dass du nicht von hier bist."
+  },
+  {
+    "it": "Chiunque ne fosse l'autore ha fatto un ottimo lavoro.",
+    "de": "Wer auch immer der Autor davon war, hat hervorragende Arbeit geleistet."
+  },
+  {
+    "it": "Ce la metteremo tutta per soddisfare le vostre esigenze.",
+    "de": "Wir werden alles geben, um Ihre Bedürfnisse zu befriedigen."
+  },
+  {
+    "it": "Glielo comunichi Lei, data la vostra lunga amicizia.",
+    "de": "Teilen Sie es ihm mit, angesichts Ihrer langen Freundschaft."
+  },
+  {
+    "it": "Ne sono scaturite polemiche a non finire.",
+    "de": "Daraus sind endlose Polemiken entstanden."
+  },
+  {
+    "it": "Ci si abitua a tutto, anche alla solitudine.",
+    "de": "Man gewöhnt sich an alles, sogar an die Einsamkeit."
+  },
+  {
+    "it": "Lo abbiamo apprezzato molto per la sua schiettezza.",
+    "de": "Wir haben ihn für seine Aufrichtigkeit sehr geschätzt."
+  },
+  {
+    "it": "Li si vede spesso passeggiare insieme nel parco.",
+    "de": "Man sieht sie oft zusammen im Park spazieren gehen."
+  },
+  {
+    "it": "Tutto quanto è accaduto resta tra noi tre.",
+    "de": "Alles, was passiert ist, bleibt unter uns dreien."
+  },
+  {
+    "it": "Se ne è parlato fin troppo, ora agiamo.",
+    "de": "Es wurde mehr als genug darüber gesprochen, jetzt handeln wir."
+  },
+  {
+    "it": "Gliene sarò grato finché avrò vita.",
+    "de": "Ich werde ihm dafür dankbar sein, solange ich lebe."
+  },
+  {
+    "it": "Qualunque sia il prezzo, lo comprerò sicuramente.",
+    "de": "Was auch immer der Preis ist, ich werde es sicher kaufen."
+  },
+  {
+    "it": "Ognuno ne tragga le conclusioni che ritiene opportune.",
+    "de": "Jeder ziehe daraus die Schlüsse, die er für angemessen hält."
+  },
+  {
+    "it": "Ce ne rendiamo conto solo ora, purtroppo.",
+    "de": "Wir merken es erst jetzt, leider."
+  },
+  {
+    "it": "Mi si prospetta un futuro ricco di soddisfazioni.",
+    "de": "Mir stellt sich eine Zukunft voller Genugtuung in Aussicht."
+  },
+  {
+    "it": "Ne varrà la pena, te lo assicuro io.",
+    "de": "Es wird sich lohnen, das versichere ich dir."
+  },
+  {
+    "it": "Lo si ritiene responsabile dell'accaduto senza prove certe.",
+    "de": "Man hält ihn ohne sichere Beweise für den Vorfall verantwortlich."
+  },
+  {
+    "it": "Te ne sei andato via senza dirmi nulla.",
+    "de": "Du bist weggegangen, ohne mir etwas zu sagen."
+  },
+  {
+    "it": "Ve la caverete benissimo anche senza il mio aiuto.",
+    "de": "Ihr werdet auch ohne meine Hilfe bestens zurechtkommen."
+  },
+  {
+    "it": "Gliela spiegherò io la situazione nei minimi dettagli.",
+    "de": "Ich werde ihm die Situation bis ins kleinste Detail erklären."
+  },
+  {
+    "it": "Chi ne ha la possibilità dovrebbe donare qualcosa.",
+    "de": "Wer die Möglichkeit dazu hat, sollte etwas spenden."
+  },
+  {
+    "it": "Ce l'abbiamo quasi fatta, manca solo un ultimo sforzo.",
+    "de": "Wir haben es fast geschafft, es fehlt nur noch eine letzte Anstrengung."
+  },
+  {
+    "it": "Ne derivano vantaggi inaspettati per tutta la comunità.",
+    "de": "Daraus ergeben sich unerwartete Vorteile für die ganze Gemeinschaft."
+  },
+  {
+    "it": "Ci si dimentica facilmente delle promesse fatte in campagna elettorale.",
+    "de": "Man vergisst leicht die im Wahlkampf gemachten Versprechen."
+  },
+  {
+    "it": "Lo si accusa di aver mentito deliberatamente al giudice.",
+    "de": "Man beschuldigt ihn, den Richter bewusst belogen zu haben."
+  },
+  {
+    "it": "Me lo immagino già mentre festeggia la vittoria.",
+    "de": "Ich stelle ihn mir schon vor, wie er den Sieg feiert."
+  },
+  {
+    "it": "Te ne parlerò a quattr'occhi domani sera.",
+    "de": "Ich werde morgen Abend unter vier Augen mit dir darüber sprechen."
+  },
+  {
+    "it": "Le si riconosce un grande talento artistico innato.",
+    "de": "Man erkennt ihr ein großes angeborenes künstlerisches Talent an."
+  },
+  {
+    "it": "Nessuno ne sapeva nulla fino a stamattina.",
+    "de": "Niemand wusste bis heute Morgen etwas davon."
+  },
+  {
+    "it": "Ciascuno si porti il proprio materiale da casa.",
+    "de": "Jeder bringe sein eigenes Material von zu Hause mit."
+  },
+  {
+    "it": "Lo abbiamo constatato di persona durante il sopralluogo.",
+    "de": "Wir haben es während der Besichtigung persönlich festgestellt."
+  },
+  {
+    "it": "Ne è valsa la pena, nonostante la fatica.",
+    "de": "Es hat sich gelohnt, trotz der Anstrengung."
+  },
+  {
+    "it": "Ti si riconosce subito dalla tua risata contagiosa.",
+    "de": "Man erkennt dich sofort an deinem ansteckenden Lachen."
+  },
+  {
+    "it": "Ce lo comunichi via fax entro le ore dodici.",
+    "de": "Teilen Sie es uns bis zwölf Uhr per Fax mit."
+  },
+  {
+    "it": "Glielo ribadirò fino alla noia se necessario.",
+    "de": "Ich werde es ihm bis zum Überdruss wiederholen, wenn nötig."
+  },
+  {
+    "it": "Chiunque lo incontri ne rimane affascinato all'istante.",
+    "de": "Wer auch immer ihn trifft, ist augenblicklich von ihm fasziniert."
+  },
+  {
+    "it": "Qualcosa mi dice che non andrà come sperato.",
+    "de": "Etwas sagt mir, dass es nicht wie erhofft laufen wird."
+  },
+  {
+    "it": "Lo si mormora nei corridoi della politica romana.",
+    "de": "Man munkelt es in den Korridoren der römischen Politik."
+  },
+  {
+    "it": "Ne farei volentieri a meno di questo incarico.",
+    "de": "Ich würde liebend gerne auf diese Aufgabe verzichten."
+  },
+  {
+    "it": "Ve ne saremmo grati se voleste ascoltarci.",
+    "de": "Wir wären euch dankbar, wenn ihr uns zuhören würdet."
+  },
+  {
+    "it": "Se ne sono accorti tutti tranne il diretto interessato.",
+    "de": "Alle haben es bemerkt, außer der direkt Betroffene."
+  },
+  {
+    "it": "Ci pensino loro a risolvere questa grana.",
+    "de": "Sollen sie sich doch darum kümmern, dieses Problem zu lösen."
+  },
+  {
+    "it": "Me la pagherai cara per questo tradimento.",
+    "de": "Du wirst mir das für diesen Verrat teuer bezahlen."
+  },
+  {
+    "it": "Lo vedo molto provato dagli ultimi avvenimenti.",
+    "de": "Ich sehe ihn durch die jüngsten Ereignisse sehr mitgenommen."
+  },
+  {
+    "it": "Ne è derivata una confusione a dir poco totale.",
+    "de": "Daraus ist eine gelinde gesagt totale Verwirrung entstanden."
+  },
+  {
+    "it": "Ti si vuole bene nonostante i tuoi difetti.",
+    "de": "Man hat dich gern trotz deiner Fehler."
+  },
+  {
+    "it": "Qualcuno lo aiuti, sta per cadere!",
+    "de": "Jemand helfe ihm, er droht zu fallen!"
+  },
+  {
+    "it": "Lo si definisce spesso come un uomo d'altri tempi.",
+    "de": "Man bezeichnet ihn oft als einen Mann alter Schule."
+  },
+  {
+    "it": "Ne prendo atto, pur non essendo affatto d'accordo.",
+    "de": "Ich nehme es zur Kenntnis, obwohl ich keineswegs einverstanden bin."
+  },
+  {
+    "it": "Ce lo aspettavamo da un momento all'altro.",
+    "de": "Wir haben es jeden Augenblick erwartet."
+  },
+  {
+    "it": "Glielo riferisca non appena ha un attimo libero.",
+    "de": "Berichten Sie es ihm, sobald er einen Augenblick Zeit hat."
+  },
+  {
+    "it": "Chiunque ne abbia le prove si faccia avanti.",
+    "de": "Wer auch immer Beweise dafür hat, möge sich melden."
+  },
+  {
+    "it": "Niente ne impedirà la realizzazione nei tempi previsti.",
+    "de": "Nichts wird die termingerechte Realisierung davon verhindern."
+  },
+  {
+    "it": "Lo si ritiene un passaggio fondamentale per la pace.",
+    "de": "Man hält es für einen grundlegenden Schritt zum Frieden."
+  },
+  {
+    "it": "Ne resterà soltanto uno, come nel celebre film.",
+    "de": "Es wird nur einer davon übrig bleiben, wie im berühmten Film."
+  },
+  {
+    "it": "Ve lo avevamo detto che non sarebbe stato facile.",
+    "de": "Wir hatten euch gesagt, dass es nicht einfach sein würde."
+  },
+  {
+    "it": "Se ne faccia una ragione, il tempo non torna.",
+    "de": "Finden Sie sich damit ab, die Zeit kehrt nicht zurück."
+  },
+  {
+    "it": "Ci si aspetta sempre il massimo da te.",
+    "de": "Man erwartet immer das Maximum von dir."
+  },
+  {
+    "it": "Lo abbiamo scelto tra molti candidati validi.",
+    "de": "Wir haben ihn aus vielen fähigen Kandidaten ausgewählt."
+  },
+  {
+    "it": "Ne sono orgoglioso, è stato un lavoro eccellente.",
+    "de": "Ich bin stolz darauf, es war eine hervorragende Arbeit."
+  },
+  {
     "it": "dove una parte di sé che fino a quel momento rifiutava ora viene accettata in un contesto sicuro.",
     "de": "wo ein Teil des Selbst, den man bis dahin ablehnte, nun in einem sicheren Kontext akzeptiert wird."
   },
