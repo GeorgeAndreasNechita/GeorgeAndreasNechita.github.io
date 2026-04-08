@@ -249,20 +249,47 @@
       }
 
       function speakCurrent() {
-        const item = texts[getCurrentIndex()];
-        if (!item) return;
-        window.speechSynthesis.cancel();
-        for (let i = 0; i < settings.itRepeat; i++) {
-          const m = new SpeechSynthesisUtterance(item.it);
-          m.lang = "it-IT";
-          window.speechSynthesis.speak(m);
-        }
-        for (let i = 0; i < settings.deRepeat; i++) {
-          const m = new SpeechSynthesisUtterance(item.de);
-          m.lang = "de-DE";
-          window.speechSynthesis.speak(m);
-        }
-      }
+  const item = texts[getCurrentIndex()];
+  if (!item) return;
+
+  window.speechSynthesis.cancel();
+
+  // 1. Alle verfügbaren Stimmen abrufen
+  const allVoices = window.speechSynthesis.getVoices();
+
+  // 2. Stimmen für die spezifischen Sprachen filtern
+  const italianVoices = allVoices.filter(v => v.lang.startsWith("it"));
+  const germanVoices = allVoices.filter(v => v.lang.startsWith("de"));
+
+  // Hilfsfunktion zur Auswahl einer zufälligen Stimme
+  const getRandomVoice = (voices) => voices[Math.floor(Math.random() * voices.length)];
+
+  // Italienischer Teil
+  for (let i = 0; i < settings.itRepeat; i++) {
+    const m = new SpeechSynthesisUtterance(item.it);
+    m.lang = "it-IT";
+    
+    // Zufällige italienische Stimme zuweisen, falls vorhanden
+    if (italianVoices.length > 0) {
+      m.voice = getRandomVoice(italianVoices);
+    }
+    
+    window.speechSynthesis.speak(m);
+  }
+
+  // Deutscher Teil
+  for (let i = 0; i < settings.deRepeat; i++) {
+    const m = new SpeechSynthesisUtterance(item.de);
+    m.lang = "de-DE";
+    
+    // Zufällige deutsche Stimme zuweisen, falls vorhanden
+    if (germanVoices.length > 0) {
+      m.voice = getRandomVoice(germanVoices);
+    }
+    
+    window.speechSynthesis.speak(m);
+  }
+}
 
       function getCurrentIndex() {
         return parseInt(localStorage.getItem("vokabel_index") || "0");
