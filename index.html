@@ -90,12 +90,6 @@
         transform: scale(1.05);
       }
 
-      .reset-btn {
-        border-color: var(--danger-color);
-        color: var(--danger-color);
-        opacity: 0.8;
-      }
-
       /* Hauptbereich */
       #display-area {
         height: 45vh;
@@ -185,7 +179,7 @@
     <div class="top-controls">
       <button id="it-toggle" onclick="cycleIt()" class="top-btn">IT: --</button>
       <button id="de-toggle" onclick="cycleDe()" class="top-btn">DE: --</button>
-      <button onclick="resetProgress()" class="top-btn reset-btn">Reset</button>
+      <button onclick="changeIndex()" class="top-btn">Change Index</button>
     </div>
 
     <div id="display-area">
@@ -297,10 +291,16 @@
         renderData();
       }
 
-      function resetProgress() {
-        if (confirm("Reset?")) {
-          localStorage.setItem("vokabel_index", 0);
-          renderData();
+      function changeIndex() {
+        const val = prompt(`Index eingeben (1 - ${texts.length}):`, getCurrentIndex() + 1);
+        if (val !== null) {
+          const newIdx = parseInt(val) - 1;
+          if (!isNaN(newIdx) && newIdx >= 0 && newIdx < texts.length) {
+            localStorage.setItem("vokabel_index", newIdx);
+            renderData();
+          } else {
+            alert("Ungültiger Index!");
+          }
         }
       }
       loadTexts();
