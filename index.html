@@ -255,13 +255,11 @@
         for (let i = 0; i < settings.itRepeat; i++) {
           const m = new SpeechSynthesisUtterance(item.it);
           m.lang = "it-IT";
-          m.rate = 1.12;
           window.speechSynthesis.speak(m);
         }
         for (let i = 0; i < settings.deRepeat; i++) {
           const m = new SpeechSynthesisUtterance(item.de);
           m.lang = "de-DE";
-          m.rate = 1.12;
           window.speechSynthesis.speak(m);
         }
       }
