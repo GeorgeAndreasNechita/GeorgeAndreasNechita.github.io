@@ -1,1372 +1,299 @@
 [
-  {
-    "it": "Io ho lasciato le chiavi sul tavolo e non riesco più a trovarle.",
-    "de": "Ich habe die Schlüssel auf dem Tisch gelassen und kann sie nicht mehr finden."
-  },
-  {
-    "it": "Tu hai dimenticato di chiudere la finestra e ora piove dentro.",
-    "de": "Du hast vergessen, das Fenster zu schließen, und jetzt regnet es herein."
-  },
-  {
-    "it": "Lei ha comprato un nuovo paio di scarpe che non ha ancora indossato.",
-    "de": "Sie hat ein neues Paar Schuhe gekauft, das sie noch nicht getragen hat."
-  },
-  {
-    "it": "Lui ha rotto il computer portatile cadendogli sopra per sbaglio.",
-    "de": "Er hat den Laptop kaputt gemacht, indem er versehentlich darauf gefallen ist."
-  },
-  {
-    "it": "Io non riesco a dormire bene se il gatto si mette sul letto.",
-    "de": "Ich kann nicht gut schlafen, wenn die Katze sich auf das Bett legt."
-  },
-  {
-    "it": "Tu hai lasciato il telefono sul divano e qualcuno ci si è seduto sopra.",
-    "de": "Du hast das Telefon auf dem Sofa gelassen und jemand hat sich darauf gesetzt."
-  },
-  {
-    "it": "Lei non riesce a iniziare la giornata senza una tazza di caffè.",
-    "de": "Sie kann den Tag nicht beginnen ohne eine Tasse Kaffee."
-  },
-  {
-    "it": "Lui ha dimenticato l'ombrello a casa proprio il giorno in cui pioveva di più.",
-    "de": "Er hat den Regenschirm genau an dem Tag zu Hause vergessen, an dem es am meisten regnete."
-  },
-  {
-    "it": "Io ho trovato il mio vecchio quaderno sotto una pila di libri.",
-    "de": "Ich habe mein altes Notizbuch unter einem Bücherstapel gefunden."
-  },
-  {
-    "it": "Tu non dovresti mettere il cellulare vicino al lavandino del bagno.",
-    "de": "Du solltest das Handy nicht neben das Waschbecken im Bad legen."
-  },
-  {
-    "it": "Lei ha regalato alla nipote una bambola che aveva conservato per anni.",
-    "de": "Sie hat ihrer Nichte eine Puppe geschenkt, die sie jahrelang aufbewahrt hatte."
-  },
-  {
-    "it": "Lui ha trovato una vecchia bicicletta in cantina e l'ha rimessa in sesto.",
-    "de": "Er hat ein altes Fahrrad im Keller gefunden und es wieder in Schuss gebracht."
-  },
-  {
-    "it": "Io non sopporto il rumore che fa la lavatrice di notte.",
-    "de": "Ich kann das Geräusch, das die Waschmaschine nachts macht, nicht ertragen."
-  },
-  {
-    "it": "Tu hai dimenticato di annaffiare le piante e ora sono tutte secche.",
-    "de": "Du hast vergessen, die Pflanzen zu gießen, und jetzt sind sie alle vertrocknet."
-  },
-  {
-    "it": "Lei si è tagliata con il coltello mentre preparava la cena.",
-    "de": "Sie hat sich beim Zubereiten des Abendessens mit dem Messer geschnitten."
-  },
-  {
-    "it": "Lui ha rotto il bicchiere preferito di sua madre e non sa come dirglielo.",
-    "de": "Er hat das Lieblingsgl as seiner Mutter zerbrochen und weiß nicht, wie er es ihr sagen soll."
-  },
-  {
-    "it": "Io ho comprato una nuova lampada per il salotto ma non mi piace come sta.",
-    "de": "Ich habe eine neue Lampe für das Wohnzimmer gekauft, aber ich mag nicht, wie sie aussieht."
-  },
-  {
-    "it": "Tu hai lasciato il libro aperto sulla sedia e il cane l'ha masticato.",
-    "de": "Du hast das Buch offen auf dem Stuhl gelassen und der Hund hat daran gekaut."
-  },
-  {
-    "it": "Lei non riesce a trovare le sue cuffie da quando ha riordinato la stanza.",
-    "de": "Sie kann ihre Kopfhörer nicht finden, seitdem sie das Zimmer aufgeräumt hat."
-  },
-  {
-    "it": "Lui ha comprato uno zaino nuovo per il viaggio che sta pianificando.",
-    "de": "Er hat einen neuen Rucksack für die Reise gekauft, die er plant."
-  },
-  {
-    "it": "Io ho lasciato il portafoglio in macchina e non me ne sono accorto subito.",
-    "de": "Ich habe die Brieftasche im Auto gelassen und es nicht sofort gemerkt."
-  },
-  {
-    "it": "Tu hai messo le scarpe bagnate sul termosifone e ora puzzano.",
-    "de": "Du hast die nassen Schuhe auf den Heizkörper gelegt und jetzt stinken sie."
-  },
-  {
-    "it": "Lei ha trovato un vecchio orologio di suo nonno in fondo al cassetto.",
-    "de": "Sie hat eine alte Uhr ihres Großvaters auf dem Grund der Schublade gefunden."
-  },
-  {
-    "it": "Lui non riesce a lavorare senza avere il suo computer sul tavolo ordinato.",
-    "de": "Er kann nicht arbeiten, ohne seinen Computer auf dem aufgeräumten Tisch zu haben."
-  },
-  {
-    "it": "Io ho dimenticato di caricare il telefono e ora la batteria è scarica.",
-    "de": "Ich habe vergessen, das Telefon aufzuladen, und jetzt ist der Akku leer."
-  },
-  {
-    "it": "Tu hai rotto la sedia appoggiandoti troppo indietro mentre leggevi.",
-    "de": "Du hast den Stuhl kaputt gemacht, indem du beim Lesen zu weit zurückgelehnt hast."
-  },
-  {
-    "it": "Lei ha comprato un tappeto nuovo che cambia completamente l'aspetto della stanza.",
-    "de": "Sie hat einen neuen Teppich gekauft, der das Aussehen des Zimmers völlig verändert."
-  },
-  {
-    "it": "Lui ha perso le chiavi della macchina e ha dovuto chiamare un fabbro.",
-    "de": "Er hat die Autoschlüssel verloren und musste einen Schlüsseldienst anrufen."
-  },
-  {
-    "it": "Io non riesco a dormire senza il mio cuscino quando viaggio.",
-    "de": "Ich kann nicht schlafen ohne mein Kissen, wenn ich reise."
-  },
-  {
-    "it": "Tu hai lasciato il gas acceso dopo aver cucinato e per poco non scoppiava tutto.",
-    "de": "Du hast das Gas angelassen nach dem Kochen und es hätte fast alles explodiert."
-  },
-  {
-    "it": "Lei ha portato il cane dal veterinario perché non mangiava più da tre giorni.",
-    "de": "Sie hat den Hund zum Tierarzt gebracht, weil er seit drei Tagen nicht mehr fraß."
-  },
-  {
-    "it": "Lui ha dipinto le pareti della cucina di un colore che non convince nessuno.",
-    "de": "Er hat die Wände der Küche in einer Farbe gestrichen, die niemanden überzeugt."
-  },
-  {
-    "it": "Io ho trovato sotto il letto un calzino perso mesi fa.",
-    "de": "Ich habe unter dem Bett eine Socke gefunden, die vor Monaten verloren gegangen war."
-  },
-  {
-    "it": "Tu non dovresti lasciare la borsa aperta sul treno.",
-    "de": "Du solltest die Tasche nicht offen im Zug lassen."
-  },
-  {
-    "it": "Lei ha cucito a mano una coperta per il nipotino appena nato.",
-    "de": "Sie hat eine Decke für das neugeborene Enkelkind von Hand genäht."
-  },
-  {
-    "it": "Lui ha sostituito il vecchio frigorifero con uno più efficiente.",
-    "de": "Er hat den alten Kühlschrank durch einen effizienteren ersetzt."
-  },
-  {
-    "it": "Io non riesco a trovare il telecomando della televisione da ieri sera.",
-    "de": "Ich kann die Fernbedienung des Fernsehers seit gestern Abend nicht finden."
-  },
-  {
-    "it": "Tu hai lasciato il rubinetto aperto tutta la notte senza accorgertene.",
-    "de": "Du hast den Wasserhahn die ganze Nacht offen gelassen, ohne es zu bemerken."
-  },
-  {
-    "it": "Lei ha comprato una nuova borsa che abbina perfettamente con il suo cappotto.",
-    "de": "Sie hat eine neue Tasche gekauft, die perfekt zu ihrem Mantel passt."
-  },
-  {
-    "it": "Lui ha trovato il suo vecchio diario sotto il materasso della cameretta.",
-    "de": "Er hat sein altes Tagebuch unter der Matratze seines Kinderzimmers gefunden."
-  },
-  {
-    "it": "Io ho lavato la giacca a una temperatura sbagliata e si è ritirata.",
-    "de": "Ich habe die Jacke bei der falschen Temperatur gewaschen und sie ist eingelaufen."
-  },
-  {
-    "it": "Tu non dovresti lasciare la candela accesa quando esci di casa.",
-    "de": "Du solltest die Kerze nicht brennen lassen, wenn du das Haus verlässt."
-  },
-  {
-    "it": "Lei ha sistemato lo scaffale che stava per cadere da settimane.",
-    "de": "Sie hat das Regal repariert, das seit Wochen kurz davor war zu fallen."
-  },
-  {
-    "it": "Lui ha comprato un divano nuovo che occupa metà del salotto.",
-    "de": "Er hat ein neues Sofa gekauft, das die Hälfte des Wohnzimmers einnimmt."
-  },
-  {
-    "it": "Io ho bruciato la pentola perché mi sono dimenticato della pasta sul fuoco.",
-    "de": "Ich habe den Topf verbrannt, weil ich vergessen habe, dass die Pasta auf dem Feuer stand."
-  },
-  {
-    "it": "Tu hai regalato al gatto una cuccia nuova ma lui preferisce dormire sul tuo letto.",
-    "de": "Du hast der Katze ein neues Körbchen geschenkt, aber sie schläft lieber in deinem Bett."
-  },
-  {
-    "it": "Lei ha messo le fotografie in un album che ha decorato con cura.",
-    "de": "Sie hat die Fotos in ein Album gelegt, das sie sorgfältig dekoriert hat."
-  },
-  {
-    "it": "Lui non riesce a stare in una stanza senza aprire almeno una finestra.",
-    "de": "Er kann nicht in einem Zimmer sein ohne mindestens ein Fenster zu öffnen."
-  },
-  {
-    "it": "Io ho comprato delle piante nuove per rendere il balcone più accogliente.",
-    "de": "Ich habe neue Pflanzen gekauft, um den Balkon einladender zu machen."
-  },
-  {
-    "it": "Tu hai lasciato la bicicletta fuori sotto la pioggia per tutta la notte.",
-    "de": "Du hast das Fahrrad die ganze Nacht draußen im Regen stehen lassen."
-  },
-  {
-    "it": "Lei ha cambiato le tende del salotto e la stanza sembra completamente diversa.",
-    "de": "Sie hat die Vorhänge im Wohnzimmer ausgetauscht und das Zimmer sieht völlig anders aus."
-  },
-  {
-    "it": "Lui ha perso il caricabatterie e ora non può usare il computer portatile.",
-    "de": "Er hat das Ladekabel verloren und kann jetzt den Laptop nicht benutzen."
-  },
-  {
-    "it": "Io non riesco a concentrarmi quando il cane abbaia continuamente.",
-    "de": "Ich kann mich nicht konzentrieren, wenn der Hund ständig bellt."
-  },
-  {
-    "it": "Tu hai messo il maglione nel posto sbagliato e ora non riesci a trovarlo.",
-    "de": "Du hast den Pullover an die falsche Stelle gelegt und kannst ihn jetzt nicht finden."
-  },
-  {
-    "it": "Lei ha rotto la stampante nel tentativo di eliminare un inceppamento.",
-    "de": "Sie hat den Drucker kaputt gemacht beim Versuch, einen Papierstau zu beseitigen."
-  },
-  {
-    "it": "Lui ha comprato una sveglia nuova perché quella vecchia non suonava più.",
-    "de": "Er hat einen neuen Wecker gekauft, weil der alte nicht mehr klingelte."
-  },
-  {
-    "it": "Io ho trovato un vecchio cappello di mio padre in fondo all'armadio.",
-    "de": "Ich habe einen alten Hut meines Vaters auf dem Grund des Schranks gefunden."
-  },
-  {
-    "it": "Tu non dovresti mettere il telefono sul comodino se vuoi dormire bene.",
-    "de": "Du solltest das Telefon nicht auf den Nachttisch legen, wenn du gut schlafen willst."
-  },
-  {
-    "it": "Lei ha fatto cadere il vaso preferito mentre passava l'aspirapolvere.",
-    "de": "Sie hat die Lieblingsvase umgeworfen, während sie Staub saugte."
-  },
-  {
-    "it": "Lui ha montato da solo il mobile del bagno seguendo le istruzioni.",
-    "de": "Er hat den Badezimmerschrank allein zusammengebaut, indem er der Anleitung folgte."
-  },
-  {
-    "it": "Io ho sporcato la camicia con il caffè proprio prima di una riunione importante.",
-    "de": "Ich habe das Hemd mit Kaffee bekleckert, genau vor einem wichtigen Meeting."
-  },
-  {
-    "it": "Tu hai perso un orecchino durante la festa e non riesci a trovarlo.",
-    "de": "Du hast einen Ohrring während der Party verloren und kannst ihn nicht finden."
-  },
-  {
-    "it": "Lei ha sistemato il giardino piantando nuovi fiori lungo il vialetto.",
-    "de": "Sie hat den Garten hergerichtet, indem sie neue Blumen entlang des Weges gepflanzt hat."
-  },
-  {
-    "it": "Lui ha lasciato la macchina parcheggiata sotto un albero e ora è piena di foglie.",
-    "de": "Er hat das Auto unter einem Baum geparkt und jetzt ist es voller Blätter."
-  },
-  {
-    "it": "Io ho comprato un nuovo paio di occhiali da sole per l'estate.",
-    "de": "Ich habe eine neue Sonnenbrille für den Sommer gekauft."
-  },
-  {
-    "it": "Tu hai riempito la vasca da bagno e poi ti sei dimenticato di spegnere il rubinetto.",
-    "de": "Du hast die Badewanne gefüllt und dann vergessen, den Wasserhahn abzudrehen."
-  },
-  {
-    "it": "Lei ha regalato al figlio uno zaino nuovo per l'inizio della scuola.",
-    "de": "Sie hat ihrem Sohn einen neuen Rucksack für den Schulanfang geschenkt."
-  },
-  {
-    "it": "Lui non riesce a trovare il suo portafoglio da questa mattina.",
-    "de": "Er kann seine Brieftasche seit heute Morgen nicht finden."
-  },
-  {
-    "it": "Io ho lavato le lenzuola e le ho stese al sole sul balcone.",
-    "de": "Ich habe die Bettwäsche gewaschen und sie auf dem Balkon in der Sonne ausgebreitet."
-  },
-  {
-    "it": "Tu hai lasciato le finestre aperte durante il temporale e si è allagato tutto.",
-    "de": "Du hast die Fenster während des Gewitters offen gelassen und alles ist überflutet."
-  },
-  {
-    "it": "Lei ha comprato un orologio nuovo perché quello vecchio si era fermato.",
-    "de": "Sie hat eine neue Uhr gekauft, weil die alte stehen geblieben war."
-  },
-  {
-    "it": "Lui ha rovesciato un bicchiere d'acqua sulla tastiera del computer.",
-    "de": "Er hat ein Glas Wasser über die Tastatur des Computers verschüttet."
-  },
-  {
-    "it": "Io non riesco a trovare le mie scarpe da ginnastica prima di ogni allenamento.",
-    "de": "Ich kann meine Turnschuhe vor jedem Training nicht finden."
-  },
-  {
-    "it": "Tu hai messo il libro sbagliato nello zaino e hai portato a scuola quello di tua sorella.",
-    "de": "Du hast das falsche Buch in den Rucksack gesteckt und das deiner Schwester zur Schule gebracht."
-  },
-  {
-    "it": "Lei ha cambiato il cuscino del divano e ora sembra un altro mobile.",
-    "de": "Sie hat das Sofakissen ausgetauscht und jetzt sieht es wie ein anderes Möbelstück aus."
-  },
-  {
-    "it": "Lui ha trovato sotto il divano una moneta antica che vale molto.",
-    "de": "Er hat unter dem Sofa eine alte Münze gefunden, die viel wert ist."
-  },
-  {
-    "it": "Io ho comprato una nuova caffettiera perché quella vecchia perdeva.",
-    "de": "Ich habe eine neue Kaffeekanne gekauft, weil die alte tropfte."
-  },
-  {
-    "it": "Tu hai lavato la giacca di lana e si è completamente deformata.",
-    "de": "Du hast die Wolljacke gewaschen und sie hat sich völlig verformt."
-  },
-  {
-    "it": "Lei ha trovato le forbici che cercava da settimane in fondo alla borsa.",
-    "de": "Sie hat die Schere, die sie seit Wochen suchte, auf dem Grund der Tasche gefunden."
-  },
-  {
-    "it": "Lui ha comprato una nuova sedia ergonomica per lavorare meglio da casa.",
-    "de": "Er hat einen neuen ergonomischen Stuhl gekauft, um besser von zu Hause aus zu arbeiten."
-  },
-  {
-    "it": "Io ho lasciato il cappotto in treno e non so se lo ritroverò.",
-    "de": "Ich habe den Mantel im Zug vergessen und weiß nicht, ob ich ihn wiederfinden werde."
-  },
-  {
-    "it": "Tu hai rotto il telecomando del condizionatore e ora non riesci a spegnerlo.",
-    "de": "Du hast die Fernbedienung der Klimaanlage kaputt gemacht und kannst sie jetzt nicht ausschalten."
-  },
-  {
-    "it": "Lei ha messo il gatto fuori ma lui ha trovato il modo di rientrare dal balcone.",
-    "de": "Sie hat die Katze rausgesetzt, aber sie hat einen Weg gefunden, durch den Balkon wieder reinzukommen."
-  },
-  {
-    "it": "Lui ha perso l'ombrello per la quinta volta questo anno.",
-    "de": "Er hat den Regenschirm dieses Jahr zum fünften Mal verloren."
-  },
-  {
-    "it": "Io ho messo il libro sul comodino e ci sono addormentato sopra senza accorgermene.",
-    "de": "Ich habe das Buch auf den Nachttisch gelegt und bin darauf eingeschlafen, ohne es zu merken."
-  },
-  {
-    "it": "Tu hai lasciato il cibo sul tavolo e il gatto lo ha mangiato.",
-    "de": "Du hast das Essen auf dem Tisch gelassen und die Katze hat es gefressen."
-  },
-  {
-    "it": "Lei ha regalato al marito una cravatta che non ha mai indossato.",
-    "de": "Sie hat ihrem Mann eine Krawatte geschenkt, die er nie getragen hat."
-  },
-  {
-    "it": "Lui ha sistemato la porta del garage che cigolava da mesi.",
-    "de": "Er hat die Garagentür repariert, die seit Monaten quietschte."
-  },
-  {
-    "it": "Io ho trovato nella vecchia borsa una lettera che non avevo mai letto.",
-    "de": "Ich habe in der alten Tasche einen Brief gefunden, den ich nie gelesen hatte."
-  },
-  {
-    "it": "Tu non dovresti tenere il computer acceso tutta la notte per risparmiare energia.",
-    "de": "Du solltest den Computer nicht die ganze Nacht anlassen, um Energie zu sparen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo tappetino da yoga e ora si allena ogni mattina.",
-    "de": "Sie hat eine neue Yogamatte gekauft und trainiert jetzt jeden Morgen."
-  },
-  {
-    "it": "Lui ha dimenticato di mettere la sveglia e ha perso l'aereo.",
-    "de": "Er hat vergessen, den Wecker zu stellen, und hat das Flugzeug verpasst."
-  },
-  {
-    "it": "Io ho rotto un dente del pettine e ora non riesco a usarlo bene.",
-    "de": "Ich habe einen Zahn des Kamms abgebrochen und kann ihn jetzt nicht mehr gut benutzen."
-  },
-  {
-    "it": "Tu hai perso il berretto durante l'escursione in montagna.",
-    "de": "Du hast die Mütze während der Bergwanderung verloren."
-  },
-  {
-    "it": "Lei ha cambiato il materasso e finalmente dorme molto meglio.",
-    "de": "Sie hat die Matratze gewechselt und schläft jetzt viel besser."
-  },
-  {
-    "it": "Lui ha comprato uno specchio enorme per il corridoio di casa.",
-    "de": "Er hat einen riesigen Spiegel für den Flur zu Hause gekauft."
-  },
-  {
-    "it": "Io ho trovato il mio vecchio orsacchiotto in una scatola in cantina.",
-    "de": "Ich habe meinen alten Teddybären in einer Schachtel im Keller gefunden."
-  },
-  {
-    "it": "Tu hai lasciato la chiave nella toppa e hai chiuso la porta dall'esterno.",
-    "de": "Du hast den Schlüssel im Schloss stecken lassen und die Tür von außen zugezogen."
-  },
-  {
-    "it": "Lei ha decorato la stanza del figlio con poster e luci colorate.",
-    "de": "Sie hat das Zimmer ihres Sohnes mit Postern und bunten Lichtern dekoriert."
-  },
-  {
-    "it": "Lui ha comprato una bicicletta elettrica per andare al lavoro ogni giorno.",
-    "de": "Er hat ein Elektrofahrrad gekauft, um jeden Tag zur Arbeit zu fahren."
-  },
-  {
-    "it": "Io ho spento la luce in cantina e ora non trovo le scale.",
-    "de": "Ich habe das Licht im Keller ausgemacht und finde jetzt die Treppe nicht mehr."
-  },
-  {
-    "it": "Tu hai dimenticato la borsa termica a casa e il pranzo si è scaldato.",
-    "de": "Du hast die Kühltasche zu Hause vergessen und das Mittagessen ist warm geworden."
-  },
-  {
-    "it": "Lei ha comprato un nuovo phon perché quello vecchio bruciava troppo i capelli.",
-    "de": "Sie hat einen neuen Föhn gekauft, weil der alte die Haare zu sehr verbrannte."
-  },
-  {
-    "it": "Lui ha sistemato la presa elettrica che non funzionava da mesi.",
-    "de": "Er hat die Steckdose repariert, die seit Monaten nicht funktionierte."
-  },
-  {
-    "it": "Io non riesco a lavorare senza avere una tazza di tè sul tavolo.",
-    "de": "Ich kann nicht arbeiten, ohne eine Tasse Tee auf dem Tisch zu haben."
-  },
-  {
-    "it": "Tu hai lasciato il coltello sul bordo del tavolo e il bambino poteva farsi male.",
-    "de": "Du hast das Messer auf den Tischrand gelegt und das Kind hätte sich verletzen können."
-  },
-  {
-    "it": "Lei ha trovato in soffitta una vecchia valigia piena di fotografie di famiglia.",
-    "de": "Sie hat auf dem Dachboden einen alten Koffer voller Familienfotos gefunden."
-  },
-  {
-    "it": "Lui ha ordinato una scrivania nuova che arriverà tra una settimana.",
-    "de": "Er hat einen neuen Schreibtisch bestellt, der in einer Woche ankommen wird."
-  },
-  {
-    "it": "Io ho dimenticato il caricabatterie a casa di un amico e non so come recuperarlo.",
-    "de": "Ich habe das Ladekabel bei einem Freund vergessen und weiß nicht, wie ich es zurückbekomme."
-  },
-  {
-    "it": "Tu hai rotto lo schermo del telefono cadendoti sopra dal letto.",
-    "de": "Du hast den Telefonbildschirm zerbrochen, indem du vom Bett darauf gefallen bist."
-  },
-  {
-    "it": "Lei ha lavato il cane nel bagno e ora tutto è bagnato.",
-    "de": "Sie hat den Hund im Bad gebadet und jetzt ist alles nass."
-  },
-  {
-    "it": "Lui ha perso le cuffie wireless che aveva appena comprato.",
-    "de": "Er hat die kabellosen Kopfhörer verloren, die er gerade erst gekauft hatte."
-  },
-  {
-    "it": "Io ho comprato un nuovo zaino per il trekking che farò questo agosto.",
-    "de": "Ich habe einen neuen Rucksack für das Trekking gekauft, das ich diesen August machen werde."
-  },
-  {
-    "it": "Tu hai lasciato il rubinetto aperto e la cucina si è allagata.",
-    "de": "Du hast den Wasserhahn offengelassen und die Küche ist überschwemmt worden."
-  },
-  {
-    "it": "Lei ha trovato le chiavi dentro la borsa di un anno fa.",
-    "de": "Sie hat die Schlüssel in der Tasche von vor einem Jahr gefunden."
-  },
-  {
-    "it": "Lui ha rotto il barattolo di miele e si è appiccicato tutto.",
-    "de": "Er hat das Honigglas zerbrochen und alles wurde klebrig."
-  },
-  {
-    "it": "Io ho comprato una nuova penna stilografica per scrivere il mio diario.",
-    "de": "Ich habe einen neuen Füllfederhalter gekauft, um mein Tagebuch zu schreiben."
-  },
-  {
-    "it": "Tu hai dimenticato il libro in biblioteca e ora devi pagare la multa.",
-    "de": "Du hast das Buch in der Bibliothek vergessen und musst jetzt eine Strafe zahlen."
-  },
-  {
-    "it": "Lei ha cucito le tende nuove con la macchina da cucire della nonna.",
-    "de": "Sie hat die neuen Vorhänge mit der Nähmaschine der Großmutter genäht."
-  },
-  {
-    "it": "Lui ha comprato un nuovo frigorifero perché quello vecchio consumava troppa energia.",
-    "de": "Er hat einen neuen Kühlschrank gekauft, weil der alte zu viel Energie verbrauchte."
-  },
-  {
-    "it": "Io ho trovato un vecchio maglione di lana che pensavo di aver buttato.",
-    "de": "Ich habe einen alten Wollpullover gefunden, den ich weggeworfen zu haben glaubte."
-  },
-  {
-    "it": "Tu non dovresti lasciare le scarpe bagnate dentro casa senza asciugarle prima.",
-    "de": "Du solltest die nassen Schuhe nicht im Haus lassen, ohne sie vorher zu trocknen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo specchio per il bagno che dà molta più luce.",
-    "de": "Sie hat einen neuen Spiegel für das Bad gekauft, der viel mehr Licht gibt."
-  },
-  {
-    "it": "Lui ha dimenticato di portare il caricabatterie in viaggio e ora il telefono è scarico.",
-    "de": "Er hat vergessen, das Ladekabel auf die Reise mitzunehmen, und jetzt ist das Telefon leer."
-  },
-  {
-    "it": "Io ho ordinato una nuova lampada da tavolo per leggere di notte senza disturbare.",
-    "de": "Ich habe eine neue Tischlampe bestellt, um nachts zu lesen ohne zu stören."
-  },
-  {
-    "it": "Tu hai versato il succo sul tappeto bianco e ora non si riesce a togliere la macchia.",
-    "de": "Du hast den Saft auf den weißen Teppich verschüttet und jetzt lässt sich der Fleck nicht entfernen."
-  },
-  {
-    "it": "Lei ha comprato un gatto persiano che dorme tutto il giorno sul divano.",
-    "de": "Sie hat eine Perserkatze gekauft, die den ganzen Tag auf dem Sofa schläft."
-  },
-  {
-    "it": "Lui ha trovato il vecchio mangiadischi del padre e l'ha rimesso in funzione.",
-    "de": "Er hat den alten Plattenspieler seines Vaters gefunden und ihn wieder in Betrieb genommen."
-  },
-  {
-    "it": "Io non riesco a dormire se il cuscino non è abbastanza morbido.",
-    "de": "Ich kann nicht schlafen, wenn das Kissen nicht weich genug ist."
-  },
-  {
-    "it": "Tu hai dimenticato il portafoglio sul bancone del bar e qualcuno te l'ha riportato.",
-    "de": "Du hast die Brieftasche auf der Bartheke vergessen und jemand hat sie dir zurückgebracht."
-  },
-  {
-    "it": "Lei ha sistemato il cassetto della cucina che si bloccava sempre a metà.",
-    "de": "Sie hat die Küchenschublade repariert, die sich immer auf halbem Weg blockierte."
-  },
-  {
-    "it": "Lui ha portato il cane a fare una lunga passeggiata nel parco.",
-    "de": "Er hat den Hund zu einem langen Spaziergang im Park mitgenommen."
-  },
-  {
-    "it": "Io ho comprato un nuovo paio di guanti perché ho perso uno dei vecchi.",
-    "de": "Ich habe ein neues Paar Handschuhe gekauft, weil ich einen der alten verloren habe."
-  },
-  {
-    "it": "Tu hai rotto il gancio dell'armadio e ora la porta non chiude bene.",
-    "de": "Du hast den Haken des Schranks kaputt gemacht und die Tür schließt jetzt nicht mehr richtig."
-  },
-  {
-    "it": "Lei ha piantato dei pomodori sul balcone e aspetta che crescano.",
-    "de": "Sie hat Tomaten auf dem Balkon gepflanzt und wartet darauf, dass sie wachsen."
-  },
-  {
-    "it": "Lui ha comprato una nuova borraccia termica per portare il caffè al lavoro.",
-    "de": "Er hat eine neue Thermosflasche gekauft, um Kaffee zur Arbeit mitzunehmen."
-  },
-  {
-    "it": "Io ho perso l'accendino e non riesco a capire dove possa essere finito.",
-    "de": "Ich habe das Feuerzeug verloren und kann nicht verstehen, wo es geblieben sein könnte."
-  },
-  {
-    "it": "Tu hai messo il gatto sul balcone durante il temporale e lui ha miagolato per ore.",
-    "de": "Du hast die Katze während des Gewitters auf den Balkon gesetzt und sie hat stundenlang gejammert."
-  },
-  {
-    "it": "Lei ha comprato dei nuovi asciugamani colorati che rendono il bagno più vivace.",
-    "de": "Sie hat neue bunte Handtücher gekauft, die das Bad lebendiger machen."
-  },
-  {
-    "it": "Lui ha dimenticato il libro di testo a scuola e non può fare i compiti.",
-    "de": "Er hat das Lehrbuch in der Schule vergessen und kann keine Hausaufgaben machen."
-  },
-  {
-    "it": "Io ho trovato sotto il letto un giocattolo che il bambino cercava da mesi.",
-    "de": "Ich habe unter dem Bett ein Spielzeug gefunden, das das Kind seit Monaten gesucht hatte."
-  },
-  {
-    "it": "Tu non dovresti lasciare il cibo del cane vicino alla cuccia del gatto.",
-    "de": "Du solltest das Hundefutter nicht neben dem Körbchen der Katze lassen."
-  },
-  {
-    "it": "Lei ha cambiato le lampadine di tutta la casa con quelle a LED.",
-    "de": "Sie hat alle Glühbirnen im Haus durch LED-Lampen ersetzt."
-  },
-  {
-    "it": "Lui ha comprato una nuova giacca invernale perché quella vecchia si era rovinata.",
-    "de": "Er hat eine neue Winterjacke gekauft, weil die alte kaputtgegangen war."
-  },
-  {
-    "it": "Io ho dimenticato di chiudere la porta del garage e qualcuno è entrato.",
-    "de": "Ich habe vergessen, die Garagentür zu schließen, und jemand ist hereingekommen."
-  },
-  {
-    "it": "Tu hai lasciato gli occhiali sul cruscotto dell'auto e si sono deformati per il caldo.",
-    "de": "Du hast die Brille auf dem Armaturenbrett des Autos gelassen und sie hat sich wegen der Hitze verformt."
-  },
-  {
-    "it": "Lei ha comprato un nuovo robot da cucina che usa ogni fine settimana.",
-    "de": "Sie hat eine neue Küchenmaschine gekauft, die sie jedes Wochenende benutzt."
-  },
-  {
-    "it": "Lui ha trovato in soffitta la vecchia macchina fotografica del padre.",
-    "de": "Er hat auf dem Dachboden die alte Kamera seines Vaters gefunden."
-  },
-  {
-    "it": "Io non riesco a trovare la mia penna preferita da questa mattina.",
-    "de": "Ich kann meinen Lieblingsstift seit heute Morgen nicht finden."
-  },
-  {
-    "it": "Tu hai lasciato il cappello sulla panchina del parco e non ci sei tornato a prenderlo.",
-    "de": "Du hast den Hut auf der Parkbank liegen gelassen und bist nicht zurückgegangen, um ihn zu holen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo asciugatrice perché quella vecchia non asciugava bene.",
-    "de": "Sie hat einen neuen Trockner gekauft, weil der alte nicht gut trocknete."
-  },
-  {
-    "it": "Lui ha rotto la maniglia della finestra e ora non riesce ad aprirla.",
-    "de": "Er hat den Fenstergriff kaputt gemacht und kann ihn jetzt nicht mehr öffnen."
-  },
-  {
-    "it": "Io ho trovato in cantina una vecchia radio che funziona ancora benissimo.",
-    "de": "Ich habe im Keller ein altes Radio gefunden, das noch hervorragend funktioniert."
-  },
-  {
-    "it": "Tu non dovresti tenere la borsa del laptop sul pavimento bagnato.",
-    "de": "Du solltest die Laptoptasche nicht auf dem nassen Boden lassen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo strofinaccio da cucina perché quelli vecchi erano consunti.",
-    "de": "Sie hat neue Küchentücher gekauft, weil die alten abgenutzt waren."
-  },
-  {
-    "it": "Lui ha sistemato il rubinetto che perdeva da settimane senza chiamare un idraulico.",
-    "de": "Er hat den Wasserhahn repariert, der seit Wochen tropfte, ohne einen Klempner zu rufen."
-  },
-  {
-    "it": "Io ho perso il mio documento d'identità e devo rifarlo il prima possibile.",
-    "de": "Ich habe meinen Ausweis verloren und muss ihn so bald wie möglich erneuern."
-  },
-  {
-    "it": "Tu hai lasciato il computer in carica sul letto e si è surriscaldato.",
-    "de": "Du hast den Computer aufgeladen auf dem Bett liegen lassen und er hat sich überhitzt."
-  },
-  {
-    "it": "Lei ha trovato il suo vecchio diari di scuola mentre sgomberava la soffitta.",
-    "de": "Sie hat ihr altes Schultagebuch gefunden, als sie den Dachboden ausräumte."
-  },
-  {
-    "it": "Lui ha comprato una nuova padella antiaderente perché quella vecchia si era graffiata.",
-    "de": "Er hat eine neue Antihaftpfanne gekauft, weil die alte zerkratzt war."
-  },
-  {
-    "it": "Io ho dimenticato di portare le chiavi di casa e ho aspettato fuori per un'ora.",
-    "de": "Ich habe vergessen, die Hausschlüssel mitzunehmen, und habe eine Stunde draußen gewartet."
-  },
-  {
-    "it": "Tu hai rotto il vetro della porta del balcone con una palla.",
-    "de": "Du hast die Balkontür mit einem Ball zerbrochen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo tostapane che funziona molto meglio di quello vecchio.",
-    "de": "Sie hat einen neuen Toaster gekauft, der viel besser funktioniert als der alte."
-  },
-  {
-    "it": "Lui ha trovato sotto il cuscino del letto un bigliettino che aveva scritto da bambino.",
-    "de": "Er hat unter dem Bettdeckenkissen einen Zettel gefunden, den er als Kind geschrieben hatte."
-  },
-  {
-    "it": "Io non riesco ad adattarmi al nuovo letto dopo anni con quello vecchio.",
-    "de": "Ich kann mich nicht an das neue Bett gewöhnen nach Jahren mit dem alten."
-  },
-  {
-    "it": "Tu hai dimenticato di spegnere il forno dopo aver cotto la pizza.",
-    "de": "Du hast vergessen, den Ofen auszuschalten, nachdem du die Pizza gebacken hast."
-  },
-  {
-    "it": "Lei ha comprato una nuova borsa di pelle che profuma ancora di nuovo.",
-    "de": "Sie hat eine neue Ledertasche gekauft, die noch nach Neu riecht."
-  },
-  {
-    "it": "Lui ha perso il tappo della sua borraccia e ora non può più usarla.",
-    "de": "Er hat den Deckel seiner Trinkflasche verloren und kann sie jetzt nicht mehr benutzen."
-  },
-  {
-    "it": "Io ho comprato un nuovo cuscino ortopedico per il mal di schiena.",
-    "de": "Ich habe ein neues orthopädisches Kissen für den Rückenschmerz gekauft."
-  },
-  {
-    "it": "Tu hai lasciato il giubbotto in palestra e ora devi tornare a prenderlo.",
-    "de": "Du hast die Jacke im Fitnessstudio gelassen und musst jetzt zurückgehen, um sie zu holen."
-  },
-  {
-    "it": "Lei ha cambiato le lenzuola del letto e si sente già meglio.",
-    "de": "Sie hat die Bettwäsche gewechselt und fühlt sich schon besser."
-  },
-  {
-    "it": "Lui ha comprato un nuovo telefono ma non riesce a trasferire tutti i dati.",
-    "de": "Er hat ein neues Telefon gekauft, kann aber nicht alle Daten übertragen."
-  },
-  {
-    "it": "Io ho trovato in fondo all'armadio una sciarpa che pensavo di aver perso.",
-    "de": "Ich habe auf dem Grund des Schranks einen Schal gefunden, den ich verloren zu haben glaubte."
-  },
-  {
-    "it": "Tu non dovresti mettere il coltello nel cassetto insieme alle forchette senza coperchio.",
-    "de": "Du solltest das Messer nicht ohne Schutz in die Schublade zusammen mit den Gabeln legen."
-  },
-  {
-    "it": "Lei ha regalato al figlio uno skateboard per il compleanno.",
-    "de": "Sie hat ihrem Sohn zum Geburtstag ein Skateboard geschenkt."
-  },
-  {
-    "it": "Lui ha rotto l'anta dello sportello del microonde e ora non chiude bene.",
-    "de": "Er hat die Mikrowellentür kaputt gemacht und sie schließt jetzt nicht mehr richtig."
-  },
-  {
-    "it": "Io ho comprato un nuovo portachiavi perché quello vecchio si era rotto.",
-    "de": "Ich habe einen neuen Schlüsselanhänger gekauft, weil der alte kaputt war."
-  },
-  {
-    "it": "Tu hai lasciato la chitarra sul divano e il gatto ci ha graffiato sopra.",
-    "de": "Du hast die Gitarre auf dem Sofa gelassen und die Katze hat daran gekratzt."
-  },
-  {
-    "it": "Lei ha trovato in cantina la vecchia sedia a dondolo della nonna.",
-    "de": "Sie hat im Keller den alten Schaukelstuhl der Großmutter gefunden."
-  },
-  {
-    "it": "Lui ha comprato delle nuove mensole per i libri che si accumulavano sul pavimento.",
-    "de": "Er hat neue Regale für die Bücher gekauft, die sich auf dem Boden stapelten."
-  },
-  {
-    "it": "Io ho dimenticato le chiavi della bicicletta sul tavolo e non posso uscire.",
-    "de": "Ich habe das Fahrradschloss auf dem Tisch vergessen und kann nicht rausfahren."
-  },
-  {
-    "it": "Tu hai rotto il gancio della borsa e ora si apre continuamente da sola.",
-    "de": "Du hast den Verschluss der Tasche kaputt gemacht und sie öffnet sich jetzt ständig von selbst."
-  },
-  {
-    "it": "Lei ha comprato un nuovo lenzuolo di cotone che è molto più fresco d'estate.",
-    "de": "Sie hat ein neues Bettlaken aus Baumwolle gekauft, das im Sommer viel kühler ist."
-  },
-  {
-    "it": "Lui ha trovato un vecchio album di fotografie che non sapeva di avere.",
-    "de": "Er hat ein altes Fotoalbum gefunden, von dem er nicht wusste, dass er es hatte."
-  },
-  {
-    "it": "Io non riesco a trovare l'adattatore del computer da questa mattina.",
-    "de": "Ich kann den Computeradapter seit heute Morgen nicht finden."
-  },
-  {
-    "it": "Tu hai dimenticato la borsa nel taxi e il tassista te l'ha riportata.",
-    "de": "Du hast die Tasche im Taxi vergessen und der Taxifahrer hat sie dir zurückgebracht."
-  },
-  {
-    "it": "Lei ha comprato un nuovo paio di pantofole che non vuole togliersi mai.",
-    "de": "Sie hat ein neues Paar Hausschuhe gekauft, die sie nie ausziehen möchte."
-  },
-  {
-    "it": "Lui ha sistemato la finestra rotta con del nastro adesivo in attesa del vetraio.",
-    "de": "Er hat das kaputte Fenster mit Klebeband repariert, während er auf den Glaser wartet."
-  },
-  {
-    "it": "Io ho comprato una nuova bottiglia termica per l'acqua durante le escursioni.",
-    "de": "Ich habe eine neue Thermoflasche für das Wasser bei Wanderungen gekauft."
-  },
-  {
-    "it": "Tu hai lasciato la torcia sul tavolo della cucina e il bambino l'ha smontata.",
-    "de": "Du hast die Taschenlampe auf dem Küchentisch gelassen und das Kind hat sie auseinandergenommen."
-  },
-  {
-    "it": "Lei ha comprato un cactus per il suo ufficio perché non richiede molte cure.",
-    "de": "Sie hat einen Kaktus für ihr Büro gekauft, weil er nicht viel Pflege benötigt."
-  },
-  {
-    "it": "Lui ha rotto il manico della tazza preferita e non riesce a trovarne una uguale.",
-    "de": "Er hat den Henkel der Lieblingstasse abgebrochen und kann keine gleiche finden."
-  },
-  {
-    "it": "Io ho trovato in fondo alla valigia dei calzini che credevo di aver perso.",
-    "de": "Ich habe auf dem Grund des Koffers Socken gefunden, die ich verloren zu haben glaubte."
-  },
-  {
-    "it": "Tu non dovresti lasciare la borsa del laptop senza custodia durante i viaggi.",
-    "de": "Du solltest die Laptoptasche während der Reisen nicht ohne Hülle lassen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo cuscino per il cane che ora lo adora.",
-    "de": "Sie hat ein neues Kissen für den Hund gekauft, der es jetzt liebt."
-  },
-  {
-    "it": "Lui ha cambiato il mouse del computer perché quello vecchio scattava.",
-    "de": "Er hat die Computermaus gewechselt, weil die alte ruckelte."
-  },
-  {
-    "it": "Io ho comprato una nuova scatola per conservare i ricordi più importanti.",
-    "de": "Ich habe eine neue Schachtel gekauft, um die wichtigsten Erinnerungen aufzubewahren."
-  },
-  {
-    "it": "Tu hai dimenticato di ritirare il pacco dal corriere e ora devi andare al deposito.",
-    "de": "Du hast vergessen, das Paket vom Kurier abzuholen, und musst jetzt zum Depot."
-  },
-  {
-    "it": "Lei ha trovato il gatto che dormiva dentro la lavatrice aperta.",
-    "de": "Sie hat die Katze schlafend in der offenen Waschmaschine gefunden."
-  },
-  {
-    "it": "Lui ha comprato una nuova pistola per la colla a caldo per i suoi lavori creativi.",
-    "de": "Er hat eine neue Heißklebepistole für seine kreativen Arbeiten gekauft."
-  },
-  {
-    "it": "Io ho dimenticato il portamonete sul treno e ho dovuto tornare indietro.",
-    "de": "Ich habe das Portemonnaie im Zug vergessen und musste umkehren."
-  },
-  {
-    "it": "Tu hai lasciato il cibo in frigo per troppo tempo e ora è andato a male.",
-    "de": "Du hast das Essen zu lange im Kühlschrank gelassen und jetzt ist es verdorben."
-  },
-  {
-    "it": "Lei ha comprato un nuovo tagliere per la cucina che è molto più pratico.",
-    "de": "Sie hat ein neues Schneidebrett für die Küche gekauft, das viel praktischer ist."
-  },
-  {
-    "it": "Lui ha perso il pennello preferito e non riesce a dipingere senza di esso.",
-    "de": "Er hat seinen Lieblingspinsel verloren und kann ohne ihn nicht malen."
-  },
-  {
-    "it": "Io ho trovato sotto il tappeto una chiave che non so a cosa appartiene.",
-    "de": "Ich habe unter dem Teppich einen Schlüssel gefunden, dem ich nicht zuordnen kann."
-  },
-  {
-    "it": "Tu non dovresti lasciare il telefono carico tutta la notte collegato alla presa.",
-    "de": "Du solltest das aufgeladene Telefon nicht die ganze Nacht an der Steckdose lassen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo portapenne per la scrivania del figlio.",
-    "de": "Sie hat einen neuen Stifthalter für den Schreibtisch ihres Sohnes gekauft."
-  },
-  {
-    "it": "Lui ha trovato il vecchio orsacchiotto del figlio e lo ha conservato per i nipoti.",
-    "de": "Er hat den alten Teddybären seines Sohnes gefunden und ihn für die Enkel aufbewahrt."
-  },
-  {
-    "it": "Io ho comprato una nuova sveglia con luce perché quella sonora non mi sveglia.",
-    "de": "Ich habe einen neuen Lichtwecker gekauft, weil mich der Tonwecker nicht aufweckt."
-  },
-  {
-    "it": "Tu hai dimenticato l'ombrello aperto dentro casa e ha allagato tutto.",
-    "de": "Du hast den Regenschirm offen im Haus vergessen und alles ist überschwemmt worden."
-  },
-  {
-    "it": "Lei ha acquistato una nuova agenda cartacea perché non si fida dei calendari digitali.",
-    "de": "Sie hat einen neuen Papierplaner gekauft, weil sie digitalen Kalendern nicht traut."
-  },
-  {
-    "it": "Lui ha trovato in garage una vecchia moto che vuole rimettere in sesto.",
-    "de": "Er hat in der Garage ein altes Motorrad gefunden, das er wieder in Schuss bringen möchte."
-  },
-  {
-    "it": "Io non riesco a trovare il mio accendino da questa mattina e ne ho bisogno.",
-    "de": "Ich kann mein Feuerzeug seit heute Morgen nicht finden und brauche es."
-  },
-  {
-    "it": "Tu hai lasciato la finestra aperta e il vento ha buttato giù tutti i libri.",
-    "de": "Du hast das Fenster offen gelassen und der Wind hat alle Bücher umgeworfen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo set di pentole antiaderenti per la cucina.",
-    "de": "Sie hat ein neues Set Antihaftpfannen für die Küche gekauft."
-  },
-  {
-    "it": "Lui ha rotto il meccanismo della sedia da ufficio e ora non si regola più.",
-    "de": "Er hat den Mechanismus des Bürostuhls kaputt gemacht und er lässt sich nicht mehr einstellen."
-  },
-  {
-    "it": "Io ho ordinato una nuova tastiera senza fili per il mio computer.",
-    "de": "Ich habe eine neue kabellose Tastatur für meinen Computer bestellt."
-  },
-  {
-    "it": "Tu non dovresti lasciare il coltello da cucina nel lavandino quando finisci di cucinare.",
-    "de": "Du solltest das Küchenmesser nicht im Spülbecken lassen, wenn du mit dem Kochen fertig bist."
-  },
-  {
-    "it": "Lei ha trovato nella borsa il portafoglio che pensava di aver lasciato a casa.",
-    "de": "Sie hat in der Tasche die Brieftasche gefunden, die sie zu Hause gelassen zu haben glaubte."
-  },
-  {
-    "it": "Lui ha comprato un nuovo set di chiavi inglesi per il garage.",
-    "de": "Er hat ein neues Schraubenschlüsselset für die Garage gekauft."
-  },
-  {
-    "it": "Io ho perso la borraccia durante l'allenamento e non me ne sono accorto subito.",
-    "de": "Ich habe die Trinkflasche beim Training verloren und es nicht sofort bemerkt."
-  },
-  {
-    "it": "Tu hai rotto il mio libro preferito tirandogli via la copertina.",
-    "de": "Du hast mein Lieblingsbuch kaputt gemacht, indem du den Einband abgerissen hast."
-  },
-  {
-    "it": "Lei ha comprato un nuovo vaso di ceramica per i fiori del terrazzo.",
-    "de": "Sie hat einen neuen Keramiktopf für die Blumen auf der Terrasse gekauft."
-  },
-  {
-    "it": "Lui ha trovato il telecomando della televisione dentro il frigo per sbaglio.",
-    "de": "Er hat die Fernbedienung des Fernsehers versehentlich im Kühlschrank gefunden."
-  },
-  {
-    "it": "Io ho comprato un nuovo zaino impermeabile per andare in bicicletta sotto la pioggia.",
-    "de": "Ich habe einen neuen wasserdichten Rucksack gekauft, um im Regen Fahrrad zu fahren."
-  },
-  {
-    "it": "Tu hai lasciato il cane solo in casa e si è mangiato un cuscino del divano.",
-    "de": "Du hast den Hund allein zu Hause gelassen und er hat ein Sofakissen aufgefressen."
-  },
-  {
-    "it": "Lei ha cucito da sola la borsa rotta invece di comprarla nuova.",
-    "de": "Sie hat die kaputte Tasche selbst genäht, anstatt eine neue zu kaufen."
-  },
-  {
-    "it": "Lui ha sistemato la bicicletta bucata sul bordo della strada senza attrezzi.",
-    "de": "Er hat das Fahrrad mit Panne am Straßenrand ohne Werkzeug repariert."
-  },
-  {
-    "it": "Io ho trovato in un cassetto tutte le chiavi inutilizzate degli ultimi dieci anni.",
-    "de": "Ich habe in einer Schublade alle ungenutzten Schlüssel der letzten zehn Jahre gefunden."
-  },
-  {
-    "it": "Tu hai dimenticato di mettere il cibo del gatto prima di partire per il weekend.",
-    "de": "Du hast vergessen, das Katzenfutter hinzustellen, bevor du für das Wochenende weggefahren bist."
-  },
-  {
-    "it": "Lei ha comprato un nuovo libro di ricette che ha già letto tre volte.",
-    "de": "Sie hat ein neues Kochbuch gekauft, das sie bereits dreimal gelesen hat."
-  },
-  {
-    "it": "Lui ha perso il portafoglio in spiaggia e qualcuno glielo ha restituito intatto.",
-    "de": "Er hat die Brieftasche am Strand verloren und jemand hat sie ihm unversehrt zurückgegeben."
-  },
-  {
-    "it": "Io non riesco a dormire senza il ventilatore acceso in estate.",
-    "de": "Ich kann im Sommer nicht schlafen ohne den Ventilator an."
-  },
-  {
-    "it": "Tu hai lasciato la valigia sul nastro trasportatore troppo a lungo e si è persa.",
-    "de": "Du hast den Koffer zu lange auf dem Förderband gelassen und er wurde verloren."
-  },
-    {
-    "it": "1",
-    "de": ""
-  },
-  {
-    "it": "2",
-    "de": ""
-  },
-  {
-    "it": "3",
-    "de": ""
-  },
-  {
-    "it": "4",
-    "de": ""
-  },
-  {
-    "it": "5",
-    "de": ""
-  },
-  {
-    "it": "6",
-    "de": ""
-  },
-  {
-    "it": "7",
-    "de": ""
-  },
-  {
-    "it": "8",
-    "de": ""
-  },
-  {
-    "it": "9",
-    "de": ""
-  },
-  {
-    "it": "10",
-    "de": ""
-  },
-  {
-    "it": "11",
-    "de": ""
-  },
-  {
-    "it": "12",
-    "de": ""
-  },
-  {
-    "it": "13",
-    "de": ""
-  },
-  {
-    "it": "14",
-    "de": ""
-  },
-  {
-    "it": "15",
-    "de": ""
-  },
-  {
-    "it": "16",
-    "de": ""
-  },
-  {
-    "it": "17",
-    "de": ""
-  },
-  {
-    "it": "18",
-    "de": ""
-  },
-  {
-    "it": "19",
-    "de": ""
-  },
-  {
-    "it": "20",
-    "de": ""
-  },
-  {
-    "it": "21",
-    "de": ""
-  },
-  {
-    "it": "22",
-    "de": ""
-  },
-  {
-    "it": "23",
-    "de": ""
-  },
-  {
-    "it": "24",
-    "de": ""
-  },
-  {
-    "it": "25",
-    "de": ""
-  },
-  {
-    "it": "26",
-    "de": ""
-  },
-  {
-    "it": "27",
-    "de": ""
-  },
-  {
-    "it": "28",
-    "de": ""
-  },
-  {
-    "it": "29",
-    "de": ""
-  },
-  {
-    "it": "30",
-    "de": ""
-  },
-  {
-    "it": "31",
-    "de": ""
-  },
-  {
-    "it": "32",
-    "de": ""
-  },
-  {
-    "it": "33",
-    "de": ""
-  },
-  {
-    "it": "34",
-    "de": ""
-  },
-  {
-    "it": "35",
-    "de": ""
+{
+    "it": "Prendo io la palla se arriva corta in zona quattro, tu resta pronto per la copertura.",
+    "de": "Ich übernehme den Ball, falls er kurz in Zone vier kommt; bleib du bereit für die Sicherung."
   },
   {
-    "it": "36",
-    "de": ""
+    "it": "Cercherò di forzare il servizio sulla riga laterale per metterli in difficoltà nella costruzione del gioco.",
+    "de": "Ich werde versuchen, den Aufschlag auf die Seitenlinie zu forcieren, um sie beim Spielaufbau in Bedrängnis zu bringen."
   },
   {
-    "it": "37",
-    "de": ""
+    "it": "Qualora il palleggiatore avversario penetrasse dalla seconda linea, dobbiamo raddoppiare il muro sul loro opposto.",
+    "de": "Sollte der gegnerische Zuspieler aus dem Rückraum durchlaufen, müssen wir den Block gegen ihren Diagonalangreifer verstärken."
   },
   {
-    "it": "38",
-    "de": ""
+    "it": "Ho notato che il loro centrale tende ad anticipare troppo il salto, quindi proverò a variare il tempo d'attacco.",
+    "de": "Mir ist aufgefallen, dass ihr Mittelblocker dazu neigt, zu früh abzuspringen, daher werde ich versuchen, das Timing meines Angriffs zu variieren."
   },
   {
-    "it": "39",
-    "de": ""
+    "it": "Mi faccio carico della ricezione lunga, tu concentrati esclusivamente sulla preparazione della rincorsa.",
+    "de": "Ich kümmere mich um die lange Annahme; konzentriere du dich ausschließlich auf die Vorbereitung deines Anlaufs."
   },
   {
-    "it": "40",
-    "de": ""
+    "it": "Nonostante il muro fosse ben piazzato, sono riuscito a trovare un varco sulle mani esterne per ottenere il punto.",
+    "de": "Obwohl der Block gut positioniert war, gelang es mir, eine Lücke an den Außenhänden zu finden, um den Punkt zu erzielen."
   },
   {
-    "it": "41",
-    "de": ""
+    "it": "Se l'alzata è troppo a filo rete, cercherò di giocare sulle mani del muro invece di tentare la conclusione potente.",
+    "de": "Wenn das Zuspiel zu nah am Netz ist, werde ich versuchen, gegen die Hände des Blocks zu spielen, anstatt einen harten Abschluss zu suchen."
   },
   {
-    "it": "42",
-    "de": ""
+    "it": "Sto cercando di leggere la loro traiettoria di attacco per posizionarmi correttamente in difesa di campo.",
+    "de": "Ich versuche, ihre Angriffstrajektorie zu lesen, um mich in der Feldabwehr korrekt zu positionieren."
   },
   {
-    "it": "43",
-    "de": ""
+    "it": "Dobbiamo essere più reattivi sulle palle smorzate, io mi occuperò di coprire la zona centrale dietro il muro.",
+    "de": "Wir müssen bei gelegten Bällen reaktionsschneller sein; ich werde die zentrale Zone hinter dem Block absichern."
   },
   {
-    "it": "44",
-    "de": ""
+    "it": "Il mio obiettivo è servire una palla float insidiosa che metta in crisi il loro libero meno esperto.",
+    "de": "Mein Ziel ist es, einen tückischen Flatteraufschlag zu spielen, der ihren weniger erfahrenen Libero in Bedrängnis bringt."
   },
   {
-    "it": "45",
-    "de": ""
+    "it": "Sento che la mia intesa con il palleggiatore sta migliorando, soprattutto per quanto riguarda la 'veloce' dietro.",
+    "de": "Ich habe das Gefühl, dass sich mein Einvernehmen mit dem Zuspieler verbessert, besonders was den Schnellangriff über Kopf betrifft."
   },
   {
-    "it": "46",
-    "de": ""
+    "it": "Ho commesso un errore di valutazione sulla traiettoria della palla, convinto che sarebbe finita fuori campo.",
+    "de": "Ich habe die Flugbahn des Balls falsch eingeschätzt, da ich überzeugt war, er würde im Aus landen."
   },
   {
-    "it": "47",
-    "de": ""
+    "it": "Cerco di mantenere la massima lucidità mentale anche nelle fasi più concitate del tie-break.",
+    "de": "Ich versuche, selbst in den hektischsten Phasen des Tie-Breaks die größtmögliche mentale Klarheit zu bewahren."
   },
   {
-    "it": "48",
-    "de": ""
+    "it": "Il mio salto in sospensione deve essere più esplosivo se voglio superare il loro muro a tre.",
+    "de": "Mein Absprung muss explosiver sein, wenn ich ihren Dreierblock überwinden will."
   },
   {
-    "it": "49",
-    "de": ""
+    "it": "Grido 'mia' con decisione per evitare collisioni con i compagni durante le fasi difensive più caotiche.",
+    "de": "Ich rufe entschlossen 'Meiner!', um Zusammenstöße mit Mitspielern in chaotischen Abwehrsituationen zu vermeiden."
   },
   {
-    "it": "50",
-    "de": ""
+    "it": "Analizzando la loro disposizione, ho deciso di attaccare in diagonale stretta per colpire la zona sguarnita.",
+    "de": "Nach Analyse ihrer Aufstellung habe ich mich entschieden, in die kurze Diagonale anzugreifen, um die unbesetzte Zone zu treffen."
   },
   {
-    "it": "51",
-    "de": ""
+    "it": "Mi scuso per il fallo di invasione, ero troppo proiettato in avanti durante la fase di chiusura a muro.",
+    "de": "Entschuldigung für den Netzfehler; ich war in der Phase des Blockschlusses zu sehr nach vorne orientiert."
   },
   {
-    "it": "52",
-    "de": ""
+    "it": "Dobbiamo compattare il muro sulla loro 'pipe' per impedire che la palla passi nel mezzo.",
+    "de": "Wir müssen den Block bei ihrem Pipe-Angriff schließen, um zu verhindern, dass der Ball durch die Mitte geht."
   },
   {
-    "it": "53",
-    "de": ""
+    "it": "Ho variato l'angolo del polso all'ultimo istante per indirizzare la palla verso la linea di fondo.",
+    "de": "Ich habe im letzten Moment den Handgelenkswinkel verändert, um den Ball auf die Grundlinie zu lenken."
   },
   {
-    "it": "54",
-    "de": ""
+    "it": "In questa rotazione, io sarò il punto di riferimento per il contrattacco rapido in banda.",
+    "de": "In dieser Rotation werde ich der Bezugspunkt für den schnellen Gegenangriff über die Außenposition sein."
   },
   {
-    "it": "55",
-    "de": ""
+    "it": "Preferisco un'alzata leggermente più staccata da rete per poter sfruttare tutta la mia potenza di braccio.",
+    "de": "Ich bevorzuge ein Zuspiel, das etwas weiter vom Netz entfernt ist, um meine gesamte Schlagkraft ausschöpfen zu können."
   },
   {
-    "it": "56",
-    "de": ""
+    "it": "Sto monitorando i movimenti del loro opposto per capire se predilige il colpo lungolinea.",
+    "de": "Ich beobachte die Bewegungen ihres Diagonalangreifers genau, um festzustellen, ob er den Longline-Schlag bevorzugt."
   },
   {
-    "it": "57",
-    "de": ""
+    "it": "Il mio compito è stabilizzare la ricezione affinché il palleggiatore possa servire i centrali con continuità.",
+    "de": "Meine Aufgabe ist es, die Annahme zu stabilisieren, damit der Zuspieler die Mittelblocker kontinuierlich einsetzen kann."
   },
   {
-    "it": "58",
-    "de": ""
+    "it": "Nonostante la pressione, sono riuscito a piazzare un pallonetto millimetrico proprio dietro il blocco avversario.",
+    "de": "Trotz des Drucks ist es mir gelungen, einen millimetergenauen Lob direkt hinter den gegnerischen Block zu setzen."
   },
   {
-    "it": "59",
-    "de": ""
+    "it": "Dobbiamo assolutamente evitare errori gratuiti in battuta in questa fase cruciale del set.",
+    "de": "Wir müssen in dieser entscheidenden Phase des Satzes unbedingt leichte Aufschlagfehler vermeiden."
   },
   {
-    "it": "60",
-    "de": ""
+    "it": "Ho percepito un tocco del muro, quindi chiedo immediatamente il Video Check per confermare la mia impressione.",
+    "de": "Ich habe eine Berührung des Blocks wahrgenommen und fordere daher sofort den Video-Check an, um meinen Eindruck zu bestätigen."
   },
   {
-    "it": "61",
-    "de": ""
+    "it": "Cercherò di essere più aggressivo a muro, invadendo lo spazio aereo avversario con le braccia.",
+    "de": "Ich werde versuchen, am Block aggressiver zu agieren, indem ich mit den Armen tief in den gegnerischen Luftraum eindringe."
   },
   {
-    "it": "62",
-    "de": ""
+    "it": "Il mio recupero in tuffo è stato fondamentale per mantenere viva l'azione e permetterci di contrattaccare.",
+    "de": "Meine Rettungsaktion im Hechtbagger war entscheidend, um den Ball im Spiel zu halten und uns den Gegenangriff zu ermöglichen."
   },
   {
-    "it": "63",
-    "de": ""
+    "it": "Dobbiamo comunicare di più sulla palla libera per non sprecare l'occasione di fare punto.",
+    "de": "Wir müssen bei Dankebällen mehr kommunizieren, um die Chance auf einen Punktgewinn nicht zu verspielen."
   },
   {
-    "it": "64",
-    "de": ""
+    "it": "Ho deciso di mirare al conflitto tra i due ricevitori per creare incertezza nella loro difesa.",
+    "de": "Ich habe mich entschieden, auf die Schnittstelle zwischen den beiden Annahmespielern zu zielen, um Unsicherheit in ihrer Abwehr zu erzeugen."
   },
   {
-    "it": "65",
-    "de": ""
+    "it": "La mia rincorsa deve essere più angolata per avere una visuale migliore sul campo avversario.",
+    "de": "Mein Anlauf muss schräger erfolgen, um eine bessere Sicht auf das gegnerische Feld zu haben."
   },
   {
-    "it": "66",
-    "de": ""
+    "it": "Cerco di anticipare lo spostamento laterale per non arrivare in ritardo sulla chiusura del muro.",
+    "de": "Ich versuche, die Seitwärtsbewegung zu antizipieren, um beim Schließen des Blocks nicht zu spät zu kommen."
   },
   {
-    "it": "67",
-    "de": ""
+    "it": "Il palleggiatore mi ha servito una palla perfetta, ho dovuto solo pensare a colpire nel punto più alto possibile.",
+    "de": "Der Zuspieler hat mir einen perfekten Ball serviert; ich musste nur noch daran denken, ihn am höchstmöglichen Punkt zu treffen."
   },
   {
-    "it": "68",
-    "de": ""
+    "it": "Dobbiamo raddoppiare gli sforzi in difesa, poiché i loro attaccanti stanno trovando troppi varchi.",
+    "de": "Wir müssen unsere Anstrengungen in der Abwehr verdoppeln, da ihre Angreifer zu viele Lücken finden."
   },
   {
-    "it": "69",
-    "de": ""
+    "it": "Ho interpretato male il segnale tattico e mi sono posizionato erroneamente per lo schema d'attacco.",
+    "de": "Ich habe das taktische Signal falsch gedeutet und mich für den Angriffsschwerpunkt falsch positioniert."
   },
   {
-    "it": "70",
-    "de": ""
+    "it": "Tenterò una battuta al salto di potenza per forzare il loro ricevitore più debole all'errore.",
+    "de": "Ich werde einen harten Sprungaufschlag versuchen, um ihren schwächsten Annahmespieler zu einem Fehler zu zwingen."
   },
   {
-    "it": "71",
-    "de": ""
+    "it": "La mia priorità è garantire una copertura impeccabile all'attaccante che colpisce contro un muro a tre.",
+    "de": "Meine Priorität ist es, dem Angreifer, der gegen einen Dreierblock schlägt, eine tadellose Sicherung zu garantieren."
   },
   {
-    "it": "72",
-    "de": ""
+    "it": "Ho notato che tendono a servire sempre sulla stessa zona, quindi mi sposterò leggermente per anticipare la palla.",
+    "de": "Mir ist aufgefallen, dass sie dazu neigen, immer in dieselbe Zone aufzuschlagen, daher werde ich mich leicht verschieben, um den Ball zu antizipieren."
   },
   {
-    "it": "73",
-    "de": ""
+    "it": "Dobbiamo mantenere alta l'intensità agonistica per non permettere loro di rientrare in partita.",
+    "de": "Wir müssen die wettkämpferische Intensität hochhalten, um ihnen nicht zu ermöglichen, wieder ins Spiel zu finden."
   },
   {
-    "it": "74",
-    "de": ""
+    "it": "Mi sento pronto a prendermi la responsabilità dell'ultimo attacco se la palla scotta.",
+    "de": "Ich fühle mich bereit, die Verantwortung für den letzten Angriff zu übernehmen, wenn es in der Crunchtime brenzlig wird."
   },
   {
-    "it": "75",
-    "de": ""
+    "it": "Ho cercato il 'mani e fuori' perché il muro era troppo scomposto per essere superato in potenza.",
+    "de": "Ich habe versucht, den Block anzuschlagen (Mani-Fuori), weil der Block zu ungeordnet war, um ihn mit reiner Kraft zu überwinden."
   },
   {
-    "it": "76",
-    "de": ""
+    "it": "La mia battuta float ha una traiettoria molto imprevedibile oggi, devo approfittarne il più possibile.",
+    "de": "Mein Flatteraufschlag hat heute eine sehr unvorhersehbare Flugbahn; das muss ich so weit wie möglich ausnutzen."
   },
   {
-    "it": "77",
-    "de": ""
+    "it": "Chiedo una palla più veloce in banda per anticipare la chiusura del loro centrale che è molto rapido.",
+    "de": "Ich fordere einen schnelleren Ball über Außen, um dem Schließen ihres Mittelblockers, der sehr flink ist, zuvorzukommen."
   },
   {
-    "it": "78",
-    "de": ""
+    "it": "Sento di aver spinto troppo con il polso e la palla è finita abbondantemente oltre la linea di fondo.",
+    "de": "Ich habe das Gefühl, zu sehr aus dem Handgelenk gedrückt zu haben, wodurch der Ball deutlich über die Grundlinie hinausging."
   },
   {
-    "it": "79",
-    "de": ""
+    "it": "Dobbiamo essere più compatti nelle coperture, non possiamo permettere che cadano palle facili a centro campo.",
+    "de": "Wir müssen in der Sicherung kompakter stehen; wir können nicht zulassen, dass einfache Bälle in der Mitte des Feldes zu Boden gehen."
   },
   {
-    "it": "80",
-    "de": ""
+    "it": "Il mio obiettivo è toccare il maggior numero di palloni a muro per agevolare il lavoro della difesa.",
+    "de": "Mein Ziel ist es, am Block so viele Bälle wie möglich zu berühren, um der Abwehr die Arbeit zu erleichtern."
   },
   {
-    "it": "81",
-    "de": ""
+    "it": "Ho osservato che il loro palleggiatore dà segni di stanchezza, dobbiamo approfittarne mettendo pressione al servizio.",
+    "de": "Ich habe beobachtet, dass ihr Zuspieler Anzeichen von Müdigkeit zeigt; wir müssen das ausnutzen, indem wir beim Aufschlag Druck ausüben."
   },
   {
-    "it": "82",
-    "de": ""
+    "it": "La mia rincorsa deve essere perpendicolare alla rete per permettermi di variare i colpi d'attacco.",
+    "de": "Mein Anlauf muss senkrecht zum Netz erfolgen, um mir die Variation meiner Angriffsschläge zu ermöglichen."
   },
   {
-    "it": "83",
-    "de": ""
+    "it": "Cercherò di servire corto per costringere il loro schiacciatore principale a uscire dal sistema di attacco.",
+    "de": "Ich werde versuchen, kurz aufzuschlagen, um ihren Hauptangreifer dazu zu zwingen, aus dem Angriffssystem auszubrechen."
   },
   {
-    "it": "84",
-    "de": ""
+    "it": "Ho avuto un'esitazione in ricezione che ci è costata un punto diretto, non deve più accadere.",
+    "de": "Ich hatte ein Zögern in der Annahme, das uns einen direkten Punkt gekostet hat; das darf nicht mehr vorkommen."
   },
   {
-    "it": "85",
-    "de": ""
+    "it": "Dobbiamo focalizzarci sulla qualità del primo tocco per poter sviluppare trame di gioco più complesse.",
+    "de": "Wir müssen uns auf die Qualität des ersten Kontakts konzentrieren, um komplexere Spielzüge entwickeln zu können."
   },
   {
-    "it": "86",
-    "de": ""
+    "it": "Mi posiziono sulla diagonale lunga perché il loro opposto tende a colpire spesso in quella direzione.",
+    "de": "Ich positioniere mich in der langen Diagonale, weil ihr Diagonalangreifer dazu neigt, oft in diese Richtung zu schlagen."
   },
   {
-    "it": "87",
-    "de": ""
+    "it": "Il mio bagher di difesa deve essere più morbido per permettere un'alzata precisa anche su attacchi potenti.",
+    "de": "Mein Abwehrbagger muss weicher werden, um selbst bei harten Angriffen ein präzises Zuspiel zu ermöglichen."
   },
   {
-    "it": "88",
-    "de": ""
+    "it": "Tenterò di giocare un attacco di seconda intenzione se vedo che la loro difesa è troppo arretrata.",
+    "de": "Ich werde versuchen, einen Angriff als zweiten Kontakt (Finte) zu spielen, wenn ich sehe, dass ihre Abwehr zu tief steht."
   },
   {
-    "it": "89",
-    "de": ""
+    "it": "Dobbiamo assolutamente rompere il loro ritmo di gioco con un break point in questo momento del match.",
+    "de": "Wir müssen in diesem Moment des Matches unbedingt ihren Spielrhythmus durch ein Break unterbrechen."
   },
   {
-    "it": "90",
-    "de": ""
+    "it": "Ho cercato di forzare troppo la traiettoria e la palla ha impattato contro il nastro della rete.",
+    "de": "Ich habe versucht, die Flugbahn zu sehr zu forcieren, und der Ball ist gegen die Netzkante geprallt."
   },
   {
-    "it": "91",
-    "de": ""
+    "it": "Cerco di mantenere le braccia ben tese e ferme durante la ricezione per dare stabilità alla traiettoria.",
+    "de": "Ich versuche, die Arme während der Annahme gestreckt und ruhig zu halten, um der Flugbahn Stabilität zu verleihen."
   },
   {
-    "it": "92",
-    "de": ""
+    "it": "Il mio compito in questa azione è attirare il muro centrale per liberare spazio all'attaccante laterale.",
+    "de": "Meine Aufgabe in diesem Spielzug ist es, den gegnerischen Mittelblocker zu binden, um Platz für den Außenangreifer zu schaffen."
   },
   {
-    "it": "93",
-    "de": ""
+    "it": "Dobbiamo reagire immediatamente a questo svantaggio psicologico e tornare a giocare con aggressività.",
+    "de": "Wir müssen sofort auf diesen psychologischen Rückschlag reagieren und wieder mit Aggressivität spielen."
   },
   {
-    "it": "94",
-    "de": ""
+    "it": "Ho notato una falla nella loro rotazione difensiva, dovremmo colpire sistematicamente in zona cinque.",
+    "de": "Ich habe eine Schwachstelle in ihrer Abwehrrotation bemerkt; wir sollten systematisch in Zone fünf angreifen."
   },
   {
-    "it": "95",
-    "de": ""
+    "it": "Il mio tempismo nel salto a muro è stato leggermente ritardato, devo essere più lesto a leggere le mani del palleggiatore.",
+    "de": "Mein Timing beim Blocksprung war etwas verzögert; ich muss die Hände des Zuspielers schneller lesen."
   },
   {
-    "it": "96",
-    "de": ""
+    "it": "Cerco di non farmi condizionare dall'errore precedente e di restare focalizzato sull'azione successiva.",
+    "de": "Ich versuche, mich nicht vom vorherigen Fehler beeinflussen zu lassen und auf den nächsten Spielzug konzentriert zu bleiben."
   },
   {
-    "it": "97",
-    "de": ""
+    "it": "Dobbiamo sfruttare meglio le palle di recupero per trasformarle in occasioni di contrattacco vincente.",
+    "de": "Wir müssen die Dankebälle besser nutzen, um sie in Chancen für einen erfolgreichen Gegenangriff zu verwandeln."
   },
   {
-    "it": "98",
-    "de": ""
+    "it": "Il mio attacco è stato murato perché non ho guardato la posizione delle mani dell'avversario prima di colpire.",
+    "de": "Mein Angriff wurde geblockt, weil ich vor dem Schlag nicht auf die Handstellung des Gegners geachtet habe."
   },
   {
-    "it": "99",
-    "de": ""
+    "it": "Tenterò di variare la profondità del servizio per rendere la vita difficile ai loro ricevitori.",
+    "de": "Ich werde versuchen, die Tiefe des Aufschlags zu variieren, um es ihren Annahmespielern schwer zu machen."
   },
   {
-    "it": "100",
-    "de": ""
+    "it": "La mia priorità in difesa è non far cadere nessuna palla senza aver effettuato almeno un tentativo di recupero.",
+    "de": "Meine Priorität in der Abwehr ist es, keinen Ball zu Boden gehen zu lassen, ohne zumindest einen Rettungsversuch unternommen zu haben."
   },
   {
-    "it": "Lei ha comprato un nuovo set di pennelli per il corso di pittura che frequenta.",
-    "de": "Sie hat ein neues Pinselset für den Malkurs gekauft, den sie besucht."
+    "it": "Dobbiamo essere più compatti emotivamente per superare questo momento di difficoltà collettiva.",
+    "de": "Wir müssen emotional geschlossener auftreten, um diesen Moment kollektiver Schwierigkeiten zu überstehen."
   },
-
   {
-    "it": "Lui ha lasciato il bicchiere sul bordo del tavolo e il gatto l'ha fatto cadere.",
-    "de": "Er hat das Glas an den Tischrand gestellt und die Katze hat es runtergeworfen."
+    "it": "Ho cercato di piazzare la palla nell'angolo più lontano, ma è uscita di pochissimi centimetri.",
+    "de": "Ich habe versucht, den Ball in die äußerste Ecke zu platzieren, aber er ging um wenige Zentimeter ins Aus."
   },
   {
-    "it": "Io ho comprato un nuovo portadocumenti per tenere tutto in ordine.",
-    "de": "Ich habe eine neue Dokumentenmappe gekauft, um alles in Ordnung zu halten."
+    "it": "Cerco di dare sempre il massimo sostegno ai miei compagni, specialmente dopo un errore punto.",
+    "de": "Ich versuche, meine Mitspieler immer maximal zu unterstützen, besonders nach einem direkten Fehler."
   },
   {
-    "it": "Tu non dovresti lasciare le chiavi di casa appese alla porta di fuori.",
-    "de": "Du solltest die Hausschlüssel nicht außen an der Tür hängen lassen."
+    "it": "Il mio spostamento a muro deve essere più fluido per evitare di toccare la rete con le braccia.",
+    "de": "Meine Seitwärtsbewegung am Block muss flüssiger werden, um eine Netzberührung mit den Armen zu vermeiden."
   },
   {
-    "it": "Lei ha trovato in fondo alla borsa una ricevuta di tre anni fa.",
-    "de": "Sie hat auf dem Grund der Tasche einen Kassenbon von vor drei Jahren gefunden."
+    "it": "Dobbiamo leggere meglio le loro finte, spesso il palleggiatore cerca il tocco di prima intenzione.",
+    "de": "Wir müssen ihre Finten besser lesen; oft sucht der Zuspieler den direkten Angriff beim zweiten Kontakt."
   },
   {
-    "it": "Lui ha comprato un nuovo copripiumino perché quello vecchio si era decolorato.",
-    "de": "Er hat einen neuen Bettbezug gekauft, weil der alte ausgeblichen war."
+    "it": "Ho deciso di attaccare con più decisione sulla linea laterale per evitare il loro muro centrale molto alto.",
+    "de": "Ich habe mich entschieden, entschlossener die Linie entlang anzugreifen, um ihrem sehr hohen Mittelblock auszuweichen."
   },
   {
-    "it": "Io ho dimenticato la giacca al ristorante e l'ho recuperata il giorno dopo.",
-    "de": "Ich habe die Jacke im Restaurant vergessen und sie am nächsten Tag abgeholt."
+    "it": "Il mio bagher d'alzata deve essere più preciso quando il palleggiatore non può intervenire.",
+    "de": "Mein oberes Zuspiel (bzw. Notzuspiel) muss präziser sein, wenn der Zuspieler nicht eingreifen kann."
   },
   {
-    "it": "Tu hai rotto lo zip dello zaino e ora si apre sempre mentre cammini.",
-    "de": "Du hast den Reißverschluss des Rucksacks kaputt gemacht und er geht jetzt immer auf während du gehst."
+    "it": "Cerco di trasmettere sicurezza alla squadra attraverso una gestione oculata delle palle più difficili.",
+    "de": "Ich versuche, dem Team durch ein umsichtiges Management der schwierigen Bälle Sicherheit zu vermitteln."
   },
   {
     "it": "Lei ha trovato sotto il cuscino del divano le cuffie del figlio.",
