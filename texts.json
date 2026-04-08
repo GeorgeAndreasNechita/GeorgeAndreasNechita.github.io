@@ -1,4 +1,604 @@
 [
+    {
+    "it": "Minimizziamo gli errori non forzati e troviamo pazientemente il nostro ritmo.",
+    "de": "Lass uns die Eigenfehler minimieren und geduldig unseren Rhythmus finden."
+  },
+  {
+    "it": "Mantieni la calma, ribalteremo ancora questo set a nostro favore.",
+    "de": "Behalte die Nerven, wir drehen diesen Satz noch zu unseren Gunsten."
+  },
+  {
+    "it": "Dobbiamo creare molta più pressione in battuta fin dall'inizio.",
+    "de": "Wir müssen von Beginn an wesentlich mehr Druck im Aufschlag erzeugen."
+  },
+  {
+    "it": "Non farti provocare, rispondi invece con una grande giocata!",
+    "de": "Lass dich nicht provozieren, antworte stattdessen mit einer starken Aktion!"
+  },
+  {
+    "it": "Mantieni la lucidità, il muro avversario agisce in modo molto frenetico.",
+    "de": "Behalte die Übersicht, der gegnerische Block agiert heute extrem hektisch."
+  },
+  {
+    "it": "Affidati alla tua intuizione, leggi il gioco in modo eccellente!",
+    "de": "Verlass dich auf deine Intuition, du liest das Spiel hervorragend!"
+  },
+  {
+    "it": "Non dobbiamo assolutamente cedere loro l'inerzia ora, restate concentrati!",
+    "de": "Wir dürfen ihnen jetzt keinesfalls das Momentum überlassen, bleibt fokussiert!"
+  },
+  {
+    "it": "Mostra presenza a rete, fagli sentire chiaramente la tua determinazione!",
+    "de": "Zeig Präsenz am Netz, lass sie deine Entschlossenheit deutlich spüren!"
+  },
+  {
+    "it": "Comunicate più chiaramente in campo per evitare sistematicamente i malintesi.",
+    "de": "Kommuniziert klarer auf dem Feld, damit Missverständnisse konsequent vermieden werden."
+  },
+  {
+    "it": "Archivia immediatamente l'errore, ora conta solo il prossimo scambio!",
+    "de": "Hak den Fehler umgehend ab, der nächste Ballwechsel zählt!"
+  },
+  {
+    "it": "Sfrutta strategicamente le debolezze evidenti nella loro difesa in campo.",
+    "de": "Nutze die Schwächen in ihrer Feldabwehr strategisch klug aus."
+  },
+  {
+    "it": "Agiamo in modo troppo statico, portate più dinamismo nei nostri movimenti!",
+    "de": "Wir agieren viel zu statisch, bringt mehr Dynamik in unsere Bewegungen!"
+  },
+  {
+    "it": "Mantenete alta la tensione, la partita non è affatto decisa.",
+    "de": "Behaltet die Körperspannung aufrecht, das Spiel ist noch längst nicht entschieden."
+  },
+  {
+    "it": "Metteteli subito sotto pressione, da ora dettiamo noi il ritmo!",
+    "de": "Setzt sie direkt unter Druck, wir diktieren das Tempo ab jetzt!"
+  },
+  {
+    "it": "Trasmettete più sicurezza, ci siamo allenati duramente per questo momento!",
+    "de": "Strahlt mehr Selbstbewusstsein aus, wir haben hart für diesen Moment trainiert!"
+  },
+  {
+    "it": "Servi coraggiosamente sulla riga, il loro libero vacilla molto oggi.",
+    "de": "Servier mutig riskant auf die Linie, ihr Libero wackelt heute."
+  },
+  {
+    "it": "Inserisci intenzionalmente una battuta float corta per sorprenderli.",
+    "de": "Streu bewusst einen kurzen Float-Aufschlag ein, um sie zu überraschen."
+  },
+  {
+    "it": "Concentrati sul punto di impatto pulito della palla nel servizio.",
+    "de": "Fokussiere dich beim Sprungaufschlag auf den sauberen Treffpunkt des Balles."
+  },
+  {
+    "it": "Tieni la palla in gioco, ora ci serve assolutamente sicurezza.",
+    "de": "Halt den Ball im Spiel, wir brauchen jetzt zwingend Sicherheit."
+  },
+  {
+    "it": "Prendi di mira il giocatore in cinque, la sua ricezione è vulnerabile.",
+    "de": "Visiere den Spieler auf Position fünf an, seine Annahme ist anfällig."
+  },
+  {
+    "it": "Prenditi tempo in battuta e fai un altro respiro profondo.",
+    "de": "Lass dir beim Service Zeit und atme noch einmal tief durch."
+  },
+  {
+    "it": "Servi con pressione tra i due ricevitori per creare estrema confusione.",
+    "de": "Servier druckvoll zwischen die beiden Annahmespieler, um Verwirrung zu stiften."
+  },
+  {
+    "it": "Cambia la direzione della battuta in modo imprevedibile per sorprenderli.",
+    "de": "Wechsel die Aufschlagrichtung unvorhersehbar, damit sie sich nicht darauf einstellen können."
+  },
+  {
+    "it": "Sfrutta il muro a vista per infastidire la loro ricezione.",
+    "de": "Nutze den Sichtblock optimal, um den gegnerischen Annahmeriegel zu irritieren."
+  },
+  {
+    "it": "Una battuta tattica ora è molto più preziosa della pura potenza.",
+    "de": "Ein taktischer Aufschlag ist jetzt weitaus wertvoller als reine Härte."
+  },
+  {
+    "it": "Manda la battuta tesa sopra la rete, complicherà la ricezione.",
+    "de": "Schick den Aufschlag flach über die Netzkante, das erschwert die Annahme."
+  },
+  {
+    "it": "Osserva come si sposta la loro ricezione prima del tuo servizio.",
+    "de": "Beobachte genau, wie sich ihre Annahmeformation vor deinem Service verschiebt."
+  },
+  {
+    "it": "Usa la battuta jump-float, oggi fluttua in modo particolarmente imprevedibile.",
+    "de": "Setz den Sprung-Flatteraufschlag ein, der flattert heute besonders unberechenbar."
+  },
+  {
+    "it": "Ci serve un break, rischia tranquillamente di più in battuta!",
+    "de": "Wir brauchen ein Break, riskier beim Aufschlag ruhig etwas mehr!"
+  },
+  {
+    "it": "Mantieni la pressione, hanno enormi problemi nella costruzione del gioco.",
+    "de": "Halt den Druck hoch, sie haben massive Probleme in der Spielaufbauphase."
+  },
+  {
+    "it": "Spingi la ricezione un po' più avanti verso la rete.",
+    "de": "Schieb die Annahme ruhig etwas weiter vor ans Netz."
+  },
+  {
+    "it": "Resta basso in ricezione, la palla si abbassa estremamente tardi.",
+    "de": "Bleib tief in der Annahme, der Ball senkt sich extrem spät."
+  },
+  {
+    "it": "Apri l'asse del corpo al palleggiatore per controllare l'angolo precisamente.",
+    "de": "Öffne deine Körperachse zum Zuspieler, um den Winkel präzise zu kontrollieren."
+  },
+  {
+    "it": "Prendi la battuta float in palleggio, ci dà maggiore stabilità.",
+    "de": "Nimm den Flatteraufschlag konsequent im Pritschen, das gibt uns mehr Stabilität."
+  },
+  {
+    "it": "Coprimi le spalle se la forte battuta al salto mi rimbalza addosso.",
+    "de": "Deck meinen Rücken ab, falls der harte Sprungaufschlag von mir abprallt."
+  },
+  {
+    "it": "Anticipa tempestivamente la palla corta, sii subito pronto sulle gambe!",
+    "de": "Antizipiere den kurzen Ball frühzeitig, sei direkt auf den Beinen!"
+  },
+  {
+    "it": "Dobbiamo sigillare meglio le zone di conflitto tra noi in ricezione.",
+    "de": "Wir müssen die Nahtstellen zwischen uns in der Annahme besser abdichten."
+  },
+  {
+    "it": "Non far rimbalzare via la palla, ammortizza attivamente la pressione!",
+    "de": "Lass den Ball nicht abtropfen, feder den Druck aktiv ab!"
+  },
+  {
+    "it": "Spingi la free ball il più precisamente possibile verso il palleggiatore.",
+    "de": "Schieb den Dankeball so präzise wie möglich zum Zuspieler."
+  },
+  {
+    "it": "Affidati alla tua tecnica, gestisci la ricezione in modo superbo.",
+    "de": "Vertrau auf deine Technik, du hast die Annahme souverän im Griff."
+  },
+  {
+    "it": "Spostate la linea di ricezione più a destra, serve sempre lì.",
+    "de": "Verschiebt den Annahmeriegel kollektiv weiter nach rechts, er serviert immer dorthin."
+  },
+  {
+    "it": "Sganciati più velocemente dalla ricezione per essere subito pronto ad attaccare.",
+    "de": "Löse dich schneller aus der Annahme, um direkt angriffsbereit zu sein."
+  },
+  {
+    "it": "Fissa la palla fino all'ultimissimo momento, non farti mai distrarre.",
+    "de": "Fixiere den Ball bis zum allerletzten Moment, lass dich nicht ablenken."
+  },
+  {
+    "it": "Dobbiamo tirare fuori qualcosa di produttivo da questa ricezione mediocre.",
+    "de": "Wir müssen aus dieser mäßigen Annahme trotzdem noch etwas Produktives machen."
+  },
+  {
+    "it": "Comunicate \"Mia!\" in anticipo, questo previene pericolosi scontri in difesa.",
+    "de": "Kommuniziert frühzeitig \"Ich!\", das verhindert gefährliche Zusammenstöße im Hinterfeld."
+  },
+  {
+    "it": "Accelera il gioco sulle bande, il muro avversario è molto lento.",
+    "de": "Beschleunige das Spiel über die Außenpositionen, der gegnerische Block ist träge."
+  },
+  {
+    "it": "Alza il primo tempo un po' più alto per farmelo chiudere.",
+    "de": "Spiel den Meterpass etwas höher, damit ich ihn optimal voll durchziehen kann."
+  },
+  {
+    "it": "Inserisci più spesso la veloce, questo crea varchi nella loro difesa.",
+    "de": "Streu häufiger den Aufsteiger ein, das reißt Lücken in deren Abwehr."
+  },
+  {
+    "it": "Distribuisci i palloni in modo imprevedibile, ormai anticipano i nostri attacchi.",
+    "de": "Verteil die Bälle unberechenbarer, sie antizipieren unsere Angriffe mittlerweile zu leicht."
+  },
+  {
+    "it": "Spingi l'alzata dietro molto verso l'esterno fino all'asticella laterale.",
+    "de": "Zieh das Zuspiel über Kopf weit nach außen an die Antenne."
+  },
+  {
+    "it": "Tieni la palla un po' più a lungo per congelare il muro.",
+    "de": "Halte den Ball beim Zuspiel etwas länger, um den Block einzufrieren."
+  },
+  {
+    "it": "Se la ricezione vacilla, gioca la palla alta e sicura in banda.",
+    "de": "Wenn die Annahme wackelt, spiel den sicheren hohen Ball nach außen."
+  },
+  {
+    "it": "Coinvolgi l'attaccante di seconda linea nella nostra complessa strategia offensiva.",
+    "de": "Beziehe den Hinterreihenangreifer häufiger in unsere komplexe Offensivstrategie mit ein."
+  },
+  {
+    "it": "Nascondi la tua intenzione di alzata, al momento sei troppo prevedibile.",
+    "de": "Verbirg deine Zuspielintention geschickter, du bist aktuell zu leicht auszurechnen."
+  },
+  {
+    "it": "Gioca il passaggio esattamente nella mia rincorsa, poi sarà colpo vincente.",
+    "de": "Spiel den Pass exakt in meine Laufbewegung, dann knallt es richtig."
+  },
+  {
+    "it": "Salva questa palla venuta male in qualche modo, mandiamola di là!",
+    "de": "Rette diesen verunglückten Ball irgendwie, wir müssen ihn nur rüberbringen!"
+  },
+  {
+    "it": "Il tuo ritmo in alzata è superbo, continua esattamente in questo modo!",
+    "de": "Dein Rhythmus beim Zuspielen ist momentan überragend, mach genau weiter so!"
+  },
+  {
+    "it": "Chiama la palla ad alta voce se devo alzare dalla difesa.",
+    "de": "Fordere den Ball lautstark, falls ich aus der Abwehr zuspielen muss."
+  },
+  {
+    "it": "Gioca eccezionalmente la palla un po' più vicina a rete per tagliare.",
+    "de": "Spiel den Ball ausnahmsweise etwas dichter ans Netz für den Cut."
+  },
+  {
+    "it": "Un'alzata inaspettata all'opposto scardinerebbe completamente il loro muro a due.",
+    "de": "Ein unerwarteter Pass auf die Diagonalposition würde den Doppelblock komplett aushebeln."
+  },
+  {
+    "it": "Schiaccia forte in parallela, lì non c'è assolutamente nessun difensore.",
+    "de": "Schlag den Ball hart die Linie runter, da steht absolut niemand."
+  },
+  {
+    "it": "Cerca di colpire intenzionalmente il muro avversario, non chiudono compatti.",
+    "de": "Versuch, den gegnerischen Block bewusst anzuschlagen, er schließt nicht kompakt."
+  },
+  {
+    "it": "Se l'alzata è brutta, piazza la palla in pallonetto con astuzia.",
+    "de": "Wenn der Pass schlecht ist, leg den Ball clever als Lob."
+  },
+  {
+    "it": "Esegui la rincorsa in modo esplosivo per generare la massima altezza.",
+    "de": "Zieh deinen Anlauf explosiver durch, um maximale Sprunghöhe zu generieren."
+  },
+  {
+    "it": "Sfrutta l'angolo diagonale, il muro di banda chiude completamente la parallela.",
+    "de": "Nutze den diagonalen Winkel, der Außenblocker macht die Linie komplett zu."
+  },
+  {
+    "it": "Varia il tuo repertorio d'attacco, si sono adeguati ai tuoi colpi.",
+    "de": "Variiere dein Angriffsrepertoire, sie haben sich bereits auf deine harten Schläge eingestellt."
+  },
+  {
+    "it": "Osserva la difesa con la coda dell'occhio e piazza lì la palla.",
+    "de": "Beobachte im Augenwinkel die Abwehr und platziere den Ball präzise dorthin."
+  },
+  {
+    "it": "Ritarda minimamente il colpo per eludere abilmente il muro in ricaduta.",
+    "de": "Verzögere deinen Schlag minimal, um dem Block im Fallen auszuweichen."
+  },
+  {
+    "it": "Butta giù la palla senza compromessi, ci serve assolutamente questo punto!",
+    "de": "Hau das Ding ohne Kompromisse rein, wir brauchen diesen Punkt zwingend!"
+  },
+  {
+    "it": "Gira la palla col polso abilmente oltre l'imponente centrale avversario.",
+    "de": "Dreh den Ball im Handgelenk geschickt am massiven Mittelblocker vorbei."
+  },
+  {
+    "it": "Attacca rigorosamente dalla seconda linea, la difesa avversaria non se lo aspetta.",
+    "de": "Attackiere rigoros aus dem Hinterfeld, das rechnet die gegnerische Abwehr nicht."
+  },
+  {
+    "it": "Mantieni la visione di gioco, gli attacchi di pura forza non aiutano.",
+    "de": "Behalt die Übersicht am Netz, wilde Gewaltschläge bringen uns nicht weiter."
+  },
+  {
+    "it": "Schiaccia forte in diagonale, la diagonale stretta è completamente sguarnita!",
+    "de": "Schlag hart cross, die kurze Diagonale ist komplett ungeschützt!"
+  },
+  {
+    "it": "Spazzola la palla astutamente sopra il muro se sei in posizione sfavorevole.",
+    "de": "Wisch den Ball schlau über den Block, wenn du ungünstig stehst."
+  },
+  {
+    "it": "Osa sorprendere il difensore di seconda linea con un taglio corto.",
+    "de": "Trau dich, den Rückraumspieler mit einem extrem kurzen Cut zu überraschen."
+  },
+  {
+    "it": "Dobbiamo assolutamente chiudere in modo più compatto il muro in banda.",
+    "de": "Wir müssen den Doppelblock auf der Außenposition zwingend kompakter schließen."
+  },
+  {
+    "it": "Invadi nettamente la rete, non lasciare all'attaccante alcuno spazio di manovra.",
+    "de": "Übergreif das Netz deutlich, lass dem Angreifer überhaupt keinen Handlungsspielraum."
+  },
+  {
+    "it": "Fai attenzione al tempismo, salta solo quando lui colpisce la palla.",
+    "de": "Achte auf das Timing, spring erst, wenn er den Ball trifft."
+  },
+  {
+    "it": "Chiudi la parallela sistematicamente, la difesa copre l'attacco in diagonale.",
+    "de": "Mach die Linie konsequent zu, die Feldabwehr kümmert sich um den Cross-Schlag."
+  },
+  {
+    "it": "Resta stabile in aria, non farti spingere via dall'attaccante avversario.",
+    "de": "Bleib stabil in der Luft, lass dich nicht vom Angreifer wegdrücken."
+  },
+  {
+    "it": "Formate il muro rapidamente, arrivate spesso in ritardo sui passaggi veloci.",
+    "de": "Formiert den Block zügiger, ihr seid bei schnellen Pässen oft zu spät."
+  },
+  {
+    "it": "Allarga bene le dita per garantire la massima superficie di muro.",
+    "de": "Spreize die Finger weit, um eine maximale Blockfläche zu garantieren."
+  },
+  {
+    "it": "Spingi le mani con aggressività nella metà campo avversaria, mura attivamente!",
+    "de": "Drück die Hände aggressiv in die gegnerische Hälfte, block aktiv!"
+  },
+  {
+    "it": "Leggi l'asse delle spalle dell'attaccante, rivela sempre la direzione del colpo.",
+    "de": "Lies die Schulterachse des Angreifers, er verrät seine Schlagrichtung immer vorab."
+  },
+  {
+    "it": "Non farti ingannare ciecamente in aria da finti attacchi degli avversari.",
+    "de": "Lass dich von angetäuschten Angriffen nicht blindwütig in die Luft locken."
+  },
+  {
+    "it": "Marca stretto il centrale, non deve coglierci di sorpresa coi primi tempi.",
+    "de": "Fixiere den Mittelblocker, er darf uns nicht mit Aufsteigern überrumpeln."
+  },
+  {
+    "it": "Se sei in estremo ritardo, non murare per evitare il fallo.",
+    "de": "Wenn du zu spät bist, blocke nicht, um den Netzfehler zu vermeiden."
+  },
+  {
+    "it": "Ci serve un monster block per spegnere all'istante il loro entusiasmo!",
+    "de": "Wir brauchen einen Monsterblock, um ihre Euphorie augenblicklich zu ersticken!"
+  },
+  {
+    "it": "Copri il muro avversario, spesso la palla cade pericolosamente vicina a noi.",
+    "de": "Sicher den Block ab, der Ball tropft häufig gefährlich nah hinunter."
+  },
+  {
+    "it": "Coordina il muro a tre ad alta voce, formiamo un muro invalicabile.",
+    "de": "Koordiniere den Dreierblock laut, wir müssen hier eine unüberwindbare Mauer bilden."
+  },
+  {
+    "it": "Anticipa per tempo l'attacco potente e abbassa subito il tuo baricentro.",
+    "de": "Antizipiere den harten Angriff rechtzeitig und verlagere dein Körpergewicht tief."
+  },
+  {
+    "it": "Raschia la palla dal pavimento, l'importante è che resti in gioco!",
+    "de": "Kratz den Ball irgendwie vom Boden, Hauptsache er bleibt im Spiel!"
+  },
+  {
+    "it": "Resta sulle punte, devi poter reagire in modo esplosivo in qualsiasi momento.",
+    "de": "Bleib auf den Zehenspitzen, du musst jederzeit explosiv reagieren können."
+  },
+  {
+    "it": "Preparati in difesa per pallonetti infidi piazzati corti dietro il muro.",
+    "de": "Mach dich in der Feldabwehr bereit für fiese, kurz abgelegte Lobs."
+  },
+  {
+    "it": "Non stare all'ombra del nostro muro, cercati una linea visiva libera.",
+    "de": "Steh nicht im Schatten unseres Blocks, such dir eine klare Sichtlinie."
+  },
+  {
+    "it": "Non schivare il colpo potente, opponiti semplicemente con estrema stabilità!",
+    "de": "Weich dem harten Schlag nicht aus, halt einfach stabil dagegen!"
+  },
+  {
+    "it": "Tuffati sulla palla senza compromessi, non cediamo un punto senza lottare.",
+    "de": "Hechte dem Ball kompromisslos nach, wir geben keinen einzigen Punkt kampflos auf."
+  },
+  {
+    "it": "Porta la palla difesa alta al centro, questo facilita la costruzione.",
+    "de": "Bring den abgewehrten Ball hoch in die Mitte, das erleichtert den Spielaufbau."
+  },
+  {
+    "it": "Sposta la tua posizione un po' più indietro, schiaccia molto lungo.",
+    "de": "Verlager deine Position etwas weiter nach hinten, er schlägt enorm lang."
+  },
+  {
+    "it": "Affidati ciecamente ai tuoi riflessi, istintivamente sei sempre al posto giusto.",
+    "de": "Vertrau blind auf deine Reflexe, du stehst instinktiv immer goldrichtig."
+  },
+  {
+    "it": "La copertura del muro è essenziale, non far cadere nessun pallone intatto!",
+    "de": "Die Blockabsicherung ist immens wichtig, lass keinen Ball unberührt auf den Boden!"
+  },
+  {
+    "it": "Allargati bene, non presentare all'attaccante evidenti varchi liberi nel nostro campo.",
+    "de": "Mach dich breit, präsentiere dem Angreifer keine offensichtlichen Lücken im Feld."
+  },
+  {
+    "it": "Assorbi la potenza dell'attacco cedendo leggermente e morbidamente con le braccia.",
+    "de": "Absorbiere die Wucht des Angriffs, indem du mit den Armen leicht nachgibst."
+  },
+  {
+    "it": "Lotta per ogni palla disperata, questo demoralizza pesantemente l'avversario.",
+    "de": "Kämpf um jeden noch so aussichtslosen Ball, das demoralisiert den Gegner."
+  },
+  {
+    "it": "Sganciati subito dalla posizione difensiva per supportare fluidamente il nostro contrattacco.",
+    "de": "Löse dich sofort aus der Abwehrhaltung, um den Gegenangriff zu unterstützen."
+  },
+  {
+    "it": "Variamo drasticamente il ritmo di gioco per mandarli in totale confusione.",
+    "de": "Lass uns das Tempo drastisch variieren, um sie zu verwirren."
+  },
+  {
+    "it": "Gioca la free ball velocemente, sfruttiamo a freddo la loro disorganizzazione.",
+    "de": "Spiel den Dankeball gnadenlos schnell, nutzen wir ihre Desorganisation eiskalt aus."
+  },
+  {
+    "it": "Chiamate i palloni a voce alta, la comunicazione in campo è carente.",
+    "de": "Fordert die Bälle lauter, die Kommunikation auf dem Feld ist mangelhaft."
+  },
+  {
+    "it": "Concentriamo le battute sistematicamente sul loro ricevitore attualmente in evidente difficoltà.",
+    "de": "Wir fokussieren unsere Aufschläge konsequent auf ihren schwächelnden Annahmespieler."
+  },
+  {
+    "it": "Costringeteli a scambi prolungati, la loro resistenza atletica sta visibilmente calando.",
+    "de": "Zwingt sie zu langen Ballwechseln, ihre Kondition lässt spürbar nach."
+  },
+  {
+    "it": "Mantenete saldamente le vostre posizioni, non fatevi trascinare fuori senza motivo.",
+    "de": "Behaltet eure Positionen bei, lasst euch nicht grundlos herausziehen."
+  },
+  {
+    "it": "Sfruttate abilmente il timeout per abbassare il battito cardiaco e riorganizzarvi.",
+    "de": "Nutzt die Auszeit, um den Puls zu senken und euch neu auszurichten."
+  },
+  {
+    "it": "Un doppio cambio riuscito porta ora la fresca energia urgentemente necessaria.",
+    "de": "Ein erfolgreicher Doppelwechsel bringt jetzt die dringend benötigte frische Energie."
+  },
+  {
+    "it": "Dobbiamo agire in modo imprevedibile, intuiscono i nostri schemi senza sforzo.",
+    "de": "Wir müssen unberechenbarer agieren, sie durchschauen unsere Spielzüge mittlerweile mühelos."
+  },
+  {
+    "it": "Prendetevi in consegna gli attaccanti fluidamente durante gli incroci, comunicatelo cristallino.",
+    "de": "Übergebt die Angreifer beim Kreuzen fließend, kommuniziert das glasklar."
+  },
+  {
+    "it": "Questo è un punto di svolta psicologico, afferratelo a tutti i costi!",
+    "de": "Dieser Punkt ist ein psychologischer Wendepunkt, krallt ihn euch unbedingt!"
+  },
+  {
+    "it": "Attuate il piano di gioco coerentemente, non improvvisate continuamente a casaccio.",
+    "de": "Setzt den Gameplan konsequenter um, improvisiert nicht ständig wild herum."
+  },
+  {
+    "it": "Leggete il palleggiatore avversario, telegrafa molto visibilmente le sue alzate.",
+    "de": "Lest die Körpersprache des gegnerischen Zuspielers, er telegraphiert seine Pässe extrem."
+  },
+  {
+    "it": "Agiamo in modo troppo passivo, prendete finalmente l'iniziativa con estremo coraggio!",
+    "de": "Wir agieren zu passiv, ergreift endlich mutig die Initiative!"
+  },
+  {
+    "it": "Sfiancateli con un tenace lavoro difensivo, finché forzeranno gli errori per frustrazione.",
+    "de": "Zermürbt sie mit hartnäckiger Verteidigungsarbeit, bis sie frustriert Fehler erzwingen wollen."
+  },
+  {
+    "it": "Match point per noi, giocate con coraggio ma evitate rischi assolutamente inutili.",
+    "de": "Matchball für uns, spielt mutig, aber vermeidet unnötige Risiken."
+  },
+  {
+    "it": "Siamo in parità nel momento decisivo, contano nervi d'acciaio e precisione.",
+    "de": "Es steht Unentschieden in der Crunchtime, jetzt zählen absolute Nervenstärke und Präzision."
+  },
+  {
+    "it": "L'arbitro fischia in modo pignolo, prestate un'attenzione maniacale ai falli tecnici.",
+    "de": "Der Schiedsrichter pfeift heute extrem kleinlich, achtet peinlich genau auf technische Fehler."
+  },
+  {
+    "it": "Fate controllare tranquillamente la palla fuori tramite video, ne sono assolutamente certo.",
+    "de": "Lasst den Ballausfall ruhig überprüfen, ich bin mir absolut sicher."
+  },
+  {
+    "it": "Hanno il set point, giochiamo senza compromessi tramite i nostri migliori attaccanti.",
+    "de": "Sie haben Satzball, wir spielen jetzt kompromisslos über unsere stärksten Angreifer."
+  },
+  {
+    "it": "La palla ha toccato palesemente l'asticella laterale, protestate con veemenza!",
+    "de": "Der Ball touchierte eindeutig die Antenne, reklamiert das vehement!"
+  },
+  {
+    "it": "Un'evidente invasione a rete, fai maggiore attenzione al gioco di gambe!",
+    "de": "Ein Übertritt am Netz, pass beim Blocken auf deine Fußarbeit auf!"
+  },
+  {
+    "it": "L'allenatore avversario sembra nervoso, sfruttiamo sistematicamente questa loro palese insicurezza.",
+    "de": "Der gegnerische Trainer wirkt nervös, nutzen wir diese Verunsicherung konsequent aus."
+  },
+  {
+    "it": "Abbiamo appena effettuato il cambio campo, ritrovate la concentrazione per chiudere!",
+    "de": "Wir haben den Seitenwechsel, fokussiert euch neu für diesen finalen Satz!"
+  },
+  {
+    "it": "La palla era millimetricamente e perfettamente posizionata sulla riga, occhio grandioso!",
+    "de": "Der Ball war hauchdünn auf der Linie, grandioses Auge!"
+  },
+  {
+    "it": "Siamo nettamente in svantaggio nel punteggio, rischiate assolutamente tutto in battuta ora!",
+    "de": "Wir liegen deutlich zurück, riskiert jetzt alles im Aufschlag!"
+  },
+  {
+    "it": "Evidente tocco a muro! L'ho visto chiaramente, chiedete subito il video check!",
+    "de": "Block-Touch! Ich habe es genau gesehen, fordert die Challenge!"
+  },
+  {
+    "it": "Non abbassate mai la testa, è stato solo uno scambio molto sfortunato.",
+    "de": "Lasst die Köpfe nicht hängen, das war nur ein unglücklicher Punktwechsel."
+  },
+  {
+    "it": "L'inerzia del set è dalla nostra parte, travolgeteli completamente proprio ora!",
+    "de": "Das Momentum ist auf unserer Seite, überrollt sie jetzt völlig!"
+  },
+  {
+    "it": "Ci serve un punto sporco ora, l'estetica è del tutto secondaria.",
+    "de": "Wir brauchen jetzt einen dreckigen Punkt, Ästhetik ist völlig zweitrangig."
+  },
+  {
+    "it": "Non date per persa nessuna palla, raschiate via ogni palla apparentemente impossibile!",
+    "de": "Gebt keinen Ball verloren, kratzt jeden noch so unmöglichen Ball raus!"
+  },
+  {
+    "it": "Sentite questa magnifica energia? Chiudiamo questo set in modo superbo proprio ora.",
+    "de": "Spürt ihr diese Energie? Lasst uns diesen Satz jetzt souverän beenden."
+  },
+  {
+    "it": "Il vostro linguaggio del corpo deve irradiare dominio, fategli vedere chi comanda.",
+    "de": "Eure Körpersprache muss Dominanz ausstrahlen, zeigt ihnen, wer hier das Sagen hat."
+  },
+  {
+    "it": "Restate molto disciplinati nella formazione a muro, non fatevi allargare con leggerezza.",
+    "de": "Bleibt diszipliniert in der Blockformation, lasst euch nicht leichtsinnig auseinanderziehen."
+  },
+  {
+    "it": "Ignorate le provocazioni a rete, la nostra risposta avviene esclusivamente a punti.",
+    "de": "Ignoriert die Provokationen am Netz, unsere Antwort erfolgt ausschließlich über Punkte."
+  },
+  {
+    "it": "Spingi la palla senza pietà attraverso il muro, hai la forza necessaria!",
+    "de": "Presst den Ball gnadenlos durch den Doppelblock, du hast die Kraft dafür!"
+  },
+  {
+    "it": "Fate un respiro profondo, questo scambio ora diventerà sicuramente e incredibilmente intenso.",
+    "de": "Atmet tief durch, dieser Ballwechsel wird jetzt unglaublich intensiv werden."
+  },
+  {
+    "it": "Reagite d'istinto, avete allenato queste specifiche situazioni di gioco centinaia di volte.",
+    "de": "Reagiert instinktiv, ihr habt diese spezifischen Spielsituationen hunderte Male trainiert."
+  },
+  {
+    "it": "Ora entriamo in totale trance agonistica, mantenete l'intensità mentale al massimo livello!",
+    "de": "Wir spielen uns jetzt in einen Rausch, haltet die Intensität maximal hoch!"
+  },
+  {
+    "it": "Fidatevi dei compagni, la chimica di squadra è la nostra carta vincente.",
+    "de": "Vertraut euren Nebenleuten blind, unsere Teamchemie ist heute unser größter Trumpf."
+  },
+  {
+    "it": "Imponete il vostro gioco senza pietà, non hanno alcuna risposta adeguata.",
+    "de": "Drückt ihnen euer Spiel gnadenlos auf, sie haben keine adäquate Antwort darauf."
+  },
+  {
+    "it": "Mantenete questo livello fenomenale senza esitazioni fino all'ultimo fischio finale dell'arbitro!",
+    "de": "Zieht dieses phänomenale Niveau bis zum allerletzten Pfiff gnadenlos durch!"
+  },
+  {
+    "it": "Spronatevi incessantemente a vicenda, il palazzetto dello sport deve letteralmente tremare!",
+    "de": "Peitscht euch gegenseitig nach vorn, die Halle muss beben!"
+  },
+  {
+    "it": "Chiudete i conti, li abbiamo messi esattamente dove li vogliamo da tempo!",
+    "de": "Macht den Sack zu, wir haben sie genau da, wo wir wollen!"
+  },
+  {
+    "it": "Portiamo ora congiuntamente questa vittoria epica oltre la linea del traguardo finale!",
+    "de": "Lasst uns diesen epischen Sieg jetzt gemeinsam über die Ziellinie bringen!"
+  },
 {
     "it": "Prendo io la palla se arriva corta in zona quattro, tu resta pronto per la copertura.",
     "de": "Ich übernehme den Ball, falls er kurz in Zone vier kommt; bleib du bereit für die Sicherung."
