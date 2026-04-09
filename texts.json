@@ -1,2055 +1,583 @@
 [
-    {
-    "it": "Minimizziamo gli errori non forzati e troviamo pazientemente il nostro ritmo.",
-    "de": "Lass uns die Eigenfehler minimieren und geduldig unseren Rhythmus finden."
-  },
-  {
-    "it": "Mantieni la calma, ribalteremo ancora questo set a nostro favore.",
-    "de": "Behalte die Nerven, wir drehen diesen Satz noch zu unseren Gunsten."
-  },
-  {
-    "it": "Dobbiamo creare molta più pressione in battuta fin dall'inizio.",
-    "de": "Wir müssen von Beginn an wesentlich mehr Druck im Aufschlag erzeugen."
-  },
-  {
-    "it": "Non farti provocare, rispondi invece con una grande giocata!",
-    "de": "Lass dich nicht provozieren, antworte stattdessen mit einer starken Aktion!"
-  },
-  {
-    "it": "Mantieni la lucidità, il muro avversario agisce in modo molto frenetico.",
-    "de": "Behalte die Übersicht, der gegnerische Block agiert heute extrem hektisch."
-  },
-  {
-    "it": "Affidati alla tua intuizione, leggi il gioco in modo eccellente!",
-    "de": "Verlass dich auf deine Intuition, du liest das Spiel hervorragend!"
-  },
-  {
-    "it": "Non dobbiamo assolutamente cedere loro l'inerzia ora, restate concentrati!",
-    "de": "Wir dürfen ihnen jetzt keinesfalls das Momentum überlassen, bleibt fokussiert!"
-  },
-  {
-    "it": "Mostra presenza a rete, fagli sentire chiaramente la tua determinazione!",
-    "de": "Zeig Präsenz am Netz, lass sie deine Entschlossenheit deutlich spüren!"
-  },
-  {
-    "it": "Comunicate più chiaramente in campo per evitare sistematicamente i malintesi.",
-    "de": "Kommuniziert klarer auf dem Feld, damit Missverständnisse konsequent vermieden werden."
-  },
-  {
-    "it": "Archivia immediatamente l'errore, ora conta solo il prossimo scambio!",
-    "de": "Hak den Fehler umgehend ab, der nächste Ballwechsel zählt!"
-  },
-  {
-    "it": "Sfrutta strategicamente le debolezze evidenti nella loro difesa in campo.",
-    "de": "Nutze die Schwächen in ihrer Feldabwehr strategisch klug aus."
-  },
-  {
-    "it": "Agiamo in modo troppo statico, portate più dinamismo nei nostri movimenti!",
-    "de": "Wir agieren viel zu statisch, bringt mehr Dynamik in unsere Bewegungen!"
-  },
-  {
-    "it": "Mantenete alta la tensione, la partita non è affatto decisa.",
-    "de": "Behaltet die Körperspannung aufrecht, das Spiel ist noch längst nicht entschieden."
-  },
-  {
-    "it": "Metteteli subito sotto pressione, da ora dettiamo noi il ritmo!",
-    "de": "Setzt sie direkt unter Druck, wir diktieren das Tempo ab jetzt!"
-  },
-  {
-    "it": "Trasmettete più sicurezza, ci siamo allenati duramente per questo momento!",
-    "de": "Strahlt mehr Selbstbewusstsein aus, wir haben hart für diesen Moment trainiert!"
-  },
-  {
-    "it": "Servi coraggiosamente sulla riga, il loro libero vacilla molto oggi.",
-    "de": "Servier mutig riskant auf die Linie, ihr Libero wackelt heute."
-  },
-  {
-    "it": "Inserisci intenzionalmente una battuta float corta per sorprenderli.",
-    "de": "Streu bewusst einen kurzen Float-Aufschlag ein, um sie zu überraschen."
-  },
-  {
-    "it": "Concentrati sul punto di impatto pulito della palla nel servizio.",
-    "de": "Fokussiere dich beim Sprungaufschlag auf den sauberen Treffpunkt des Balles."
-  },
-  {
-    "it": "Tieni la palla in gioco, ora ci serve assolutamente sicurezza.",
-    "de": "Halt den Ball im Spiel, wir brauchen jetzt zwingend Sicherheit."
-  },
-  {
-    "it": "Prendi di mira il giocatore in cinque, la sua ricezione è vulnerabile.",
-    "de": "Visiere den Spieler auf Position fünf an, seine Annahme ist anfällig."
-  },
-  {
-    "it": "Prenditi tempo in battuta e fai un altro respiro profondo.",
-    "de": "Lass dir beim Service Zeit und atme noch einmal tief durch."
-  },
-  {
-    "it": "Servi con pressione tra i due ricevitori per creare estrema confusione.",
-    "de": "Servier druckvoll zwischen die beiden Annahmespieler, um Verwirrung zu stiften."
-  },
-  {
-    "it": "Cambia la direzione della battuta in modo imprevedibile per sorprenderli.",
-    "de": "Wechsel die Aufschlagrichtung unvorhersehbar, damit sie sich nicht darauf einstellen können."
-  },
-  {
-    "it": "Sfrutta il muro a vista per infastidire la loro ricezione.",
-    "de": "Nutze den Sichtblock optimal, um den gegnerischen Annahmeriegel zu irritieren."
-  },
-  {
-    "it": "Una battuta tattica ora è molto più preziosa della pura potenza.",
-    "de": "Ein taktischer Aufschlag ist jetzt weitaus wertvoller als reine Härte."
-  },
-  {
-    "it": "Manda la battuta tesa sopra la rete, complicherà la ricezione.",
-    "de": "Schick den Aufschlag flach über die Netzkante, das erschwert die Annahme."
-  },
-  {
-    "it": "Osserva come si sposta la loro ricezione prima del tuo servizio.",
-    "de": "Beobachte genau, wie sich ihre Annahmeformation vor deinem Service verschiebt."
-  },
-  {
-    "it": "Usa la battuta jump-float, oggi fluttua in modo particolarmente imprevedibile.",
-    "de": "Setz den Sprung-Flatteraufschlag ein, der flattert heute besonders unberechenbar."
-  },
-  {
-    "it": "Ci serve un break, rischia tranquillamente di più in battuta!",
-    "de": "Wir brauchen ein Break, riskier beim Aufschlag ruhig etwas mehr!"
-  },
-  {
-    "it": "Mantieni la pressione, hanno enormi problemi nella costruzione del gioco.",
-    "de": "Halt den Druck hoch, sie haben massive Probleme in der Spielaufbauphase."
-  },
-  {
-    "it": "Spingi la ricezione un po' più avanti verso la rete.",
-    "de": "Schieb die Annahme ruhig etwas weiter vor ans Netz."
-  },
-  {
-    "it": "Resta basso in ricezione, la palla si abbassa estremamente tardi.",
-    "de": "Bleib tief in der Annahme, der Ball senkt sich extrem spät."
-  },
-  {
-    "it": "Apri l'asse del corpo al palleggiatore per controllare l'angolo precisamente.",
-    "de": "Öffne deine Körperachse zum Zuspieler, um den Winkel präzise zu kontrollieren."
-  },
-  {
-    "it": "Prendi la battuta float in palleggio, ci dà maggiore stabilità.",
-    "de": "Nimm den Flatteraufschlag konsequent im Pritschen, das gibt uns mehr Stabilität."
-  },
-  {
-    "it": "Coprimi le spalle se la forte battuta al salto mi rimbalza addosso.",
-    "de": "Deck meinen Rücken ab, falls der harte Sprungaufschlag von mir abprallt."
-  },
-  {
-    "it": "Anticipa tempestivamente la palla corta, sii subito pronto sulle gambe!",
-    "de": "Antizipiere den kurzen Ball frühzeitig, sei direkt auf den Beinen!"
-  },
-  {
-    "it": "Dobbiamo sigillare meglio le zone di conflitto tra noi in ricezione.",
-    "de": "Wir müssen die Nahtstellen zwischen uns in der Annahme besser abdichten."
-  },
-  {
-    "it": "Non far rimbalzare via la palla, ammortizza attivamente la pressione!",
-    "de": "Lass den Ball nicht abtropfen, feder den Druck aktiv ab!"
-  },
-  {
-    "it": "Spingi la free ball il più precisamente possibile verso il palleggiatore.",
-    "de": "Schieb den Dankeball so präzise wie möglich zum Zuspieler."
-  },
-  {
-    "it": "Affidati alla tua tecnica, gestisci la ricezione in modo superbo.",
-    "de": "Vertrau auf deine Technik, du hast die Annahme souverän im Griff."
-  },
-  {
-    "it": "Spostate la linea di ricezione più a destra, serve sempre lì.",
-    "de": "Verschiebt den Annahmeriegel kollektiv weiter nach rechts, er serviert immer dorthin."
-  },
-  {
-    "it": "Sganciati più velocemente dalla ricezione per essere subito pronto ad attaccare.",
-    "de": "Löse dich schneller aus der Annahme, um direkt angriffsbereit zu sein."
-  },
-  {
-    "it": "Fissa la palla fino all'ultimissimo momento, non farti mai distrarre.",
-    "de": "Fixiere den Ball bis zum allerletzten Moment, lass dich nicht ablenken."
-  },
-  {
-    "it": "Dobbiamo tirare fuori qualcosa di produttivo da questa ricezione mediocre.",
-    "de": "Wir müssen aus dieser mäßigen Annahme trotzdem noch etwas Produktives machen."
-  },
-  {
-    "it": "Comunicate \"Mia!\" in anticipo, questo previene pericolosi scontri in difesa.",
-    "de": "Kommuniziert frühzeitig \"Ich!\", das verhindert gefährliche Zusammenstöße im Hinterfeld."
-  },
-  {
-    "it": "Accelera il gioco sulle bande, il muro avversario è molto lento.",
-    "de": "Beschleunige das Spiel über die Außenpositionen, der gegnerische Block ist träge."
-  },
-  {
-    "it": "Alza il primo tempo un po' più alto per farmelo chiudere.",
-    "de": "Spiel den Meterpass etwas höher, damit ich ihn optimal voll durchziehen kann."
-  },
-  {
-    "it": "Inserisci più spesso la veloce, questo crea varchi nella loro difesa.",
-    "de": "Streu häufiger den Aufsteiger ein, das reißt Lücken in deren Abwehr."
-  },
-  {
-    "it": "Distribuisci i palloni in modo imprevedibile, ormai anticipano i nostri attacchi.",
-    "de": "Verteil die Bälle unberechenbarer, sie antizipieren unsere Angriffe mittlerweile zu leicht."
-  },
-  {
-    "it": "Spingi l'alzata dietro molto verso l'esterno fino all'asticella laterale.",
-    "de": "Zieh das Zuspiel über Kopf weit nach außen an die Antenne."
-  },
-  {
-    "it": "Tieni la palla un po' più a lungo per congelare il muro.",
-    "de": "Halte den Ball beim Zuspiel etwas länger, um den Block einzufrieren."
-  },
-  {
-    "it": "Se la ricezione vacilla, gioca la palla alta e sicura in banda.",
-    "de": "Wenn die Annahme wackelt, spiel den sicheren hohen Ball nach außen."
-  },
-  {
-    "it": "Coinvolgi l'attaccante di seconda linea nella nostra complessa strategia offensiva.",
-    "de": "Beziehe den Hinterreihenangreifer häufiger in unsere komplexe Offensivstrategie mit ein."
-  },
-  {
-    "it": "Nascondi la tua intenzione di alzata, al momento sei troppo prevedibile.",
-    "de": "Verbirg deine Zuspielintention geschickter, du bist aktuell zu leicht auszurechnen."
-  },
-  {
-    "it": "Gioca il passaggio esattamente nella mia rincorsa, poi sarà colpo vincente.",
-    "de": "Spiel den Pass exakt in meine Laufbewegung, dann knallt es richtig."
-  },
-  {
-    "it": "Salva questa palla venuta male in qualche modo, mandiamola di là!",
-    "de": "Rette diesen verunglückten Ball irgendwie, wir müssen ihn nur rüberbringen!"
-  },
-  {
-    "it": "Il tuo ritmo in alzata è superbo, continua esattamente in questo modo!",
-    "de": "Dein Rhythmus beim Zuspielen ist momentan überragend, mach genau weiter so!"
-  },
-  {
-    "it": "Chiama la palla ad alta voce se devo alzare dalla difesa.",
-    "de": "Fordere den Ball lautstark, falls ich aus der Abwehr zuspielen muss."
-  },
-  {
-    "it": "Gioca eccezionalmente la palla un po' più vicina a rete per tagliare.",
-    "de": "Spiel den Ball ausnahmsweise etwas dichter ans Netz für den Cut."
-  },
-  {
-    "it": "Un'alzata inaspettata all'opposto scardinerebbe completamente il loro muro a due.",
-    "de": "Ein unerwarteter Pass auf die Diagonalposition würde den Doppelblock komplett aushebeln."
-  },
-  {
-    "it": "Schiaccia forte in parallela, lì non c'è assolutamente nessun difensore.",
-    "de": "Schlag den Ball hart die Linie runter, da steht absolut niemand."
-  },
-  {
-    "it": "Cerca di colpire intenzionalmente il muro avversario, non chiudono compatti.",
-    "de": "Versuch, den gegnerischen Block bewusst anzuschlagen, er schließt nicht kompakt."
-  },
-  {
-    "it": "Se l'alzata è brutta, piazza la palla in pallonetto con astuzia.",
-    "de": "Wenn der Pass schlecht ist, leg den Ball clever als Lob."
-  },
-  {
-    "it": "Esegui la rincorsa in modo esplosivo per generare la massima altezza.",
-    "de": "Zieh deinen Anlauf explosiver durch, um maximale Sprunghöhe zu generieren."
-  },
-  {
-    "it": "Sfrutta l'angolo diagonale, il muro di banda chiude completamente la parallela.",
-    "de": "Nutze den diagonalen Winkel, der Außenblocker macht die Linie komplett zu."
-  },
-  {
-    "it": "Varia il tuo repertorio d'attacco, si sono adeguati ai tuoi colpi.",
-    "de": "Variiere dein Angriffsrepertoire, sie haben sich bereits auf deine harten Schläge eingestellt."
-  },
-  {
-    "it": "Osserva la difesa con la coda dell'occhio e piazza lì la palla.",
-    "de": "Beobachte im Augenwinkel die Abwehr und platziere den Ball präzise dorthin."
-  },
-  {
-    "it": "Ritarda minimamente il colpo per eludere abilmente il muro in ricaduta.",
-    "de": "Verzögere deinen Schlag minimal, um dem Block im Fallen auszuweichen."
-  },
-  {
-    "it": "Butta giù la palla senza compromessi, ci serve assolutamente questo punto!",
-    "de": "Hau das Ding ohne Kompromisse rein, wir brauchen diesen Punkt zwingend!"
-  },
-  {
-    "it": "Gira la palla col polso abilmente oltre l'imponente centrale avversario.",
-    "de": "Dreh den Ball im Handgelenk geschickt am massiven Mittelblocker vorbei."
-  },
-  {
-    "it": "Attacca rigorosamente dalla seconda linea, la difesa avversaria non se lo aspetta.",
-    "de": "Attackiere rigoros aus dem Hinterfeld, das rechnet die gegnerische Abwehr nicht."
-  },
-  {
-    "it": "Mantieni la visione di gioco, gli attacchi di pura forza non aiutano.",
-    "de": "Behalt die Übersicht am Netz, wilde Gewaltschläge bringen uns nicht weiter."
-  },
-  {
-    "it": "Schiaccia forte in diagonale, la diagonale stretta è completamente sguarnita!",
-    "de": "Schlag hart cross, die kurze Diagonale ist komplett ungeschützt!"
-  },
-  {
-    "it": "Spazzola la palla astutamente sopra il muro se sei in posizione sfavorevole.",
-    "de": "Wisch den Ball schlau über den Block, wenn du ungünstig stehst."
-  },
-  {
-    "it": "Osa sorprendere il difensore di seconda linea con un taglio corto.",
-    "de": "Trau dich, den Rückraumspieler mit einem extrem kurzen Cut zu überraschen."
-  },
-  {
-    "it": "Dobbiamo assolutamente chiudere in modo più compatto il muro in banda.",
-    "de": "Wir müssen den Doppelblock auf der Außenposition zwingend kompakter schließen."
-  },
-  {
-    "it": "Invadi nettamente la rete, non lasciare all'attaccante alcuno spazio di manovra.",
-    "de": "Übergreif das Netz deutlich, lass dem Angreifer überhaupt keinen Handlungsspielraum."
-  },
-  {
-    "it": "Fai attenzione al tempismo, salta solo quando lui colpisce la palla.",
-    "de": "Achte auf das Timing, spring erst, wenn er den Ball trifft."
-  },
-  {
-    "it": "Chiudi la parallela sistematicamente, la difesa copre l'attacco in diagonale.",
-    "de": "Mach die Linie konsequent zu, die Feldabwehr kümmert sich um den Cross-Schlag."
-  },
-  {
-    "it": "Resta stabile in aria, non farti spingere via dall'attaccante avversario.",
-    "de": "Bleib stabil in der Luft, lass dich nicht vom Angreifer wegdrücken."
-  },
-  {
-    "it": "Formate il muro rapidamente, arrivate spesso in ritardo sui passaggi veloci.",
-    "de": "Formiert den Block zügiger, ihr seid bei schnellen Pässen oft zu spät."
-  },
-  {
-    "it": "Allarga bene le dita per garantire la massima superficie di muro.",
-    "de": "Spreize die Finger weit, um eine maximale Blockfläche zu garantieren."
-  },
-  {
-    "it": "Spingi le mani con aggressività nella metà campo avversaria, mura attivamente!",
-    "de": "Drück die Hände aggressiv in die gegnerische Hälfte, block aktiv!"
-  },
-  {
-    "it": "Leggi l'asse delle spalle dell'attaccante, rivela sempre la direzione del colpo.",
-    "de": "Lies die Schulterachse des Angreifers, er verrät seine Schlagrichtung immer vorab."
-  },
-  {
-    "it": "Non farti ingannare ciecamente in aria da finti attacchi degli avversari.",
-    "de": "Lass dich von angetäuschten Angriffen nicht blindwütig in die Luft locken."
-  },
-  {
-    "it": "Marca stretto il centrale, non deve coglierci di sorpresa coi primi tempi.",
-    "de": "Fixiere den Mittelblocker, er darf uns nicht mit Aufsteigern überrumpeln."
-  },
-  {
-    "it": "Se sei in estremo ritardo, non murare per evitare il fallo.",
-    "de": "Wenn du zu spät bist, blocke nicht, um den Netzfehler zu vermeiden."
-  },
-  {
-    "it": "Ci serve un monster block per spegnere all'istante il loro entusiasmo!",
-    "de": "Wir brauchen einen Monsterblock, um ihre Euphorie augenblicklich zu ersticken!"
-  },
-  {
-    "it": "Copri il muro avversario, spesso la palla cade pericolosamente vicina a noi.",
-    "de": "Sicher den Block ab, der Ball tropft häufig gefährlich nah hinunter."
-  },
-  {
-    "it": "Coordina il muro a tre ad alta voce, formiamo un muro invalicabile.",
-    "de": "Koordiniere den Dreierblock laut, wir müssen hier eine unüberwindbare Mauer bilden."
-  },
-  {
-    "it": "Anticipa per tempo l'attacco potente e abbassa subito il tuo baricentro.",
-    "de": "Antizipiere den harten Angriff rechtzeitig und verlagere dein Körpergewicht tief."
-  },
-  {
-    "it": "Raschia la palla dal pavimento, l'importante è che resti in gioco!",
-    "de": "Kratz den Ball irgendwie vom Boden, Hauptsache er bleibt im Spiel!"
-  },
-  {
-    "it": "Resta sulle punte, devi poter reagire in modo esplosivo in qualsiasi momento.",
-    "de": "Bleib auf den Zehenspitzen, du musst jederzeit explosiv reagieren können."
-  },
-  {
-    "it": "Preparati in difesa per pallonetti infidi piazzati corti dietro il muro.",
-    "de": "Mach dich in der Feldabwehr bereit für fiese, kurz abgelegte Lobs."
-  },
-  {
-    "it": "Non stare all'ombra del nostro muro, cercati una linea visiva libera.",
-    "de": "Steh nicht im Schatten unseres Blocks, such dir eine klare Sichtlinie."
-  },
-  {
-    "it": "Non schivare il colpo potente, opponiti semplicemente con estrema stabilità!",
-    "de": "Weich dem harten Schlag nicht aus, halt einfach stabil dagegen!"
-  },
-  {
-    "it": "Tuffati sulla palla senza compromessi, non cediamo un punto senza lottare.",
-    "de": "Hechte dem Ball kompromisslos nach, wir geben keinen einzigen Punkt kampflos auf."
-  },
-  {
-    "it": "Porta la palla difesa alta al centro, questo facilita la costruzione.",
-    "de": "Bring den abgewehrten Ball hoch in die Mitte, das erleichtert den Spielaufbau."
-  },
-  {
-    "it": "Sposta la tua posizione un po' più indietro, schiaccia molto lungo.",
-    "de": "Verlager deine Position etwas weiter nach hinten, er schlägt enorm lang."
-  },
-  {
-    "it": "Affidati ciecamente ai tuoi riflessi, istintivamente sei sempre al posto giusto.",
-    "de": "Vertrau blind auf deine Reflexe, du stehst instinktiv immer goldrichtig."
-  },
-  {
-    "it": "La copertura del muro è essenziale, non far cadere nessun pallone intatto!",
-    "de": "Die Blockabsicherung ist immens wichtig, lass keinen Ball unberührt auf den Boden!"
-  },
-  {
-    "it": "Allargati bene, non presentare all'attaccante evidenti varchi liberi nel nostro campo.",
-    "de": "Mach dich breit, präsentiere dem Angreifer keine offensichtlichen Lücken im Feld."
-  },
-  {
-    "it": "Assorbi la potenza dell'attacco cedendo leggermente e morbidamente con le braccia.",
-    "de": "Absorbiere die Wucht des Angriffs, indem du mit den Armen leicht nachgibst."
-  },
-  {
-    "it": "Lotta per ogni palla disperata, questo demoralizza pesantemente l'avversario.",
-    "de": "Kämpf um jeden noch so aussichtslosen Ball, das demoralisiert den Gegner."
-  },
-  {
-    "it": "Sganciati subito dalla posizione difensiva per supportare fluidamente il nostro contrattacco.",
-    "de": "Löse dich sofort aus der Abwehrhaltung, um den Gegenangriff zu unterstützen."
-  },
-  {
-    "it": "Variamo drasticamente il ritmo di gioco per mandarli in totale confusione.",
-    "de": "Lass uns das Tempo drastisch variieren, um sie zu verwirren."
-  },
-  {
-    "it": "Gioca la free ball velocemente, sfruttiamo a freddo la loro disorganizzazione.",
-    "de": "Spiel den Dankeball gnadenlos schnell, nutzen wir ihre Desorganisation eiskalt aus."
-  },
-  {
-    "it": "Chiamate i palloni a voce alta, la comunicazione in campo è carente.",
-    "de": "Fordert die Bälle lauter, die Kommunikation auf dem Feld ist mangelhaft."
-  },
-  {
-    "it": "Concentriamo le battute sistematicamente sul loro ricevitore attualmente in evidente difficoltà.",
-    "de": "Wir fokussieren unsere Aufschläge konsequent auf ihren schwächelnden Annahmespieler."
-  },
-  {
-    "it": "Costringeteli a scambi prolungati, la loro resistenza atletica sta visibilmente calando.",
-    "de": "Zwingt sie zu langen Ballwechseln, ihre Kondition lässt spürbar nach."
-  },
-  {
-    "it": "Mantenete saldamente le vostre posizioni, non fatevi trascinare fuori senza motivo.",
-    "de": "Behaltet eure Positionen bei, lasst euch nicht grundlos herausziehen."
-  },
-  {
-    "it": "Sfruttate abilmente il timeout per abbassare il battito cardiaco e riorganizzarvi.",
-    "de": "Nutzt die Auszeit, um den Puls zu senken und euch neu auszurichten."
-  },
-  {
-    "it": "Un doppio cambio riuscito porta ora la fresca energia urgentemente necessaria.",
-    "de": "Ein erfolgreicher Doppelwechsel bringt jetzt die dringend benötigte frische Energie."
-  },
-  {
-    "it": "Dobbiamo agire in modo imprevedibile, intuiscono i nostri schemi senza sforzo.",
-    "de": "Wir müssen unberechenbarer agieren, sie durchschauen unsere Spielzüge mittlerweile mühelos."
-  },
-  {
-    "it": "Prendetevi in consegna gli attaccanti fluidamente durante gli incroci, comunicatelo cristallino.",
-    "de": "Übergebt die Angreifer beim Kreuzen fließend, kommuniziert das glasklar."
-  },
-  {
-    "it": "Questo è un punto di svolta psicologico, afferratelo a tutti i costi!",
-    "de": "Dieser Punkt ist ein psychologischer Wendepunkt, krallt ihn euch unbedingt!"
-  },
-  {
-    "it": "Attuate il piano di gioco coerentemente, non improvvisate continuamente a casaccio.",
-    "de": "Setzt den Gameplan konsequenter um, improvisiert nicht ständig wild herum."
-  },
-  {
-    "it": "Leggete il palleggiatore avversario, telegrafa molto visibilmente le sue alzate.",
-    "de": "Lest die Körpersprache des gegnerischen Zuspielers, er telegraphiert seine Pässe extrem."
-  },
-  {
-    "it": "Agiamo in modo troppo passivo, prendete finalmente l'iniziativa con estremo coraggio!",
-    "de": "Wir agieren zu passiv, ergreift endlich mutig die Initiative!"
-  },
-  {
-    "it": "Sfiancateli con un tenace lavoro difensivo, finché forzeranno gli errori per frustrazione.",
-    "de": "Zermürbt sie mit hartnäckiger Verteidigungsarbeit, bis sie frustriert Fehler erzwingen wollen."
-  },
-  {
-    "it": "Match point per noi, giocate con coraggio ma evitate rischi assolutamente inutili.",
-    "de": "Matchball für uns, spielt mutig, aber vermeidet unnötige Risiken."
-  },
-  {
-    "it": "Siamo in parità nel momento decisivo, contano nervi d'acciaio e precisione.",
-    "de": "Es steht Unentschieden in der Crunchtime, jetzt zählen absolute Nervenstärke und Präzision."
-  },
-  {
-    "it": "L'arbitro fischia in modo pignolo, prestate un'attenzione maniacale ai falli tecnici.",
-    "de": "Der Schiedsrichter pfeift heute extrem kleinlich, achtet peinlich genau auf technische Fehler."
-  },
-  {
-    "it": "Fate controllare tranquillamente la palla fuori tramite video, ne sono assolutamente certo.",
-    "de": "Lasst den Ballausfall ruhig überprüfen, ich bin mir absolut sicher."
-  },
-  {
-    "it": "Hanno il set point, giochiamo senza compromessi tramite i nostri migliori attaccanti.",
-    "de": "Sie haben Satzball, wir spielen jetzt kompromisslos über unsere stärksten Angreifer."
-  },
-  {
-    "it": "La palla ha toccato palesemente l'asticella laterale, protestate con veemenza!",
-    "de": "Der Ball touchierte eindeutig die Antenne, reklamiert das vehement!"
-  },
-  {
-    "it": "Un'evidente invasione a rete, fai maggiore attenzione al gioco di gambe!",
-    "de": "Ein Übertritt am Netz, pass beim Blocken auf deine Fußarbeit auf!"
-  },
-  {
-    "it": "L'allenatore avversario sembra nervoso, sfruttiamo sistematicamente questa loro palese insicurezza.",
-    "de": "Der gegnerische Trainer wirkt nervös, nutzen wir diese Verunsicherung konsequent aus."
-  },
-  {
-    "it": "Abbiamo appena effettuato il cambio campo, ritrovate la concentrazione per chiudere!",
-    "de": "Wir haben den Seitenwechsel, fokussiert euch neu für diesen finalen Satz!"
-  },
-  {
-    "it": "La palla era millimetricamente e perfettamente posizionata sulla riga, occhio grandioso!",
-    "de": "Der Ball war hauchdünn auf der Linie, grandioses Auge!"
-  },
-  {
-    "it": "Siamo nettamente in svantaggio nel punteggio, rischiate assolutamente tutto in battuta ora!",
-    "de": "Wir liegen deutlich zurück, riskiert jetzt alles im Aufschlag!"
-  },
-  {
-    "it": "Evidente tocco a muro! L'ho visto chiaramente, chiedete subito il video check!",
-    "de": "Block-Touch! Ich habe es genau gesehen, fordert die Challenge!"
-  },
-  {
-    "it": "Non abbassate mai la testa, è stato solo uno scambio molto sfortunato.",
-    "de": "Lasst die Köpfe nicht hängen, das war nur ein unglücklicher Punktwechsel."
-  },
-  {
-    "it": "L'inerzia del set è dalla nostra parte, travolgeteli completamente proprio ora!",
-    "de": "Das Momentum ist auf unserer Seite, überrollt sie jetzt völlig!"
-  },
-  {
-    "it": "Ci serve un punto sporco ora, l'estetica è del tutto secondaria.",
-    "de": "Wir brauchen jetzt einen dreckigen Punkt, Ästhetik ist völlig zweitrangig."
-  },
-  {
-    "it": "Non date per persa nessuna palla, raschiate via ogni palla apparentemente impossibile!",
-    "de": "Gebt keinen Ball verloren, kratzt jeden noch so unmöglichen Ball raus!"
-  },
-  {
-    "it": "Sentite questa magnifica energia? Chiudiamo questo set in modo superbo proprio ora.",
-    "de": "Spürt ihr diese Energie? Lasst uns diesen Satz jetzt souverän beenden."
-  },
-  {
-    "it": "Il vostro linguaggio del corpo deve irradiare dominio, fategli vedere chi comanda.",
-    "de": "Eure Körpersprache muss Dominanz ausstrahlen, zeigt ihnen, wer hier das Sagen hat."
-  },
-  {
-    "it": "Restate molto disciplinati nella formazione a muro, non fatevi allargare con leggerezza.",
-    "de": "Bleibt diszipliniert in der Blockformation, lasst euch nicht leichtsinnig auseinanderziehen."
-  },
-  {
-    "it": "Ignorate le provocazioni a rete, la nostra risposta avviene esclusivamente a punti.",
-    "de": "Ignoriert die Provokationen am Netz, unsere Antwort erfolgt ausschließlich über Punkte."
-  },
-  {
-    "it": "Spingi la palla senza pietà attraverso il muro, hai la forza necessaria!",
-    "de": "Presst den Ball gnadenlos durch den Doppelblock, du hast die Kraft dafür!"
-  },
-  {
-    "it": "Fate un respiro profondo, questo scambio ora diventerà sicuramente e incredibilmente intenso.",
-    "de": "Atmet tief durch, dieser Ballwechsel wird jetzt unglaublich intensiv werden."
-  },
-  {
-    "it": "Reagite d'istinto, avete allenato queste specifiche situazioni di gioco centinaia di volte.",
-    "de": "Reagiert instinktiv, ihr habt diese spezifischen Spielsituationen hunderte Male trainiert."
-  },
-  {
-    "it": "Ora entriamo in totale trance agonistica, mantenete l'intensità mentale al massimo livello!",
-    "de": "Wir spielen uns jetzt in einen Rausch, haltet die Intensität maximal hoch!"
-  },
-  {
-    "it": "Fidatevi dei compagni, la chimica di squadra è la nostra carta vincente.",
-    "de": "Vertraut euren Nebenleuten blind, unsere Teamchemie ist heute unser größter Trumpf."
-  },
-  {
-    "it": "Imponete il vostro gioco senza pietà, non hanno alcuna risposta adeguata.",
-    "de": "Drückt ihnen euer Spiel gnadenlos auf, sie haben keine adäquate Antwort darauf."
-  },
-  {
-    "it": "Mantenete questo livello fenomenale senza esitazioni fino all'ultimo fischio finale dell'arbitro!",
-    "de": "Zieht dieses phänomenale Niveau bis zum allerletzten Pfiff gnadenlos durch!"
-  },
-  {
-    "it": "Spronatevi incessantemente a vicenda, il palazzetto dello sport deve letteralmente tremare!",
-    "de": "Peitscht euch gegenseitig nach vorn, die Halle muss beben!"
-  },
-  {
-    "it": "Chiudete i conti, li abbiamo messi esattamente dove li vogliamo da tempo!",
-    "de": "Macht den Sack zu, wir haben sie genau da, wo wir wollen!"
-  },
-  {
-    "it": "Portiamo ora congiuntamente questa vittoria epica oltre la linea del traguardo finale!",
-    "de": "Lasst uns diesen epischen Sieg jetzt gemeinsam über die Ziellinie bringen!"
-  },
-{
-    "it": "Prendo io la palla se arriva corta in zona quattro, tu resta pronto per la copertura.",
-    "de": "Ich übernehme den Ball, falls er kurz in Zone vier kommt; bleib du bereit für die Sicherung."
-  },
-  {
-    "it": "Cercherò di forzare il servizio sulla riga laterale per metterli in difficoltà nella costruzione del gioco.",
-    "de": "Ich werde versuchen, den Aufschlag auf die Seitenlinie zu forcieren, um sie beim Spielaufbau in Bedrängnis zu bringen."
-  },
-  {
-    "it": "Qualora il palleggiatore avversario penetrasse dalla seconda linea, dobbiamo raddoppiare il muro sul loro opposto.",
-    "de": "Sollte der gegnerische Zuspieler aus dem Rückraum durchlaufen, müssen wir den Block gegen ihren Diagonalangreifer verstärken."
-  },
-  {
-    "it": "Ho notato che il loro centrale tende ad anticipare troppo il salto, quindi proverò a variare il tempo d'attacco.",
-    "de": "Mir ist aufgefallen, dass ihr Mittelblocker dazu neigt, zu früh abzuspringen, daher werde ich versuchen, das Timing meines Angriffs zu variieren."
-  },
-  {
-    "it": "Mi faccio carico della ricezione lunga, tu concentrati esclusivamente sulla preparazione della rincorsa.",
-    "de": "Ich kümmere mich um die lange Annahme; konzentriere du dich ausschließlich auf die Vorbereitung deines Anlaufs."
-  },
-  {
-    "it": "Nonostante il muro fosse ben piazzato, sono riuscito a trovare un varco sulle mani esterne per ottenere il punto.",
-    "de": "Obwohl der Block gut positioniert war, gelang es mir, eine Lücke an den Außenhänden zu finden, um den Punkt zu erzielen."
-  },
-  {
-    "it": "Se l'alzata è troppo a filo rete, cercherò di giocare sulle mani del muro invece di tentare la conclusione potente.",
-    "de": "Wenn das Zuspiel zu nah am Netz ist, werde ich versuchen, gegen die Hände des Blocks zu spielen, anstatt einen harten Abschluss zu suchen."
-  },
-  {
-    "it": "Sto cercando di leggere la loro traiettoria di attacco per posizionarmi correttamente in difesa di campo.",
-    "de": "Ich versuche, ihre Angriffstrajektorie zu lesen, um mich in der Feldabwehr korrekt zu positionieren."
-  },
-  {
-    "it": "Dobbiamo essere più reattivi sulle palle smorzate, io mi occuperò di coprire la zona centrale dietro il muro.",
-    "de": "Wir müssen bei gelegten Bällen reaktionsschneller sein; ich werde die zentrale Zone hinter dem Block absichern."
-  },
-  {
-    "it": "Il mio obiettivo è servire una palla float insidiosa che metta in crisi il loro libero meno esperto.",
-    "de": "Mein Ziel ist es, einen tückischen Flatteraufschlag zu spielen, der ihren weniger erfahrenen Libero in Bedrängnis bringt."
-  },
-  {
-    "it": "Sento che la mia intesa con il palleggiatore sta migliorando, soprattutto per quanto riguarda la 'veloce' dietro.",
-    "de": "Ich habe das Gefühl, dass sich mein Einvernehmen mit dem Zuspieler verbessert, besonders was den Schnellangriff über Kopf betrifft."
-  },
-  {
-    "it": "Ho commesso un errore di valutazione sulla traiettoria della palla, convinto che sarebbe finita fuori campo.",
-    "de": "Ich habe die Flugbahn des Balls falsch eingeschätzt, da ich überzeugt war, er würde im Aus landen."
-  },
-  {
-    "it": "Cerco di mantenere la massima lucidità mentale anche nelle fasi più concitate del tie-break.",
-    "de": "Ich versuche, selbst in den hektischsten Phasen des Tie-Breaks die größtmögliche mentale Klarheit zu bewahren."
-  },
-  {
-    "it": "Il mio salto in sospensione deve essere più esplosivo se voglio superare il loro muro a tre.",
-    "de": "Mein Absprung muss explosiver sein, wenn ich ihren Dreierblock überwinden will."
-  },
-  {
-    "it": "Grido 'mia' con decisione per evitare collisioni con i compagni durante le fasi difensive più caotiche.",
-    "de": "Ich rufe entschlossen 'Meiner!', um Zusammenstöße mit Mitspielern in chaotischen Abwehrsituationen zu vermeiden."
-  },
-  {
-    "it": "Analizzando la loro disposizione, ho deciso di attaccare in diagonale stretta per colpire la zona sguarnita.",
-    "de": "Nach Analyse ihrer Aufstellung habe ich mich entschieden, in die kurze Diagonale anzugreifen, um die unbesetzte Zone zu treffen."
-  },
-  {
-    "it": "Mi scuso per il fallo di invasione, ero troppo proiettato in avanti durante la fase di chiusura a muro.",
-    "de": "Entschuldigung für den Netzfehler; ich war in der Phase des Blockschlusses zu sehr nach vorne orientiert."
-  },
-  {
-    "it": "Dobbiamo compattare il muro sulla loro 'pipe' per impedire che la palla passi nel mezzo.",
-    "de": "Wir müssen den Block bei ihrem Pipe-Angriff schließen, um zu verhindern, dass der Ball durch die Mitte geht."
-  },
-  {
-    "it": "Ho variato l'angolo del polso all'ultimo istante per indirizzare la palla verso la linea di fondo.",
-    "de": "Ich habe im letzten Moment den Handgelenkswinkel verändert, um den Ball auf die Grundlinie zu lenken."
-  },
-  {
-    "it": "In questa rotazione, io sarò il punto di riferimento per il contrattacco rapido in banda.",
-    "de": "In dieser Rotation werde ich der Bezugspunkt für den schnellen Gegenangriff über die Außenposition sein."
-  },
-  {
-    "it": "Preferisco un'alzata leggermente più staccata da rete per poter sfruttare tutta la mia potenza di braccio.",
-    "de": "Ich bevorzuge ein Zuspiel, das etwas weiter vom Netz entfernt ist, um meine gesamte Schlagkraft ausschöpfen zu können."
-  },
-  {
-    "it": "Sto monitorando i movimenti del loro opposto per capire se predilige il colpo lungolinea.",
-    "de": "Ich beobachte die Bewegungen ihres Diagonalangreifers genau, um festzustellen, ob er den Longline-Schlag bevorzugt."
-  },
-  {
-    "it": "Il mio compito è stabilizzare la ricezione affinché il palleggiatore possa servire i centrali con continuità.",
-    "de": "Meine Aufgabe ist es, die Annahme zu stabilisieren, damit der Zuspieler die Mittelblocker kontinuierlich einsetzen kann."
-  },
-  {
-    "it": "Nonostante la pressione, sono riuscito a piazzare un pallonetto millimetrico proprio dietro il blocco avversario.",
-    "de": "Trotz des Drucks ist es mir gelungen, einen millimetergenauen Lob direkt hinter den gegnerischen Block zu setzen."
-  },
-  {
-    "it": "Dobbiamo assolutamente evitare errori gratuiti in battuta in questa fase cruciale del set.",
-    "de": "Wir müssen in dieser entscheidenden Phase des Satzes unbedingt leichte Aufschlagfehler vermeiden."
-  },
-  {
-    "it": "Ho percepito un tocco del muro, quindi chiedo immediatamente il Video Check per confermare la mia impressione.",
-    "de": "Ich habe eine Berührung des Blocks wahrgenommen und fordere daher sofort den Video-Check an, um meinen Eindruck zu bestätigen."
-  },
-  {
-    "it": "Cercherò di essere più aggressivo a muro, invadendo lo spazio aereo avversario con le braccia.",
-    "de": "Ich werde versuchen, am Block aggressiver zu agieren, indem ich mit den Armen tief in den gegnerischen Luftraum eindringe."
-  },
-  {
-    "it": "Il mio recupero in tuffo è stato fondamentale per mantenere viva l'azione e permetterci di contrattaccare.",
-    "de": "Meine Rettungsaktion im Hechtbagger war entscheidend, um den Ball im Spiel zu halten und uns den Gegenangriff zu ermöglichen."
-  },
-  {
-    "it": "Dobbiamo comunicare di più sulla palla libera per non sprecare l'occasione di fare punto.",
-    "de": "Wir müssen bei Dankebällen mehr kommunizieren, um die Chance auf einen Punktgewinn nicht zu verspielen."
-  },
-  {
-    "it": "Ho deciso di mirare al conflitto tra i due ricevitori per creare incertezza nella loro difesa.",
-    "de": "Ich habe mich entschieden, auf die Schnittstelle zwischen den beiden Annahmespielern zu zielen, um Unsicherheit in ihrer Abwehr zu erzeugen."
-  },
-  {
-    "it": "La mia rincorsa deve essere più angolata per avere una visuale migliore sul campo avversario.",
-    "de": "Mein Anlauf muss schräger erfolgen, um eine bessere Sicht auf das gegnerische Feld zu haben."
-  },
-  {
-    "it": "Cerco di anticipare lo spostamento laterale per non arrivare in ritardo sulla chiusura del muro.",
-    "de": "Ich versuche, die Seitwärtsbewegung zu antizipieren, um beim Schließen des Blocks nicht zu spät zu kommen."
-  },
-  {
-    "it": "Il palleggiatore mi ha servito una palla perfetta, ho dovuto solo pensare a colpire nel punto più alto possibile.",
-    "de": "Der Zuspieler hat mir einen perfekten Ball serviert; ich musste nur noch daran denken, ihn am höchstmöglichen Punkt zu treffen."
-  },
-  {
-    "it": "Dobbiamo raddoppiare gli sforzi in difesa, poiché i loro attaccanti stanno trovando troppi varchi.",
-    "de": "Wir müssen unsere Anstrengungen in der Abwehr verdoppeln, da ihre Angreifer zu viele Lücken finden."
-  },
-  {
-    "it": "Ho interpretato male il segnale tattico e mi sono posizionato erroneamente per lo schema d'attacco.",
-    "de": "Ich habe das taktische Signal falsch gedeutet und mich für den Angriffsschwerpunkt falsch positioniert."
-  },
-  {
-    "it": "Tenterò una battuta al salto di potenza per forzare il loro ricevitore più debole all'errore.",
-    "de": "Ich werde einen harten Sprungaufschlag versuchen, um ihren schwächsten Annahmespieler zu einem Fehler zu zwingen."
-  },
-  {
-    "it": "La mia priorità è garantire una copertura impeccabile all'attaccante che colpisce contro un muro a tre.",
-    "de": "Meine Priorität ist es, dem Angreifer, der gegen einen Dreierblock schlägt, eine tadellose Sicherung zu garantieren."
-  },
-  {
-    "it": "Ho notato che tendono a servire sempre sulla stessa zona, quindi mi sposterò leggermente per anticipare la palla.",
-    "de": "Mir ist aufgefallen, dass sie dazu neigen, immer in dieselbe Zone aufzuschlagen, daher werde ich mich leicht verschieben, um den Ball zu antizipieren."
-  },
-  {
-    "it": "Dobbiamo mantenere alta l'intensità agonistica per non permettere loro di rientrare in partita.",
-    "de": "Wir müssen die wettkämpferische Intensität hochhalten, um ihnen nicht zu ermöglichen, wieder ins Spiel zu finden."
-  },
-  {
-    "it": "Mi sento pronto a prendermi la responsabilità dell'ultimo attacco se la palla scotta.",
-    "de": "Ich fühle mich bereit, die Verantwortung für den letzten Angriff zu übernehmen, wenn es in der Crunchtime brenzlig wird."
-  },
-  {
-    "it": "Ho cercato il 'mani e fuori' perché il muro era troppo scomposto per essere superato in potenza.",
-    "de": "Ich habe versucht, den Block anzuschlagen (Mani-Fuori), weil der Block zu ungeordnet war, um ihn mit reiner Kraft zu überwinden."
-  },
-  {
-    "it": "La mia battuta float ha una traiettoria molto imprevedibile oggi, devo approfittarne il più possibile.",
-    "de": "Mein Flatteraufschlag hat heute eine sehr unvorhersehbare Flugbahn; das muss ich so weit wie möglich ausnutzen."
-  },
-  {
-    "it": "Chiedo una palla più veloce in banda per anticipare la chiusura del loro centrale che è molto rapido.",
-    "de": "Ich fordere einen schnelleren Ball über Außen, um dem Schließen ihres Mittelblockers, der sehr flink ist, zuvorzukommen."
-  },
-  {
-    "it": "Sento di aver spinto troppo con il polso e la palla è finita abbondantemente oltre la linea di fondo.",
-    "de": "Ich habe das Gefühl, zu sehr aus dem Handgelenk gedrückt zu haben, wodurch der Ball deutlich über die Grundlinie hinausging."
-  },
-  {
-    "it": "Dobbiamo essere più compatti nelle coperture, non possiamo permettere che cadano palle facili a centro campo.",
-    "de": "Wir müssen in der Sicherung kompakter stehen; wir können nicht zulassen, dass einfache Bälle in der Mitte des Feldes zu Boden gehen."
-  },
-  {
-    "it": "Il mio obiettivo è toccare il maggior numero di palloni a muro per agevolare il lavoro della difesa.",
-    "de": "Mein Ziel ist es, am Block so viele Bälle wie möglich zu berühren, um der Abwehr die Arbeit zu erleichtern."
-  },
-  {
-    "it": "Ho osservato che il loro palleggiatore dà segni di stanchezza, dobbiamo approfittarne mettendo pressione al servizio.",
-    "de": "Ich habe beobachtet, dass ihr Zuspieler Anzeichen von Müdigkeit zeigt; wir müssen das ausnutzen, indem wir beim Aufschlag Druck ausüben."
-  },
-  {
-    "it": "La mia rincorsa deve essere perpendicolare alla rete per permettermi di variare i colpi d'attacco.",
-    "de": "Mein Anlauf muss senkrecht zum Netz erfolgen, um mir die Variation meiner Angriffsschläge zu ermöglichen."
-  },
-  {
-    "it": "Cercherò di servire corto per costringere il loro schiacciatore principale a uscire dal sistema di attacco.",
-    "de": "Ich werde versuchen, kurz aufzuschlagen, um ihren Hauptangreifer dazu zu zwingen, aus dem Angriffssystem auszubrechen."
-  },
-  {
-    "it": "Ho avuto un'esitazione in ricezione che ci è costata un punto diretto, non deve più accadere.",
-    "de": "Ich hatte ein Zögern in der Annahme, das uns einen direkten Punkt gekostet hat; das darf nicht mehr vorkommen."
-  },
-  {
-    "it": "Dobbiamo focalizzarci sulla qualità del primo tocco per poter sviluppare trame di gioco più complesse.",
-    "de": "Wir müssen uns auf die Qualität des ersten Kontakts konzentrieren, um komplexere Spielzüge entwickeln zu können."
-  },
-  {
-    "it": "Mi posiziono sulla diagonale lunga perché il loro opposto tende a colpire spesso in quella direzione.",
-    "de": "Ich positioniere mich in der langen Diagonale, weil ihr Diagonalangreifer dazu neigt, oft in diese Richtung zu schlagen."
-  },
-  {
-    "it": "Il mio bagher di difesa deve essere più morbido per permettere un'alzata precisa anche su attacchi potenti.",
-    "de": "Mein Abwehrbagger muss weicher werden, um selbst bei harten Angriffen ein präzises Zuspiel zu ermöglichen."
-  },
-  {
-    "it": "Tenterò di giocare un attacco di seconda intenzione se vedo che la loro difesa è troppo arretrata.",
-    "de": "Ich werde versuchen, einen Angriff als zweiten Kontakt (Finte) zu spielen, wenn ich sehe, dass ihre Abwehr zu tief steht."
-  },
-  {
-    "it": "Dobbiamo assolutamente rompere il loro ritmo di gioco con un break point in questo momento del match.",
-    "de": "Wir müssen in diesem Moment des Matches unbedingt ihren Spielrhythmus durch ein Break unterbrechen."
-  },
-  {
-    "it": "Ho cercato di forzare troppo la traiettoria e la palla ha impattato contro il nastro della rete.",
-    "de": "Ich habe versucht, die Flugbahn zu sehr zu forcieren, und der Ball ist gegen die Netzkante geprallt."
-  },
-  {
-    "it": "Cerco di mantenere le braccia ben tese e ferme durante la ricezione per dare stabilità alla traiettoria.",
-    "de": "Ich versuche, die Arme während der Annahme gestreckt und ruhig zu halten, um der Flugbahn Stabilität zu verleihen."
-  },
-  {
-    "it": "Il mio compito in questa azione è attirare il muro centrale per liberare spazio all'attaccante laterale.",
-    "de": "Meine Aufgabe in diesem Spielzug ist es, den gegnerischen Mittelblocker zu binden, um Platz für den Außenangreifer zu schaffen."
-  },
-  {
-    "it": "Dobbiamo reagire immediatamente a questo svantaggio psicologico e tornare a giocare con aggressività.",
-    "de": "Wir müssen sofort auf diesen psychologischen Rückschlag reagieren und wieder mit Aggressivität spielen."
-  },
-  {
-    "it": "Ho notato una falla nella loro rotazione difensiva, dovremmo colpire sistematicamente in zona cinque.",
-    "de": "Ich habe eine Schwachstelle in ihrer Abwehrrotation bemerkt; wir sollten systematisch in Zone fünf angreifen."
-  },
-  {
-    "it": "Il mio tempismo nel salto a muro è stato leggermente ritardato, devo essere più lesto a leggere le mani del palleggiatore.",
-    "de": "Mein Timing beim Blocksprung war etwas verzögert; ich muss die Hände des Zuspielers schneller lesen."
-  },
-  {
-    "it": "Cerco di non farmi condizionare dall'errore precedente e di restare focalizzato sull'azione successiva.",
-    "de": "Ich versuche, mich nicht vom vorherigen Fehler beeinflussen zu lassen und auf den nächsten Spielzug konzentriert zu bleiben."
-  },
-  {
-    "it": "Dobbiamo sfruttare meglio le palle di recupero per trasformarle in occasioni di contrattacco vincente.",
-    "de": "Wir müssen die Dankebälle besser nutzen, um sie in Chancen für einen erfolgreichen Gegenangriff zu verwandeln."
-  },
-  {
-    "it": "Il mio attacco è stato murato perché non ho guardato la posizione delle mani dell'avversario prima di colpire.",
-    "de": "Mein Angriff wurde geblockt, weil ich vor dem Schlag nicht auf die Handstellung des Gegners geachtet habe."
-  },
-  {
-    "it": "Tenterò di variare la profondità del servizio per rendere la vita difficile ai loro ricevitori.",
-    "de": "Ich werde versuchen, die Tiefe des Aufschlags zu variieren, um es ihren Annahmespielern schwer zu machen."
-  },
-  {
-    "it": "La mia priorità in difesa è non far cadere nessuna palla senza aver effettuato almeno un tentativo di recupero.",
-    "de": "Meine Priorität in der Abwehr ist es, keinen Ball zu Boden gehen zu lassen, ohne zumindest einen Rettungsversuch unternommen zu haben."
-  },
-  {
-    "it": "Dobbiamo essere più compatti emotivamente per superare questo momento di difficoltà collettiva.",
-    "de": "Wir müssen emotional geschlossener auftreten, um diesen Moment kollektiver Schwierigkeiten zu überstehen."
-  },
-  {
-    "it": "Ho cercato di piazzare la palla nell'angolo più lontano, ma è uscita di pochissimi centimetri.",
-    "de": "Ich habe versucht, den Ball in die äußerste Ecke zu platzieren, aber er ging um wenige Zentimeter ins Aus."
-  },
-  {
-    "it": "Cerco di dare sempre il massimo sostegno ai miei compagni, specialmente dopo un errore punto.",
-    "de": "Ich versuche, meine Mitspieler immer maximal zu unterstützen, besonders nach einem direkten Fehler."
-  },
-  {
-    "it": "Il mio spostamento a muro deve essere più fluido per evitare di toccare la rete con le braccia.",
-    "de": "Meine Seitwärtsbewegung am Block muss flüssiger werden, um eine Netzberührung mit den Armen zu vermeiden."
-  },
-  {
-    "it": "Dobbiamo leggere meglio le loro finte, spesso il palleggiatore cerca il tocco di prima intenzione.",
-    "de": "Wir müssen ihre Finten besser lesen; oft sucht der Zuspieler den direkten Angriff beim zweiten Kontakt."
-  },
-  {
-    "it": "Ho deciso di attaccare con più decisione sulla linea laterale per evitare il loro muro centrale molto alto.",
-    "de": "Ich habe mich entschieden, entschlossener die Linie entlang anzugreifen, um ihrem sehr hohen Mittelblock auszuweichen."
-  },
-  {
-    "it": "Il mio bagher d'alzata deve essere più preciso quando il palleggiatore non può intervenire.",
-    "de": "Mein oberes Zuspiel (bzw. Notzuspiel) muss präziser sein, wenn der Zuspieler nicht eingreifen kann."
-  },
-  {
-    "it": "Cerco di trasmettere sicurezza alla squadra attraverso una gestione oculata delle palle più difficili.",
-    "de": "Ich versuche, dem Team durch ein umsichtiges Management der schwierigen Bälle Sicherheit zu vermitteln."
-  },
-  {
-    "it": "Lei ha trovato sotto il cuscino del divano le cuffie del figlio.",
-    "de": "Sie hat unter dem Sofakissen die Kopfhörer ihres Sohnes gefunden."
-  },
-  {
-    "it": "Lui ha comprato una nuova piantina da appartamento che non richiede luce diretta.",
-    "de": "Er hat eine neue Zimmerpflanze gekauft, die kein direktes Licht benötigt."
-  },
-  {
-    "it": "Io ho perso il mio quaderno di appunti e non ricordo cosa ci avevo scritto.",
-    "de": "Ich habe mein Notizheft verloren und erinnere mich nicht, was ich hineingeschrieben hatte."
-  },
-  {
-    "it": "Tu hai lasciato il libro sotto la pioggia sul davanzale e le pagine si sono incollate.",
-    "de": "Du hast das Buch auf dem Fensterbrett im Regen gelassen und die Seiten sind zusammengeklebt."
-  },
-  {
-    "it": "Lei ha comprato una nuova coperta pesante per l'inverno che si avvicina.",
-    "de": "Sie hat eine neue schwere Decke für den kommenden Winter gekauft."
-  },
-  {
-    "it": "Lui ha dimenticato di ritirare gli abiti dalla tintoria per la terza volta.",
-    "de": "Er hat vergessen, die Kleidung ein drittes Mal aus der Reinigung abzuholen."
-  },
-  {
-    "it": "Io non riesco a lavorare senza la mia tazza preferita sul tavolo.",
-    "de": "Ich kann nicht arbeiten ohne meine Lieblingstasse auf dem Tisch."
-  },
-  {
-    "it": "Tu hai messo il telefono in lavatrice insieme ai pantaloni e ora non funziona più.",
-    "de": "Du hast das Telefon zusammen mit der Hose in die Waschmaschine gegeben und es funktioniert nicht mehr."
-  },
-  {
-    "it": "Lei ha comprato un nuovo set di coltelli da cucina che tagliano perfettamente.",
-    "de": "Sie hat ein neues Set Küchenmesser gekauft, die perfekt schneiden."
-  },
-  {
-    "it": "Lui ha trovato in cantina una cassa di vinili del padre che vuole restaurare.",
-    "de": "Er hat im Keller eine Kiste mit Schallplatten seines Vaters gefunden, die er restaurieren möchte."
-  },
-  {
-    "it": "Io ho comprato un nuovo tappeto da bagno perché quello vecchio era consumato.",
-    "de": "Ich habe einen neuen Badezimmerteppich gekauft, weil der alte abgenutzt war."
-  },
-  {
-    "it": "Tu hai dimenticato il caricabatterie del laptop all'aeroporto.",
-    "de": "Du hast das Laptop-Ladekabel am Flughafen vergessen."
-  },
-  {
-    "it": "Lei ha rotto l'antenna della radio cercando di spostarla sul tavolo.",
-    "de": "Sie hat die Antenne des Radios kaputt gemacht, als sie versuchte, es auf dem Tisch zu verschieben."
-  },
-  {
-    "it": "Lui ha comprato un nuovo paio di pantofole di lana per l'inverno.",
-    "de": "Er hat ein neues Paar Wollhausschuhe für den Winter gekauft."
-  },
-  {
-    "it": "Io ho trovato in fondo allo zaino dei biglietti di un concerto di tre anni fa.",
-    "de": "Ich habe auf dem Grund des Rucksacks Konzertkarten von vor drei Jahren gefunden."
-  },
-  {
-    "it": "Tu non dovresti lasciare il cane solo in casa con le scarpe nuove.",
-    "de": "Du solltest den Hund nicht allein zu Hause mit den neuen Schuhen lassen."
-  },
-  {
-    "it": "Lei ha comprato una nuova sedia da giardino che resiste alla pioggia.",
-    "de": "Sie hat einen neuen Gartenstuhl gekauft, der dem Regen standhält."
-  },
-  {
-    "it": "Lui ha trovato il vecchio orologio che cercava dentro una scatola di scarpe.",
-    "de": "Er hat die alte Uhr, die er suchte, in einer Schuhschachtel gefunden."
-  },
-  {
-    "it": "Io ho comprato un nuovo asciugacapelli dopo che quello vecchio ha smesso di funzionare.",
-    "de": "Ich habe einen neuen Haartrockner gekauft, nachdem der alte aufgehört hatte zu funktionieren."
-  },
-  {
-    "it": "Tu hai dimenticato di chiudere la porta di casa e il gatto è scappato fuori.",
-    "de": "Du hast vergessen, die Haustür zu schließen, und die Katze ist rausgelaufen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo strofinaccio da cucina con un pattern colorato.",
-    "de": "Sie hat ein neues Küchentuch mit einem bunten Muster gekauft."
-  },
-  {
-    "it": "Lui non riesce a capire dove abbia messo il telecomando del condizionatore.",
-    "de": "Er kann nicht verstehen, wo er die Fernbedienung der Klimaanlage hingelegt hat."
-  },
-  {
-    "it": "Io ho trovato nella borsa della palestra i miei occhiali che credevo persi.",
-    "de": "Ich habe in der Sporttasche meine Brille gefunden, die ich für verloren gehalten hatte."
-  },
-  {
-    "it": "Tu hai rotto il gancio del cappotto e ora non riesci ad appenderlo.",
-    "de": "Du hast den Haken des Mantels kaputt gemacht und kannst ihn jetzt nicht aufhängen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo calendario da parete per organizzare meglio il mese.",
-    "de": "Sie hat einen neuen Wandkalender gekauft, um den Monat besser zu organisieren."
-  },
-  {
-    "it": "Lui ha trovato le sue vecchie scarpe da calcio in un sacchetto in garage.",
-    "de": "Er hat seine alten Fußballschuhe in einer Tüte in der Garage gefunden."
-  },
-  {
-    "it": "Io non riesco a trovare il mio cavatappi quando ne ho bisogno.",
-    "de": "Ich kann meinen Korkenzieher nicht finden, wenn ich ihn brauche."
-  },
-  {
-    "it": "Tu hai lasciato la borsa della spesa sul tetto della macchina e sei partito.",
-    "de": "Du hast die Einkaufstasche auf dem Autodach liegen lassen und bist losgefahren."
-  },
-  {
-    "it": "Lei ha comprato un nuovo aspirapolvere robot che pulisce il pavimento da solo.",
-    "de": "Sie hat einen neuen Saugroboter gekauft, der den Boden alleine reinigt."
-  },
-  {
-    "it": "Lui ha rotto il coperchio della pentola cercando di aprirla di forza.",
-    "de": "Er hat den Topfdeckel kaputt gemacht, indem er versuchte, ihn mit Gewalt zu öffnen."
-  },
-  {
-    "it": "Io ho comprato una nuova cintura perché quella vecchia si era consumata.",
-    "de": "Ich habe einen neuen Gürtel gekauft, weil der alte abgenutzt war."
-  },
-  {
-    "it": "Tu hai dimenticato di portare il libro della biblioteca e ora hai una multa.",
-    "de": "Du hast vergessen, das Bibliotheksbuch zurückzubringen, und hast jetzt eine Strafe."
-  },
-  {
-    "it": "Lei ha trovato in fondo all'armadio un vestito che non aveva mai indossato.",
-    "de": "Sie hat auf dem Grund des Schranks ein Kleid gefunden, das sie nie getragen hatte."
-  },
-  {
-    "it": "Lui ha comprato un nuovo portaombrelli per il corridoio di casa.",
-    "de": "Er hat einen neuen Schirmständer für den Flur zu Hause gekauft."
-  },
-  {
-    "it": "Io ho perso il mio righello e non riesco a misurare il mobile da montare.",
-    "de": "Ich habe mein Lineal verloren und kann das Möbelstück nicht messen, das ich zusammenbauen muss."
-  },
-  {
-    "it": "Tu hai lasciato la chitarra appoggiata al muro e il gatto l'ha graffiata.",
-    "de": "Du hast die Gitarre gegen die Wand gelehnt und die Katze hat sie zerkratzt."
-  },
-  {
-    "it": "Lei ha comprato una nuova cartella per portare i documenti al lavoro.",
-    "de": "Sie hat eine neue Aktentasche gekauft, um die Dokumente zur Arbeit mitzunehmen."
-  },
-  {
-    "it": "Lui ha dimenticato il cibo del cane sul fornello acceso e si è bruciato.",
-    "de": "Er hat das Hundefutter auf dem eingeschalteten Herd vergessen und es ist angebrannt."
-  },
-  {
-    "it": "Io ho trovato in soffitta una vecchia macchina da scrivere in perfetto stato.",
-    "de": "Ich habe auf dem Dachboden eine alte Schreibmaschine in perfektem Zustand gefunden."
-  },
-  {
-    "it": "Tu non dovresti lasciare le forbici aperte sul tavolo dove giocano i bambini.",
-    "de": "Du solltest die offene Schere nicht auf dem Tisch lassen, wo die Kinder spielen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo portaspezie magnetico da attaccare al frigorifero.",
-    "de": "Sie hat ein neues magnetisches Gewürzregal gekauft, das am Kühlschrank befestigt wird."
-  },
-  {
-    "it": "Lui ha trovato nella tasca del cappotto un biglietto della metropolitana di Parigi.",
-    "de": "Er hat in der Manteltasche eine Metrofahrkarte von Paris gefunden."
-  },
-  {
-    "it": "Io ho comprato una nuova borsa da viaggio che è leggera e capiente.",
-    "de": "Ich habe eine neue Reisetasche gekauft, die leicht und geräumig ist."
-  },
-  {
-    "it": "Tu hai lasciato il ferro da stiro acceso sul tavolo da stiro per ore.",
-    "de": "Du hast das Bügeleisen stundenlang auf dem Bügelbrett eingeschaltet gelassen."
-  },
-  {
-    "it": "Lei ha trovato il vecchio pupazzetto preferito del figlio sotto il letto.",
-    "de": "Sie hat die alte Lieblingspuppe ihres Sohnes unter dem Bett gefunden."
-  },
-  {
-    "it": "Lui ha comprato un nuovo porta cd anche se ormai nessuno usa più i cd.",
-    "de": "Er hat ein neues CD-Regal gekauft, obwohl niemand mehr CDs benutzt."
-  },
-  {
-    "it": "Io non riesco a trovare il mio coltellino svizzero da quando ho traslochi.",
-    "de": "Ich kann mein Schweizer Taschenmesser seit dem Umzug nicht finden."
-  },
-  {
-    "it": "Tu hai rotto il fermo della finestra e ora non riesce più a restare aperta.",
-    "de": "Du hast den Fensterhaken kaputt gemacht und das Fenster kann jetzt nicht mehr offen bleiben."
-  },
-  {
-    "it": "Lei ha comprato un nuovo tappeto da preghiera che tiene con cura.",
-    "de": "Sie hat einen neuen Gebetsteppich gekauft, den sie sorgfältig pflegt."
-  },
-  {
-    "it": "Lui ha trovato le sue vecchie fotografie di scuola in una busta gialla.",
-    "de": "Er hat seine alten Schulfotos in einem gelben Umschlag gefunden."
-  },
-  {
-    "it": "Io ho dimenticato di comprare il detersivo e ho lavato i panni a mano.",
-    "de": "Ich habe vergessen, das Waschmittel zu kaufen, und habe die Wäsche von Hand gewaschen."
-  },
-  {
-    "it": "Tu hai lasciato il computer acceso tutta la notte senza motivo.",
-    "de": "Du hast den Computer die ganze Nacht ohne Grund eingeschaltet gelassen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo set di bicchieri dopo che il vecchio si era rotto.",
-    "de": "Sie hat ein neues Gläserset gekauft, nachdem das alte zerbrochen war."
-  },
-  {
-    "it": "Lui ha sistemato il coperchio del water che non funzionava da settimane.",
-    "de": "Er hat den WC-Deckel repariert, der seit Wochen nicht funktionierte."
-  },
-  {
-    "it": "Io ho trovato sotto il letto della cameretta un pupazzo che avevo da bambino.",
-    "de": "Ich habe unter dem Kinderzimmerbett eine Puppe gefunden, die ich als Kind hatte."
-  },
-  {
-    "it": "Tu hai comprato una nuova borsa termica per portare il pranzo in ufficio.",
-    "de": "Du hast eine neue Kühltasche gekauft, um das Mittagessen ins Büro mitzunehmen."
-  },
-  {
-    "it": "Lei ha rotto il chiavistello della porta di casa cercando di aprirla in fretta.",
-    "de": "Sie hat das Türschloss kaputt gemacht, als sie versuchte, die Tür schnell zu öffnen."
-  },
-  {
-    "it": "Lui ha trovato in cantina la vecchia macchina da cucire della madre.",
-    "de": "Er hat im Keller die alte Nähmaschine seiner Mutter gefunden."
-  },
-  {
-    "it": "Io ho comprato un nuovo paio di pantaloni da trekking per le vacanze in montagna.",
-    "de": "Ich habe eine neue Trekkinghose für den Bergurlaub gekauft."
-  },
-  {
-    "it": "Tu hai dimenticato il tablet sul sedile dell'autobus e non sai come recuperarlo.",
-    "de": "Du hast das Tablet auf dem Bussitz vergessen und weißt nicht, wie du es zurückbekommst."
-  },
-  {
-    "it": "Lei ha trovato nel cassetto una busta con delle fotografie che non aveva mai visto.",
-    "de": "Sie hat in der Schublade einen Umschlag mit Fotos gefunden, die sie noch nie gesehen hatte."
-  },
-  {
-    "it": "Lui ha comprato un nuovo tosaerba perché quello vecchio non partiva più.",
-    "de": "Er hat einen neuen Rasenmäher gekauft, weil der alte nicht mehr ansprang."
-  },
-  {
-    "it": "Io non riesco a dormire senza leggere almeno qualche pagina di un libro.",
-    "de": "Ich kann nicht schlafen, ohne mindestens ein paar Seiten eines Buches zu lesen."
-  },
-  {
-    "it": "Tu hai lasciato la finestra aperta di notte e una farfalla è entrata in casa.",
-    "de": "Du hast das Fenster nachts offen gelassen und ein Schmetterling ist ins Haus gekommen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo porta candele per il tavolo della cucina.",
-    "de": "Sie hat einen neuen Kerzenhalter für den Küchentisch gekauft."
-  },
-  {
-    "it": "Lui ha rotto il gancio del gilet e non lo può più indossare.",
-    "de": "Er hat den Haken der Weste kaputt gemacht und kann sie nicht mehr tragen."
-  },
-  {
-    "it": "Io ho trovato nella cantina una vecchia bicicletta che voglio restaurare.",
-    "de": "Ich habe im Keller ein altes Fahrrad gefunden, das ich restaurieren möchte."
-  },
-  {
-    "it": "Tu non dovresti lasciare il coltello da pane nel cassetto senza fodero.",
-    "de": "Du solltest das Brotmesser nicht ohne Hülle in der Schublade lassen."
-  },
-  {
-    "it": "Lei ha acquistato una nuova macchina da caffè espresso per la cucina.",
-    "de": "Sie hat eine neue Espressomaschine für die Küche gekauft."
-  },
-  {
-    "it": "Lui ha dimenticato il cappello sul gancio dell'ingresso e è uscito senza.",
-    "de": "Er hat die Mütze am Haken im Eingangsbereich vergessen und ist ohne sie rausgegangen."
-  },
-  {
-    "it": "Io ho comprato un nuovo paio di occhiali da lettura perché quelli vecchi si erano rotti.",
-    "de": "Ich habe eine neue Lesebrille gekauft, weil die alte kaputt war."
-  },
-  {
-    "it": "Tu hai lasciato le luci del salotto accese per tutta la notte per sbaglio.",
-    "de": "Du hast das Wohnzimmerlicht versehentlich die ganze Nacht brennen lassen."
-  },
-  {
-    "it": "Lei ha trovato il gatto che dormiva dentro lo zaino aperto sul letto.",
-    "de": "Sie hat die Katze schlafend im offenen Rucksack auf dem Bett gefunden."
-  },
-  {
-    "it": "Lui ha comprato un nuovo paio di cuffie professionali per ascoltare musica.",
-    "de": "Er hat ein neues Paar professioneller Kopfhörer zum Musikhören gekauft."
-  },
-  {
-    "it": "Io ho dimenticato di portare il portafoglio e ho dovuto tornare a casa.",
-    "de": "Ich habe vergessen, die Brieftasche mitzunehmen, und musste nach Hause zurückgehen."
-  },
-  {
-    "it": "Tu hai rotto la cerniera della borsa nuova e non sai come ripararla.",
-    "de": "Du hast den Reißverschluss der neuen Tasche kaputt gemacht und weißt nicht, wie du ihn reparieren sollst."
-  },
-  {
-    "it": "Lei ha trovato in soffitta il vestito da sposa della nonna conservato in perfetto stato.",
-    "de": "Sie hat auf dem Dachboden das Brautkleid der Großmutter in perfektem Zustand gefunden."
-  },
-  {
-    "it": "Lui ha comprato un nuovo porta riviste per il salotto.",
-    "de": "Er hat einen neuen Zeitschriftenständer für das Wohnzimmer gekauft."
-  },
-  {
-    "it": "Io non riesco a trovare il mio dizionario da quando ho riordinato la libreria.",
-    "de": "Ich kann mein Wörterbuch nicht finden, seitdem ich das Bücherregal neu geordnet habe."
-  },
-  {
-    "it": "Tu hai lasciato il cane sul balcone troppo a lungo sotto il sole.",
-    "de": "Du hast den Hund zu lange auf dem Balkon in der Sonne gelassen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo termometro da cucina per la cottura della carne.",
-    "de": "Sie hat ein neues Küchenthermometer für die Fleischzubereitung gekauft."
-  },
-  {
-    "it": "Lui ha trovato il suo vecchio portafoglio in fondo al cassetto della scrivania.",
-    "de": "Er hat seine alte Brieftasche auf dem Grund der Schreibtischschublade gefunden."
-  },
-  {
-    "it": "Io ho comprato una nuova spazzola per capelli dopo che quella vecchia si è rotta.",
-    "de": "Ich habe eine neue Haarbürste gekauft, nachdem die alte kaputt gegangen ist."
-  },
-  {
-    "it": "Tu hai dimenticato di ritirare i vestiti dal balcone e hanno preso la pioggia.",
-    "de": "Du hast vergessen, die Wäsche vom Balkon zu holen, und sie hat Regen abbekommen."
-  },
-  {
-    "it": "Lei ha rotto il sigillo del barattolo e ora il cibo si conserva meno.",
-    "de": "Sie hat die Dichtung des Glases kaputt gemacht und jetzt hält das Essen weniger lang."
-  },
-  {
-    "it": "Lui ha comprato un nuovo strofinaccio per pulire gli occhiali.",
-    "de": "Er hat ein neues Brillenputztuch gekauft."
-  },
-  {
-    "it": "Io ho trovato in fondo alla borsa una chiavetta USB che non sapevo di avere.",
-    "de": "Ich habe auf dem Grund der Tasche einen USB-Stick gefunden, von dem ich nicht wusste, dass ich ihn hatte."
-  },
-  {
-    "it": "Tu non dovresti lasciare la macchina fotografica sul bordo della fontana.",
-    "de": "Du solltest die Kamera nicht auf den Brunnenrand legen."
-  },
-  {
-    "it": "Lei ha comprato un nuovo scottex porta rotolo da attaccare al muro della cucina.",
-    "de": "Sie hat einen neuen Küchenrollenhalter gekauft, der an die Küchenwand befestigt wird."
-  },
-  {
-    "it": "Lui ha trovato in cantina una vecchia scacchiera che vuole usare con il nipote.",
-    "de": "Er hat im Keller ein altes Schachbrett gefunden, das er mit seinem Enkel benutzen möchte."
-  },
-  {
-    "it": "Io ho comprato un nuovo copripiumino per il letto della camera degli ospiti.",
-    "de": "Ich habe einen neuen Bettbezug für das Bett im Gästezimmer gekauft."
-  },
-  {
-    "it": "Tu hai lasciato i guanti in palestra e ora le mani ti si gelano.",
-    "de": "Du hast die Handschuhe im Fitnessstudio gelassen und jetzt frieren dir die Hände."
-  },
-  {
-    "it": "Lei ha comprato un nuovo tappeto da ingresso che asciuga le scarpe bagnate.",
-    "de": "Sie hat eine neue Eingangsmatte gekauft, die nasse Schuhe trocknet."
-  },
-  {
-    "it": "Lui ha trovato le sue vecchie cuffie che non funzionavano più e le ha buttate.",
-    "de": "Er hat seine alten Kopfhörer gefunden, die nicht mehr funktionierten, und sie weggeworfen."
-  },
-  {
-    "it": "Io non riesco a capire dove abbia messo il mio quaderno degli indirizzi.",
-    "de": "Ich kann nicht verstehen, wo ich mein Adressbuch hingelegt habe."
-  },
-  {
-    "it": "Tu hai rotto il meccanismo dell'orologio cercando di cambiare la pila da solo.",
-    "de": "Du hast den Uhrenmechanismus kaputt gemacht, als du versuchtest, die Batterie allein zu wechseln."
-  },
-  {
-    "it": "Lei ha comprato un nuovo porta sapone per la doccia che si attacca al vetro.",
-    "de": "Sie hat einen neuen Seifenspender für die Dusche gekauft, der am Glas haftet."
-  },
-  {
-    "it": "Lui ha trovato il vecchio trenino del figlio e ha deciso di restaurarlo.",
-    "de": "Er hat die alte Eisenbahn seines Sohnes gefunden und beschlossen, sie zu restaurieren."
-  },
-  {
-    "it": "Io ho comprato un nuovo accendino dopo averne persi tre nel giro di un mese.",
-    "de": "Ich habe ein neues Feuerzeug gekauft, nachdem ich drei innerhalb eines Monats verloren hatte."
-  },
-  {
-    "it": "Tu hai dimenticato la borsa della palestra in ufficio e non hai potuto allenarti.",
-    "de": "Du hast die Sporttasche im Büro vergessen und konntest nicht trainieren."
-  },
-  {
-    "it": "Lei ha trovato il vecchio registratore a cassette del padre in soffitta.",
-    "de": "Sie hat den alten Kassettenrekorder ihres Vaters auf dem Dachboden gefunden."
-  },
-  {
-    "it": "Lui ha comprato un nuovo spazzolino elettrico per avere i denti più puliti.",
-    "de": "Er hat eine neue elektrische Zahnbürste gekauft, um sauberere Zähne zu haben."
-  },
-  {
-    "it": "Io ho trovato il mio vecchio passaporto scaduto in un cassetto della scrivania.",
-    "de": "Ich habe meinen alten abgelaufenen Reisepass in einer Schreibtischschublade gefunden."
-  },
-  {
-    "it": "Tu non dovresti mettere il coltello a punta nel lavastoviglie con la lama in su.",
-    "de": "Du solltest das spitze Messer nicht mit der Klinge nach oben in die Spülmaschine stellen."
-  },
-  {
-    "it": "Lei ha comprato una nuova lampada da lettura per il comodino della camera.",
-    "de": "Sie hat eine neue Leselampe für den Nachttisch des Schlafzimmers gekauft."
-  },
-  {
-    "it": "Lui ha trovato sotto il materasso del figlio una storia che aveva scritto da piccolo.",
-    "de": "Er hat unter der Matratze seines Sohnes eine Geschichte gefunden, die er als Kind geschrieben hatte."
-  },
-  {
-    "it": "Io ho comprato un nuovo tavolino da caffè per il salotto che è molto più pratico.",
-    "de": "Ich habe einen neuen Couchtisch für das Wohnzimmer gekauft, der viel praktischer ist."
-  },
-  {
-    "it": "Tu hai lasciato la borsetta sul sedile del taxi senza accorgertene.",
-    "de": "Du hast die Handtasche auf dem Taxisitz gelassen ohne es zu bemerken."
-  },
-  {
-    "it": "Lei ha trovato nel cassetto del comodino un vecchio bigliettino d'amore.",
-    "de": "Sie hat in der Nachttischlade einen alten Liebesbrief gefunden."
-  },
-  {
-    "it": "Lui ha comprato un nuovo porta bicchieri per la macchina.",
-    "de": "Er hat einen neuen Getränkehalter für das Auto gekauft."
-  },
-  {
-    "it": "Io non riesco a lavorare senza avere il mio taccuino di fianco al computer.",
-    "de": "Ich kann nicht arbeiten ohne mein Notizbuch neben dem Computer zu haben."
-  },
-  {
-    "it": "Tu hai rotto la zip del giubbotto nuovo e lo hai già dato in riparazione.",
-    "de": "Du hast den Reißverschluss der neuen Jacke kaputt gemacht und sie schon zur Reparatur gegeben."
-  },
-  {
-    "it": "Lei ha trovato la borraccia del figlio dimenticata nello zaino da settimane.",
-    "de": "Sie hat die Trinkflasche ihres Sohnes gefunden, die seit Wochen im Rucksack vergessen war."
-  },
-  {
-    "it": "Lui ha comprato una nuova stampante multifunzione per lavorare da casa.",
-    "de": "Er hat einen neuen Multifunktionsdrucker für das Home Office gekauft."
-  },
-  {
-    "it": "Io ho trovato in fondo alla valigia degli occhiali da sole che cercavo da mesi.",
-    "de": "Ich habe auf dem Grund des Koffers eine Sonnenbrille gefunden, die ich seit Monaten suchte."
-  },
-  {
-    "it": "Tu hai lasciato il microfono collegato al computer e la batteria si è scaricata.",
-    "de": "Du hast das Mikrofon am Computer angeschlossen gelassen und der Akku hat sich entladen."
-  },
-  {
-    "it": "Lei ha trovato nel cassetto delle forbici arrugginite che ha subito buttato.",
-    "de": "Sie hat in der Schublade eine rostige Schere gefunden und sie sofort weggeworfen."
-  },
-  {
-    "it": "Lui ha comprato un nuovo telo da mare per le vacanze che si avvicinano.",
-    "de": "Er hat ein neues Strandtuch für den bevorstehenden Urlaub gekauft."
-  },
-  {
-    "it": "Io non riesco a trovare il mio rasoio da questa mattina.",
-    "de": "Ich kann meinen Rasierer seit heute Morgen nicht finden."
-  },
-  {
-    "it": "Tu hai lasciato la sciarpa sul gancio dell'ingresso e ora non riesci a trovarla.",
-    "de": "Du hast den Schal am Haken im Eingangsbereich hängen gelassen und kannst ihn jetzt nicht finden."
-  },
-  {
-    "it": "Lei ha comprato una nuova macchina per il pane che usa ogni domenica mattina.",
-    "de": "Sie hat eine neue Brotmaschine gekauft, die sie jeden Sonntagmorgen benutzt."
-  },
-  {
-    "it": "Lui ha trovato in garage degli attrezzi del padre che non sapeva di avere.",
-    "de": "Er hat in der Garage Werkzeug seines Vaters gefunden, von dem er nicht wusste, dass er es hatte."
-  },
-  {
-    "it": "Io ho comprato un nuovo portavivande per portare il pranzo al lavoro.",
-    "de": "Ich habe eine neue Lunchbox gekauft, um das Mittagessen zur Arbeit mitzunehmen."
-  },
-  {
-    "it": "Tu non dovresti lasciare la valigia aperta sul letto quando il gatto è in casa.",
-    "de": "Du solltest den offenen Koffer nicht auf dem Bett lassen, wenn die Katze im Haus ist."
-  },
-  {
-    "it": "Lei ha trovato nella tasca del cappotto la ricevuta del regalo che cercava.",
-    "de": "Sie hat in der Manteltasche die Quittung des Geschenks gefunden, die sie suchte."
-  },
-  {
-    "it": "Lui ha comprato un nuovo paio di sandali per le vacanze al mare.",
-    "de": "Er hat ein neues Paar Sandalen für den Strandurlaub gekauft."
-  },
-  {
-    "it": "Io ho dimenticato l'auricolare sul treno e non posso rifare telefonate in viaggio.",
-    "de": "Ich habe den Ohrstöpsel im Zug vergessen und kann unterwegs keine Telefonate mehr führen."
-  },
-  {
-    "it": "Tu hai rotto il display del tablet cadendogli sopra con il gomito.",
-    "de": "Du hast das Tablet-Display kaputt gemacht, indem du mit dem Ellbogen darauf gefallen bist."
-  },
-  {
-    "it": "Lei ha trovato una vecchia scatola di fotografie di quando era bambina.",
-    "de": "Sie hat eine alte Schachtel mit Fotos aus ihrer Kindheit gefunden."
-  },
-  {
-    "it": "Lui ha comprato un nuovo ventilatore da tavolo per l'ufficio.",
-    "de": "Er hat einen neuen Tischventilator für das Büro gekauft."
-  },
-  {
-    "it": "Io non riesco a capire perché il mio orologio abbia smesso di funzionare.",
-    "de": "Ich kann nicht verstehen, warum meine Uhr aufgehört hat zu funktionieren."
-  },
-  {
-    "it": "Tu hai lasciato la borsa della spesa in macchina e il cibo si è rovinato.",
-    "de": "Du hast die Einkaufstasche im Auto gelassen und das Essen ist verdorben."
-  },
-  {
-    "it": "Lei ha comprato un nuovo set di pesi per allenarsi a casa.",
-    "de": "Sie hat ein neues Gewichtsset gekauft, um zu Hause zu trainieren."
-  },
-  {
-    "it": "Lui ha trovato in soffitta la vecchia tenda da campeggio della famiglia.",
-    "de": "Er hat auf dem Dachboden das alte Familienzelt gefunden."
-  },
-  {
-    "it": "Io ho comprato un nuovo paio di calzettoni termici per l'inverno.",
-    "de": "Ich habe ein neues Paar Thermosocken für den Winter gekauft."
-  },
-  {
-    "it": "Tu hai dimenticato di portare la borsa del computer alla riunione.",
-    "de": "Du hast vergessen, die Computertasche zum Meeting mitzunehmen."
-  },
-  {
-    "it": "Lei ha rotto il coperchio della caffettiera cercando di pulirla.",
-    "de": "Sie hat den Deckel der Kaffeekanne kaputt gemacht, als sie versuchte, sie zu reinigen."
-  },
-  {
-    "it": "Lui ha trovato sul pavimento del garage la chiave inglese che cercava.",
-    "de": "Er hat auf dem Garagenboden den Schraubenschlüssel gefunden, den er suchte."
-  },
-  {
-    "it": "Io ho comprato un nuovo paio di cuffie per le videochiamate di lavoro.",
-    "de": "Ich habe ein neues Paar Kopfhörer für berufliche Videoanrufe gekauft."
-  },
-  {
-    "it": "Tu hai lasciato il cuscino del letto sul divano e il gatto ci dorme sopra ogni notte.",
-    "de": "Du hast das Bettkissen auf dem Sofa gelassen und die Katze schläft jede Nacht darauf."
-  },
-  {
-    "it": "Lei ha trovato in cantina una vecchia lampada di design che vuole restaurare.",
-    "de": "Sie hat im Keller eine alte Designlampe gefunden, die sie restaurieren möchte."
-  },
-  {
-    "it": "Lui ha comprato un nuovo tagliere di bambù che è più igienico di quello vecchio.",
-    "de": "Er hat ein neues Bambus-Schneidebrett gekauft, das hygienischer als das alte ist."
-  },
-  {
-    "it": "Io non riesco a trovare il mio grembiule da cucina quando ne ho bisogno.",
-    "de": "Ich kann meine Küchenschürze nicht finden, wenn ich sie brauche."
-  },
-  {
-    "it": "Tu hai rotto il fermacapelli preferito di tua sorella per sbaglio.",
-    "de": "Du hast versehentlich die Lieblings-Haarspange deiner Schwester kaputt gemacht."
-  },
   {
-    "it": "Lei ha trovato nel cassetto un vecchio cellulare che funziona ancora.",
-    "de": "Sie hat in der Schublade ein altes Handy gefunden, das noch funktioniert."
+    "it": "Perchè in Italia ce la tiriamo così tanto?",
+    "de": "Warum sind wir in Italien so eingebildet?"
   },
   {
-    "it": "Lui ha comprato un nuovo coltello da chef per la cucina.",
-    "de": "Er hat ein neues Kochmesser für die Küche gekauft."
+    "it": "Dibattito",
+    "de": "Debatte"
   },
   {
-    "it": "Io ho trovato in fondo alla borsa una moneta straniera di un viaggio di anni fa.",
-    "de": "Ich habe auf dem Grund der Tasche eine ausländische Münze von einer Reise vor Jahren gefunden."
+    "it": "OrcoDio,",
+    "de": "Herrgott nochmal,"
   },
   {
-    "it": "Tu non dovresti lasciare lo spazzolino da denti sul bordo del lavandino.",
-    "de": "Du solltest die Zahnbürste nicht auf den Rand des Waschbeckens legen."
+    "it": "mi spiegate da dove proviene questa masturbazione collettiva italica dove qualsiasi cosa (dieta,",
+    "de": "kann mir jemand erklären, woher diese kollektive italienische Selbstbeweihräucherung kommt, bei der alles (Ernährung,"
   },
   {
-    "it": "Lei ha comprato un nuovo porta spazzolino da attaccare al muro del bagno.",
-    "de": "Sie hat einen neuen Zahnbürstenhalter gekauft, der an die Badezimmerwand befestigt wird."
+    "it": "arte,",
+    "de": "Kunst,"
   },
   {
-    "it": "Lui ha trovato in garage la vecchia pala che pensava di aver buttato.",
-    "de": "Er hat in der Garage die alte Schaufel gefunden, die er weggeworfen zu haben glaubte."
+    "it": "musica,",
+    "de": "Musik,"
   },
   {
-    "it": "Io ho comprato un nuovo paio di stivali da pioggia perché quelli vecchi perdevano.",
-    "de": "Ich habe ein neues Paar Gummistiefel gekauft, weil die alten undicht waren."
+    "it": "cibo,",
+    "de": "Essen,"
   },
   {
-    "it": "Tu hai dimenticato il libro sul tavolino del bar e non sei tornato a prenderlo.",
-    "de": "Du hast das Buch auf dem Cafétisch vergessen und bist nicht zurückgegangen, um es zu holen."
+    "it": "geografia,",
+    "de": "Geografie,"
   },
   {
-    "it": "Lei ha trovato la scatola dei ricordi sotto il letto della camera degli ospiti.",
-    "de": "Sie hat die Erinnerungsschachtel unter dem Bett im Gästezimmer gefunden."
+    "it": "storia) italiana sia considerata La migliore?",
+    "de": "Geschichte) Italiens als das Beste gilt?"
   },
   {
-    "it": "Lui ha comprato un nuovo paio di ciabatte per usarle in casa.",
-    "de": "Er hat ein neues Paar Schlappen gekauft, um sie zu Hause zu tragen."
+    "it": "Seriamente,",
+    "de": "Im Ernst,"
   },
   {
-    "it": "Io ho trovato il mio vecchio diario in fondo al baule che non aprivo da anni.",
-    "de": "Ich habe mein altes Tagebuch auf dem Grund der Truhe gefunden, die ich seit Jahren nicht geöffnet hatte."
+    "it": "qualcuno mi deve spiegare da dove proviene questa psicosi di massa secondo cui qualsiasi cosa nasca tra le Alpi e la Sicilia debba essere considerata per porco divino La Migliore al mondo.",
+    "de": "jemand muss mir erklären, woher diese Massenpsychose stammt, der zufolge alles, was zwischen den Alpen und Sizilien entsteht, zum Teufel nochmal das Beste der Welt sein muss."
   },
   {
-    "it": "Tu hai lasciato la porta aperta e il cane è uscito nel giardino da solo.",
-    "de": "Du hast die Tür offen gelassen und der Hund ist allein in den Garten gegangen."
+    "it": "Siamo arrivati a un livello di sciovinismo talmente patologico che ormai non si può più avere una discussione oggettiva su niente,",
+    "de": "Wir haben ein derart krankhaftes Niveau an Chauvinismus erreicht, dass es unmöglich ist, noch sachlich über irgendetwas zu diskutieren,"
   },
   {
-    "it": "Lei ha comprato un nuovo porta cellulare da attaccare al muro vicino al letto.",
-    "de": "Sie hat einen neuen Handyhalter gekauft, der neben dem Bett an die Wand befestigt wird."
+    "it": "che si tratti di dieta,",
+    "de": "egal ob es um Ernährung geht,"
   },
   {
-    "it": "Lui ha trovato in soffitta un quadro che potrebbe valere molto.",
-    "de": "Er hat auf dem Dachboden ein Gemälde gefunden, das viel wert sein könnte."
+    "it": "arte,",
+    "de": "Kunst,"
   },
   {
-    "it": "Io non riesco a trovare il mio cavatappi nel cassetto della cucina.",
-    "de": "Ich kann meinen Korkenzieher in der Küchenschublade nicht finden."
+    "it": "musica,",
+    "de": "Musik,"
   },
   {
-    "it": "Tu hai rotto il coperchio della pentola a pressione cercando di aprirla.",
-    "de": "Du hast den Deckel des Schnellkochtopfs kaputt gemacht, als du versuchtest, ihn zu öffnen."
+    "it": "cibo o storia.",
+    "de": "Essen oder Geschichte."
   },
   {
-    "it": "Lei ha trovato nel cassetto il vecchio paio di occhiali che pensava di aver perso.",
-    "de": "Sie hat in der Schublade die alte Brille gefunden, die sie verloren zu haben glaubte."
+    "it": "Boh.",
+    "de": "Keine Ahnung."
   },
   {
-    "it": "Lui ha comprato un nuovo orologio da parete per la cucina.",
-    "de": "Er hat eine neue Wanduhr für die Küche gekauft."
+    "it": "È diventato un unico,",
+    "de": "Es ist zu einem einzigen,"
   },
   {
-    "it": "Io ho dimenticato il passaporto a casa il giorno della partenza.",
-    "de": "Ich habe den Reisepass am Abreisetag zu Hause vergessen."
+    "it": "immenso cerchiobottismo patriottico dove l'italiano medio si sente in dovere di salire in cattedra e spiegare al resto del pianeta come si vive,",
+    "de": "riesigen patriotischen Herumgeeiere geworden, bei dem sich der durchschnittliche Italiener verpflichtet fühlt, sich ans Rednerpult zu stellen und dem Rest der Welt zu erklären, wie man lebt,"
   },
   {
-    "it": "Tu hai lasciato la borsa del computer sotto la pioggia e si è bagnata.",
-    "de": "Du hast die Computertasche im Regen stehen gelassen und sie ist nass geworden."
+    "it": "come si mangia e come si sta al mondo.",
+    "de": "wie man isst und wie man sich in der Welt verhält."
   },
   {
-    "it": "Lei ha comprato un nuovo set di posate di acciaio inossidabile.",
-    "de": "Sie hat ein neues Set Besteck aus Edelstahl gekauft."
+    "it": "​La cosa che mi manda letteralmente ai matti è questa convinzione incrollabile che il resto del mondo viva nel fango e mangi cartone pressato.",
+    "de": "Was mich buchstäblich wahnsinnig macht, ist diese unerschütterliche Überzeugung, dass der Rest der Welt im Schlamm lebt und gepresste Pappe isst."
   },
   {
-    "it": "Lui ha trovato nel garage una vecchia sedia di legno che vuole dipingere.",
-    "de": "Er hat in der Garage einen alten Holzstuhl gefunden, den er bemalen möchte."
+    "it": "Abbiamo costruito una narrazione tossica per cui fuori dai nostri confini non sanno godersi la vita,",
+    "de": "Wir haben eine toxische Erzählung aufgebaut, wonach man außerhalb unserer Grenzen das Leben nicht genießen kann,"
   },
   {
-    "it": "Io ho comprato un nuovo paio di guanti da cucina perché quelli vecchi si erano bruciati.",
-    "de": "Ich habe ein neues Paar Ofenhandschuhe gekauft, weil die alten verbrannt waren."
+    "it": "non hanno gusto e non hanno storia,",
+    "de": "keinen Geschmack hat und keine Geschichte besitzt,"
   },
   {
-    "it": "Tu hai dimenticato la valigia aperta dopo il viaggio e il gatto ci si è addormentato dentro.",
-    "de": "Du hast den Koffer nach der Reise offen gelassen und die Katze ist darin eingeschlafen."
+    "it": "ignorando il fatto che mentre noi facciamo i custodi museali di un passato che non ci appartiene più,",
+    "de": "und dabei ignorieren wir, dass wir zwar Museumswächter einer Vergangenheit spielen, die uns nicht mehr gehört,"
   },
   {
-    "it": "Lei ha trovato nel cassetto un vecchio braccialetto che le aveva regalato la madre.",
-    "de": "Sie hat in der Schublade ein altes Armband gefunden, das ihre Mutter ihr geschenkt hatte."
+    "it": "gli altri corrono nel futuro.",
+    "de": "während die anderen in die Zukunft rasen."
   },
   {
-    "it": "Lui ha comprato un nuovo phon ionico che non danneggia i capelli.",
-    "de": "Er hat einen neuen Ionen-Haartrockner gekauft, der die Haare nicht beschädigt."
+    "it": "Se un americano mette la panna nella carbonara scatta un processo di Norimberga mediatico manco avesse calpestato il tricolore,",
+    "de": "Wenn ein Amerikaner Sahne in die Carbonara gibt, bricht ein medialer Nürnberger Prozess los, als hätte er die Trikolore zertreten,"
   },
   {
-    "it": "Io non riesco a trovare il telecomando del televisore da questa mattina.",
-    "de": "Ich kann die Fernbedienung des Fernsehers seit heute Morgen nicht finden."
+    "it": "e intanto noi viviamo di rendita su quello che hanno fatto Michelangelo o i Romani secoli fa,",
+    "de": "und dabei leben wir von dem, was Michelangelo oder die Römer vor Jahrhunderten geleistet haben,"
   },
   {
-    "it": "Tu hai lasciato la finestra del bagno aperta durante la notte e ora fa freddo.",
-    "de": "Du hast das Badfenster die Nacht über offen gelassen und jetzt ist es kalt."
+    "it": "come se il merito di un monumento costruito duemila anni fa ricadesse magicamente su di noi mentre fissiamo lo smartphone sul divano.",
+    "de": "als ob das Verdienst eines vor zweitausend Jahren erbauten Monuments magisch auf uns überginge, während wir auf dem Sofa auf unser Smartphone starren."
   },
   {
-    "it": "Lei ha comprato un nuovo portasapone di ceramica che si abbina al bagno.",
-    "de": "Sie hat einen neuen Keramik-Seifenspender gekauft, der zum Bad passt."
+    "it": "​C'è un'arroganza estetica e culturale che ci impedisce di vedere la realtà.",
+    "de": "Es gibt eine ästhetische und kulturelle Arroganz, die uns daran hindert, die Realität zu sehen."
   },
   {
-    "it": "Lui ha trovato in cantina la vecchia palla da calcio del figlio.",
-    "de": "Er hat im Keller den alten Fußball seines Sohnes gefunden."
+    "it": "Siamo un Paese con le città paralizzate,",
+    "de": "Wir sind ein Land mit gelähmten Städten,"
   },
   {
-    "it": "Ciò che è stato fatto non si può disfare.",
-    "de": "Was getan wurde, kann nicht rückgängig gemacht werden."
+    "it": "una burocrazia da incubo e un'apertura mentale ferma al dopoguerra,",
+    "de": "einem alptraumhaften Bürokratieapparat und einer Weltoffenheit, die beim Nachkriegsstand stehen geblieben ist,"
   },
   {
-    "it": "Io non avrei mai immaginato di trovarmi in questa situazione.",
-    "de": "Ich hätte mir nie vorgestellt, mich in dieser Lage zu befinden."
+    "it": "eppure la risposta a ogni critica è sempre il solito riflesso pavloviano:",
+    "de": "und doch ist die Antwort auf jede Kritik immer derselbe pawlowsche Reflex:"
   },
   {
-    "it": "Tu non capisci quanto sia difficile prendere questa decisione.",
-    "de": "Du weißt nicht, wie schwer es ist, diese Entscheidung zu treffen."
+    "it": "\"Eh,",
+    "de": "„Ja,"
   },
   {
-    "it": "Lei ha rinunciato a tutto pur di realizzare il suo sogno.",
-    "de": "Sie hat auf alles verzichtet, um ihren Traum zu verwirklichen."
+    "it": "ma come si mangia da noi.",
+    "de": "aber wie gut man bei uns isst."
   },
   {
-    "it": "Lui sa benissimo cosa sta rischiando con questa scelta.",
-    "de": "Er weiß sehr gut, was er mit dieser Wahl riskiert."
+    "it": "eh,",
+    "de": "ja,"
   },
   {
-    "it": "Io mi rendo conto di aver sbagliato approccio fin dall'inizio.",
-    "de": "Ich erkenne, dass ich von Anfang an den falschen Ansatz hatte."
+    "it": "ma abbiamo il sole e il mare.",
+    "de": "aber wir haben die Sonne und das Meer."
   },
   {
-    "it": "Tu avresti potuto evitare tutto questo con un po' di prudenza.",
-    "de": "Du hättest das alles mit etwas Vorsicht vermeiden können."
+    "it": "Ma è pssibile che l'intero senso di identità nazionale debba ridursi a un piatto di pasta o a un panorama?",
+    "de": "Kann es wirklich sein, dass das gesamte nationale Identitätsgefühl auf einen Teller Pasta oder eine Aussicht reduziert werden muss?"
   },
   {
-    "it": "Lei affronta ogni ostacolo con una determinazione straordinaria.",
-    "de": "Sie begegnet jedem Hindernis mit außergewöhnlicher Entschlossenheit."
+    "it": "E a proposito del piatto di pasta.",
+    "de": "Und wo wir schon beim Teller Pasta sind."
   },
   {
-    "it": "Lui tende a sottovalutare le conseguenze delle proprie azioni.",
-    "de": "Er neigt dazu, die Folgen seines Handelns zu unterschätzen."
+    "it": "Ecco qui la ricetta per la CARBONARA.",
+    "de": "Hier ist das Rezept für die CARBONARA."
   },
   {
-    "it": "Io ho imparato a distinguere ciò che conta davvero nella vita.",
-    "de": "Ich habe gelernt, zu unterscheiden, was im Leben wirklich zählt."
+    "it": "Per prima cosa,",
+    "de": "Zunächst"
   },
   {
-    "it": "Tu sembri convinto di avere sempre ragione su tutto.",
-    "de": "Du scheinst überzeugt, in allem immer recht zu haben."
+    "it": "metti a bollire l'acqua per la pasta ma vacci piano con il sale,",
+    "de": "das Wasser für die Pasta zum Kochen bringen, aber sparsam salzen,"
   },
   {
-    "it": "Lei non si lascia scoraggiare dalle critiche degli altri.",
-    "de": "Sie lässt sich von der Kritik anderer nicht entmutigen."
+    "it": "perché il guanciale e il pecorino faranno gran parte del lavoro sporco.",
+    "de": "denn der Guanciale und der Pecorino erledigen den Großteil der Arbeit."
   },
   {
-    "it": "Lui ha ammesso di non aver compreso la gravità della situazione.",
-    "de": "Er gab zu, den Ernst der Lage nicht erkannt zu haben."
+    "it": "Mentre aspetti,",
+    "de": "In der Zwischenzeit"
   },
   {
-    "it": "Io stento a credere che tu abbia detto una cosa del genere.",
-    "de": "Ich kann kaum glauben, dass du so etwas gesagt hast."
+    "it": "taglia il guanciale a listarelle,",
+    "de": "den Guanciale in Streifen schneiden,"
   },
   {
-    "it": "Tu dovresti riflettere prima di pronunciarti su argomenti complessi.",
-    "de": "Du solltest nachdenken, bevor du dich zu komplexen Themen äußerst."
+    "it": "non troppo sottili altrimenti bruciano,",
+    "de": "nicht zu dünn, sonst verbrennen sie,"
   },
   {
-    "it": "Lei ha dimostrato una maturità rara per la sua età.",
-    "de": "Sie hat eine für ihr Alter seltene Reife bewiesen."
+    "it": "e mettilo in una padella fredda.",
+    "de": "und in eine kalte Pfanne geben."
   },
   {
-    "it": "Lui si è reso conto troppo tardi di aver perso un'occasione.",
-    "de": "Er merkte zu spät, dass er eine Gelegenheit verpasst hatte."
+    "it": "Accendi il fuoco basso e lascia che il grasso si sciolga lentamente finché la carne non diventa croccante e dorata;",
+    "de": "Bei niedriger Hitze erhitzen und das Fett langsam schmelzen lassen, bis das Fleisch knusprig und goldbraun ist;"
   },
   {
-    "it": "Io non riesco a tollerare l'ipocrisia di chi finge di non sapere.",
-    "de": "Ich kann die Heuchelei derer nicht ertragen, die vorgeben, nichts zu wissen."
+    "it": "a quel punto spegni il fuoco e metti da parte il guanciale,",
+    "de": "dann die Hitze ausschalten und den Guanciale beiseitelegen,"
   },
   {
-    "it": "Tu hai una capacità straordinaria di mettere a proprio agio le persone.",
-    "de": "Du hast eine außergewöhnliche Fähigkeit, Menschen in Wohlbefinden zu versetzen."
+    "it": "tenendo però il grasso fuso nella padella.",
+    "de": "das ausgelassene Fett jedoch in der Pfanne belassen."
   },
   {
-    "it": "Lei si è accorta che le sue aspettative erano del tutto irrealistiche.",
-    "de": "Sie erkannte, dass ihre Erwartungen völlig unrealistisch waren."
+    "it": "​In una ciotola di vetro o metallo,",
+    "de": "In einer Glas- oder Metallschüssel"
   },
   {
-    "it": "Lui agisce sempre come se il mondo girasse intorno a lui.",
-    "de": "Er verhält sich stets so, als würde sich die Welt um ihn drehen."
+    "it": "prepara quella che i puristi chiamano 'la crema'.",
+    "de": "das zubereiten, was die Puristen „die Creme' nennen."
   },
   {
-    "it": "Io ho bisogno di tempo per elaborare tutto ciò che è accaduto.",
-    "de": "Ich brauche Zeit, um alles zu verarbeiten, was geschehen ist."
+    "it": "Sbatti i tuorli d'uovo (calcola un tuorlo a persona più uno per il \"momento della verità\") con una generosa manciata di Pecorino Romano grattugiato finemente e una pioggia di pepe nero macinato al momento.",
+    "de": "Die Eigelbe verquirlen (ein Eigelb pro Person plus eines für den „Moment der Wahrheit') mit einer großzügigen Handvoll fein geriebenem Pecorino Romano und reichlich frisch gemahlenem schwarzen Pfeffer."
   },
   {
-    "it": "Tu non dovresti permettere che gli altri influenzino le tue scelte.",
-    "de": "Du solltest nicht zulassen, dass andere deine Entscheidungen beeinflussen."
+    "it": "Mescola energicamente fino a ottenere un composto denso e pastoso.",
+    "de": "Kräftig rühren, bis eine dicke, sämige Masse entsteht."
   },
   {
-    "it": "Lei continua a sperare nonostante tutto sembri andare storto.",
-    "de": "Sie hofft weiterhin, obwohl alles schief zu laufen scheint."
+    "it": "Il segreto per non far impazzire l'uovo è aggiungere un cucchiaio del grasso del guanciale a questa crema,",
+    "de": "Das Geheimnis, damit das Ei nicht stockt, ist, einen Löffel des Guanciale-Fetts in diese Creme zu geben,"
   },
   {
-    "it": "Lui ha deciso di cambiare vita dopo un lungo periodo di riflessione.",
-    "de": "Er entschied sich nach einer langen Reflexionsphase, sein Leben zu ändern."
+    "it": "stemperandola leggermente.",
+    "de": "um sie leicht zu temperieren."
   },
   {
-    "it": "Io fatico ad accettare che alcune cose siano fuori dal mio controllo.",
-    "de": "Ich finde es schwer zu akzeptieren, dass manche Dinge außerhalb meiner Kontrolle liegen."
+    "it": "​Scola la pasta molto al dente,",
+    "de": "Die Pasta sehr al dente abgießen"
   },
   {
-    "it": "Tu hai l'abitudine di rimandare ciò che potresti fare subito.",
-    "de": "Du hast die Gewohnheit, aufzuschieben, was du sofort tun könntest."
+    "it": "avendo cura di conservare un po' d'acqua di cottura.",
+    "de": "und dabei etwas Kochwasser aufbewahren."
   },
   {
-    "it": "Lei sa esattamente dove vuole arrivare e come arrivarci.",
-    "de": "Sie weiß genau, wohin sie will und wie sie dorthin gelangt."
+    "it": "Salta la pasta nella padella con il grasso del guanciale per insaporirla,",
+    "de": "Die Pasta in der Pfanne mit dem Guanciale-Fett schwenken, um sie zu aromatisieren,"
   },
   {
-    "it": "Lui non ha mai fatto i conti con i propri limiti.",
-    "de": "Er hat sich nie mit seinen eigenen Grenzen auseinandergesetzt."
+    "it": "poi sposta tutto nella ciotola con il composto di uova e formaggio,",
+    "de": "dann alles in die Schüssel mit der Ei-Käse-Masse geben,"
   },
   {
-    "it": "Io mi sono accorto che stavo mentendo a me stesso da anni.",
-    "de": "Ich merkte, dass ich mir seit Jahren selbst belogen hatte."
+    "it": "lontano dal fuoco.",
+    "de": "abseits der Hitzequelle."
   },
   {
-    "it": "Tu riesci a trovare il lato positivo anche nelle situazioni più difficili.",
-    "de": "Du schaffst es, auch in den schwierigsten Situationen das Positive zu sehen."
+    "it": "Questo è il momento critico:",
+    "de": "Dies ist der entscheidende Moment:"
   },
   {
-    "it": "Lei ha dovuto imparare a chiedere aiuto senza sentirsi in colpa.",
-    "de": "Sie musste lernen, Hilfe zu bitten, ohne sich schuldig zu fühlen."
+    "it": "aggiungi un po' d'acqua di cottura e mescola velocemente.",
+    "de": "etwas Kochwasser hinzufügen und schnell rühren."
   },
   {
-    "it": "Lui parla con una sicurezza che spesso nasconde una grande fragilità.",
-    "de": "Er spricht mit einer Gewissheit, die oft eine große Zerbrechlichkeit verbirgt."
+    "it": "Il calore residuo della pasta deve sciogliere il formaggio e cuocere l'uovo trasformandolo in una crema vellutata,",
+    "de": "Die Restwärme der Pasta muss den Käse schmelzen und das Ei garen und dabei in eine samtige Creme verwandeln,"
   },
   {
-    "it": "Io non sono disposto a scendere a compromessi su certi valori.",
-    "de": "Ich bin nicht bereit, bei bestimmten Werten Kompromisse einzugehen."
+    "it": "non in una frittata.",
+    "de": "nicht in ein Rührei."
   },
   {
-    "it": "Tu sembri non renderti conto di quanto le tue parole possano ferire.",
-    "de": "Du scheinst nicht zu merken, wie sehr deine Worte verletzen können."
+    "it": "Unisci il guanciale croccante,",
+    "de": "Den knusprigen Guanciale hinzufügen,"
   },
   {
-    "it": "Lei ha scelto la strada più difficile sapendo che era quella giusta.",
-    "de": "Sie hat den schwierigeren Weg gewählt, weil sie wusste, dass es der richtige war."
+    "it": "un'ultima grattugiata di pecorino e un'altra spolverata di pepe.",
+    "de": "noch etwas Pecorino darüberreiben und nochmals Pfeffer darüberstreuen."
   },
   {
-    "it": "Lui si è costruito una reputazione che ora fatica a mantenere.",
-    "de": "Er hat sich einen Ruf aufgebaut, den er jetzt kaum aufrechterhalten kann."
+    "it": "Servila subito,",
+    "de": "Sofort servieren,"
   },
   {
-    "it": "Io ho smesso di aspettarmi che le cose cambino da sole.",
-    "de": "Ich habe aufgehört zu erwarten, dass sich die Dinge von allein ändern."
+    "it": "perché la carbonara non aspetta nessuno e si mangia rigorosamente bollente.",
+    "de": "denn die Carbonara wartet auf niemanden und wird unbedingt kochend heiß gegessen."
   },
   {
-    "it": "Tu dovresti smetterla di giustificare comportamenti che sai essere sbagliati.",
-    "de": "Du solltest aufhören, Verhaltensweisen zu rechtfertigen, von denen du weißt, dass sie falsch sind."
+    "it": "Pensi che all'estero non sia così ?",
+    "de": "Glaubst du, im Ausland ist das anders?"
   },
   {
-    "it": "Lei non ha perso la speranza nemmeno nei momenti più bui.",
-    "de": "Sie hat auch in den dunkelsten Momenten die Hoffnung nicht verloren."
+    "it": "Ogni nazione se la canta e se la suona.",
+    "de": "Jede Nation singt ihr eigenes Lied."
   },
   {
-    "it": "Lui ha finalmente trovato il coraggio di dire ciò che pensava.",
-    "de": "Er hat endlich den Mut gefunden, das zu sagen, was er dachte."
+    "it": "P.",
+    "de": "P."
   },
   {
-    "it": "Io mi chiedo spesso se le scelte che ho fatto siano state giuste.",
-    "de": "Ich frage mich oft, ob die Entscheidungen, die ich getroffen habe, richtig waren."
+    "it": "S.",
+    "de": "S."
   },
   {
-    "it": "Tu hai una tendenza a complicare situazioni che potrebbero essere semplici.",
-    "de": "Du neigst dazu, Situationen zu verkomplizieren, die einfach sein könnten."
+    "it": "Io cucino per sopravvivere quindi solo carne e insalata,",
+    "de": "Ich koche zum Überleben, also nur Fleisch und Salat,"
   },
   {
-    "it": "Lei riesce a mantenere la calma anche sotto pressione estrema.",
-    "de": "Sie schafft es, auch unter extremem Druck ruhig zu bleiben."
+    "it": "il minimo indispensabile.",
+    "de": "das absolute Minimum."
   },
   {
-    "it": "Lui non riesce a dimenticare ciò che ha vissuto in quel periodo.",
-    "de": "Er kann nicht vergessen, was er in jener Zeit erlebt hat."
+    "it": "Condivido pienamente con te,",
+    "de": "Ich stimme dir vollkommen zu,"
   },
   {
-    "it": "Io ho capito che il cambiamento comincia sempre da se stessi.",
-    "de": "Ich habe verstanden, dass Veränderung immer bei einem selbst beginnt."
+    "it": "nazionalisti al massimo su delle mega cazzate,",
+    "de": "Nationalisten höchstens wegen riesigen Kleinigkeiten,"
   },
   {
-    "it": "Tu non puoi pretendere rispetto se non sei disposto a darlo.",
-    "de": "Du kannst keinen Respekt erwarten, wenn du nicht bereit bist, ihn zu geben."
+    "it": "ad esempio su come si fa la carbonara o le lasagne,",
+    "de": "zum Beispiel darüber, wie man Carbonara oder Lasagne macht,"
   },
   {
-    "it": "Lei ha imparato a fidarsi del proprio istinto nel corso degli anni.",
-    "de": "Sie hat im Laufe der Jahre gelernt, ihrem Instinkt zu vertrauen."
+    "it": "sulle cose serie massimo menefreghismo.",
+    "de": "bei ernsthaften Dingen dagegen maximale Gleichgültigkeit."
   },
   {
-    "it": "Lui tende a fuggire dalle responsabilità invece di affrontarle.",
-    "de": "Er neigt dazu, Verantwortung zu entfliehen, anstatt ihr ins Gesicht zu sehen."
+    "it": "Anche questa storia che si mangia bene solo in Italia ha stufato.",
+    "de": "Auch diese Geschichte, dass man nur in Italien gut isst, hat sich abgenutzt."
   },
   {
-    "it": "Io non riesco a capire come tu possa restare indifferente a tutto.",
-    "de": "Ich verstehe nicht, wie du allem gegenüber gleichgültig bleiben kannst."
+    "it": "Se hai girato un po' sai meglio di me che anche in altri (non tutti i) paesi si mangia benissimo.",
+    "de": "Wenn du ein bisschen gereist bist, weißt du besser als ich, dass man auch in anderen (nicht allen) Ländern sehr gut isst."
   },
   {
-    "it": "Tu hai dimostrato di essere all'altezza della situazione nel momento cruciale.",
-    "de": "Du hast bewiesen, der Situation im entscheidenden Moment gewachsen zu sein."
+    "it": "Il mondo attuale ci sta tirando giu' dal piedistallo.",
+    "de": "Die heutige Welt holt uns vom Sockel."
   },
   {
-    "it": "Lei sa che certi errori non si possono riparare, solo accettare.",
-    "de": "Sie weiß, dass manche Fehler nicht repariert werden können, sondern nur akzeptiert."
+    "it": "un po'sono contento",
+    "de": "Ein bisschen bin ich froh darüber."
   },
   {
-    "it": "Lui vive come se il tempo a sua disposizione fosse infinito.",
-    "de": "Er lebt, als hätte er unendlich viel Zeit zur Verfügung."
+    "it": "Conciliaweb e Tim",
+    "de": "Conciliaweb und Tim"
   },
   {
-    "it": "Io ho smesso di cercare approvazione dove non potrò mai trovarla.",
-    "de": "Ich habe aufgehört, Zustimmung dort zu suchen, wo ich sie nie finden werde."
+    "it": "Buongiorno a tutti.",
+    "de": "Guten Morgen allerseits."
   },
   {
-    "it": "Tu parli di onestà, ma le tue azioni raccontano un'altra storia.",
-    "de": "Du redest von Ehrlichkeit, aber deine Handlungen erzählen eine andere Geschichte."
+    "it": "È la prima volta che mi succede di arrivare fino a questo punto e ho bisogno di consigli per un problema con Tim che ormai va avanti da 8 mesi.",
+    "de": "Es ist das erste Mal, dass ich bis zu diesem Punkt komme, und ich brauche Rat zu einem Problem mit Tim, das nun schon seit 8 Monaten andauert."
   },
   {
-    "it": "Lei affronta le sue paure invece di lasciarle paralizzarla.",
-    "de": "Sie stellt sich ihren Ängsten, anstatt sich von ihnen lähmen zu lassen."
+    "it": "in data 19/07/2025 il mio numero è stato portato da TIM a Iliad,",
+    "de": "Am 19.07.2025 wurde meine Nummer von TIM zu Iliad portiert,"
   },
   {
-    "it": "Lui si è convinto di non aver bisogno di nessuno per andare avanti.",
-    "de": "Er hat sich überzeugt, niemanden zu brauchen, um voranzukommen."
+    "it": "pertanto TIM non aveva più titolo per emettere fatture successive.",
+    "de": "daher war TIM nicht mehr berechtigt, weitere Rechnungen auszustellen."
   },
   {
-    "it": "Io ho realizzato che la solitudine può essere anche una scelta consapevole.",
-    "de": "Ich habe erkannt, dass Einsamkeit auch eine bewusste Wahl sein kann."
+    "it": "A titolo informativo,",
+    "de": "Zur Information:"
   },
   {
-    "it": "Tu sembri incapace di ascoltare senza interrompere continuamente.",
-    "de": "Du scheinst unfähig zu sein, zuzuhören, ohne ständig zu unterbrechen."
+    "it": "il 27/06/2025 ho attivato l'offerta Iliad e il 03/07/2025 è avvenuto il cambio modem.",
+    "de": "Am 27.06.2025 habe ich das Iliad-Angebot aktiviert, und am 03.07.2025 fand der Modemtausch statt."
   },
   {
-    "it": "Lei non ha mai smesso di credere in ciò che stava facendo.",
-    "de": "Sie hat nie aufgehört, an das zu glauben, was sie tat."
+    "it": "TIM ha comunque emesso fatture successive pari a:",
+    "de": "TIM hat dennoch weitere Rechnungen in folgender Höhe ausgestellt:"
   },
   {
-    "it": "Lui si comporta come se le regole valessero per tutti tranne lui.",
-    "de": "Er verhält sich, als ob die Regeln für alle außer ihm gelten würden."
+    "it": "30,",
+    "de": "30,"
   },
   {
-    "it": "Io ho imparato che il silenzio a volte parla più delle parole.",
-    "de": "Ich habe gelernt, dass Stille manchmal mehr sagt als Worte."
+    "it": "80 € (agosto),",
+    "de": "80 € (August),"
   },
   {
-    "it": "Tu dovresti avere il coraggio di ammettere quando ti sbagli.",
-    "de": "Du solltest den Mut haben zuzugeben, wenn du dich irrst."
+    "it": "8,",
+    "de": "8,"
   },
   {
-    "it": "Lei ha attraversato momenti difficili senza mai perdere la sua identità.",
-    "de": "Sie hat schwierige Momente durchlebt, ohne jemals ihre Identität zu verlieren."
+    "it": "03 € (settembre),",
+    "de": "03 € (September),"
   },
   {
-    "it": "Lui non capisce che la fiducia si costruisce nel tempo, non si pretende.",
-    "de": "Er versteht nicht, dass Vertrauen im Laufe der Zeit aufgebaut wird, nicht gefordert."
+    "it": "5 € (ottobre),",
+    "de": "5 € (Oktober),"
   },
   {
-    "it": "Io non sono il tipo di persona che si arrende alla prima difficoltà.",
-    "de": "Ich bin nicht der Typ, der bei der ersten Schwierigkeit aufgibt."
+    "it": "5 € (novembre) e 120,",
+    "de": "5 € (November) und 120,"
   },
   {
-    "it": "Tu hai un modo di vedere il mondo che mi ha sempre affascinato.",
-    "de": "Du hast eine Art, die Welt zu sehen, die mich schon immer fasziniert hat."
+    "it": "65 € (dicembre 2025).",
+    "de": "65 € (Dezember 2025)."
   },
   {
-    "it": "Lei si è resa conto di dover cambiare prima di perdere tutto.",
-    "de": "Sie erkannte, dass sie sich ändern musste, bevor sie alles verlor."
+    "it": "Ho inviato reclami in data 17/09/2025,",
+    "de": "Ich habe am 17.09.2025 Beschwerden eingereicht,"
   },
   {
-    "it": "Lui porta il peso delle sue scelte senza lamentarsi con nessuno.",
-    "de": "Er trägt die Last seiner Entscheidungen, ohne sich bei jemandem zu beklagen."
+    "it": "ricevendo una risposta vaga da TIM il 14/10/2025,",
+    "de": "und am 14.10.2025 eine vage Antwort von TIM erhalten,"
   },
   {
-    "it": "Io non ho rimpianti, perché ogni scelta mi ha insegnato qualcosa.",
-    "de": "Ich habe keine Reue, weil mich jede Entscheidung etwas gelehrt hat."
+    "it": "e un ulteriore reclamo sempre via PEC il 03/12/2025 rimasto senza risposta.",
+    "de": "sowie eine weitere Beschwerde per PEC am 03.12.2025, die unbeantwortet blieb."
   },
   {
-    "it": "Tu non puoi capire cosa significa portare avanti un'impresa da soli.",
-    "de": "Du kannst nicht verstehen, was es bedeutet, allein ein Unternehmen voranzubringen."
+    "it": "Il 07/11/2025 ho chiesto indicazioni al Corecom,",
+    "de": "Am 07.11.2025 habe ich beim Corecom Rat eingeholt,"
   },
   {
-    "it": "Lei crede profondamente che ogni persona meriti una seconda possibilità.",
-    "de": "Sie glaubt zutiefst, dass jeder Mensch eine zweite Chance verdient."
+    "it": "che mi ha consigliato di inviare contestazione e,",
+    "de": "der mir empfahl, einen Einspruch einzureichen und,"
   },
   {
-    "it": "Lui ha perso di vista ciò che contava davvero nella sua vita.",
-    "de": "Er hat aus den Augen verloren, was in seinem Leben wirklich zählte."
+    "it": "in caso di mancata risposta,",
+    "de": "falls keine Antwort erfolgt,"
   },
   {
-    "it": "Io mi impegno ogni giorno a essere una versione migliore di me.",
-    "de": "Ich bemühe mich jeden Tag, eine bessere Version meiner selbst zu sein."
+    "it": "presentare istanza ad AGCOM/ConciliaWeb.",
+    "de": "einen Antrag bei AGCOM/ConciliaWeb zu stellen."
   },
   {
-    "it": "Tu hai il dono di semplificare concetti che sembrano impossibili da capire.",
-    "de": "Du hast die Gabe, Konzepte zu vereinfachen, die unmöglich zu verstehen scheinen."
+    "it": "In aggiunta,",
+    "de": "Außerdem"
   },
   {
-    "it": "Lei non si fida facilmente, ma quando lo fa è per sempre.",
-    "de": "Sie vertraut nicht leicht, aber wenn sie es tut, dann für immer."
+    "it": "il modem è stato restituito come da loro lettera,",
+    "de": "wurde das Modem gemäß ihrem Schreiben zurückgegeben,"
   },
   {
-    "it": "Lui si è accorto troppo tardi che l'orgoglio lo stava isolando.",
-    "de": "Er bemerkte zu spät, dass der Stolz ihn isolierte."
+    "it": "ma TIM ha continuato ad addebitarmi fatture.",
+    "de": "aber TIM hat mir weiterhin Rechnungen gestellt."
   },
   {
-    "it": "Io credo che la coerenza tra parole e azioni sia fondamentale.",
-    "de": "Ich glaube, dass die Übereinstimmung zwischen Worten und Taten grundlegend ist."
+    "it": "Il 12/03/2026 ho ricevuto una lettera da una società di recupero crediti,",
+    "de": "Am 12.03.2026 erhielt ich einen Brief von einem Inkassounternehmen"
   },
   {
-    "it": "Tu potresti ottenere molto di più se imparassi a collaborare.",
-    "de": "Du könntest viel mehr erreichen, wenn du lernen würdest zu kooperieren."
+    "it": "con termine di pagamento entro 15 giorni,",
+    "de": "mit einer Zahlungsfrist von 15 Tagen"
   },
   {
-    "it": "Lei ha dimostrato che i limiti esistono solo nella nostra mente.",
-    "de": "Sie hat bewiesen, dass Grenzen nur in unserem Geist existieren."
+    "it": "relativa alle fatture contestate.",
+    "de": "bezüglich der angefochtenen Rechnungen."
   },
   {
-    "it": "Lui parla poco, ma quando parla vale la pena ascoltarlo.",
-    "de": "Er redet wenig, aber wenn er redet, lohnt es sich zuzuhören."
+    "it": "A questo punto sono stato costretto ad aprire la segnalazione tramite conciliaweb,",
+    "de": "Zu diesem Zeitpunkt war ich gezwungen, eine Meldung über ConciliaWeb zu eröffnen,"
   },
   {
-    "it": "Io ho capito che non si può piacere a tutti e va bene così.",
-    "de": "Ich habe verstanden, dass man nicht allen gefallen kann und das in Ordnung ist."
+    "it": "e qualche giorno fa ho ricevuto una proposta di Tim dove scrivevano che la linea era cessata e che,",
+    "de": "und vor einigen Tagen erhielt ich einen Vorschlag von TIM, in dem sie schrieben, dass der Anschluss beendet worden sei und dass sie"
   },
   {
-    "it": "Tu sembri non renderti conto di quanto valore hai agli occhi degli altri.",
-    "de": "Du scheinst nicht zu merken, wie viel Wert du in den Augen anderer hast."
+    "it": "a titolo conciliativo,",
+    "de": "im Rahmen einer gütlichen Einigung"
   },
   {
-    "it": "Lei ha imparato a non lasciarsi definire dai fallimenti del passato.",
-    "de": "Sie hat gelernt, sich nicht von den Misserfolgen der Vergangenheit definieren zu lassen."
+    "it": "avrebbero stornato le fatture di settembre,",
+    "de": "die Rechnungen für September,"
   },
   {
-    "it": "Lui non riesce mai a fare pace con se stesso dopo un errore.",
-    "de": "Er kann sich nach einem Fehler nie mit sich selbst versöhnen."
+    "it": "ottobre e novembre,",
+    "de": "Oktober und November stornieren würden,"
   },
   {
-    "it": "Io non accetto che mi si chieda di scendere a compromessi sui miei principi.",
-    "de": "Ich akzeptiere nicht, dass man mich bittet, bei meinen Grundsätzen Kompromisse einzugehen."
+    "it": "lasciando a me da pagare solo 38,",
+    "de": "und mir lediglich 38,"
   },
   {
-    "it": "Tu hai una forza interiore che spesso non riconosci in te stesso.",
-    "de": "Du hast eine innere Stärke, die du in dir selbst oft nicht erkennst."
+    "it": "83€ per luglio e agosto.",
+    "de": "83 € für Juli und August zu zahlen blieben."
   },
   {
-    "it": "Lei si è liberata da aspettative che non erano mai state le sue.",
-    "de": "Sie hat sich von Erwartungen befreit, die nie die ihren gewesen waren."
+    "it": "Appena ho letto la proposta,",
+    "de": "Sobald ich den Vorschlag gelesen hatte,"
   },
   {
-    "it": "Lui affronta le critiche come se fossero attacchi personali da respingere.",
-    "de": "Er begegnet Kritik so, als wären es persönliche Angriffe, die abzuwehren sind."
+    "it": "mi sono reso conto di alcune incongruenze.",
+    "de": "stellte ich einige Ungereimtheiten fest."
   },
   {
-    "it": "Io so che certe conversazioni vanno affrontate anche quando fanno paura.",
-    "de": "Ich weiß, dass manche Gespräche geführt werden müssen, auch wenn sie Angst machen."
+    "it": "Prima di tutto,",
+    "de": "Zunächst einmal"
   },
   {
-    "it": "Tu non dovresti permettere che il passato condizioni il tuo futuro.",
-    "de": "Du solltest nicht zulassen, dass die Vergangenheit deine Zukunft bestimmt."
+    "it": "nella loro spiegazione parlano di un rimborso dei canoni di luglio dal 8 al 31 luglio,",
+    "de": "sprechen sie in ihrer Erklärung von einer Erstattung der Gebühren für Juli vom 8. bis 31. Juli,"
   },
   {
-    "it": "Lei ha trovato un equilibrio difficile tra ambizione e serenità.",
-    "de": "Sie hat eine schwierige Balance zwischen Ehrgeiz und Gelassenheit gefunden."
+    "it": "ma la portabilità a Iliad era avvenuta solo il 19 luglio (basandomi sulla prima fattura Iliad con il numero portato),",
+    "de": "aber die Portierung zu Iliad erfolgte erst am 19. Juli (basierend auf der ersten Iliad-Rechnung mit der portierten Nummer),"
   },
   {
-    "it": "Lui si lamenta continuamente ma non fa nulla per cambiare le cose.",
-    "de": "Er beklagt sich ständig, tut aber nichts, um die Dinge zu ändern."
+    "it": "quindi le date non combaciano.",
+    "de": "die Daten stimmen also nicht überein."
   },
   {
-    "it": "Io ho deciso di smettere di aspettare il momento perfetto per agire.",
-    "de": "Ich habe beschlossen, aufzuhören, auf den perfekten Moment zum Handeln zu warten."
+    "it": "In più la fattura di luglio è ancora di 30,",
+    "de": "Zudem beläuft sich die Juli-Rechnung noch immer auf 30,"
   },
   {
-    "it": "Tu hai il coraggio di stare dalla parte della verità anche quando costa.",
-    "de": "Du hast den Mut, auf der Seite der Wahrheit zu stehen, auch wenn es etwas kostet."
+    "it": "80€,",
+    "de": "80 €,"
   },
   {
-    "it": "Lei non si è mai lasciata intimorire da chi voleva sminuirla.",
-    "de": "Sie hat sich nie von denen einschüchtern lassen, die sie kleinmachen wollten."
+    "it": "e agosto non è un canone ma un costo di disattivazione che andrebbe verificato se è davvero dovuto.",
+    "de": "und bei August handelt es sich nicht um eine monatliche Gebühr, sondern um Deaktivierungskosten, deren Rechtmäßigkeit geprüft werden sollte."
   },
   {
-    "it": "Lui crede di poter controllare tutto, ma in realtà controlla ben poco.",
-    "de": "Er glaubt, alles kontrollieren zu können, aber in Wirklichkeit kontrolliert er sehr wenig."
+    "it": "Le fatture successive,",
+    "de": "Die Folgerechnungen,"
   },
   {
-    "it": "Io mi sono imposto di essere onesto anche quando fa male.",
-    "de": "Ich habe mir auferlegt, ehrlich zu sein, auch wenn es wehtut."
+    "it": "quelle di settembre,",
+    "de": "also die für September,"
   },
   {
-    "it": "Tu sembri sempre pronto ad aiutare, ma chi ti aiuta quando ne hai bisogno?",
-    "de": "Du scheinst immer bereit zu helfen, aber wer hilft dir, wenn du es brauchst?"
+    "it": "ottobre e novembre,",
+    "de": "Oktober und November,"
   },
   {
-    "it": "Lei ha imparato che chiedere scusa non è una forma di debolezza.",
-    "de": "Sie hat gelernt, dass um Entschuldigung zu bitten keine Schwäche ist."
+    "it": "invece erano già concordate per lo storno.",
+    "de": "waren dagegen bereits für die Stornierung vereinbart."
   },
   {
-    "it": "Lui non ha ancora capito che l'autenticità vale più della perfezione.",
-    "de": "Er hat noch nicht begriffen, dass Authentizität mehr wert ist als Perfektion."
+    "it": "Dopo aver analizzato tutto,",
+    "de": "Nachdem wir alles analysiert hatten,"
   },
   {
-    "it": "Io non posso ignorare ciò che la mia coscienza mi dice di fare.",
-    "de": "Ich kann nicht ignorieren, was mir mein Gewissen sagt zu tun."
+    "it": "abbiamo deciso di non accettare né rifiutare subito la proposta,",
+    "de": "haben wir beschlossen, den Vorschlag weder sofort anzunehmen noch abzulehnen,"
   },
   {
-    "it": "Tu dovresti smettere di confrontarti con gli altri e pensare a te stesso.",
-    "de": "Du solltest aufhören, dich mit anderen zu vergleichen, und an dich selbst denken."
+    "it": "perché rifiutando si chiuderebbe la trattativa e accettando rischiamo di pagare somme ingiustificate.",
+    "de": "denn durch eine Ablehnung würden die Verhandlungen scheitern, und durch eine Annahme riskieren wir, ungerechtfertigte Beträge zu zahlen."
   },
   {
-    "it": "Lei porta avanti i suoi valori con una coerenza che ispira ammirazione.",
-    "de": "Sie lebt ihre Werte mit einer Konsequenz, die Bewunderung einflößt."
+    "it": "L'idea è di portare la questione all'udienza online su ConciliaWeb,",
+    "de": "Die Idee ist, die Angelegenheit zur Online-Anhörung auf ConciliaWeb zu bringen,"
   },
   {
-    "it": "Lui non si accorge che il suo atteggiamento allontana le persone da lui.",
-    "de": "Er bemerkt nicht, dass seine Haltung die Menschen von ihm entfernt."
+    "it": "far notare la contraddizione tra le date e la fatturazione di luglio,",
+    "de": "den Widerspruch zwischen den Daten und der Juli-Rechnung hervorzuheben,"
   },
   {
-    "it": "Io ho capito che la gratitudine è una scelta, non un sentimento spontaneo.",
-    "de": "Ich habe verstanden, dass Dankbarkeit eine Entscheidung ist, kein spontanes Gefühl."
+    "it": "contestare l'eventuale costo di agosto,",
+    "de": "die etwaigen Augustkosten anzufechten"
   },
   {
-    "it": "Tu hai un potenziale enorme che stai scegliendo di non sfruttare.",
-    "de": "Du hast ein enormes Potenzial, das du beschlossen hast, nicht zu nutzen."
+    "it": "e cercare di ottenere lo storno totale oppure,",
+    "de": "und eine vollständige Stornierung zu erwirken oder,"
   },
   {
-    "it": "Lei riesce a trasformare le sue debolezze in punti di forza.",
-    "de": "Sie schafft es, ihre Schwächen in Stärken umzuwandeln."
+    "it": "al massimo,",
+    "de": "im schlimmsten Fall,"
   },
   {
-    "it": "Lui ha smesso di sognare nel momento in cui ne aveva più bisogno.",
-    "de": "Er hat aufgehört zu träumen, genau in dem Moment, in dem er es am meisten brauchte."
+    "it": "un importo minimo e coerente con i giorni effettivi.",
+    "de": "einen minimalen Betrag, der den tatsächlichen Nutzungstagen entspricht."
   },
   {
-    "it": "Io non sono disposto a rinunciare alla mia integrità per compiacere gli altri.",
-    "de": "Ich bin nicht bereit, meine Integrität aufzugeben, um anderen zu gefallen."
+    "it": "In pratica,",
+    "de": "Im Grunde"
   },
   {
-    "it": "Tu hai la capacità di ascoltare davvero, non solo di sentire.",
-    "de": "Du hast die Fähigkeit, wirklich zuzuhören, nicht nur zu hören."
+    "it": "vogliamo usare questa occasione per far emergere l'errore di TIM e chiudere senza pagare somme che non ci spettano.",
+    "de": "wollen wir diese Gelegenheit nutzen, um den Fehler von TIM ans Licht zu bringen und die Sache abzuschließen, ohne Beträge zu zahlen, die uns nicht zustehen."
   },
   {
-    "it": "Lei sa distinguere tra ciò che è urgente e ciò che è davvero importante.",
-    "de": "Sie kann unterscheiden zwischen dem, was dringend ist, und dem, was wirklich wichtig ist."
+    "it": "Ora che avete tutto il quadro della situazione,",
+    "de": "Nun, da ihr das gesamte Bild der Situation habt,"
   },
   {
-    "it": "Lui ha costruito la sua vita su basi che ora stanno cedendo.",
-    "de": "Er hat sein Leben auf Grundlagen gebaut, die nun nachgeben."
+    "it": "come gestirete la situazione?",
+    "de": "wie würdet ihr die Situation handhaben?"
   },
   {
-    "it": "Io mi sono reso conto che la felicità non è uno stato permanente.",
-    "de": "Ich habe erkannt, dass Glück kein dauerhafter Zustand ist."
+    "it": "vi sono capitati casi simili?",
+    "de": "Habt ihr ähnliche Fälle erlebt?"
   },
   {
-    "it": "Tu non dovresti lasciare che la paura del fallimento ti blocchi.",
-    "de": "Du solltest nicht zulassen, dass die Angst vor dem Scheitern dich blockiert."
+    "it": "come avete gestito la cosa?",
+    "de": "Wie habt ihr die Sache geregelt?"
   },
   {
     "it": "Lei ha capito che alcune relazioni ti arricchiscono e altre ti svuotano.",
