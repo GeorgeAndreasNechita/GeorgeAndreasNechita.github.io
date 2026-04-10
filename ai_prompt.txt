@@ -1,4 +1,4 @@
-Erstelle 150 Solche Einträge zum Thema Volleyball, C1-C2 Niveau. Sätze die ich sagen kann, während ich Volleyball spiele, zum meiner Mitspieler, aber nicht länger als 12 Wörter pro Satz:   {
-    "it": "Lei ha comprato un nuovo set di pennelli per il corso di pittura che frequenta.",
-    "de": "Sie hat ein neues Pinselset für den Malkurs gekauft, den sie besucht."
+Erstelle 200 Solche Einträge Die ich im Alltag nutzen kann, B2-C1 Niveau. Aber nicht länger als 10 Wörter pro Satz, und gib sie zurück als json:   {
+    "it": "Lei ha comprato un nuovo set di pennelli.",
+    "de": "Sie hat ein neues Pinselset für den Malkurs gekauft."
   },
