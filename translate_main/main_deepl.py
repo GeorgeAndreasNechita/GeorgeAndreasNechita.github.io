@@ -2,7 +2,8 @@ import json, deepl, re, os
 from dotenv import load_dotenv
 
 load_dotenv()
-
+import os
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
 
 def translate_and_save(text, json_file="result.json"):
