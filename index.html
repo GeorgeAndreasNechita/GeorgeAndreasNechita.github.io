@@ -181,6 +181,7 @@
       <button id="lang1-toggle" onclick="cycleLang1()" class="top-btn">DE: --</button>
       <button id="lang2-toggle" onclick="cycleLang2()" class="top-btn">EN: --</button>
       <button onclick="changeIndex()" class="top-btn">Change Index</button>
+      <button onclick="showVoices()" class="top-btn">Voices</button>
     </div>
 
     <div id="display-area">
@@ -370,6 +371,27 @@
       function incrementIndex() {
         localStorage.setItem("vocabulary_index", getCurrentIndex() + 1);
         renderData();
+      }
+
+      // Debug helper: shows exactly what voices iOS (or any browser) is
+      // reporting for German/English, so you can see on-device whether an
+      // Enhanced/Premium voice is actually installed, without needing a
+      // Mac + Safari remote inspector.
+      function showVoices() {
+        const voices = window.speechSynthesis.getVoices();
+        const relevant = voices.filter(v => v.lang.startsWith("de") || v.lang.startsWith("en"));
+
+        if (!relevant.length) {
+          alert("No voices reported yet (list may still be loading). Try again in a second, or reload the page.");
+          return;
+        }
+
+        const lines = relevant.map(v => {
+          const picked = getVoice(v.lang) === v ? " <-- PICKED" : "";
+          return `${v.name} | ${v.lang} | ${v.voiceURI}${picked}`;
+        });
+
+        alert(`Found ${relevant.length} DE/EN voice(s):\n\n` + lines.join("\n\n"));
       }
 
       function changeIndex() {
