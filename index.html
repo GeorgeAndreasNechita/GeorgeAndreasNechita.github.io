@@ -209,6 +209,24 @@
         lang2Repeat: parseInt(localStorage.getItem("lang2Repeat") || "1"),
       };
 
+      // Helper function to find voices properly on iOS and other browsers
+      function getVoice(lang) {
+        const voices = window.speechSynthesis.getVoices();
+        // Try exact match first (e.g., "de-DE")
+        let voice = voices.find(v => v.lang === lang);
+        if (!voice) {
+          // Fallback to language prefix match (e.g., "de")
+          const shortLang = lang.split('-')[0];
+          voice = voices.find(v => v.lang.startsWith(shortLang));
+        }
+        return voice;
+      }
+
+      // Preload voices for browsers that load them asynchronously (like Safari/Chrome)
+      if (typeof window.speechSynthesis !== 'undefined' && window.speechSynthesis.onvoiceschanged !== undefined) {
+        window.speechSynthesis.onvoiceschanged = () => { window.speechSynthesis.getVoices(); };
+      }
+
       async function loadTexts() {
         try {
           const url = "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json";
@@ -255,14 +273,20 @@
         const item = texts[getCurrentIndex()];
         if (!item) return;
         window.speechSynthesis.cancel();
+
         for (let i = 0; i < settings.lang1Repeat; i++) {
           const m = new SpeechSynthesisUtterance(item.lang1);
           m.lang = "de-DE";
+          const deVoice = getVoice("de-DE");
+          if (deVoice) m.voice = deVoice; // Explicitly assign voice for iOS support
           window.speechSynthesis.speak(m);
         }
+
         for (let i = 0; i < settings.lang2Repeat; i++) {
           const m = new SpeechSynthesisUtterance(item.lang2);
           m.lang = "en-US";
+          const enVoice = getVoice("en-US");
+          if (enVoice) m.voice = enVoice; // Explicitly assign voice for iOS support
           window.speechSynthesis.speak(m);
         }
       }
