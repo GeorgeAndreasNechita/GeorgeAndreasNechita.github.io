@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Vocabulary Trainer</title>
+    <style>
+      :root {
+        --bg-color: #121212;
+        --text-color: #e0e0e0;
+        --accent-color: #bb86fc;
+        --secondary-color: violet;
+        --button-bg: #1e1e1e;
+        --danger-color: #cf6679;
+
+        /* Level Colors */
+        --color-off: #444;
+        --color-1x: #4caf50;
+        --color-2x: #ffb74d;
+        --color-3x: #bb86fc;
+      }
+
+      * {
+        box-sizing: border-box;
+        -webkit-tap-highlight-color: transparent;
+      }
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        font-family: "Segoe UI", sans-serif;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        overflow: hidden;
+      }
+
+      /* Top Control Bar */
+      .top-controls {
+        position: fixed;
+        top: 10px;
+        left: 10px;
+        right: 10px;
+        display: flex;
+        gap: 8px;
+        z-index: 10;
+        justify-content: flex-end;
+      }
+
+      .top-btn {
+        padding: 8px 14px;
+        background: #1e1e1e;
+        color: #888;
+        border: 2px solid var(--color-off);
+        border-radius: 12px;
+        cursor: pointer;
+        font-size: 0.75rem;
+        font-weight: bold;
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        display: flex;
+        align-items: center;
+        gap: 5px;
+      }
+
+      /* Dynamic classes for repetitions */
+      .state-off {
+        border-color: var(--color-off);
+        color: #555;
+        opacity: 0.6;
+      }
+
+      .state-1x {
+        border-color: var(--color-1x);
+        color: var(--color-1x);
+        background: rgba(76, 175, 80, 0.1);
+      }
+
+      .state-2x {
+        border-color: var(--color-2x);
+        color: var(--color-2x);
+        background: rgba(255, 183, 77, 0.15);
+        box-shadow: 0 0 10px rgba(255, 183, 77, 0.1);
+      }
+
+      .state-3x {
+        border-color: var(--color-3x);
+        color: var(--color-3x);
+        background: rgba(187, 134, 252, 0.2);
+        box-shadow: 0 0 15px rgba(187, 134, 252, 0.3);
+        transform: scale(1.05);
+      }
+
+      /* Main Area */
+      #display-area {
+        height: 50vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        border-bottom: 2px solid #333;
+      }
+      #content-container {
+        margin: 12vh 10px 0;
+      }
+      .tr-lang1 {
+        color: var(--secondary-color);
+        font-size: 1.15rem;
+        font-weight: 600;
+        margin-bottom: 8px;
+      }
+      .tr-lang2 {
+        font-size: 1.15rem;
+        opacity: 0.7;
+        margin-bottom: 25px;
+      }
+
+      /* OPTIMIZED REPEAT BUTTON */
+      .repeat-btn {
+        padding: 40px 60px;
+        min-width: 200px;
+        width: 95%;
+        background: rgba(187, 134, 252, 0.05);
+        border: 2px solid var(--accent-color);
+        color: var(--accent-color);
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+        font-size: 1.1rem;
+        transition: transform 0.1s ease, background 0.2s;
+        touch-action: manipulation;
+      }
+      
+      .repeat-btn:active {
+        transform: scale(0.92);
+        background: rgba(187, 134, 252, 0.2);
+      }
+
+      #button-area {
+        height: 50vh;
+        width: 100%;
+      }
+
+      /* OPTIMIZED NEXT BUTTON */
+      .next-btn {
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to bottom, #1e1e1e, #181818);
+        color: var(--accent-color);
+        border: none;
+        font-size: 4.5rem;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transition: background 0.1s, transform 0.1s;
+        touch-action: manipulation;
+      }
+
+      .next-btn:active {
+        background: #252525;
+        transform: scale(0.98);
+      }
+
+      .next-btn:disabled {
+        opacity: 0.3;
+        filter: grayscale(1);
+      }
+
+      .counter {
+        font-size: 1rem;
+        color: #666;
+        margin-top: 15px;
+        letter-spacing: 2px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="top-controls">
+      <button id="lang1-toggle" onclick="cycleLang1()" class="top-btn">DE: --</button>
+      <button id="lang2-toggle" onclick="cycleLang2()" class="top-btn">EN: --</button>
+      <button onclick="changeIndex()" class="top-btn">Change Index</button>
+    </div>
+
+    <div id="display-area">
+      <div id="content-container">Loading...</div>
+      <button
+        id="repeat-btn-el"
+        class="repeat-btn"
+        onclick="speakCurrent()"
+        style="display: none"
+      >
+        Repeat ↻
+      </button>
+    </div>
+
+    <div id="button-area">
+      <button class="next-btn" onclick="incrementIndex()" disabled>
+        NEXT
+        <div id="counter-display" class="counter"></div>
+      </button>
+    </div>
+
+    <script>
+      let texts = [];
+      let settings = {
+        lang1Repeat: parseInt(localStorage.getItem("lang1Repeat") || "1"),
+        lang2Repeat: parseInt(localStorage.getItem("lang2Repeat") || "1"),
+      };
+
+      async function loadTexts() {
+        try {
+          const url = "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json";
+          const cacheBuster = `?t=${Date.now()}`;
+          const res = await fetch(url + cacheBuster);
+          if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+          texts = await res.json();
+          updateButtonsUI();
+          renderData();
+        } catch (e) {
+          console.error("Error loading JSON:", e);
+        }
+      }
+
+      function cycleLang1() {
+        settings.lang1Repeat = (settings.lang1Repeat + 1) % 4;
+        save();
+        updateButtonsUI();
+      }
+
+      function cycleLang2() {
+        settings.lang2Repeat = (settings.lang2Repeat + 1) % 2;
+        save();
+        updateButtonsUI();
+      }
+
+      function save() {
+        localStorage.setItem("lang1Repeat", settings.lang1Repeat);
+        localStorage.setItem("lang2Repeat", settings.lang2Repeat);
+      }
+
+      function updateButtonsUI() {
+        const lang1Btn = document.getElementById("lang1-toggle");
+        const lang2Btn = document.getElementById("lang2-toggle");
+        
+        lang1Btn.innerHTML = `🇩🇪 DE: ${settings.lang1Repeat === 0 ? "OFF" : settings.lang1Repeat + "x"}`;
+        lang1Btn.className = "top-btn " + (settings.lang1Repeat === 0 ? "state-off" : "state-" + settings.lang1Repeat + "x");
+        
+        lang2Btn.innerHTML = `🇬🇧 EN: ${settings.lang2Repeat === 0 ? "OFF" : "1x"}`;
+        lang2Btn.className = "top-btn " + (settings.lang2Repeat === 0 ? "state-off" : "state-1x");
+      }
+
+      function speakCurrent() {
+        const item = texts[getCurrentIndex()];
+        if (!item) return;
+        window.speechSynthesis.cancel();
+        for (let i = 0; i < settings.lang1Repeat; i++) {
+          const m = new SpeechSynthesisUtterance(item.lang1);
+          m.lang = "de-DE";
+          window.speechSynthesis.speak(m);
+        }
+        for (let i = 0; i < settings.lang2Repeat; i++) {
+          const m = new SpeechSynthesisUtterance(item.lang2);
+          m.lang = "en-US";
+          window.speechSynthesis.speak(m);
+        }
+      }
+
+      function getCurrentIndex() {
+        return parseInt(localStorage.getItem("vocabulary_index") || "0");
+      }
+
+      function renderData() {
+        const idx = getCurrentIndex();
+        const container = document.getElementById("content-container");
+        const nextBtn = document.querySelector(".next-btn");
+        if (idx >= texts.length) {
+          container.innerHTML = "End!";
+          nextBtn.disabled = true;
+          return;
+        }
+        
+        const item = texts[idx];
+        const lang1Text = item.lang1 !== undefined ? item.lang1 : (item.de !== undefined ? item.de : item.it);
+        const lang2Text = item.lang2 !== undefined ? item.lang2 : (item.en !== undefined ? item.en : item.it);
+
+        container.innerHTML = `<div class="tr-lang1">${lang1Text}</div><div class="tr-lang2">${lang2Text}</div>`;
+        document.getElementById("repeat-btn-el").style.display = "inline-block";
+        document.getElementById("counter-display").innerHTML = `${idx + 1} of ${texts.length}`;
+        nextBtn.disabled = false;
+        speakCurrent();
+      }
+
+      function incrementIndex() {
+        localStorage.setItem("vocabulary_index", getCurrentIndex() + 1);
+        renderData();
+      }
+
+      function changeIndex() {
+        const val = prompt(`Enter index (1 - ${texts.length}):`, getCurrentIndex() + 1);
+        if (val !== null) {
+          const newIdx = parseInt(val) - 1;
+          if (!isNaN(newIdx) && newIdx >= 0 && newIdx < texts.length) {
+            localStorage.setItem("vocabulary_index", newIdx);
+            renderData();
+          } else {
+            alert("Invalid index!");
+          }
+        }
+      }
+      loadTexts();
+    </script>
+  </body>
+</html>

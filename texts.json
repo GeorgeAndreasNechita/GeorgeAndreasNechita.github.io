@@ -1,1727 +1,834 @@
 [
   {
-    "it": "bisogna fare anche un discorso di convenienza.",
-    "de": "muss man auch einen Diskurs der Bequemlichkeit führen."
+    "lang1": "muss man auch einen Diskurs der Bequemlichkeit führen.",
+    "lang2": "one must also talk about convenience."
   },
   {
-    "it": "Voglio dire,",
-    "de": "Ich meine,"
+    "lang1": "Ich meine,",
+    "lang2": "I mean,"
   },
   {
-    "it": "qual è la convenienza di un povero,",
-    "de": "was die Bequemlichkeit eines armen Mannes ist,"
+    "lang1": "was die Bequemlichkeit eines armen Mannes ist,",
+    "lang2": "what is the convenience of a poor person,"
   },
   {
-    "it": "o magari di un lavoratore appartenente alla classe bassa o medio-bassa,",
-    "de": "oder vielleicht ein Arbeitnehmer aus der unteren oder unteren Mittelschicht,"
+    "lang1": "oder vielleicht ein Arbeitnehmer aus der unteren oder unteren Mittelschicht,",
+    "lang2": "or perhaps a worker belonging to the lower or lower-middle class,"
   },
   {
-    "it": "nel votare la destra?",
-    "de": "für das Recht zu stimmen?"
+    "lang1": "für das Recht zu stimmen?",
+    "lang2": "in voting for the right?"
   },
   {
-    "it": "Posso capirti se voti la Meloni e vivi a Milano o magari se sei un piccolo datore di lavoro,",
-    "de": "Ich kann verstehen, wenn Sie für Meloni stimmen und in Mailand leben oder vielleicht ein kleiner Arbeitgeber sind,"
+    "lang1": "Ich kann verstehen, wenn Sie für Meloni stimmen und in Mailand leben oder vielleicht ein kleiner Arbeitgeber sind,",
+    "lang2": "I can understand you if you vote for Meloni and live in Milan or maybe if you're a small employer,"
   },
   {
-    "it": "o anche se fai parte della classe medio-alta.",
-    "de": "oder auch wenn Sie zur oberen Mittelschicht gehören."
+    "lang1": "oder auch wenn Sie zur oberen Mittelschicht gehören.",
+    "lang2": "or even if you belong to the upper-middle class."
   },
   {
-    "it": "Però seriamente,",
-    "de": "Aber im Ernst,"
+    "lang1": "Aber im Ernst,",
+    "lang2": "But seriously,"
   },
   {
-    "it": "se sei del Sud o magari sei un dipendente comune ( non che ci sia nulla di male,",
-    "de": "wenn Sie aus dem Süden kommen oder vielleicht ein gewöhnlicher Angestellter sind (nicht, dass daran etwas auszusetzen wäre),"
+    "lang1": "wenn Sie aus dem Süden kommen oder vielleicht ein gewöhnlicher Angestellter sind (nicht, dass daran etwas auszusetzen wäre),",
+    "lang2": "if you're from the South or maybe an ordinary employee (not that there's anything wrong with that,"
   },
   {
-    "it": "lo sono pure io ),",
-    "de": "ich auch),"
+    "lang1": "ich auch),",
+    "lang2": "I am too),"
   },
   {
-    "it": "perché andare a votare quelli che vorrebbero privatizzare tutto,",
-    "de": "warum sollte man für diejenigen stimmen, die alles privatisieren wollen,"
+    "lang1": "warum sollte man für diejenigen stimmen, die alles privatisieren wollen,",
+    "lang2": "why vote for those who would like to privatize everything,"
   },
   {
-    "it": "ridurre il welfare,",
-    "de": "den Wohlstand zu verringern,"
+    "lang1": "den Wohlstand zu verringern,",
+    "lang2": "reduce welfare,"
   },
   {
-    "it": "tagliare a tutto spiano e così via?",
-    "de": "ganz durchschneiden und so weiter?"
+    "lang1": "ganz durchschneiden und so weiter?",
+    "lang2": "make deep cuts across the board and so on?"
   },
   {
-    "it": "Perché la sinistra di oggi è elitista e si pone come alfiere di battaglie morali di cui a nessuno frega assolutamente niente,",
-    "de": "Weil die heutige Linke elitär ist und sich als Bannerträgerin für moralische Kämpfe aufspielt, um die sich niemand schert,"
+    "lang1": "Weil die heutige Linke elitär ist und sich als Bannerträgerin für moralische Kämpfe aufspielt, um die sich niemand schert,",
+    "lang2": "Because today's left is elitist and poses as a standard-bearer for moral battles that absolutely no one cares about,"
   },
   {
-    "it": "così facendo regala milioni di voti a una destra magari incompetente o in mala fede ma che almeno riconosce l'esistenza di un problema che è davanti agli occhi di tutti (e di cui la sinistra o nega l'esistenza o si propone di lavorare attivamente per peggiorarlo)Perché non se ne parla come \"anche loro hanno diritti e non siamo nessuno per impedirlo\" stimolando un dibattito mentre comunque si procede con il resto delle manovre sugli altri problemi,",
-    "de": "Damit geben sie Millionen von Stimmen an eine rechte Partei, die vielleicht inkompetent oder schlechtgläubig ist, die aber zumindest die Existenz eines Problems anerkennt, das für alle sichtbar ist (und das die Linke entweder leugnet oder aktiv verschlimmert),"
+    "lang1": "Damit geben sie Millionen von Stimmen an eine rechte Partei, die vielleicht inkompetent oder schlechtgläubig ist, die aber zumindest die Existenz eines Problems anerkennt, das für alle sichtbar ist (und das die Linke entweder leugnet oder aktiv verschlimmert)",
+    "lang2": "by doing so, it hands millions of votes to a right that may be incompetent or acting in bad faith, but at least recognizes the existence of a problem that is right in front of everyone's eyes (and which the left either denies or actively works to worsen)"
   },
   {
-    "it": "ma come \"questi sono gli unici problemi,",
-    "de": "sondern als 'das sind die einzigen Probleme,"
+    "lang1": "sondern als 'das sind die einzigen Probleme,",
+    "lang2": "but as 'these are the only problems,"
   },
   {
-    "it": "gli altri ve li state inventando,",
-    "de": "die anderen, die Sie sich ausdenken,"
+    "lang1": "die anderen, die Sie sich ausdenken,",
+    "lang2": "you are making up the others,"
   },
   {
-    "it": "se voi non siete a favore siete solo dei retrogradi ignoranti fascisti omofobi\" al che il vulgus risponde \"sai che c'è?",
-    "de": "Wenn Sie nicht dafür sind, sind Sie nur ignorante, homophobe, faschistische Rückschrittler\", worauf der Vulgus antwortet: \"Wissen Sie was?"
+    "lang1": "Wenn Sie nicht dafür sind, sind Sie nur ignorante, homophobe, faschistische Rückschrittler\", worauf der Vulgus antwortet: \"Wissen Sie was?",
+    "lang2": "if you are not in favor you are just retrograde, ignorant, fascist, homophobic\" to which the common people reply \"you know what?"
   },
   {
-    "it": "Vattene a fanculo\".",
-    "de": "Verpiss dich."
+    "lang1": "Verpiss dich.",
+    "lang2": "Go fuck yourself\"."
   },
   {
-    "it": "Riformulato in maniera più forbita e civile,",
-    "de": "Umformuliert in einer höflicheren und zivilisierteren Weise,"
+    "lang1": "Umformuliert in einer höflicheren und zivilisierteren Weise,",
+    "lang2": "Reformulated in a more polite and civil manner,"
   },
   {
-    "it": "ci si impunta perché gli altri temi vengono puntualmente sminuiti e minimizzati,",
-    "de": "Wir bleiben hängen, weil andere Themen pünktlich heruntergespielt und verharmlost werden,"
+    "lang1": "Wir bleiben hängen, weil andere Themen pünktlich heruntergespielt und verharmlost werden,",
+    "lang2": "people dig their heels in because other topics are punctually downplayed and minimized,"
   },
   {
-    "it": "mantenendo l'attenzione solo su temi che,",
-    "de": "den Fokus nur auf Themen zu legen, die,"
+    "lang1": "den Fokus nur auf Themen zu legen, die,",
+    "lang2": "keeping the focus only on topics that,"
   },
   {
-    "it": "per quanto importanti,",
-    "de": "wie wichtig auch immer,"
+    "lang1": "wie wichtig auch immer,",
+    "lang2": "however important,"
   },
   {
-    "it": "riguardano una parte molto ridotta della popolazione e,",
-    "de": "einen sehr kleinen Teil der Bevölkerung betreffen und,"
+    "lang1": "einen sehr kleinen Teil der Bevölkerung betreffen und,",
+    "lang2": "affect a very small part of the population and,"
   },
   {
-    "it": "chi solleva obiezioni in merito,",
-    "de": "der dagegen Einwände erhebt,"
+    "lang1": "der dagegen Einwände erhebt,",
+    "lang2": "whoever raises objections about it,"
   },
   {
-    "it": "viene tacciato con i peggio epiteti.",
-    "de": "wird mit den schlimmsten Epitheta gebrandmarkt."
+    "lang1": "wird mit den schlimmsten Epitheta gebrandmarkt.",
+    "lang2": "is branded with the worst epithets."
   },
   {
-    "it": "Non è uno stipendio da benestante,",
-    "de": "Es handelt sich nicht um ein gutes Gehalt,"
+    "lang1": "Es handelt sich nicht um ein gutes Gehalt,",
+    "lang2": "It's not a wealthy person's salary,"
   },
   {
-    "it": "ma sicuramente non ci fai la fame.",
-    "de": "aber Sie lassen uns sicher nicht verhungern."
+    "lang1": "aber Sie lassen uns sicher nicht verhungern.",
+    "lang2": "but you certainly won't starve on it."
   },
   {
-    "it": "Un bilocale nella città in cui vivo (300k abitanti in veneto) costa più o meno intorno ai 600/700€ in affitto,",
-    "de": "Eine Zweizimmerwohnung in der Stadt, in der ich lebe (300 000 Einwohner in Venetien), kostet mehr oder weniger 600/700 € Miete,"
+    "lang1": "Eine Zweizimmerwohnung in der Stadt, in der ich lebe (300 000 Einwohner in Venetien), kostet mehr oder weniger 600/700 € Miete,",
+    "lang2": "A two-room apartment in the city where I live (300k inhabitants in Veneto) costs more or less around 600/700€ in rent,"
   },
   {
-    "it": "aggiungi le bollette e sono 200€ al mese (stando larghi),",
-    "de": "Rechnet man die Nebenkosten hinzu, kommt man auf 200 € pro Monat (wenn man breit ist),"
+    "lang1": "Rechnet man die Nebenkosten hinzu, kommt man auf 200 € pro Monat (wenn man breit ist),",
+    "lang2": "add bills and it's 200€ a month (being generous),"
   },
   {
-    "it": "la spesa 200€,",
-    "de": "Ausgaben 200€,"
+    "lang1": "Ausgaben 200€,",
+    "lang2": "groceries 200€,"
   },
   {
-    "it": "il carburante 200€.",
-    "de": "Kraftstoff 200€."
+    "lang1": "Kraftstoff 200€.",
+    "lang2": "fuel 200€."
   },
   {
-    "it": "Si hanno ancora 900€ da spendere spese straordinarie,",
-    "de": "Man hat noch 900 Euro für außerordentliche Ausgaben übrig,"
+    "lang1": "Man hat noch 900 Euro für außerordentliche Ausgaben übrig,",
+    "lang2": "You still have 900€ to spend on extraordinary expenses,"
   },
   {
-    "it": "passioni o risparmio/investimenti.",
-    "de": "Leidenschaften oder Ersparnisse/Investitionen."
+    "lang1": "Leidenschaften oder Ersparnisse/Investitionen.",
+    "lang2": "passions or savings/investments."
   },
   {
-    "it": "Scusate ho sbagliato a fare il calcolo 😅 alla fine avanzano 700€ che comunque non mi sembrano pochi.",
-    "de": "Tut mir leid, ich habe mich verrechnet 😅 am Ende bleiben 700 € übrig, was mir immer noch nicht viel erscheint."
+    "lang1": "Tut mir leid, ich habe mich verrechnet 😅 am Ende bleiben 700 € übrig, was mir immer noch nicht viel erscheint.",
+    "lang2": "Sorry I messed up the calculation 😅 in the end 700€ are left over which still doesn't seem like little to me."
   },
   {
-    "it": "Dipende sempre da dove vivi !",
-    "de": "Das hängt immer davon ab, wo Sie wohnen!"
+    "lang1": "Das hängt immer davon ab, wo Sie wohnen!",
+    "lang2": "It always depends on where you live!"
   },
   {
-    "it": "Qui in Puglia con 2k al mese netti fai il signore .",
-    "de": "Hier in Apulien ist man mit 2k im Monat netto ein Gentleman."
+    "lang1": "Hier in Apulien ist man mit 2k im Monat netto ein Gentleman.",
+    "lang2": "Here in Puglia with 2k net a month you live like a lord."
   },
   {
-    "it": "Io in Puglia pago 400 euro al mese di affitto ,",
-    "de": "In Apulien zahle ich 400 Euro im Monat an Miete,"
+    "lang1": "In Apulien zahle ich 400 Euro im Monat an Miete,",
+    "lang2": "I pay 400 euros a month in rent in Puglia,"
   },
   {
-    "it": "bilocale .",
-    "de": "Zwei-Zimmer-Wohnung ."
+    "lang1": "Zwei-Zimmer-Wohnung .",
+    "lang2": "two-room apartment."
   },
   {
-    "it": "Guadagno 1.",
-    "de": "Verstärkung 1."
+    "lang1": "Verstärkung 1.",
+    "lang2": "I earn 1."
   },
   {
-    "it": "800 al mese e mi tolgo tutti gli sfizi che voglio .",
-    "de": "800 pro Monat und ich bekomme alle Leckereien, die ich will."
+    "lang1": "800 pro Monat und ich bekomme alle Leckereien, die ich will.",
+    "lang2": "800 a month and I treat myself to whatever I want."
   },
   {
-    "it": "A Bari con 400€ prendi la stanza (forse) Ma anche a lecce.",
-    "de": "In Bari bekommt man mit 400€ das Zimmer (vielleicht) Aber auch in Lecce."
+    "lang1": "In Bari bekommt man mit 400€ das Zimmer (vielleicht) Aber auch in Lecce.",
+    "lang2": "In Bari with 400€ you get a room (maybe) But also in Lecce."
   },
   {
-    "it": "Un bilocale decente a meno di 600€ non credo che si trovi Idem,",
-    "de": "Eine anständige Zwei-Zimmer-Wohnung für weniger als 600 € findet man meiner Meinung nach auch nicht,"
+    "lang1": "Eine anständige Zwei-Zimmer-Wohnung für weniger als 600 € findet man meiner Meinung nach auch nicht,",
+    "lang2": "I don't think you can find a decent two-room apartment for less than 600€, ditto,"
   },
   {
-    "it": "sono a Lecce e con circa €2300-€2500 al mese non mi manca nulla.",
-    "de": "Ich bin in Lecce und mit rund 2300 bis 2500 Euro im Monat fehlt es mir an nichts."
+    "lang1": "Ich bin in Lecce und mit rund 2300 bis 2500 Euro im Monat fehlt es mir an nichts.",
+    "lang2": "I'm in Lecce and with about €2300-€2500 a month I don't lack anything."
   },
   {
-    "it": "Sicuramente le opinioni di cui parla OP si riferiscono però a zone in cui il costo medio della vita potrebbe essere significativamente più alto E' gente che vive a milano in una stanza condivisa e/o vogliono vivere come se fossero su IG Ah beh,",
-    "de": "Sicherlich beziehen sich die Meinungen, von denen OP spricht, jedoch auf Gegenden, in denen die durchschnittlichen Lebenshaltungskosten deutlich höher sein könnten,"
+    "lang1": "Sicherlich beziehen sich die Meinungen, von denen OP spricht, jedoch auf Gegenden, in denen die durchschnittlichen Lebenshaltungskosten deutlich höher sein könnten,",
+    "lang2": "Surely the opinions OP talks about refer to areas where the average cost of living might be significantly higher. These are people living in Milan in a shared room and/or want to live as if they were on IG. Ah well,"
   },
   {
-    "it": "se la metti sul piano che non siamo ancora abbastanza poveri da arrabbiarci davvero ti do ragione Infatti,",
-    "de": "Wenn Sie sagen, dass wir noch nicht arm genug sind, um wirklich wütend zu werden, stimme ich Ihnen in der Tat zu,"
+    "lang1": "Wenn Sie sagen, dass wir noch nicht arm genug sind, um wirklich wütend zu werden, stimme ich Ihnen in der Tat zu,",
+    "lang2": "if you put it on the terms that we are not yet poor enough to get truly angry I agree with you. In fact,"
   },
   {
-    "it": "cose mai viste nelle grandi città.",
-    "de": "Dinge, die man in Großstädten nie sieht."
+    "lang1": "Dinge, die man in Großstädten nie sieht.",
+    "lang2": "things never seen in big cities."
   },
   {
-    "it": "Londra,",
-    "de": "London,"
+    "lang1": "London,",
+    "lang2": "London,"
   },
   {
-    "it": "Parigi,",
-    "de": "Paris,"
+    "lang1": "Paris,",
+    "lang2": "Paris,"
   },
   {
-    "it": "NY,",
-    "de": "NY,"
+    "lang1": "NY,",
+    "lang2": "NY,"
   },
   {
-    "it": "sono piene di appartamenti giganti abitati da una sola persona!",
-    "de": "sind voll von riesigen Wohnungen, die von einer einzigen Person bewohnt werden!"
+    "lang1": "sind voll von riesigen Wohnungen, die von einer einzigen Person bewohnt werden!",
+    "lang2": "are full of giant apartments inhabited by a single person!"
   },
   {
-    "it": "In alcuni casi,",
-    "de": "In einigen Fällen,"
+    "lang1": "In einigen Fällen,",
+    "lang2": "In some cases,"
   },
   {
-    "it": "tipo il mio,",
-    "de": "wie meine,"
+    "lang1": "wie meine,",
+    "lang2": "like mine,"
   },
   {
-    "it": "è una scelta.",
-    "de": "ist eine Wahl."
+    "lang1": "ist eine Wahl.",
+    "lang2": "it's a choice."
   },
   {
-    "it": "Se mi trasferisco in un posto nuovo e non conosco nessuno,",
-    "de": "Wenn ich an einen neuen Ort ziehe und niemanden kenne,"
+    "lang1": "Wenn ich an einen neuen Ort ziehe und niemanden kenne,",
+    "lang2": "If I move to a new place and don't know anyone,"
   },
   {
-    "it": "almeno facendo così non mi sento isolato.",
-    "de": "So fühle ich mich zumindest nicht isoliert."
+    "lang1": "So fühle ich mich zumindest nicht isoliert.",
+    "lang2": "at least by doing this I don't feel isolated."
   },
   {
-    "it": "Poi vabbè,",
-    "de": "Dann eben nicht,"
+    "lang1": "Dann eben nicht,",
+    "lang2": "Then oh well,"
   },
   {
-    "it": "risparmiare €500 al mese pure non mi dispiace affatto.",
-    "de": "500 € pro Monat zu sparen, macht mir überhaupt nichts aus."
+    "lang1": "500 € pro Monat zu sparen, macht mir überhaupt nichts aus.",
+    "lang2": "saving €500 a month doesn't bother me at all either."
   },
   {
-    "it": "Però 2k statisticamente non te li danno nel mezzo della campagna calabrese,",
-    "de": "Aber 2k gibt es statistisch gesehen nicht inmitten der kalabrischen Landschaft,"
+    "lang1": "Aber 2k gibt es statistisch gesehen nicht inmitten der kalabrischen Landschaft,",
+    "lang2": "But statistically, 2k are not given to you in the middle of the Calabrian countryside,"
   },
   {
-    "it": "ma nella grandi città dipende dal lavoro,",
-    "de": "aber in großen Städten hängt es von der Arbeit ab,"
+    "lang1": "aber in großen Städten hängt es von der Arbeit ab,",
+    "lang2": "but in big cities it depends on the job,"
   },
   {
-    "it": "ma ci son grandi citta e grandi città.",
-    "de": "aber es gibt große Städte und große Städte."
+    "lang1": "aber es gibt große Städte und große Städte.",
+    "lang2": "but there are big cities and big cities."
   },
   {
-    "it": "Il problema è che se poi paghi 1000 euro di stanza.",
-    "de": "Das Problem ist, wenn Sie dann 1.000 Euro für das Zimmer bezahlen."
+    "lang1": "Das Problem ist, wenn Sie dann 1.000 Euro für das Zimmer bezahlen.",
+    "lang2": "The problem is if you then pay 1000 euros for a room."
   },
   {
-    "it": "O peggio ancora gente di 30+ anni,",
-    "de": "Oder noch schlimmer: Menschen, die über 30 Jahre alt sind,"
+    "lang1": "Oder noch schlimmer: Menschen, die über 30 Jahre alt sind,",
+    "lang2": "Or even worse, people 30+ years old,"
   },
   {
-    "it": "inoccupata e che vive nella cameretta della casa dei genitori  Non credere a nulla di ciò che vedi su reddit e a meno di un terzo di ciò che leggi (semicit.",
-    "de": "arbeitslos und lebt in einem kleinen Zimmer im Haus seiner Eltern. Glaube nichts, was du auf reddit siehst und weniger als ein Drittel von dem, was du liest (semicit."
+    "lang1": "arbeitslos und lebt in einem kleinen Zimmer im Haus seiner Eltern. Glaube nichts, was du auf reddit siehst und weniger als ein Drittel von dem, was du liest (semicit.",
+    "lang2": "unemployed and living in their parents' small bedroom. Believe nothing of what you see on reddit and less than a third of what you read (semicit."
   },
   {
-    "it": "Di un utente su un altro thread) La gente a Milano non ci va sempre perché vuole eh.",
-    "de": "Von einem Benutzer in einem anderen Thread) Die Leute gehen nicht immer nach Mailand, weil sie es eh wollen."
+    "lang1": "Von einem Benutzer in einem anderen Thread) Die Leute gehen nicht immer nach Mailand, weil sie es eh wollen.",
+    "lang2": "From a user on another thread) People don't always go to Milan because they want to, huh."
   },
   {
-    "it": "E si per milano non sono un cazzo 2k 200€ di spesa al mese?",
-    "de": "Und ja, für Mailand sind es keine verdammten 2k 200€ im Monat?"
+    "lang1": "Und ja, für Mailand sind es keine verdammten 2k 200€ im Monat?",
+    "lang2": "And yes, for Milan 2k is not a fucking thing. 200€ for groceries a month?"
   },
   {
-    "it": "in quale universo?",
-    "de": "in welchem Universum?"
+    "lang1": "in welchem Universum?",
+    "lang2": "in what universe?"
   },
   {
-    "it": "stavo proprio per scriverlo;",
-    "de": "Das wollte ich gerade schreiben;"
+    "lang1": "Das wollte ich gerade schreiben;",
+    "lang2": "I was just about to write it;"
   },
   {
-    "it": "anche ipotizzando di fare la spesa solo al Lidl o discount vari non é verosimile prevedere solo 200€ di spesa.",
-    "de": "Selbst wenn wir davon ausgehen, dass wir nur bei Lidl oder verschiedenen Discountern einkaufen, ist es unwahrscheinlich, dass wir nur 200 Euro ausgeben."
+    "lang1": "Selbst wenn wir davon ausgehen, dass wir nur bei Lidl oder verschiedenen Discountern einkaufen, ist es unwahrscheinlich, dass wir nur 200 Euro ausgeben.",
+    "lang2": "even assuming you shop only at Lidl or various discounters it is not plausible to expect only 200€ for groceries."
   },
   {
-    "it": "La cosa grave é che sono in tanti a dirlo,",
-    "de": "Das Schlimme daran ist, dass es so viele sagen,"
+    "lang1": "Das Schlimme daran ist, dass es so viele sagen,",
+    "lang2": "The serious thing is that many say it,"
   },
   {
-    "it": "quindi i casi sono due:",
-    "de": "Es gibt also zwei Fälle:"
+    "lang1": "Es gibt also zwei Fälle:",
+    "lang2": "so there are two cases:"
   },
   {
-    "it": "vivono a casa dei genitori e non hanno mai comprato manco il detersivo in vita loro sono abituati a mangiare pasta a pranzo e cena.",
-    "de": "Sie leben zu Hause bei ihren Eltern und haben in ihrem Leben noch nie Waschpulver gekauft. Sie sind es gewohnt, mittags und abends Nudeln zu essen."
+    "lang1": "Sie leben zu Hause bei ihren Eltern und haben in ihrem Leben noch nie Waschpulver gekauft. Sie sind es gewohnt, mittags und abends Nudeln zu essen.",
+    "lang2": "they live at their parents' house and have never even bought detergent in their lives, or they are used to eating pasta for lunch and dinner."
   },
   {
-    "it": "Non so quale delle due sia più deleteria sul lungo periodo.",
-    "de": "Ich weiß nicht, was auf lange Sicht schädlicher ist."
+    "lang1": "Ich weiß nicht, was auf lange Sicht schädlicher ist.",
+    "lang2": "I don't know which of the two is more deleterious in the long run."
   },
   {
-    "it": "Secondo me é tutta gente abituata a vedere lo shampoo,",
-    "de": "Ich glaube, das sind alles Leute, die es gewohnt sind, Shampoo zu sehen,"
+    "lang1": "Ich glaube, das sind alles Leute, die es gewohnt sind, Shampoo zu sehen,",
+    "lang2": "In my opinion these are all people used to seeing shampoo,"
   },
   {
-    "it": "la verdura,",
-    "de": "Gemüse,"
+    "lang1": "Gemüse,",
+    "lang2": "vegetables,"
   },
   {
-    "it": "l’olio e simili materializzarsi in casa loro Io con 200€ di spesa ci campo tranquillamente e variando la dieta,",
-    "de": "Öl und dergleichen in ihren Häusern vorkommen, kann ich davon mit 200 € leben und meine Ernährung variieren,"
+    "lang1": "Öl und dergleichen in ihren Häusern vorkommen, kann ich davon mit 200 € leben und meine Ernährung variieren,",
+    "lang2": "oil and the like materialize in their homes. I comfortably live on 200€ of groceries while varying my diet,"
   },
   {
-    "it": "pianificare i pasti della settimana aiuta moltissimo a risparmiare.",
-    "de": "Die Planung der wöchentlichen Mahlzeiten hilft sehr, Geld zu sparen."
+    "lang1": "Die Planung der wöchentlichen Mahlzeiten hilft sehr, Geld zu sparen.",
+    "lang2": "planning the week's meals helps a lot to save."
   },
   {
-    "it": "Mia esperienza:",
-    "de": "Meine Erfahrung:"
+    "lang1": "Meine Erfahrung:",
+    "lang2": "My experience:"
   },
   {
-    "it": "Fino a qualche anno fa guadagnavo 1200 netti,",
-    "de": "Bis vor ein paar Jahren habe ich 1200 netto verdient,"
+    "lang1": "Bis vor ein paar Jahren habe ich 1200 netto verdient,",
+    "lang2": "Until a few years ago I earned 1200 net,"
   },
   {
-    "it": "arrivavo giusto giusto a fine mese Oggi ne guadagno 2100 netti,",
-    "de": "Früher kam ich nur am Ende des Monats an, heute verdiene ich 2100 netto,"
+    "lang1": "Früher kam ich nur am Ende des Monats an, heute verdiene ich 2100 netto,",
+    "lang2": "I just barely made it to the end of the month. Today I earn 2100 net,"
   },
   {
-    "it": "arrivo giusto giusto a fine mese Non so esattamente come sia possibile,",
-    "de": "Ich komme erst am Ende des Monats an, ich weiß nicht genau, wie das möglich ist,"
+    "lang1": "Ich komme erst am Ende des Monats an, ich weiß nicht genau, wie das möglich ist,",
+    "lang2": "I just barely make it to the end of the month. I don't know exactly how it's possible,"
   },
   {
-    "it": "ma quest'è Si,",
-    "de": "aber das ist Si,"
+    "lang1": "aber das ist Si,",
+    "lang2": "but that's how it is. Yes,"
   },
   {
-    "it": "era un'esagerazione,",
-    "de": "war eine Übertreibung,"
+    "lang1": "war eine Übertreibung,",
+    "lang2": "it was an exaggeration,"
   },
   {
-    "it": "un'idea ce l'ho.",
-    "de": "Ich habe eine Idee."
+    "lang1": "Ich habe eine Idee.",
+    "lang2": "I have an idea."
   },
   {
-    "it": "Ad esempio se prima compravo un elettrodomestico di quelle marche cinesi su Amazon oggi lo compro Haier o LG,",
-    "de": "Wenn ich zum Beispiel früher ein Gerät von diesen chinesischen Marken auf Amazon gekauft habe, kaufe ich es heute von Haier oder LG,"
+    "lang1": "Wenn ich zum Beispiel früher ein Gerät von diesen chinesischen Marken auf Amazon gekauft habe, kaufe ich es heute von Haier oder LG,",
+    "lang2": "For example, if before I bought an appliance from those Chinese brands on Amazon, today I buy Haier or LG,"
   },
   {
-    "it": "e così tante altre cose.",
-    "de": "und so viele andere Dinge."
+    "lang1": "und so viele andere Dinge.",
+    "lang2": "and so many other things."
   },
   {
-    "it": "Era per dire che comunque i soldi sembrano sempre \"appena giusti\",",
-    "de": "Ich wollte damit sagen, dass das Geld ohnehin immer \"genau richtig\" zu sein scheint,"
+    "lang1": "Ich wollte damit sagen, dass das Geld ohnehin immer \"genau richtig\" zu sein scheint,",
+    "lang2": "It was to say that anyway the money always seems \"just right\","
   },
   {
-    "it": "visto che ci adattiamo quasi spontaneamente a quello che guadagniamo.",
-    "de": "da wir uns fast spontan an das anpassen, was wir verdienen."
+    "lang1": "da wir uns fast spontan an das anpassen, was wir verdienen.",
+    "lang2": "since we adapt almost spontaneously to what we earn."
   },
   {
-    "it": "Scusate ma €200 di spesa alimentare…?",
-    "de": "Entschuldigung, aber Lebensmittel im Wert von 200 €?"
+    "lang1": "Entschuldigung, aber Lebensmittel im Wert von 200 €?",
+    "lang2": "Sorry but €200 of groceries...?"
   },
   {
-    "it": "!",
-    "de": "!"
+    "lang1": "!",
+    "lang2": "!"
   },
   {
-    "it": "Dove andate a comprare il cibo?",
-    "de": "Wo kaufen Sie Lebensmittel ein?"
+    "lang1": "Wo kaufen Sie Lebensmittel ein?",
+    "lang2": "Where do you go to buy food?"
   },
   {
-    "it": "Alla Caritas?",
-    "de": "Bei der Caritas?"
+    "lang1": "Bei der Caritas?",
+    "lang2": "At Caritas?"
   },
   {
-    "it": "Io faccio la spesa al supermercato una volta a settimana,",
-    "de": "Ich kaufe einmal in der Woche im Supermarkt ein,"
+    "lang1": "Ich kaufe einmal in der Woche im Supermarkt ein,",
+    "lang2": "I shop at the supermarket once a week,"
   },
   {
-    "it": "spenderò un po' più di 50 euro ma non molto di più,",
-    "de": "Ich werde ein wenig mehr als 50 Euro ausgeben, aber nicht viel mehr,"
+    "lang1": "Ich werde ein wenig mehr als 50 Euro ausgeben, aber nicht viel mehr,",
+    "lang2": "I'll spend a little more than 50 euros but not much more,"
   },
   {
-    "it": "potrò arrivare a 250.",
-    "de": "Ich werde in der Lage sein, 250 zu erreichen."
+    "lang1": "Ich werde in der Lage sein, 250 zu erreichen.",
+    "lang2": "I can reach 250."
   },
   {
-    "it": "Se dopo le spese fondamentali ogni mese rimani tipo con 500 euro visto che ogni tanto dovrai fare cose come andare dal dottore,",
-    "de": "Wenn man nach den Grundausgaben jeden Monat etwa 500 Euro übrig hat, weil man z. B. ab und zu zum Arzt gehen muss,"
+    "lang1": "Wenn man nach den Grundausgaben jeden Monat etwa 500 Euro übrig hat, weil man z. B. ab und zu zum Arzt gehen muss,",
+    "lang2": "If after the fundamental expenses every month you are left with like 500 euros given that every now and then you will have to do things like go to the doctor,"
   },
   {
-    "it": "pagare l'università,",
-    "de": "für die Universität bezahlen,"
+    "lang1": "für die Universität bezahlen,",
+    "lang2": "pay for university,"
   },
   {
-    "it": "pagare la patente,",
-    "de": "für die Lizenz bezahlen,"
+    "lang1": "für die Lizenz bezahlen,",
+    "lang2": "pay for the driver's license,"
   },
   {
-    "it": "in vacanza,",
-    "de": "im Urlaub,"
+    "lang1": "im Urlaub,",
+    "lang2": "go on holiday,"
   },
   {
-    "it": "comprare il telefono,",
-    "de": "das Telefon kaufen,"
+    "lang1": "das Telefon kaufen,",
+    "lang2": "buy a phone,"
   },
   {
-    "it": "spendere qualcosa per svagarsi,",
-    "de": "etwas ausgeben, um sich zu amüsieren,"
+    "lang1": "etwas ausgeben, um sich zu amüsieren,",
+    "lang2": "spend something to entertain yourself,"
   },
   {
-    "it": "uscire con gli amici etc.",
-    "de": "Ausgehen mit Freunden usw."
+    "lang1": "Ausgehen mit Freunden usw.",
+    "lang2": "go out with friends etc."
   },
-
   {
-    "it": "significa che non hai mai i soldi per risparmiare o investire e quindi per esempio non ti potrai mai comprare casa,",
-    "de": "bedeutet, dass Sie nie das Geld haben, um zu sparen oder zu investieren, so dass Sie z. B. nie ein Haus kaufen können,"
+    "lang1": "bedeutet, dass Sie nie das Geld haben, um zu sparen oder zu investieren, so dass Sie z. B. nie ein Haus kaufen können,",
+    "lang2": "it means you never have the money to save or invest and therefore for example you will never be able to buy a house,"
   },
   {
-    "it": "vai avanti a malapena ma non avrai mai nulla di più di quello e propabilmente avrai sempre meno col tempo  Facendo riferimento alla mia vita:",
-    "de": "Du kommst gerade so über die Runden, aber du wirst nie mehr haben als das, und du wirst wahrscheinlich immer weniger haben, je länger du lebst."
+    "lang1": "Du kommst gerade so über die Runden, aber du wirst nie mehr haben als das, und du wirst wahrscheinlich immer weniger haben, je länger du lebst.",
+    "lang2": "you get by barely but you will never have anything more than that and you will probably have less and less over time. Referring to my life:"
   },
   {
-    "it": "il dottore è gratis,",
-    "de": "der Arzt ist frei,"
+    "lang1": "der Arzt ist frei,",
+    "lang2": "the doctor is free,"
   },
   {
-    "it": "l'università l'ho finita da un bel po',",
-    "de": "Ich habe die Universität schon vor langer Zeit abgeschlossen,"
+    "lang1": "Ich habe die Universität schon vor langer Zeit abgeschlossen,",
+    "lang2": "I finished university a long time ago,"
   },
   {
-    "it": "la patente costa 90 euro ogni 10 anni (meno di 70 centesimi al mese),",
-    "de": "Ein Führerschein kostet alle 10 Jahre 90 Euro (weniger als 70 Cent pro Monat),"
+    "lang1": "Ein Führerschein kostet alle 10 Jahre 90 Euro (weniger als 70 Cent pro Monat),",
+    "lang2": "the license costs 90 euros every 10 years (less than 70 cents a month),"
   },
   {
-    "it": "il telefono sono 150 euro spesi nel 2021 credo ammortizzati,",
-    "de": "das Telefon ist 150 Euro im Jahr 2021 ausgegeben, ich denke, abgeschrieben,"
+    "lang1": "das Telefon ist 150 Euro im Jahr 2021 ausgegeben, ich denke, abgeschrieben,",
+    "lang2": "the phone is 150 euros spent in 2021 I think amortized,"
   },
   {
-    "it": "se volessi risparmiare ce ne sarebbe.",
-    "de": "Wenn ich Geld sparen wollte, gäbe es das."
+    "lang1": "Wenn ich Geld sparen wollte, gäbe es das.",
+    "lang2": "if I wanted to save there would be plenty."
   },
   {
-    "it": "Hai assolutamente ragione,",
-    "de": "Sie haben völlig Recht,"
+    "lang1": "Sie haben völlig Recht,",
+    "lang2": "You are absolutely right,"
   },
   {
-    "it": "la prospettiva base qui per molti è Milano o il centro storico di Roma dove i costi delle abitazioni sono alle stelle ma nel resto d'Italia con 2000 euro al mese si vive più che comodamente.",
-    "de": "Die Grundperspektive ist hier für viele Mailand oder das historische Zentrum von Rom, wo die Wohnkosten himmelhoch sind, aber im Rest Italiens kann man mit 2000 Euro im Monat mehr als komfortabel leben."
+    "lang1": "Die Grundperspektive ist hier für viele Mailand oder das historische Zentrum von Rom, wo die Wohnkosten himmelhoch sind, aber im Rest Italiens kann man mit 2000 Euro im Monat mehr als komfortabel leben.",
+    "lang2": "the basic perspective here for many is Milan or the historic center of Rome where housing costs are sky-high but in the rest of Italy with 2000 euros a month you live more than comfortably."
   },
   {
-    "it": "200€ di spesa al mese?",
-    "de": "200€ Ausgaben pro Monat?"
+    "lang1": "200€ Ausgaben pro Monat?",
+    "lang2": "200€ of groceries a month?"
   },
   {
-    "it": "boh forse se mangi pasta in bianco tutti i giorni a pranzo e cena.",
-    "de": "boh vielleicht, wenn Sie jeden Tag weiße Nudeln zum Mittag- und Abendessen essen."
+    "lang1": "boh vielleicht, wenn Sie jeden Tag weiße Nudeln zum Mittag- und Abendessen essen.",
+    "lang2": "boh maybe if you eat plain pasta every day for lunch and dinner."
   },
   {
-    "it": "Inizia a comprare frutta,",
-    "de": "Fangen Sie an, Obst zu kaufen,"
+    "lang1": "Fangen Sie an, Obst zu kaufen,",
+    "lang2": "Start buying fruit,"
   },
   {
-    "it": "verdura,",
-    "de": "Gemüse,"
+    "lang1": "Gemüse,",
+    "lang2": "vegetables,"
   },
   {
-    "it": "carne,",
-    "de": "Fleisch,"
+    "lang1": "Fleisch,",
+    "lang2": "meat,"
   },
   {
-    "it": "pesce ecc.",
-    "de": "Fisch usw."
+    "lang1": "Fisch usw.",
+    "lang2": "fish etc."
   },
   {
-    "it": "poi rifai i conti.",
-    "de": "dann rechne noch einmal nach."
+    "lang1": "dann rechne noch einmal nach.",
+    "lang2": "then redo the math."
   },
   {
-    "it": "Hai MOSTRUOSAMENTE glissato su tutti i costi della macchina.",
-    "de": "Sie haben die Kosten der Maschine weitestgehend ausgeblendet."
+    "lang1": "Sie haben die Kosten der Maschine weitestgehend ausgeblendet.",
+    "lang2": "You have MONSTROUSLY glossed over all car costs."
   },
   {
-    "it": "Non ti rendi conto che il cittadino mediano spende come costo \"all in\" per l'auto 500 euro al mese.",
-    "de": "Sie wissen nicht, dass der Durchschnittsbürger 500 EUR pro Monat für ein Auto ausgibt."
+    "lang1": "Sie wissen nicht, dass der Durchschnittsbürger 500 EUR pro Monat für ein Auto ausgibt.",
+    "lang2": "You don't realize that the median citizen spends 500 euros a month as an \"all in\" cost for the car."
   },
   {
-    "it": "Il medio 700 Un monolocale in un posto dove guadagni 2000 euro/mese costa 600-700 euro/mese + bollette.",
-    "de": "Eine durchschnittliche 700-Euro-Studiowohnung an einem Ort, an dem man 2000 Euro/Monat verdient, kostet 600-700 Euro/Monat + Nebenkosten."
+    "lang1": "Eine durchschnittliche 700-Euro-Studiowohnung an einem Ort, an dem man 2000 Euro/Monat verdient, kostet 600-700 Euro/Monat + Nebenkosten.",
+    "lang2": "The average 700. A studio apartment in a place where you earn 2000 euros/month costs 600-700 euros/month + bills."
   },
   {
-    "it": "Io a Parma se mi dovessi pensare da solo e in un monolocale farei fatica a spendere meno di 300 euro per mangiare al mese Ancora non avete capito che con questi stipendi in noccioline,",
-    "de": "Wenn ich in Parma für mich selbst denken müsste und in einer Einzimmerwohnung leben würde, hätte ich Schwierigkeiten, weniger als 300 Euro im Monat für Essen auszugeben. Das haben Sie immer noch nicht verstanden, bei diesen Erdnussgehältern,"
+    "lang1": "Wenn ich in Parma für mich selbst denken müsste und in einer Einzimmerwohnung leben würde, hätte ich Schwierigkeiten, weniger als 300 Euro im Monat für Essen auszugeben. Das haben Sie immer noch nicht verstanden, bei diesen Erdnussgehältern,",
+    "lang2": "Me in Parma if I had to think for myself and in a studio apartment I would struggle to spend less than 300 euros to eat a month. You still haven't understood that with these peanut salaries,"
   },
   {
-    "it": "e questo mercato immobiliare,",
-    "de": "und diesen Immobilienmarkt,"
+    "lang1": "und diesen Immobilienmarkt,",
+    "lang2": "and this real estate market,"
   },
   {
-    "it": "le condizioni di vita dipendono principalmente dal patrimonio familiare e non dallo stipendio?",
-    "de": "die Lebensbedingungen in erster Linie vom Familienvermögen und nicht vom Gehalt abhängen?"
+    "lang1": "die Lebensbedingungen in erster Linie vom Familienvermögen und nicht vom Gehalt abhängen?",
+    "lang2": "living conditions depend mainly on family assets and not on salary?"
   },
   {
-    "it": "Se sono proprietario di una casa in provincia con fotovoltaico,",
-    "de": "Wenn ich in der Provinz ein Haus mit Photovoltaikanlage besitze,"
+    "lang1": "Wenn ich in der Provinz ein Haus mit Photovoltaikanlage besitze,",
+    "lang2": "If I own a house in the province with photovoltaics,"
   },
   {
-    "it": "accumulatore,",
-    "de": "Akkumulator,"
+    "lang1": "Akkumulator,",
+    "lang2": "storage battery,"
   },
   {
-    "it": "colonnina e macchina elettrica.",
-    "de": "Säule und Elektroauto."
+    "lang1": "Säule und Elektroauto.",
+    "lang2": "charging station and electric car."
   },
   {
-    "it": "1400 euro da personale ATA mi permettono di fare una vita da nababbo.",
-    "de": "1400 Euro als ATA-Personal erlauben es mir, wie ein Nabob zu leben."
+    "lang1": "1400 Euro als ATA-Personal erlauben es mir, wie ein Nabob zu leben.",
+    "lang2": "1400 euros as ATA staff allow me to live like a nabob."
   },
   {
-    "it": "Il lavoro non conta più un caz zo,",
-    "de": "Arbeit ist nicht mehr wichtig,"
+    "lang1": "Arbeit ist nicht mehr wichtig,",
+    "lang2": "Work no longer matters a damn,"
   },
   {
-    "it": "sopratutto quello dipendente.",
-    "de": "insbesondere die abhängige."
+    "lang1": "insbesondere die abhängige.",
+    "lang2": "especially employee work."
   },
   {
-    "it": "Vige l'ereditocrazia.",
-    "de": "Es herrscht die Vererbungsokratie."
+    "lang1": "Es herrscht die Vererbungsokratie.",
+    "lang2": "Inheritocracy reigns."
   },
   {
-    "it": "È perché c'è gente che ha vissuto fuori Italia e guadagnato più di questa cifra per fare lavori simili,",
-    "de": "Das liegt daran, dass es Menschen gibt, die außerhalb Italiens gelebt und mehr verdient haben, um ähnliche Arbeiten zu erledigen,"
+    "lang1": "Das liegt daran, dass es Menschen gibt, die außerhalb Italiens gelebt und mehr verdient haben, um ähnliche Arbeiten zu erledigen,",
+    "lang2": "It's because there are people who have lived outside Italy and earned more than this figure to do similar jobs,"
   },
   {
-    "it": "con costi della vita equipollenti.",
-    "de": "mit vergleichbaren Lebenshaltungskosten."
+    "lang1": "mit vergleichbaren Lebenshaltungskosten.",
+    "lang2": "with equivalent costs of living."
   },
   {
-    "it": "Semplice.",
-    "de": "Einfach."
+    "lang1": "Einfach.",
+    "lang2": "Simple."
   },
   {
-    "it": "Ma sicuramente se sei da solo ti bastano,",
-    "de": "Aber wenn man allein ist, ist das sicher genug,"
+    "lang1": "Aber wenn man allein ist, ist das sicher genug,",
+    "lang2": "But surely if you are alone it's enough for you,"
   },
   {
-    "it": "si anche a Milano,",
-    "de": "ja auch in Mailand,"
+    "lang1": "ja auch in Mailand,",
+    "lang2": "yes even in Milan,"
   },
   {
-    "it": "dovrai stare attento alle spese ma con una certa tranquillità.",
-    "de": "Sie müssen Ihre Ausgaben im Auge behalten, aber Sie haben ein gewisses Maß an Seelenfrieden."
+    "lang1": "Sie müssen Ihre Ausgaben im Auge behalten, aber Sie haben ein gewisses Maß an Seelenfrieden.",
+    "lang2": "you'll have to watch your expenses but with a certain peace of mind."
   },
   {
-    "it": "Se però si vuole una famiglia e mantenere la stessa capacità di spesa personale non bastano più.",
-    "de": "Wenn Sie jedoch eine Familie gründen und dieselbe persönliche Kaufkraft beibehalten wollen, reicht das nicht mehr aus."
+    "lang1": "Wenn Sie jedoch eine Familie gründen und dieselbe persönliche Kaufkraft beibehalten wollen, reicht das nicht mehr aus.",
+    "lang2": "However, if you want a family and maintain the same personal spending power, they are no longer enough."
   },
   {
-    "it": "Si cioè come dire,",
-    "de": "Das heißt, dass,"
+    "lang1": "Das heißt, dass,",
+    "lang2": "Yes, meaning,"
   },
   {
-    "it": "hai omesso tutta una serie di spese che non percepisci ma ci sono.",
-    "de": "Sie haben eine ganze Reihe von Ausgaben übersehen, die Sie nicht wahrnehmen, die aber vorhanden sind."
+    "lang1": "Sie haben eine ganze Reihe von Ausgaben übersehen, die Sie nicht wahrnehmen, die aber vorhanden sind.",
+    "lang2": "you have omitted a whole series of expenses that you don't perceive but are there."
   },
   {
-    "it": "Della macchina non paghi solo il carburante,",
-    "de": "Sie zahlen nicht nur für den Kraftstoff des Autos,"
+    "lang1": "Sie zahlen nicht nur für den Kraftstoff des Autos,",
+    "lang2": "You don't just pay for fuel for the car,"
   },
   {
-    "it": "poi abbonamenti e servizi vari che sono necessari,",
-    "de": "dann Abonnements und verschiedene Dienste, die notwendig sind,"
+    "lang1": "dann Abonnements und verschiedene Dienste, die notwendig sind,",
+    "lang2": "then subscriptions and various services that are necessary,"
   },
   {
-    "it": "spese condominiali,",
-    "de": "Ausgaben für das Wohnungseigentum,"
+    "lang1": "Ausgaben für das Wohnungseigentum,",
+    "lang2": "condominium expenses,"
   },
   {
-    "it": "telefonia,",
-    "de": "Telefonie,"
+    "lang1": "Telefonie,",
+    "lang2": "telephony,"
   },
   {
-    "it": "Wifi (questo è soggettivo),",
-    "de": "Wifi (dies ist subjektiv),"
+    "lang1": "Wifi (dies ist subjektiv),",
+    "lang2": "Wifi (this is subjective),"
   },
   {
-    "it": "magari hai un animale.",
-    "de": "vielleicht haben Sie ein Tier."
+    "lang1": "vielleicht haben Sie ein Tier.",
+    "lang2": "maybe you have a pet."
   },
-
   {
-    "it": "ce ne sono sicuramente tante altre che non mi sono venute in mente.",
-    "de": "Es gibt sicher noch viele andere, die mir nicht einfallen."
+    "lang1": "Es gibt sicher noch viele andere, die mir nicht einfallen.",
+    "lang2": "there are certainly many others that didn't come to mind."
   },
   {
-    "it": "Poi si,",
-    "de": "Dann ja,"
+    "lang1": "Dann ja,",
+    "lang2": "Then yes,"
   },
   {
-    "it": "considerando che lo stipendio medio in Italia è 1500€,",
-    "de": "wenn man bedenkt, dass das Durchschnittsgehalt in Italien bei 1500 € liegt,"
+    "lang1": "wenn man bedenkt, dass das Durchschnittsgehalt in Italien bei 1500 € liegt,",
+    "lang2": "considering that the average salary in Italy is 1500€,"
   },
   {
-    "it": "non è male,",
-    "de": "nicht schlecht,"
+    "lang1": "nicht schlecht,",
+    "lang2": "it's not bad,"
   },
   {
-    "it": "ma da qui all'avere 900€ rimasti ne passa.",
-    "de": "aber von hier bis zu 900 € übrig zu haben, ist ein weiter Weg."
+    "lang1": "aber von hier bis zu 900 € übrig zu haben, ist ein weiter Weg.",
+    "lang2": "but there's a long way from here to having 900€ left over."
   },
   {
-    "it": "Con la casa di proprietà,",
-    "de": "Mit Wohneigentum,"
+    "lang1": "Mit Wohneigentum,",
+    "lang2": "With an owned home,"
   },
   {
-    "it": "con 2k al mese voli.",
-    "de": "mit 2k im Monat fliegt man."
+    "lang1": "mit 2k im Monat fliegt man.",
+    "lang2": "with 2k a month you fly."
   },
   {
-    "it": "Però siamo su Reddit,",
-    "de": "Aber wir sind auf Reddit,"
+    "lang1": "Aber wir sind auf Reddit,",
+    "lang2": "But we are on Reddit,"
   },
   {
-    "it": "e con meno di 2k al mese sei considerato come i barboni che vivono in stazione centrale.",
-    "de": "und mit weniger als 2.000 Euro im Monat wird man mit den Pennern im Hauptbahnhof gleichgesetzt."
+    "lang1": "und mit weniger als 2.000 Euro im Monat wird man mit den Pennern im Hauptbahnhof gleichgesetzt.",
+    "lang2": "and with less than 2k a month you are considered like the bums living in the central station."
   },
   {
-    "it": "Reddit italia è una bolla di calendiani,",
-    "de": "Reddit Italien ist eine Blase von Calendianern,"
+    "lang1": "Reddit Italien ist eine Blase von Calendianern,",
+    "lang2": "Reddit Italy is a bubble of Calenda supporters,"
   },
   {
-    "it": "quindi anche di riccastri (spero per loro).",
-    "de": "also auch von reichen Menschen (ich hoffe, um ihretwillen)."
+    "lang1": "also auch von reichen Menschen (ich hoffe, um ihretwillen).",
+    "lang2": "so also of very rich people (I hope for their sake)."
   },
   {
-    "it": "Oltre al fatto che ci sono persone totalmente puntati alla carriera,",
-    "de": "Abgesehen davon, dass es Menschen gibt, die völlig karriereorientiert sind,"
+    "lang1": "Abgesehen davon, dass es Menschen gibt, die völlig karriereorientiert sind,",
+    "lang2": "Besides the fact that there are people totally focused on career,"
   },
   {
-    "it": "probabilmente psicopatici,",
-    "de": "wahrscheinlich Psychopathen,"
+    "lang1": "wahrscheinlich Psychopathen,",
+    "lang2": "probably psychopaths,"
   },
   {
-    "it": "il cui unico obiettivo è guadagnare di più a discapito di tutto il resto.",
-    "de": "deren einziges Ziel es ist, mehr Geld zu verdienen, und zwar auf Kosten von allem anderen."
+    "lang1": "deren einziges Ziel es ist, mehr Geld zu verdienen, und zwar auf Kosten von allem anderen.",
+    "lang2": "whose only goal is to earn more at the expense of everything else."
   },
   {
-    "it": "Io guadagno più di 2000€ al mese e ti assicuro che non è così.",
-    "de": "Ich verdiene mehr als 2000 € im Monat und ich kann Ihnen versichern, dass dies nicht der Fall ist."
+    "lang1": "Ich verdiene mehr als 2000 € im Monat und ich kann Ihnen versichern, dass dies nicht der Fall ist.",
+    "lang2": "I earn more than 2000€ a month and I assure you it's not like that."
   },
   {
-    "it": "Chiaro che se vuoi avere dei soldi da spendere devi lavorare.",
-    "de": "Es ist klar, dass man arbeiten muss, wenn man Geld zum Ausgeben haben will."
+    "lang1": "Es ist klar, dass man arbeiten muss, wenn man Geld zum Ausgeben haben will.",
+    "lang2": "Clear that if you want to have money to spend you have to work."
   },
   {
-    "it": "Però non serve uccidersi dal lavoro.",
-    "de": "Aber es gibt keinen Grund, sich vor der Arbeit umzubringen."
+    "lang1": "Aber es gibt keinen Grund, sich vor der Arbeit umzubringen.",
+    "lang2": "But there's no need to kill yourself working."
   },
   {
-    "it": "Con le capacità giuste le ditte che pagano ci sono.",
-    "de": "Mit den richtigen Fähigkeiten sind die Unternehmen, die zahlen, da."
+    "lang1": "Mit den richtigen Fähigkeiten sind die Unternehmen, die zahlen, da.",
+    "lang2": "With the right skills, companies that pay are out there."
   },
   {
-    "it": "Lo stipendio dipende sempre dal punto di partenza,",
-    "de": "Das Gehalt hängt immer von der Ausgangssituation ab,"
+    "lang1": "Das Gehalt hängt immer von der Ausgangssituation ab,",
+    "lang2": "Salary always depends on the starting point,"
   },
   {
-    "it": "se non hai casa di proprietà e non erediterai una fava,",
-    "de": "wenn Sie kein Haus besitzen und keinen Stein erben werden,"
+    "lang1": "wenn Sie kein Haus besitzen und keinen Stein erben werden,",
+    "lang2": "if you don't own a house and won't inherit jack shit,"
   },
   {
-    "it": "2000 euro sono sopravvivenza,",
-    "de": "2000 Euro sind überlebenswichtig,"
+    "lang1": "2000 Euro sind überlebenswichtig,",
+    "lang2": "2000 euros is survival,"
   },
   {
-    "it": "stessa cosa per comprare una Fiat ci vogliono 15000 euro.",
-    "de": "Um einen Fiat zu kaufen, braucht man 15000 Euro."
+    "lang1": "Um einen Fiat zu kaufen, braucht man 15000 Euro.",
+    "lang2": "same thing to buy a Fiat it takes 15000 euros."
   },
   {
-    "it": "Prima di fare un mutuo se non hai una famiglia che può prestarti cifre dovrai metterli almeno 10000 euro da parte,",
-    "de": "Wenn Sie keine Familie haben, die Ihnen Geld leihen kann, müssen Sie mindestens 10000 EUR zurücklegen, bevor Sie eine Hypothek aufnehmen,"
+    "lang1": "Wenn Sie keine Familie haben, die Ihnen Geld leihen kann, müssen Sie mindestens 10000 EUR zurücklegen, bevor Sie eine Hypothek aufnehmen,",
+    "lang2": "Before taking out a mortgage if you don't have a family that can lend you figures you will have to put at least 10000 euros aside,"
   },
   {
-    "it": "potrei continuare,",
-    "de": "Ich könnte noch mehr sagen,"
+    "lang1": "Ich könnte noch mehr sagen,",
+    "lang2": "I could go on,"
   },
   {
-    "it": "il pc portatile,",
-    "de": "den Laptop,"
+    "lang1": "den Laptop,",
+    "lang2": "the laptop,"
   },
   {
-    "it": "lo smartphone ogni 7 anni,",
-    "de": "das Smartphone alle 7 Jahre,"
+    "lang1": "das Smartphone alle 7 Jahre,",
+    "lang2": "the smartphone every 7 years,"
   },
   {
-    "it": "il dentista (questo dissangua chiunque).",
-    "de": "den Zahnarzt (das lässt alle ausbluten)."
+    "lang1": "den Zahnarzt (das lässt alle ausbluten).",
+    "lang2": "the dentist (this bleeds anyone dry)."
   },
   {
-    "it": "Dipende da età,",
-    "de": "Das hängt vom Alter ab,"
+    "lang1": "Das hängt vom Alter ab,",
+    "lang2": "It depends on age,"
   },
   {
-    "it": "professione e stile di vita Per come vivo io,",
-    "de": "Beruf und Lebensstil Die Art, wie ich lebe,"
+    "lang1": "Beruf und Lebensstil Die Art, wie ich lebe,",
+    "lang2": "profession and lifestyle. The way I live,"
   },
   {
-    "it": "che non vivrei a Milano manco sotto tortura e non ho troppe spese extra,",
-    "de": "Ich würde nicht einmal unter Folter in Mailand leben, und ich habe nicht allzu viele zusätzliche Ausgaben,"
+    "lang1": "Ich würde nicht einmal unter Folter in Mailand leben, und ich habe nicht allzu viele zusätzliche Ausgaben,",
+    "lang2": "who wouldn't live in Milan even under torture and I don't have too many extra expenses,"
   },
   {
-    "it": "sono una cifra giusta.",
-    "de": "sind ein fairer Wert."
+    "lang1": "sind ein fairer Wert.",
+    "lang2": "they are a fair figure."
   },
   {
-    "it": "Buono stipendio per me vuol dire una cifra bella alta,",
-    "de": "Ein gutes Gehalt bedeutet für mich eine schöne hohe Summe,"
+    "lang1": "Ein gutes Gehalt bedeutet für mich eine schöne hohe Summe,",
+    "lang2": "Good salary for me means a pretty high figure,"
   },
   {
-    "it": "cioè che dopo le spese di necessità (casa,",
-    "de": "d.h. nach notwendigen Ausgaben (Heim,"
+    "lang1": "d.h. nach notwendigen Ausgaben (Heim,",
+    "lang2": "meaning that after necessity expenses (home,"
   },
   {
-    "it": "spostamenti,",
-    "de": "Verlagerungen,"
+    "lang1": "Verlagerungen,",
+    "lang2": "commutes,"
   },
   {
-    "it": "mangiare ecc.",
-    "de": "Essen usw."
+    "lang1": "Essen usw.",
+    "lang2": "eating etc."
   },
-
   {
-    "it": ") metti via il 60%,",
-    "de": ") 60 % weglegen,"
+    "lang1": ") 60 % weglegen,",
+    "lang2": ") you put away 60%,"
   },
   {
-    "it": "però questa è una mia concezione sicuramente sbagliata che poi comprendo i giovanissimi,",
-    "de": "Das ist aber sicher mein Irrglaube, dass ich dann die ganz Jungen verstehe,"
+    "lang1": "Das ist aber sicher mein Irrglaube, dass ich dann die ganz Jungen verstehe,",
+    "lang2": "however this is a conception of mine that is certainly wrong then I understand the very young,"
   },
   {
-    "it": "ma una volta che sei in due diventano il doppio ed è difficile pensare che 4K non siano sufficienti.",
-    "de": "Aber wenn man zu zweit ist, werden sie doppelt so groß, und es ist schwer vorstellbar, dass 4K nicht ausreicht."
+    "lang1": "Aber wenn man zu zweit ist, werden sie doppelt so groß, und es ist schwer vorstellbar, dass 4K nicht ausreicht.",
+    "lang2": "but once there are two of you they become double and it's hard to think that 4K is not enough."
   },
   {
-    "it": "Lavori per vivere o vivi per lavorare?",
-    "de": "Arbeiten Sie, um zu leben, oder leben Sie, um zu arbeiten?"
+    "lang1": "Arbeiten Sie, um zu leben, oder leben Sie, um zu arbeiten?",
+    "lang2": "Do you work to live or live to work?"
   },
   {
-    "it": "2k da single finiscono in un niente.",
-    "de": "2.000 Euro als Einzelperson bringen nichts ein."
+    "lang1": "2.000 Euro als Einzelperson bringen nichts ein.",
+    "lang2": "2k as a single person vanish in an instant."
   },
   {
-    "it": "E trovare un affitto da 600/700€ mensili (+ condominio!",
-    "de": "Und finden Sie eine Miete von 600/700€ pro Monat (+ Eigentumswohnung!"
+    "lang1": "Und finden Sie eine Miete von 600/700€ pro Monat (+ Eigentumswohnung!",
+    "lang2": "And finding a rent of 600/700€ monthly (+ condominium!"
   },
   {
-    "it": ") in una città dove puoi trovare lavoro per 2k netti al mese non è facile.",
-    "de": ") in einer Stadt, in der man für 2.000 Euro netto im Monat Arbeit finden kann, ist nicht einfach."
+    "lang1": ") in einer Stadt, in der man für 2.000 Euro netto im Monat Arbeit finden kann, ist nicht einfach.",
+    "lang2": ") in a city where you can find work for 2k net a month is not easy."
   },
   {
-    "it": "O vogliamo normalizzare situazioni dove per andare a lavoro impieghi 1h o più?",
-    "de": "Oder wollen wir Situationen normalisieren, in denen man eine Stunde oder länger braucht, um zur Arbeit zu kommen?"
+    "lang1": "Oder wollen wir Situationen normalisieren, in denen man eine Stunde oder länger braucht, um zur Arbeit zu kommen?",
+    "lang2": "Or do we want to normalize situations where to get to work you take 1h or more?"
   },
   {
-    "it": "Magari con la tua auto (e quindi soldi spesi in benzina)?",
-    "de": "Vielleicht mit dem eigenen Auto (und damit mit dem Geld für Benzin)?"
+    "lang1": "Vielleicht mit dem eigenen Auto (und damit mit dem Geld für Benzin)?",
+    "lang2": "Maybe with your car (and therefore money spent on gas)?"
   },
   {
-    "it": "Inoltre:",
-    "de": "Darüber hinaus:"
+    "lang1": "Darüber hinaus:",
+    "lang2": "Furthermore:"
   },
   {
-    "it": "a me non frega nulla se 2k per il popolo medio sia uno stipendio con il quale riesci a campare.",
-    "de": "Es ist mir völlig egal, ob 2.000 Euro für die Durchschnittsperson ein Gehalt sind, von dem man leben kann."
+    "lang1": "Es ist mir völlig egal, ob 2.000 Euro für die Durchschnittsperson ein Gehalt sind, von dem man leben kann.",
+    "lang2": "I don't give a damn if 2k for the average people is a salary you can get by with."
   },
   {
-    "it": "Ho delle competenze,",
-    "de": "Ich habe Fähigkeiten,"
+    "lang1": "Ich habe Fähigkeiten,",
+    "lang2": "I have skills,"
   },
   {
-    "it": "voglio che siano pagate a dovere.",
-    "de": "Ich möchte, dass sie angemessen bezahlt werden."
+    "lang1": "Ich möchte, dass sie angemessen bezahlt werden.",
+    "lang2": "I want them to be paid properly."
   },
   {
-    "it": "dipende dove vivi,",
-    "de": "hängt davon ab, wo Sie wohnen,"
+    "lang1": "hängt davon ab, wo Sie wohnen,",
+    "lang2": "it depends on where you live,"
   },
   {
-    "it": "ma è comunque uno stipendio più che dignitoso anche al nord o in particolare a Milano le persone che dicono che è uno stipendio da fame o non buonissimo (tipo i miei colleghi che prenderanno una cosa come 40k annui in più di me come minimo) sono solo persone che hanno degli stili di vita folli o provenienti da famiglie più che benestanti,",
-    "de": "aber es ist immer noch ein mehr als anständiges Gehalt, selbst im Norden oder besonders in Mailand. Leute, die sagen, es sei ein Hungerlohn oder ein nicht sehr gutes Gehalt (wie meine Kollegen, die etwa 40.000 pro Jahr mehr bekommen als ich), sind einfach Leute, die einen verrückten Lebensstil haben oder aus mehr als wohlhabenden Familien stammen,"
+    "lang1": "aber es ist immer noch ein mehr als anständiges Gehalt, selbst im Norden oder besonders in Mailand. Leute, die sagen, es sei ein Hungerlohn oder ein nicht sehr gutes Gehalt (wie meine Kollegen, die etwa 40.000 pro Jahr mehr bekommen als ich), sind einfach Leute, die einen verrückten Lebensstil haben oder aus mehr als wohlhabenden Familien stammen,",
+    "lang2": "but it is still a more than decent salary even in the north or particularly in Milan. People who say it's a starvation wage or not very good (like my colleagues who will take something like 40k a year more than me at least) are just people who have crazy lifestyles or come from more than wealthy families,"
   },
   {
-    "it": "abituati a quegli standard non di certo abituati al padre e alla madre che in due non fanno neanche 3k al mese,",
-    "de": "Sie sind an diese Standards gewöhnt, sicherlich nicht an ihren Vater und ihre Mutter, die beide zusammen nicht einmal 3.000 im Monat verdienen,"
+    "lang1": "Sie sind an diese Standards gewöhnt, sicherlich nicht an ihren Vater und ihre Mutter, die beide zusammen nicht einmal 3.000 im Monat verdienen,",
+    "lang2": "used to those standards certainly not used to father and mother who together don't even make 3k a month,"
   },
   {
-    "it": "ammesso che entrambi lavorino Dipende come e dove vivi.",
-    "de": "vorausgesetzt, sie funktionieren beide. Das hängt davon ab, wie und wo Sie leben."
+    "lang1": "vorausgesetzt, sie funktionieren beide. Das hängt davon ab, wie und wo Sie leben.",
+    "lang2": "assuming both work. It depends how and where you live."
   },
   {
-    "it": "Da solo (o ancora meglio in coppia) nel paese dove sono cresciuto vivresti benissimo:",
-    "de": "Allein (oder noch besser zu zweit) würde man auf dem Land, wo ich aufgewachsen bin, sehr gut leben können:"
+    "lang1": "Allein (oder noch besser zu zweit) würde man auf dem Land, wo ich aufgewachsen bin, sehr gut leben können:",
+    "lang2": "Alone (or even better as a couple) in the town where I grew up you would live very well:"
   },
   {
-    "it": "600/700 ti affitti un alloggio bello in centro,",
-    "de": "600/700 mieten Sie eine schöne Unterkunft im Zentrum,"
+    "lang1": "600/700 mieten Sie eine schöne Unterkunft im Zentrum,",
+    "lang2": "600/700 you rent a nice accommodation in the center,"
   },
   {
-    "it": "aggiungici pure macchina,",
-    "de": "Auto hinzufügen,"
+    "lang1": "Auto hinzufügen,",
+    "lang2": "add car,"
   },
   {
-    "it": "bollette etc ma metteresti comunque da parte.",
-    "de": "Rechnungen usw., aber Sie würden trotzdem sparen."
+    "lang1": "Rechnungen usw., aber Sie würden trotzdem sparen.",
+    "lang2": "bills etc. but you would still put aside."
   },
   {
-    "it": "Se sei da solo in una grande città con 600/700€ trovi una stanza (forse).",
-    "de": "Wenn Sie allein in einer großen Stadt sind und 600/700 € haben, können Sie (vielleicht) ein Zimmer finden."
+    "lang1": "Wenn Sie allein in einer großen Stadt sind und 600/700 € haben, können Sie (vielleicht) ein Zimmer finden.",
+    "lang2": "If you are alone in a big city with 600/700€ you find a room (maybe)."
   },
   {
-    "it": "Il che significa che se sei da solo un appartamento tuo te lo sogni.",
-    "de": "Das heißt, wenn Sie allein sind, träumen Sie von einer eigenen Wohnung."
+    "lang1": "Das heißt, wenn Sie allein sind, träumen Sie von einer eigenen Wohnung.",
+    "lang2": "Which means if you are alone you dream of an apartment of your own."
   },
   {
-    "it": "Se sei in coppia te la cavi,",
-    "de": "Wenn Sie zu zweit sind, können Sie es schaffen,"
+    "lang1": "Wenn Sie zu zweit sind, können Sie es schaffen,",
+    "lang2": "If you are a couple you manage,"
   },
   {
-    "it": "ma non pensare di fare figli La parte che in molti ignorano é che 2k al mese non li prende quasi nessuno in un paesino di 20k abitanti (c’è chi li prende eh,",
-    "de": "Der Teil, den viele Leute ignorieren, ist, dass 2.000 Euro im Monat in einer kleinen Stadt mit 20.000 Einwohnern kaum von jemandem genommen werden (es gibt welche, die sie nehmen),"
+    "lang1": "Der Teil, den viele Leute ignorieren, ist, dass 2.000 Euro im Monat in einer kleinen Stadt mit 20.000 Einwohnern kaum von jemandem genommen werden (es gibt welche, die sie nehmen),",
+    "lang2": "The part that many ignore is that almost no one makes 2k a month in a small town of 20k inhabitants (some do, sure,"
   },
   {
-    "it": "ma é difficile;",
-    "de": "aber es ist schwierig;"
+    "lang1": "aber es ist schwierig;",
+    "lang2": "but it's difficult;"
   },
   {
-    "it": "altrettanto difficile che siano in due nella coppia a prenderli a testa) Io faccio la spesa alla Conad (diciamo non un discount anzi.",
-    "de": "Ich kaufe bei Conad ein (sagen wir mal, nicht gerade ein Discounter."
-  },
-  {
-    "it": "non compro stronzate precotte,",
-    "de": "Ich kaufe keinen vorgekochten Mist,"
-  },
-  {
-    "it": "non compro robe surgelate,",
-    "de": "Ich kaufe keine Tiefkühlprodukte,"
-  },
-  {
-    "it": "mi cucino tutto e metto da parte le cose quando becco le offerte.",
-    "de": "Ich koche alles und lege alles beiseite, wenn ich Angebote bekomme."
-  },
-  {
-    "it": "Non supero i 60€ settimanali.",
-    "de": "Ich überschreite nicht 60€ pro Woche."
-  },
-  {
-    "it": "Io penso che voi non sappiate fare spesa,",
-    "de": "Ich glaube, Sie wissen nicht, wie man einkauft,"
-  },
-  {
-    "it": "semplicemente.",
-    "de": "einfach."
-  },
-  {
-    "it": "Come già detto,",
-    "de": "Wie bereits erwähnt,"
-  },
-  {
-    "it": "dipende dove vivi e se paghi affitto o meno.",
-    "de": "hängt davon ab, wo Sie wohnen und ob Sie Miete zahlen oder nicht."
-  },
-  {
-    "it": "Un conto è vivere a Milano,",
-    "de": "Es ist eine Sache, in Mailand zu leben,"
-  },
-  {
-    "it": "un altro è in Campania dove con 2k netti al mese sei nettamente sopra la media.",
-    "de": "eine andere ist in Kampanien, wo man mit 2k netto pro Monat weit über dem Durchschnitt liegt."
-  },
-  {
-    "it": "È uno stipendio dignitoso se non hai l'ambizione di costruire granchè nella vita (una bella casa,",
-    "de": "Es ist ein anständiges Gehalt, wenn man keine Ambitionen hat, im Leben viel aufzubauen (ein schönes Haus),"
-  },
-  {
-    "it": "famiglia,",
-    "de": "Familie,"
-  },
-  {
-    "it": "gite fuori porta o passioni un attimino più dispendiose).",
-    "de": "Reisen in die Ferne oder etwas teurere Leidenschaften)."
-  },
-  {
-    "it": "Mettiamo caso che risparmi 500 euro al mese:",
-    "de": "Nehmen wir an, Sie sparen 500 EUR pro Monat:"
-  },
-  {
-    "it": "sono 6000 euro l'anno,",
-    "de": "betragen 6.000 Euro pro Jahr,"
-  },
-  {
-    "it": "60000 in 10 anni.",
-    "de": "60000 in 10 Jahren."
-  },
-  {
-    "it": "A me sinceramente sembrano cifre medio-basse se so vuole costruire una vita \"media\" al giorno d'oggi Io vivo a Milano,",
-    "de": "Für mich sehen sie ehrlich gesagt wie mittlere bis niedrige Zahlen aus, wenn ich mir ein \"durchschnittliches\" Leben aufbauen will, wie ich es heute in Mailand lebe,"
-  },
-  {
-    "it": "non ho la macchina,",
-    "de": "Ich habe kein Auto,"
-  },
-  {
-    "it": "da solo,",
-    "de": "allein,"
-  },
-  {
-    "it": "in un bilocale carino (purtroppo seminterrato),",
-    "de": "in einer schönen Zweizimmerwohnung (leider im Keller),"
-  },
-  {
-    "it": "non faccio una gran vita sociale e cucino sempre io.",
-    "de": "Ich habe kein ausgeprägtes Sozialleben und koche immer."
-  },
-  {
-    "it": "Con 1600 sto benissimo (in realtà guadagno di più ma facendo i conti ci starei dentro).",
-    "de": "Mit 1600 bin ich gut bedient (eigentlich verdiene ich mehr, aber wenn ich rechne, wäre ich im Rahmen)."
-  },
-  {
-    "it": "Fai conto che col mio progetto di vita vorrei superare i 2k se ho la fortuna di poterlo fare al mese ma ci vorrà tempo Comunque no 2k al mese é lo stipendio che tutti gli italiani vorrebbero vedere sul proprio c/c ogni mese Schifo non fanno Gia vivere con 1600 euro al mese comunque schifo non fanno c'è nettamente di peggio.",
-    "de": "Bedenken Sie, dass ich mit meinem Lebensprojekt gerne mehr als 2.000 pro Monat verdienen würde, wenn ich das Glück habe, aber das wird dauern. 2.000 pro Monat ist jedoch das Gehalt, das jeder Italiener gerne jeden Monat auf seinem Bankkonto sehen würde."
-  },
-
-  {
-    "it": "Con uno stipendio medio basso 1600 euro da dipendente comunque ti togli più di uno sfizio.",
-    "de": "Mit einem niedrigen Durchschnittsgehalt von 1600 Euro als Angestellter nehmen Sie sich jedoch mehr als nur eine Laune von den Schultern."
-  },
-  {
-    "it": "Con 2000 sono semplicemente 400 di più che schifo non fanno nelle tasche di una persona Io prendo 1900€ netti al mese (più tredicesima quattordicesima e premio di un’altra mensilità) e il pranzo me lo paga l’azienda quando sono in sede,",
-    "de": "Bei 2.000 sind es einfach 400 mehr, die einem nicht in die Tasche gehen. Ich bekomme 1.900 € netto im Monat (plus 13. Monatsbonus und 14. Monatsbonus) und das Mittagessen wird von der Firma bezahlt, wenn ich vor Ort bin,"
-  },
-  {
-    "it": "abito in Veneto e queste sono le mie spese reali.",
-    "de": "Ich lebe in Venetien und dies sind meine tatsächlichen Ausgaben."
-  },
-  {
-    "it": "1900€ 470 mutuo 40 assicurazione casa e personale 300 cibo 200 uscite 30 abbonamenti vari 50 benzina lavoro 20 benzina extra 80 spese per i gatti 20 taglio capelli 120 auto 30 scooter 130 bollette 60 spese condominiali —— 350€ di risparmi Ovviamente alcune volte ci possono essere spese impreviste.",
-    "de": "1900€ 470 Hypothek 40 Haus- und Personenversicherung 300 Lebensmittel 200 Ausflüge 30 verschiedene Abonnements 50 Benzinarbeit 20 zusätzliches Benzin 80 Katzenkosten 20 Haarschnitt 120 Auto 30 Motorroller 130 Nebenkosten 60 Wohnungskosten -- 350€ Ersparnis Natürlich kann es manchmal unvorhergesehene Ausgaben geben."
-  },
-  {
-    "it": "Per me questo è appena giusto per vivere una vita tranquilla togliendomi i miei sfizi senza ansie.",
-    "de": "Für mich ist das gerade genug, um ein ruhiges Leben ohne Ängste zu führen."
-  },
-  {
-    "it": "Non consideri le esigenze diverse delle persone.",
-    "de": "Sie berücksichtigen nicht die unterschiedlichen Bedürfnisse der Menschen."
-  },
-  {
-    "it": "Stai facendo conti da persona sola:",
-    "de": "Sie werden als eine Person gezählt:"
-  },
-  {
-    "it": "bilocale,",
-    "de": "Zwei-Zimmer-Wohnung,"
-  },
-  {
-    "it": "e i soldi rimanenti vanno in passioni e risparmio.",
-    "de": "und das restliche Geld fließt in Leidenschaften und Ersparnisse."
-  },
-  {
-    "it": "Per chi ha famiglia il bilocale non basta,",
-    "de": "Für Familien ist die Zweizimmerwohnung nicht ausreichend,"
-  },
-  {
-    "it": "ci sono le spese dei bambini,",
-    "de": "es gibt Ausgaben für Kinder,"
-  },
-  {
-    "it": "vacanze meno improvvisate e in alta stagione,",
-    "de": "weniger spontane Urlaube in der Hochsaison,"
-  },
-  {
-    "it": "ecc.",
-    "de": "usw."
-  },
-  {
-    "it": "2000 Al mese sono un buono stipendio rispetto alla mediana in Italiana,",
-    "de": "2000 pro Monat ist ein gutes Gehalt im Vergleich zum Median in Italien,"
-  },
-  {
-    "it": "ma non in termini assoluti.",
-    "de": "aber nicht in absoluten Zahlen."
-  },
-  {
-    "it": "Considerato inoltre che soprattutto le nuove generazioni non potranno contare sull’INPS per la pensione,",
-    "de": "Außerdem wird sich vor allem die jüngere Generation nicht auf das INPS verlassen können, wenn es um die Rente geht,"
-  },
-  {
-    "it": "devi tenere anche in conto che una buona parte dello stipendio la devi usare per farti tu la pensione.",
-    "de": "Sie müssen auch bedenken, dass Sie einen großen Teil des Gehalts für Ihre eigene Rente verwenden müssen."
-  },
-  {
-    "it": "Inoltre c’è da considerare per quale tipo di lavoro vieni pagato 2000€ al mese,",
-    "de": "Außerdem gibt es die Art von Arbeit, für die man 2000 € pro Monat erhält,"
-  },
-  {
-    "it": "se è per fare il segretario part-time sono tanti,",
-    "de": "wenn es sich um eine Teilzeitsekretärin handelt, ist das sehr viel,"
-  },
-  {
-    "it": "se è per fare l’ingegnere senior sono pochi.",
-    "de": "wenn es sich um einen leitenden Ingenieur handelt, sind es nur wenige."
-  },
-  {
-    "it": "E qui sta un altro dei problemi:",
-    "de": "Und hier liegt ein weiteres Problem:"
-  },
-  {
-    "it": "in Italia figure molto senior,",
-    "de": "sehr hochrangige Persönlichkeiten in Italien,"
-  },
-  {
-    "it": "che all’estero guadagnerebbero cifre molto più alte,",
-    "de": "die im Ausland viel mehr Geld verdienen würden,"
-  },
-  {
-    "it": "sono obbligate ad accontentarsi di questi stipendi Semplicemente non c'è una definizione che possa valere per tutti,",
-    "de": "Es gibt einfach keine Definition, die für alle gelten kann,"
-  },
-  {
-    "it": "dipende da tanti fattori,",
-    "de": "hängt von vielen Faktoren ab,"
-  },
-  {
-    "it": "a partire da dove vivi (2.",
-    "de": "ausgehend von Ihrem Wohnort (2."
-  },
-  {
-    "it": "000 € di stipendio netto in centro a Milano è fare la fame,",
-    "de": "000 € Nettogehalt im Zentrum von Mailand ist ein Hungerlohn,"
-  },
-  {
-    "it": "in un paesino di provincia,",
-    "de": "in einer kleinen Provinzstadt,"
-  },
-  {
-    "it": "magari al Sud,",
-    "de": "vielleicht im Süden,"
-  },
-  {
-    "it": "sei quasi il boss del paese),",
-    "de": "Sie sind quasi der Chef des Landes),"
-  },
-  {
-    "it": "che spese / esigenze personali imprescindibili hai (avere figli,",
-    "de": "welche Ausgaben/unvermeidbaren persönlichen Bedürfnisse Sie haben (Kinder haben,"
-  },
-  {
-    "it": "parenti da accudire.",
-    "de": "Verwandte zu betreuen."
-  },
-
-  {
-    "it": "),",
-    "de": "),"
-  },
-  {
-    "it": "e che stile di vita ritieni di voler mantenere.",
-    "de": "und welchen Lebensstil Sie beibehalten wollen."
-  },
-  {
-    "it": "E qua soprattutto si apre un mondo dove trovo sempre complesso giudicare,",
-    "de": "Und hier eröffnet sich vor allem eine Welt, die zu beurteilen mir immer schwer fällt,"
-  },
-  {
-    "it": "perché se è vero che non lo prescrive il dottore di andarsi a fare la vacanza di un certo tipo o robe simili,",
-    "de": "denn wenn es stimmt, dass der Arzt es nicht verschreibt, um eine bestimmte Art von Urlaub zu machen oder so,"
-  },
-  {
-    "it": "è altrettanto vero che si lavora per vivere e non il contrario,",
-    "de": "Es ist ebenso wahr, dass man für seinen Lebensunterhalt arbeitet und nicht andersherum,"
-  },
-  {
-    "it": "e se quindi alla fine di tutto non avanza molto per godersela un po' sta vita.",
-    "de": "und wenn deshalb am Ende nicht viel übrig bleibt, um das Leben ein wenig zu genießen."
-  },
-
-  {
-    "it": "non è viverla.",
-    "de": "ist, es nicht zu leben."
-  },
-  {
-    "it": "Ci va sicuramente un equilibrio in questo,",
-    "de": "Hier muss definitiv ein Gleichgewicht herrschen,"
-  },
-  {
-    "it": "ma è estremamente complesso tracciarne dei confini oggettivi.",
-    "de": "aber es ist äußerst komplex, objektive Grenzen zu ziehen."
-  },
-  {
-    "it": "Possono esserci deviazioni chiaramente esagerate in un senso o nell'altro,",
-    "de": "Es kann zu deutlich übertriebenen Abweichungen in die eine oder andere Richtung kommen,"
-  },
-  {
-    "it": "ma escluse queste non mi sento di dare torto o ragione a prescindere in questi casi.",
-    "de": "aber abgesehen davon glaube ich nicht, dass ich in diesen Fällen richtig oder falsch liegen kann."
-  },
-  {
-    "it": "Dipende dove vivi,",
-    "de": "Das hängt davon ab, wo Sie wohnen,"
-  },
-  {
-    "it": "io in un capoluogo del sud,",
-    "de": "mich in einer südlichen Hauptstadt,"
-  },
-  {
-    "it": "per la casa pagavo tra affitto bollette e spesa circa 8-900,",
-    "de": "Für das Haus habe ich mit Miete, Rechnungen und Lebensmitteln etwa 8-900 bezahlt,"
-  },
-  {
-    "it": "aggiungi tra telefono,",
-    "de": "per Telefon hinzufügen,"
-  },
-  {
-    "it": "palestra e benzina altri 200 al mese circa e siamo massimo a 1100 mensile.",
-    "de": "Fitnessstudio und Benzin weitere 200 pro Monat oder so und wir sind bei 1100 pro Monat angelangt."
-  },
-  {
-    "it": "Con 2k qui stai abbastanza tranquillo direi.",
-    "de": "Mit 2.000 Euro sind Sie hier recht komfortabel, würde ich sagen."
-  },
-  {
-    "it": "Situazione diversa magari a Milano.",
-    "de": "In Mailand ist die Situation vielleicht anders."
-  },
-  {
-    "it": "Però qui quasi nessuno prende 2k,",
-    "de": "Aber kaum jemand hier nimmt 2k,"
-  },
-  {
-    "it": "la media è più bassa sui 1500 forse e quindi siamo sempre al limite lo stesso.",
-    "de": "der Durchschnitt ist mit 1500 vielleicht niedriger, wir sind also trotzdem an der Grenze."
-  },
-  {
-    "it": "Che ti avanzino 700 euro al mese in un mese buono con uno stile di vita frugale non significa avere un buono stipendio,",
-    "de": "Dass Sie in einem guten Monat bei sparsamer Lebensweise 700 € im Monat übrig haben, bedeutet nicht, dass Sie ein gutes Gehalt haben,"
-  },
-  {
-    "it": "significa avere quattro spicci e fumarsi potenzialmente ei mesi di risparmi per una spesa imprevista qualsiasi o anche solo un viaggio (normale e non in ostelli vari) Ad ogni modo,",
-    "de": "bedeutet, vier Pfennige und möglicherweise monatelange Ersparnisse für unvorhergesehene Ausgaben oder auch nur für eine Reise (normal und nicht in verschiedene Herbergen) zu haben,"
-  },
-  {
-    "it": "dove vivo io con 700 euro affitti al massimo uno scantinato di 30 mq,",
-    "de": "Wo ich wohne, mietet man mit 700 Euro höchstens einen 30 Quadratmeter großen Keller,"
-  },
-  {
-    "it": "senza contare che allEstero™ mi pagherebbero il 50% in più in posti con un costo della vita simile.",
-    "de": "ganz zu schweigen davon, dass ich im Ausland™ bei ähnlichen Lebenshaltungskosten 50 Prozent mehr verdienen würde."
-  },
-  {
-    "it": "Quando hai figli non sono poi tanti.",
-    "de": "Wenn man Kinder hat, sind es nicht so viele."
-  },
-  {
-    "it": "E siccome molti hanno anche la sana passione per la Finanza Personale,",
-    "de": "Und da viele auch eine gesunde Leidenschaft für persönliche Finanzen haben,"
-  },
-  {
-    "it": "direi che non rimane nulla per investire per il futuro in queste condizioni.",
-    "de": "Ich würde sagen, dass es unter diesen Bedingungen nichts mehr gibt, was man in die Zukunft investieren könnte."
-  },
-  {
-    "it": "Non bisogna normalizzare i 2000 € come sogno del dipendente,",
-    "de": "Man sollte die 2000 € nicht als den Traum des Arbeitnehmers hinstellen,"
-  },
-  {
-    "it": "altrimenti non ci schioderemo mai dai 1400€ che è la media italiana (da fame per un laureato).",
-    "de": "Andernfalls werden wir nie von den 1400 € wegkommen, die der italienische Durchschnitt beträgt (ein Hungerlohn für einen Hochschulabsolventen)."
-  },
-  {
-    "it": "Dipende:",
-    "de": "Das kommt darauf an:"
-  },
-  {
-    "it": "è un buono stipendio per chi ha 2 anni di esperienza,",
-    "de": "ist ein gutes Gehalt für jemanden mit zwei Jahren Erfahrung,"
-  },
-  {
-    "it": "oppure per chi ne ha 30?",
-    "de": "oder für diejenigen, die 30 sind?"
-  },
-  {
-    "it": "La risposta cambia tutto.",
-    "de": "Die Antwort ändert alles."
-  },
-  {
-    "it": "Il problema italiano è proprio questo:",
-    "de": "Genau das ist das italienische Problem:"
-  },
-  {
-    "it": "gli stipendi si sono appiattiti,",
-    "de": "Die Gehälter sind abgeflacht,"
-  },
-  {
-    "it": "per cui sopra quella soglia è difficile salire qualunque sia la tua anzianità o competenza.",
-    "de": "Daher ist es schwierig, über diese Schwelle hinaus aufzusteigen, unabhängig von Dienstalter und Kompetenz."
-  },
-  {
-    "it": "Per questo la gente su Reddit si lamenta e non perché 2000€-2500€ non bastino a sopravvivere,",
-    "de": "Deshalb beschweren sich die Leute auf Reddit, und nicht, weil 2000€-2500€ nicht zum Überleben reichen,"
-  },
-  {
-    "it": "ma perché sono diventati per molti un tetto invece che un punto di partenza.",
-    "de": "sondern weil sie für viele zu einem Dach statt zu einem Ausgangspunkt geworden sind."
-  },
-  {
-    "it": "Poi ovviamente sposta il quadro a Milano,",
-    "de": "Dann verlegt er das Bild natürlich nach Mailand,"
-  },
-  {
-    "it": "o aggiungi un figlio,",
-    "de": "oder ein Kind hinzufügen,"
-  },
-  {
-    "it": "o considera che il risparmio non dovrebbe essere \"quello che avanza\" ma una voce di bilancio prioritaria,",
-    "de": "o zu bedenken, dass Einsparungen nicht nach dem Gießkannenprinzip erfolgen sollten, sondern einen vorrangigen Haushaltsposten darstellen,"
-  },
-  {
-    "it": "e i tuoi 900€ residui si ridimensionano l'Italia non è Milano,",
-    "de": "und Ihre verbleibenden 900 € werden reduziert Italien ist nicht Mailand,"
-  },
-  {
-    "it": "almeno il 95% degli italiani non vive e non ha niente a che fare con Milano,",
-    "de": "Mindestens 95 % der Italiener leben nicht in Mailand und haben nichts mit Mailand zu tun,"
-  },
-  {
-    "it": "non si può parametrare tutto a una città fuori controllo con i costi.",
-    "de": "Sie können nicht alles mit einer Stadt gleichsetzen, die die Kosten nicht unter Kontrolle hat."
-  },
-  {
-    "it": "2000 € sono uno stiipendio sopra la media,",
-    "de": "2000 € ist ein überdurchschnittliches Stipendium,"
-  },
-  {
-    "it": "ma è comuqnue uno schifo in confronto al potere d'acquisto di 30-40 anni fa.",
-    "de": "aber im Vergleich zur Kaufkraft von vor 30-40 Jahren ist es immer noch beschissen."
-  },
-  {
-    "it": "Se l'Italia fosse stata gestita decentemente (neacnhe bene,",
-    "de": "Wenn Italien anständig verwaltet worden wäre (neacnhe gut,"
-  },
-  {
-    "it": "bastava decentemente),",
-    "de": "anständig genug),"
-  },
-  {
-    "it": "e non avesse metà poloplazione di parassiti,",
-    "de": "und hatte keine halbe Schädlingspopulation,"
-  },
-  {
-    "it": "uno stipendio base,",
-    "de": "ein Grundgehalt,"
-  },
-  {
-    "it": "tipo cassa al supermecato,",
-    "de": "wie die Kasse im Supermarkt,"
-  },
-  {
-    "it": "ora sarebbe sopra i 3000 euro netti al mese,",
-    "de": "würde nun über 3.000 EUR netto pro Monat liegen,"
-  },
-  {
-    "it": "e sarebbe normale arrivare a 4-5 mila prima dei 30 anni.",
-    "de": "und es wäre normal, vor dem 30. Lebensjahr 4-5 Tausend zu erreichen."
-  },
-
-  {
-    "it": "se fosse stata gestita BENE con cittanidi che hanno interesse al bene comune,",
-    "de": "wenn es mit Bürgern, die ein Interesse am Gemeinwohl haben, GUT verwaltet würde,"
-  },
-  {
-    "it": "per quegli stipendi basterebba lavorare 3 giorni a settimana e 3 mesi di ferie come a scuola.",
-    "de": "Für diese Gehälter würde es ausreichen, drei Tage pro Woche zu arbeiten und drei Monate frei zu haben, wie in der Schule."
-  },
-
-  {
-    "it": "Perché non è così?",
-    "de": "Warum nicht?"
-  },
-  {
-    "it": "- leggi ad personam - corruzione - votare \"di pancia\" - ognuno che tira l'acqua al proprio mulino (i commercianti mi stanno sul cazzo,",
-    "de": "- Ad-Personam-Gesetze - Korruption - Abstimmungen \"aus dem Bauch heraus\" - jeder zieht sein eigenes Ding durch (die Händler sind mir auf den Fersen,"
-  },
-  {
-    "it": "per cui compro su amazon.",
-    "de": "also kaufe ich bei amazon."
-  },
-
-  {
-    "it": "bravo furbo!",
-    "de": "Schlauberger!"
-  },
-  {
-    "it": "!",
-    "de": "!"
-  },
-  {
-    "it": "- il condono fa comodo anche a me per cui lo voto,",
-    "de": "- Die Amnestie passt auch zu mir, also stimme ich dafür,"
-  },
-  {
-    "it": "ingaro del fatto che i grossi ci hanno lavoto miliardi di euro,",
-    "de": "Die Tatsache, dass die Großen uns um Milliarden gebracht haben,"
-  },
-
-  {
-    "it": ") Alla fine si sommano:",
-    "de": ") Sie summieren sich schließlich:"
-  },
-  {
-    "it": "ogni scelta che fa sentire bene sul momento ma senza lungimiranza,",
-    "de": "jede Entscheidung, die sich im Moment gut anfühlt, aber nicht vorausschauend ist,"
-  },
-  {
-    "it": "ogni decisione presa per interesse personale (tanto gli altri s'arrangiano),",
-    "de": "jede Entscheidung, die aus Eigeninteresse getroffen wird (die anderen kommen sowieso durch),"
-  },
-  {
-    "it": "etc.",
-    "de": "usw."
-  },
-
-  {
-    "it": "e ora TUTTI se la piglano nel culo,",
-    "de": "und jetzt pissen sich ALLE in den Arsch,"
-  },
-  {
-    "it": "con pochi grandi che festeggiano.",
-    "de": "mit ein paar großen Feiern."
-  },
-  {
-    "it": "(cerca \"paradosso del prigioniero\" se vuoi approfondire) Tutti si credono furbi,",
-    "de": "(Suchen Sie nach \"Gefangenenparadoxon\", wenn Sie tiefer einsteigen wollen) Jeder hält sich für clever,"
-  },
-  {
-    "it": "tutti finiscono inculati.",
-    "de": "Jeder ist am Ende aufgeschmissen."
-  },
-
-  {
-    "it": "tristezza infinita,",
-    "de": "unendliche Traurigkeit,"
-  },
-  {
-    "it": "ma basta guardare quel che gira sui social,",
-    "de": "aber sehen Sie sich nur an, was in den sozialen Medien verbreitet wird,"
-  },
-  {
-    "it": "per capire che la soluzione non è vicina Noi siamo in due e tolti 500 euro fissi per un prestito dovuto fare per sistemare casa,",
-    "de": "zu erkennen, dass die Lösung nicht in der Nähe ist Wir sind zwei und minus 500 Euro für ein Darlehen, das wir machen mussten, um das Haus zu reparieren,"
-  },
-  {
-    "it": "che è piccola ma di proprietà,",
-    "de": "das zwar klein ist, sich aber in Besitz befindet,"
-  },
-  {
-    "it": "ci restano mediamente 1900 euro al mese.",
-    "de": "verbleiben uns durchschnittlich 1900 EUR pro Monat."
-  },
-  {
-    "it": "Ti assicuro che non sono tanti per due persone e tre gatti di questi tempi.",
-    "de": "Ich versichere Ihnen, dass das für zwei Personen und drei Katzen heutzutage nicht viel ist."
-  },
-  {
-    "it": "Se conti:",
-    "de": "Wenn Sie mitzählen:"
-  },
-  {
-    "it": "affitto o mutuo (650€) + utenze/wifi/telefono/condominio (250€) + auto (250€ per carburante assicurazione etc) + spesa (250€) + sport/sanità/vestiti/superfluo minimo (200€);",
-    "de": "Miete oder Hypothek (650€) + Nebenkosten/Wifi/Telefon/Gebäude (250€) + Auto (250€ für Benzinversicherung usw.) + Lebensmittel (250€) + Sport/Gesundheit/Kleidung/Minimum (200€);"
-  },
-  {
-    "it": "sei già a 1.",
-    "de": "sind Sie bereits bei 1."
-  },
-  {
-    "it": "600€.",
-    "de": "600€."
-  },
-  {
-    "it": "Però non stai considerando pedaggi per andare a lavorare,",
-    "de": "Aber Sie denken nicht an Mautgebühren für den Weg zur Arbeit,"
-  },
-  {
-    "it": "imprevisti,",
-    "de": "unvorhergesehene Ereignisse,"
-  },
-  {
-    "it": "risparmi,",
-    "de": "Einsparungen,"
-  },
-  {
-    "it": "investimenti,",
-    "de": "Investitionen,"
-  },
-  {
-    "it": "accantonamenti per la pensione,",
-    "de": "Altersvorsorge,"
-  },
-  {
-    "it": "riparazioni,",
-    "de": "Reparaturen,"
-  },
-  {
-    "it": "svaghi occasionali grandi,",
-    "de": "gelegentliche große Unterhaltungen,"
-  },
-  {
-    "it": "auto nuova (se devi entrare a Milano per lavoro tra Area B e C devi avere per forza una macchina nuova).",
-    "de": "ein neues Auto (wenn Sie in Mailand zwischen Gebiet B und C arbeiten müssen, brauchen Sie ein neues Auto)."
-  },
-  {
-    "it": "Sopravvivi ma sei molto tirato,",
-    "de": "Sie überleben, aber Sie sind sehr knapp dran,"
-  },
-  {
-    "it": "devi pregare di non avere mai imprevisti Purtroppo non tutti sono incollati alla realtà nello stesso modo,",
-    "de": "Man muss beten, dass es nie zu unvorhergesehenen Ereignissen kommt. Leider ist nicht jeder in gleicher Weise an die Realität gebunden,"
-  },
-  {
-    "it": "conosco una persona che con stipendio (2k o poco piu + buoni pasto,",
-    "de": "Ich kenne jemanden, der mit einem Gehalt von 2k oder so + Lebensmittelgutscheinen auskommt,"
-  },
-  {
-    "it": "che vive in casa condivisa) mi dice che non può campare perchè non riesce a mettere da parte il 50%.",
-    "de": "der in einer Wohngemeinschaft lebt) erzählt mir, dass er nicht leben kann, weil er keine 50 Prozent zurücklegen kann."
-  },
-  {
-    "it": "Io se riesco a mettere da parte un 10% mi sento un grande economista ,",
-    "de": "Ich fühle mich wie ein großer Wirtschaftswissenschaftler, wenn ich 10 % sparen kann,"
-  },
-  {
-    "it": "per lei quella cifra e quelle possibilità non fanno parte della mia realtà 200 euro di spesa devi essere veramente risicato e lo dico da persona che mangia relativamente poco ormai.",
-    "de": "für sie sind dieser Betrag und diese Möglichkeiten nicht Teil meiner Realität 200 Euro Ausgaben müssen wirklich knapp sein und ich sage das als jemand, der jetzt relativ wenig isst."
-  },
-  {
-    "it": "Non conti mezzo sfizio a disposizione per te e/o acquisti non calcolabili (vestiti,",
-    "de": "Sie zählen nicht eine halbe Laune zu Ihrer Verfügung und/oder nicht kalkulierbare Käufe (Kleidung,"
-  },
-  {
-    "it": "manutenzioni varie,",
-    "de": "verschiedene Wartungsarbeiten,"
-  },
-  {
-    "it": "mobilio,",
-    "de": "Möbel,"
-  },
-  {
-    "it": "etc.",
-    "de": "usw."
-  },
-  {
-    "it": ") 2000 non sono pochi ovviamente ma non sono nemmeno tantissimi nel 2026.",
-    "de": ") 2000 ist natürlich nicht wenig, aber 2026 ist es auch nicht viel."
-  },
-  {
-    "it": "Non è un'opinione comune guidata da calcoli come stai facendo tu.",
-    "de": "Es handelt sich nicht um eine allgemeine Meinung, die von Berechnungen geleitet wird, wie Sie es tun."
-  },
-  {
-    "it": "Se dici che dei soldi sono pochi,",
-    "de": "Wenn Sie sagen, dass das Geld knapp ist,"
-  },
-  {
-    "it": "stai dando l'idea che sei uno che vale,",
-    "de": "Sie vermitteln den Eindruck, dass Sie jemand von Wert sind,"
-  },
-  {
-    "it": "che non si accontenta,",
-    "de": "der nicht zufrieden ist,"
-  },
-  {
-    "it": "che punta sempre al meglio per sé stesso.",
-    "de": "der immer das Beste für sich selbst will."
-  },
-  {
-    "it": "Anche se poi alla fine a 2200 euro ci arriverai a 45 anni (forse).",
-    "de": "Auch wenn Sie mit 45 Jahren (vielleicht) auf 2200 Euro kommen werden."
-  },
-  {
-    "it": "Scusa ma non hai fatto calcoli corretti.",
-    "de": "Tut mir leid, aber Sie haben die Berechnungen nicht korrekt durchgeführt."
-  },
-  {
-    "it": "Affitto 700 Spesa (Min) 100€ a settimana sono 450 mese Bollette luce gas acqua credo minimo 270 Un cellulare costa di media 30€ al mese Adsl 30€ Non compri saponi/detersivi 50€ mese Ti vesti o vai nudo in giro?",
-    "de": "Miete 700 Ausgaben (Min) 100€ pro Woche sind 450 pro Monat Strom Gas- und Wasserrechnungen ich denke mindestens 270 Ein Handy kostet durchschnittlich 30€ pro Monat Adsl 30€ Kaufe keine Seife/Waschmittel 50€ pro Monat Ziehst du dich schick an oder gehst du nackt?"
-  },
-  {
-    "it": "Almeno 50€ mese Hai considerato il carburante,",
-    "de": "Mindestens 50€ pro Monat Sie als Kraftstoff,"
-  },
-  {
-    "it": "ma l'auto te la regalano,",
-    "de": "aber das Auto wird Ihnen geschenkt,"
-  },
-  {
-    "it": "ti fanno i tagliandi ti pagano la polizza e il bollo?",
-    "de": "Sie geben Ihnen Gutscheine, zahlen Ihre Versicherung und die Stempelsteuer?"
-  },
-  {
-    "it": "Metti almeno almeno altri 300 tra rata e spese oltre a 200 di benzina.",
-    "de": "Legen Sie mindestens weitere 300 zwischen Raten und Ausgaben plus 200 für Benzin."
-  },
-  {
-    "it": "700+450+270+30+30+50+50+300+200= 2080 Se paghi il condominio,",
-    "de": "700+450+270+30+50+300+200= 2080 Wenn Sie die Eigentumswohnung bezahlen,"
-  },
-  {
-    "it": "se fumi,",
-    "de": "wenn Sie rauchen,"
-  },
-  {
-    "it": "se vuoi comprarti dei preservativi,",
-    "de": "wenn Sie Kondome kaufen wollen,"
-  },
-  {
-    "it": "se fori una gomma,",
-    "de": "wenn Sie eine Reifenpanne haben,"
-  },
-  {
-    "it": "un pranzo fuori se te lo sei dimenticato a casa un giorno.",
-    "de": "ein Mittagessen auswärts, wenn Sie es einmal zu Hause vergessen haben."
-  },
-
-  {
-    "it": "2000€ sono accettabili se condividi le spese con qualcuno,",
-    "de": "2000 € sind akzeptabel, wenn Sie die Kosten mit jemandem teilen,"
-  },
-  {
-    "it": "altrimenti bruci risparmi o soldi dei genitori ogni mese.",
-    "de": "Sonst verbrennst du jeden Monat deine Ersparnisse oder das Geld deiner Eltern."
-  },
-  {
-    "it": "A Bolzano con 2k netti al mese puoi parcheggiare tutto il mese al Walterpark e mangiare con gli avanzi del mercato.",
-    "de": "In Bozen kann man mit 2k netto pro Monat den ganzen Monat im Walterpark parken und mit den Resten vom Markt essen."
-  },
-  {
-    "it": "A Torino vivi bene.",
-    "de": "Sie leben gut in Turin."
-  },
-  {
-    "it": "A Petralia Sottana puoi rinunciare all’indennità prevista dal ruolo di Sindaco.",
-    "de": "In Petralia Sottana können Sie auf die für das Amt des Bürgermeisters vorgesehene Vergütung verzichten."
-  },
-  {
-    "it": "Posso portare il mio esempio sui calcoli di budget che ho fatto ad inizio anno,",
-    "de": "Ich kann ein Beispiel für die Budgetberechnungen geben, die ich zu Beginn des Jahres angestellt habe,"
-  },
-  {
-    "it": "in provincia,",
-    "de": "in der Provinz,"
-  },
-  {
-    "it": "in Lombardia.",
-    "de": "in der Lombardei."
-  },
-  {
-    "it": "Prendendo ad esempio un'entrata netta di 24'000 euro annuali,",
-    "de": "Nehmen wir zum Beispiel ein Nettoeinkommen von 24.000 EUR pro Jahr,"
-  },
-  {
-    "it": "le spese fisse mi portano via circa 16250,",
-    "de": "Die Fixkosten belaufen sich auf etwa 16250,"
-  },
-  {
-    "it": "6€ (Include Casa,",
-    "de": "6€ (Beinhaltet Home,"
-  },
-  {
-    "it": "Internet,",
-    "de": "Internet,"
-  },
-  {
-    "it": "Telefono,",
-    "de": "Telefon,"
-  },
-  {
-    "it": "Bollette,",
-    "de": "Rechnungen,"
-  },
-  {
-    "it": "Spese condominiali,",
-    "de": "Ausgaben für Eigentumswohnungen,"
-  },
-  {
-    "it": "Tari,",
-    "de": "Tari,"
-  },
-  {
-    "it": "spese di mantenimento del conto,",
-    "de": "Kontoführungsgebühren,"
-  },
-  {
-    "it": "alimenti e regali \"fissi\" per natale/compleanni dei familiari stretti).",
-    "de": "Unterhaltszahlungen und \"feste\" Geschenke zu Weihnachten/Geburtstagen von nahen Familienangehörigen)."
-  },
-  {
-    "it": "Quindi un risparmio medio mensile di circa 645,",
-    "de": "Das ergibt eine durchschnittliche monatliche Ersparnis von etwa 645,"
-  },
-  {
-    "it": "78€ e questo solo per stare in vita.",
-    "de": "78 € und das nur, um zu überleben."
-  },
-  {
-    "it": "I conti non includono l'auto,",
-    "de": "Die Konten umfassen nicht das Auto,"
-  },
-  {
-    "it": "in quanto aziendale.",
-    "de": "als ein Unternehmen."
-  },
-  {
-    "it": "A questi si sottraggono 3980€ che includono abbonamento annuale in palestra,",
-    "de": "Davon werden 3980 € abgezogen, die eine jährliche Mitgliedschaft im Fitnessstudio beinhalten,"
-  },
-  {
-    "it": "vacanza estiva,",
-    "de": "Sommerferien,"
-  },
-  {
-    "it": "corso di ballo,",
-    "de": "Tanzkurs,"
-  },
-  {
-    "it": "eventuali spese per hobby/uscite impreviste.",
-    "de": "mögliche Hobbys/unvorhergesehene Ausgaben."
-  },
-  {
-    "it": "Restano 3769,",
-    "de": "Es bleiben 3769,"
-  },
-  {
-    "it": "4€,",
-    "de": "4€,"
-  },
-  {
-    "it": "pari a circa 314,",
-    "de": "entspricht etwa 314,"
-  },
-  {
-    "it": "12€ di capacità di risparmio medio mensile.",
-    "de": "12 € durchschnittliche monatliche Sparleistung."
-  },
-  {
-    "it": "Ovviamente è una stima,",
-    "de": "Dies ist natürlich nur eine Schätzung,"
-  },
-  {
-    "it": "e per tenermi in riga,",
-    "de": "und um mich bei der Stange zu halten,"
-  },
-  {
-    "it": "alcuni valori sono stati sovrastimati,",
-    "de": "einige Werte wurden überschätzt,"
-  },
-  {
-    "it": "in modo che tutto il resto vada solo a giovarmi.",
-    "de": "so dass alles andere nur mir zugute kommt."
-  },
-  {
-    "it": "Quindi si sopravvivo e si faccio qualche attività extra lavorativa,",
-    "de": "Also ja, ich überlebe und mache ein paar außerberufliche Aktivitäten,"
-  },
-  {
-    "it": "ma non mi pare di vivere una vita nel lusso,",
-    "de": "aber ich habe nicht das Gefühl, dass ich ein Leben in Luxus führe,"
-  },
-  {
-    "it": "nell'eventualità di dover acquistare un'auto dovrei tagliare necessariamente qualcosa per poterla mantenere e l'accantonamento è di 3769,",
-    "de": "Falls ich ein Auto kaufen muss, muss ich zwangsläufig etwas einsparen, um es zu erhalten, und die Rückstellung beträgt 3769,"
-  },
-  {
-    "it": "4€ all'anno,",
-    "de": "4€ pro Jahr,"
-  },
-  {
-    "it": "quindi a malapena riuscirei a far fronte ad un'emergenza seria ogni 5 anni.",
-    "de": "So konnte ich kaum alle fünf Jahre einen schweren Notfall verkraften."
-  },
-  {
-    "it": "Non si può negare la svalutazione degli stipendi,",
-    "de": "Die Abwertung der Gehälter ist nicht zu leugnen,"
-  },
-  {
-    "it": "a prescindere dalla cifra,",
-    "de": "unabhängig von der Höhe der Zahl,"
-  },
-  {
-    "it": "e dal target di vita che si cerca.",
-    "de": "und das Lebensziel, das Sie suchen."
-  },
-  {
-    "it": "Mio padre operaio ha fatto villa con giardino e mantenuto me e mia sorella senza grandi privazioni.",
-    "de": "Mein Arbeitervater baute eine Villa mit Garten und unterstützte mich und meine Schwester ohne große Entbehrungen."
-  },
-  {
-    "it": "Io ingegnere 110L,",
-    "de": "Ich bin Ingenieur 110L,"
-  },
-  {
-    "it": "un master,",
-    "de": "einen Master-Abschluss,"
-  },
-  {
-    "it": "azienda High tech,",
-    "de": "High-Tech-Unternehmen,"
-  },
-  {
-    "it": "mi permetto a malapena un bilocale nell'hinterland milanese senza aiuti.",
-    "de": "Ich kann mir ohne Hilfe kaum eine Zweizimmerwohnung im Mailänder Hinterland leisten."
-  },
-  {
-    "it": "Non è normale oggettivamente.",
-    "de": "Es ist nicht objektiv normal."
-  },
-  {
-    "it": "Il resto è soggettivo obiettivamente.",
-    "de": "Der Rest ist subjektiv-objektiv."
+    "lang1": "und ich mache meine Einkäufe bei Conad (sagen wir mal kein Discounter, sondern",
+    "lang2": "just as difficult for both partners to make that individually). I shop at Conad (let's say not a discount store but"
   }
 ]
