@@ -174,6 +174,79 @@
         margin-top: 15px;
         letter-spacing: 2px;
       }
+
+      /* Voice picker modal */
+      #voice-modal-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.7);
+        z-index: 100;
+        justify-content: center;
+        align-items: center;
+      }
+      #voice-modal-overlay.open {
+        display: flex;
+      }
+      #voice-modal {
+        background: #1a1a1a;
+        border: 1px solid #333;
+        border-radius: 12px;
+        width: 88%;
+        max-width: 420px;
+        max-height: 75vh;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+      }
+      #voice-modal-title {
+        padding: 16px;
+        font-weight: bold;
+        color: var(--accent-color);
+        border-bottom: 1px solid #333;
+      }
+      #voice-modal-list {
+        overflow-y: auto;
+        padding: 8px;
+      }
+      .voice-option {
+        display: block;
+        width: 100%;
+        text-align: left;
+        padding: 14px 12px;
+        margin: 4px 0;
+        background: #222;
+        border: 2px solid #333;
+        border-radius: 8px;
+        color: var(--text-color);
+        font-size: 0.95rem;
+        cursor: pointer;
+      }
+      .voice-option:active {
+        background: #2a2a2a;
+      }
+      .voice-option.current {
+        border-color: var(--accent-color);
+        color: var(--accent-color);
+        background: rgba(187, 134, 252, 0.1);
+      }
+      .voice-option-lang {
+        display: block;
+        font-size: 0.75rem;
+        opacity: 0.6;
+        margin-top: 2px;
+      }
+      #voice-modal-cancel {
+        padding: 14px;
+        border-top: 1px solid #333;
+        background: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: none;
+        color: var(--danger-color);
+        font-weight: bold;
+        cursor: pointer;
+      }
     </style>
   </head>
   <body>
@@ -182,6 +255,8 @@
       <button id="lang2-toggle" onclick="cycleLang2()" class="top-btn">EN: --</button>
       <button onclick="changeIndex()" class="top-btn">Change Index</button>
       <button onclick="showVoices()" class="top-btn">Voices</button>
+      <button onclick="pickVoice('de')" class="top-btn">DE Voice</button>
+      <button onclick="pickVoice('en')" class="top-btn">EN Voice</button>
     </div>
 
     <div id="display-area">
@@ -203,6 +278,14 @@
       </button>
     </div>
 
+    <div id="voice-modal-overlay" onclick="if(event.target===this) closeVoiceModal()">
+      <div id="voice-modal">
+        <div id="voice-modal-title"></div>
+        <div id="voice-modal-list"></div>
+        <button id="voice-modal-cancel" onclick="closeVoiceModal()">Cancel</button>
+      </div>
+    </div>
+
     <script>
       let texts = [];
       let settings = {
@@ -215,23 +298,70 @@
       // Helper function to find voices properly on iOS and other browsers
       function getVoice(lang) {
         const voices = window.speechSynthesis.getVoices();
-
-        // Try exact match first (e.g., "de-DE"), else fall back to
-        // language-prefix match (e.g., "de")
-        const exactMatches = voices.filter(v => v.lang === lang);
         const shortLang = lang.split('-')[0];
+
+        // If the user has manually picked a voice for this language via the
+        // "DE Voice" / "EN Voice" buttons, always use exactly that one -
+        // there's no reliable way to read the OS-level default voice
+        // through the Web Speech API, so guessing isn't worth it once a
+        // manual choice exists.
+        const savedURI = localStorage.getItem('voiceURI_' + shortLang);
+        if (savedURI) {
+          const saved = voices.find(v => v.voiceURI === savedURI);
+          if (saved) return saved;
+        }
+
+        // Otherwise fall back to a best-effort guess: exact match first
+        // (e.g., "de-DE"), else language-prefix match (e.g., "de"),
+        // preferring anything that looks higher quality.
+        const exactMatches = voices.filter(v => v.lang === lang);
         const prefixMatches = voices.filter(v => v.lang.startsWith(shortLang));
         const candidates = exactMatches.length ? exactMatches : prefixMatches;
 
         if (!candidates.length) return undefined;
 
-        // iOS often installs several voices per language (a default
-        // "compact" one plus "Enhanced"/"Premium" ones if downloaded in
-        // Settings). Prefer the higher-quality one when more than one exists.
         const isHighQuality = (v) =>
           /enhanced|premium|neural/i.test(v.name) || /enhanced|premium|neural/i.test(v.voiceURI || "");
 
         return candidates.find(isHighQuality) || candidates[0];
+      }
+
+      // Lets the user manually pick which installed voice to use for a
+      // given language, since the app has no way to read the OS-level
+      // default voice via the Web Speech API. Choice is remembered.
+      function pickVoice(shortLang) {
+        const voices = window.speechSynthesis.getVoices().filter(v => v.lang.startsWith(shortLang));
+        if (!voices.length) {
+          alert(`No ${shortLang.toUpperCase()} voices reported yet. Try again in a second, or reload the page.`);
+          return;
+        }
+
+        const currentURI = localStorage.getItem('voiceURI_' + shortLang);
+        const overlay = document.getElementById('voice-modal-overlay');
+        const title = document.getElementById('voice-modal-title');
+        const list = document.getElementById('voice-modal-list');
+
+        title.textContent = `Pick a ${shortLang.toUpperCase()} voice`;
+        list.innerHTML = '';
+
+        voices.forEach(v => {
+          const btn = document.createElement('button');
+          btn.className = 'voice-option' + (v.voiceURI === currentURI ? ' current' : '');
+          btn.innerHTML = `${v.name}<span class="voice-option-lang">${v.lang}${v.voiceURI === currentURI ? ' · current' : ''}</span>`;
+          btn.onclick = () => selectVoice(shortLang, v.voiceURI, v.name);
+          list.appendChild(btn);
+        });
+
+        overlay.classList.add('open');
+      }
+
+      function selectVoice(shortLang, voiceURI, name) {
+        localStorage.setItem('voiceURI_' + shortLang, voiceURI);
+        closeVoiceModal();
+      }
+
+      function closeVoiceModal() {
+        document.getElementById('voice-modal-overlay').classList.remove('open');
       }
 
       // Preload voices for browsers that load them asynchronously (like Safari/Chrome).
