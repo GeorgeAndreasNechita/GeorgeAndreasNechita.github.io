@@ -130,7 +130,7 @@
         transition: transform 0.1s ease, background 0.2s;
         touch-action: manipulation;
       }
-      
+
       .repeat-btn:active {
         transform: scale(0.92);
         background: rgba(187, 134, 252, 0.2);
@@ -209,6 +209,8 @@
         lang2Repeat: parseInt(localStorage.getItem("lang2Repeat") || "1"),
       };
 
+      const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+
       // Helper function to find voices properly on iOS and other browsers
       function getVoice(lang) {
         const voices = window.speechSynthesis.getVoices();
@@ -261,40 +263,51 @@
       function updateButtonsUI() {
         const lang1Btn = document.getElementById("lang1-toggle");
         const lang2Btn = document.getElementById("lang2-toggle");
-        
+
         lang1Btn.innerHTML = `🇩🇪 DE: ${settings.lang1Repeat === 0 ? "OFF" : settings.lang1Repeat + "x"}`;
         lang1Btn.className = "top-btn " + (settings.lang1Repeat === 0 ? "state-off" : "state-" + settings.lang1Repeat + "x");
-        
+
         lang2Btn.innerHTML = `🇬🇧 EN: ${settings.lang2Repeat === 0 ? "OFF" : "1x"}`;
         lang2Btn.className = "top-btn " + (settings.lang2Repeat === 0 ? "state-off" : "state-1x");
       }
 
-function speakCurrent() {
+      // --- FIX: build a list of utterances and speak them one at a time,
+      // waiting for each one's "end" event before starting the next.
+      // Firing multiple speak() calls back-to-back (the old loop) is what
+      // caused the distorted/sped-up audio on iOS Safari - Chrome and
+      // Android tolerate a stacked queue fine, iOS's speech engine doesn't.
+      function speakCurrent() {
         const item = texts[getCurrentIndex()];
         if (!item) return;
         window.speechSynthesis.cancel();
 
-        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-
+        const queue = [];
         for (let i = 0; i < settings.lang1Repeat; i++) {
-          const m = new SpeechSynthesisUtterance(item.lang1);
-          m.lang = "de-DE";
-          if (!isIOS) {
-            const deVoice = getVoice("de-DE");
-            if (deVoice) m.voice = deVoice;
-          }
-          window.speechSynthesis.speak(m);
+          queue.push({ text: item.lang1, lang: "de-DE" });
+        }
+        for (let i = 0; i < settings.lang2Repeat; i++) {
+          queue.push({ text: item.lang2, lang: "en-US" });
         }
 
-        for (let i = 0; i < settings.lang2Repeat; i++) {
-          const m = new SpeechSynthesisUtterance(item.lang2);
-          m.lang = "en-US";
-          if (!isIOS) {
-            const enVoice = getVoice("en-US");
-            if (enVoice) m.voice = enVoice;
-          }
-          window.speechSynthesis.speak(m);
+        playQueue(queue, 0);
+      }
+
+      function playQueue(queue, index) {
+        if (index >= queue.length) return;
+
+        const { text, lang } = queue[index];
+        const m = new SpeechSynthesisUtterance(text);
+        m.lang = lang;
+
+        if (!isIOS) {
+          const voice = getVoice(lang);
+          if (voice) m.voice = voice;
         }
+
+        m.onend = () => playQueue(queue, index + 1);
+        m.onerror = () => playQueue(queue, index + 1); // don't get stuck if one utterance fails
+
+        window.speechSynthesis.speak(m);
       }
 
       function getCurrentIndex() {
@@ -310,7 +323,7 @@ function speakCurrent() {
           nextBtn.disabled = true;
           return;
         }
-        
+
         const item = texts[idx];
         const lang1Text = item.lang1 !== undefined ? item.lang1 : (item.de !== undefined ? item.de : item.it);
         const lang2Text = item.lang2 !== undefined ? item.lang2 : (item.en !== undefined ? item.en : item.it);
