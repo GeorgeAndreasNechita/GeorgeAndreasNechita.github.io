@@ -224,9 +224,24 @@
         return voice;
       }
 
-      // Preload voices for browsers that load them asynchronously (like Safari/Chrome)
-      if (typeof window.speechSynthesis !== 'undefined' && window.speechSynthesis.onvoiceschanged !== undefined) {
-        window.speechSynthesis.onvoiceschanged = () => { window.speechSynthesis.getVoices(); };
+      // Preload voices for browsers that load them asynchronously (like Safari/Chrome).
+      // iOS in particular returns an empty array from getVoices() until the
+      // voiceschanged event fires, so we cache the loaded list here and
+      // expose a promise other code can await before picking a voice.
+      let voicesReadyResolve;
+      const voicesReady = new Promise((resolve) => { voicesReadyResolve = resolve; });
+
+      function primeVoices() {
+        const voices = window.speechSynthesis.getVoices();
+        if (voices.length) {
+          voicesReadyResolve(voices);
+        }
+      }
+      if (typeof window.speechSynthesis !== 'undefined') {
+        primeVoices();
+        window.speechSynthesis.onvoiceschanged = () => {
+          primeVoices();
+        };
       }
 
       async function loadTexts() {
@@ -276,10 +291,18 @@
       // Firing multiple speak() calls back-to-back (the old loop) is what
       // caused the distorted/sped-up audio on iOS Safari - Chrome and
       // Android tolerate a stacked queue fine, iOS's speech engine doesn't.
-      function speakCurrent() {
+      async function speakCurrent() {
         const item = texts[getCurrentIndex()];
         if (!item) return;
         window.speechSynthesis.cancel();
+
+        // Wait (briefly) for iOS to hand us its real voice list before
+        // building utterances - otherwise getVoice() finds nothing and
+        // iOS falls back to the default (English) voice for everything.
+        await Promise.race([
+          voicesReady,
+          new Promise((resolve) => setTimeout(resolve, 300)),
+        ]);
 
         const queue = [];
         for (let i = 0; i < settings.lang1Repeat; i++) {
@@ -299,10 +322,10 @@
         const m = new SpeechSynthesisUtterance(text);
         m.lang = lang;
 
-        if (!isIOS) {
-          const voice = getVoice(lang);
-          if (voice) m.voice = voice;
-        }
+        // Always set the voice explicitly (including iOS) - relying on
+        // .lang alone isn't reliably picking the right system voice.
+        const voice = getVoice(lang);
+        if (voice) m.voice = voice;
 
         m.onend = () => playQueue(queue, index + 1);
         m.onerror = () => playQueue(queue, index + 1); // don't get stuck if one utterance fails
