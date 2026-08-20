@@ -269,24 +269,30 @@
         lang2Btn.className = "top-btn " + (settings.lang2Repeat === 0 ? "state-off" : "state-1x");
       }
 
-      function speakCurrent() {
+function speakCurrent() {
         const item = texts[getCurrentIndex()];
         if (!item) return;
         window.speechSynthesis.cancel();
 
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+
         for (let i = 0; i < settings.lang1Repeat; i++) {
           const m = new SpeechSynthesisUtterance(item.lang1);
           m.lang = "de-DE";
-          const deVoice = getVoice("de-DE");
-          if (deVoice) m.voice = deVoice; // Explicitly assign voice for iOS support
+          if (!isIOS) {
+            const deVoice = getVoice("de-DE");
+            if (deVoice) m.voice = deVoice;
+          }
           window.speechSynthesis.speak(m);
         }
 
         for (let i = 0; i < settings.lang2Repeat; i++) {
           const m = new SpeechSynthesisUtterance(item.lang2);
           m.lang = "en-US";
-          const enVoice = getVoice("en-US");
-          if (enVoice) m.voice = enVoice; // Explicitly assign voice for iOS support
+          if (!isIOS) {
+            const enVoice = getVoice("en-US");
+            if (enVoice) m.voice = enVoice;
+          }
           window.speechSynthesis.speak(m);
         }
       }
