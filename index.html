@@ -214,14 +214,23 @@
       // Helper function to find voices properly on iOS and other browsers
       function getVoice(lang) {
         const voices = window.speechSynthesis.getVoices();
-        // Try exact match first (e.g., "de-DE")
-        let voice = voices.find(v => v.lang === lang);
-        if (!voice) {
-          // Fallback to language prefix match (e.g., "de")
-          const shortLang = lang.split('-')[0];
-          voice = voices.find(v => v.lang.startsWith(shortLang));
-        }
-        return voice;
+
+        // Try exact match first (e.g., "de-DE"), else fall back to
+        // language-prefix match (e.g., "de")
+        const exactMatches = voices.filter(v => v.lang === lang);
+        const shortLang = lang.split('-')[0];
+        const prefixMatches = voices.filter(v => v.lang.startsWith(shortLang));
+        const candidates = exactMatches.length ? exactMatches : prefixMatches;
+
+        if (!candidates.length) return undefined;
+
+        // iOS often installs several voices per language (a default
+        // "compact" one plus "Enhanced"/"Premium" ones if downloaded in
+        // Settings). Prefer the higher-quality one when more than one exists.
+        const isHighQuality = (v) =>
+          /enhanced|premium|neural/i.test(v.name) || /enhanced|premium|neural/i.test(v.voiceURI || "");
+
+        return candidates.find(isHighQuality) || candidates[0];
       }
 
       // Preload voices for browsers that load them asynchronously (like Safari/Chrome).
