@@ -280,7 +280,7 @@
           nextBtn.disabled = true;
           return;
         }
-        container.innerHTML = `<div class="tr-it">${texts[idx].it}</div><div class="tr-de">${texts[idx].de}</div>`;
+        container.innerHTML = `<div class="tr-it">${texts[idx].lang1}</div><div class="tr-de">${texts[idx].lang2}</div>`;
         document.getElementById("repeat-btn-el").style.display = "inline-block";
         document.getElementById("counter-display").innerHTML = `${idx + 1} von ${texts.length}`;
         nextBtn.disabled = false;
