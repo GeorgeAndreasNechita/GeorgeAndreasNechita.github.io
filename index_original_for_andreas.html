@@ -254,13 +254,13 @@
         if (!item) return;
         window.speechSynthesis.cancel();
         for (let i = 0; i < settings.itRepeat; i++) {
-          const m = new SpeechSynthesisUtterance(item.it);
+          const m = new SpeechSynthesisUtterance(item.lang1);
           m.lang = "it-IT";
           
           window.speechSynthesis.speak(m);
         }
         for (let i = 0; i < settings.deRepeat; i++) {
-          const m = new SpeechSynthesisUtterance(item.de);
+          const m = new SpeechSynthesisUtterance(item.lang2);
           m.lang = "de-DE";
           
           window.speechSynthesis.speak(m);
