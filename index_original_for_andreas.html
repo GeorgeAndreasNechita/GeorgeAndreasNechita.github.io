@@ -211,7 +211,7 @@
 
       async function loadTexts() {
         try {
-          const url = "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts.json";
+          const url = "https://raw.githubusercontent.com/GeorgeAndreasNechita/GeorgeAndreasNechita.github.io/refs/heads/main/texts_it_de.json";
           const cacheBuster = `?t=${Date.now()}`;
           const res = await fetch(url + cacheBuster);
           if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);

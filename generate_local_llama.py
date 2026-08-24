@@ -2,17 +2,29 @@ import json
 import ollama
 
 def get_prompt(n):
-    return f"""
-Generate exactly {n} unique, 100% grammatically correct German-to-English translation pairs designed for an A2 student trying to reach B1. 
-CRITICAL RULES:
-1. Every German phrase ("lang1") must be a complete, grammatically sound sentence between 4 and 7 words long. No broken fragments.
-2. Focus on B1-bridging grammar: subordinate clauses (weil, dass, obwohl), reflexive verbs, or connectors.
-3. Output MUST be a valid raw JSON array of objects with keys "lang1" and "lang2". 
-4. Do NOT wrap the JSON in markdown code blocks. Just output the raw JSON array.
-"""
+    return """
+You are an expert bilingual political analyst, socio-economist, and environmental translator specializing in international relations, public policy, and global sustainability.
+Your task is to generate a JSON array containing exactly {n} unique German (lang1) and English (lang2) phrase pairs. VERY IMPORTANT: The texts should have maximum 8 words.
+To ensure maximum diversity, strictly adhere to the following variation rules across the generated set:
+Grammar & Structure: Mix declarative statements, interrogative questions (using cómo, cuál, por qué, etc.), imperative policy calls to action, conditional clauses, and passive-voice phrasing.
+Thematic Spread: Cover a wide range of sub-topics, including comparative Ecuadorian and German domestic politics, Global South vs. Global North economic models, social welfare systems, environmental conservation (e.g., Yasuní vs. Energiewende), renewable energy transition, and carbon footprint reduction strategies.
+Tone: Include a balance of formal diplomatic phrasing, academic socio-economic debate, activist call-to-action rhetoric, and policy negotiation language.
+Complexity: Vary the structure from short, punchy statements to complex, multi-clause analytical expressions.
+
+Formatting Rules:
+- Output valid JSON only. Do not wrap the JSON in markdown code blocks if requested otherwise, or use standard json formatting.
+- Ensure the JSON structure strictly follows this schema:
+[
+  {{
+    "lang1": "German sentence here.",
+    "lang2": "English translation here."
+  }}
+]
+- Do not repeat sentence structures or vocabulary patterns consecutively.
+""".format(n=n)
 
 all_phrases = []
-target_total = 10000  # Keep it small for testing, scale to 20000 later!
+target_total = 20  # Keep it small for testing, scale to 20000 later!
 batch_size = 20     # Lower batch size (20-30) prevents the model from breaking JSON rules
 total_batches = target_total // batch_size
 
