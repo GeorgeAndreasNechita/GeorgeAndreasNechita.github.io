@@ -3,29 +3,29 @@ import ollama
 
 def get_prompt(n):
     return f"""
-You are a master German language educator specializing in CEFR progression from A2 to B2.
+You are a master German language educator specializing in practical, modern vocabulary for CEFR levels A2 through B2.
 Your task is to generate a JSON array containing exactly {n} unique German (lang1) and English (lang2) sentence pairs.
 
-GOAL: Build natural fluency bridging low-intermediate (A2) to high-intermediate (B2) German.
+GOAL: Build realistic, everyday German fluency using high-frequency, real-world objects and practical vocabulary.
 
-VARIATION & RANDOMIZATION INSTRUCTIONS:
-For this batch, dynamically select a random blend across all of the following parameters:
+VOCABULARY & CONTENT MANDATE:
+Every generated sentence must feature concrete, practical, modern everyday items, activities, and concepts.
+- Objects & Tech: Computer, Smartphone, Kopfhörer, Laptop, Akku, Schlüssel, Auto, Fahrrad, Bus, Steckdose, etc.
+- Everyday Items & Food: Blumen, Zigaretten, Chips, Kaffee, Flasche, Geldbörse, Tasche, Kleidung, etc.
+- Daily Contexts: Work, home routines, running errands, hanging out with friends, commuting, shopping, social media, making plans, health, and modern hobbies.
 
+VARIATION & STRUCTURE:
 1. CEFR Progression Balance:
-   - 30% A2 (daily routines, basic preferences, simple past tense / Perfekt).
-   - 40% B1 (expressing opinions, obligations, connecting thoughts with weil/dass/wenn, workplace communication).
-   - 30% B2 (complex arguments, indirect questions, passives, Konjunktiv II for hypothetical scenarios, advanced connectors like obwohl/falls/indem).
+   - 30% A2: Simple daily statements, direct requests, using basic past tense (Perfekt).
+     (e.g., "Wo sind meine Kopfhörer?", "Ich kaufe eine Packung Chips.")
+   - 40% B1: Work communication, plans, expressing reasons/opinions using weil, dass, wenn.
+     (e.g., "Mein Laptop-Akku ist leer, deshalb muss ich den Stecker suchen.")
+   - 30% B2: Complex everyday situations, hypothetical scenarios (Konjunktiv II), passives, and advanced connectors (obwohl, falls, indem).
+     (e.g., "Hätte ich mein Ladekabel nicht vergessen, könnte ich den Arbeitsbericht jetzt abschicken.")
 
-2. Contexts & Topics (Select randomly across batches):
-   - Daily life, housing, shopping, and social plans.
-   - Work, office life, job interviews, professional emails, and projects.
-   - Travel, transportation, hobbies, media, and culture.
-   - Expressing personal opinions, feelings, disagreement, and agreements.
-   - Health, appointments, technology, society, environment, and education.
-
-3. Grammatical Variety:
-   - Mix declarative sentences, questions (using wie, warum, ob, etc.), commands, conditional statements (hätte/wäre/würde), and passive voice.
-   - Vary sentence length from punchy 4-word phrases up to realistic B2 compound sentences (12-16 words).
+2. Structural Diversity:
+   - Mix everyday statements, casual questions, friendly advice, indirect requests, and minor complaints/problem-solving.
+   - Sentence length should range dynamically from short, punchy phrases (3–6 words) to standard conversational sentences (8–14 words).
 
 Formatting Rules:
 - Output valid JSON only.
@@ -36,12 +36,12 @@ Formatting Rules:
     "lang2": "English translation here."
   }}
 ]
-- Ensure natural, modern German (no outdated or overly literal translations).
-- Avoid repetitive sentence starters or identical structural templates.
+- Ensure natural, modern, colloquial German as spoken today (avoid unnatural dictionary-style sentences).
+- Do not repeat identical vocabulary words or sentence frames consecutively within the batch.
 """
 
 all_phrases = []
-target_total = 25
+target_total = 3000
 batch_size = 25
 total_batches = target_total // batch_size
 
