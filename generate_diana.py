@@ -34,30 +34,41 @@ for current_batch in range(total_batches):
     print(f"Generating batch {current_batch + 1} of {total_batches}...")
     try:
         response = ollama.chat(
-            model="qwen2.5",
+            model="qwen2.5:14b",  # Fits completely inside 16GB VRAM
+            format="json",         # Forces Ollama to strictly enforce valid JSON output
             messages=[{"role": "user", "content": get_prompt(batch_size)}],
-            options={"num_ctx": 4096, "temperature": 0.7}
+            options={"num_ctx": 4096, "temperature": 0.5}
         )
 
         content = response["message"]["content"].strip()
-
-        # Clean up markdown code blocks if the model adds them anyway
-        if content.startswith("```"):
-            content = content.split("```")[1]
-            if content.startswith("json"):
-                content = content[4:].strip()
-            content = content.strip("`").strip()
-
-        # Attempt to parse JSON safely
+        
+        # Parse JSON directly
         batch = json.loads(content)
-        all_phrases.extend(batch)
-        print(f"Batch {current_batch + 1} successful!")
-
+        
+        # --- NEW CODE: Defensive unpacking ---
+        # If the LLM wrapped the array in a dictionary (e.g., {"phrases": [...]})
+        if isinstance(batch, dict):
+            extracted_list = []
+            for value in batch.values():
+                if isinstance(value, list):
+                    extracted_list = value
+                    break
+            # If it just returned a single item instead of a list
+            if not extracted_list and "lang1" in batch:
+                extracted_list = [batch]
+            batch = extracted_list
+            
+        # Ensure batch is a list and only extend with dictionary objects
+        if isinstance(batch, list):
+            valid_items = [item for item in batch if isinstance(item, dict)]
+            all_phrases.extend(valid_items)
+            print(f"Batch {current_batch + 1} successful! Extracted {len(valid_items)} phrases.")
+        else:
+            print(f"Warning: Batch {current_batch + 1} returned unexpected JSON structure.")
+        # --- END NEW CODE ---
+        
     except json.JSONDecodeError as jde:
-        print(f"JSON parsing error in batch {current_batch + 1}: {jde}. Attempting to recover...")
-        # Optional: Print out a snippet of the broken content to see what went wrong
-    except Exception as e:
-        print(f"Unexpected error in batch {current_batch + 1}: {e}. Skipping batch...")
+        print(f"JSON parsing error in batch {current_batch + 1}: {jde}.")
 
 # --- DEDUPLICATION STEP ---
 seen = set()
@@ -69,7 +80,7 @@ for item in all_phrases:
         unique_phrases.append(item)
 
 # Save final clean list to file
-with open("texts1.json", "w", encoding="utf-8") as f:
+with open("texts_temporary.json", "w", encoding="utf-8") as f:
     json.dump(unique_phrases, f, ensure_ascii=False, indent=2)
 
-print(f"Finished! Successfully saved {len(unique_phrases)} unique phrases to texts1.json.")
+print(f"Finished! Successfully saved {len(unique_phrases)} unique phrases to texts_temporary.json.")
