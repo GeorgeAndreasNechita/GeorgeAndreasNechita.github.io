@@ -22,7 +22,7 @@
 
       * {
         box-sizing: border-box;
-        -webkit-tap-highlight-color: transparent; /* Entfernt den blauen Kasten beim Tabben auf Android/iOS */
+        -webkit-tap-highlight-color: transparent;
       }
       body,
       html {
@@ -45,6 +45,7 @@
         gap: 8px;
         z-index: 10;
         justify-content: flex-end;
+        flex-wrap: wrap;
       }
 
       .top-btn {
@@ -90,6 +91,12 @@
         transform: scale(1.05);
       }
 
+      .state-order {
+        border-color: var(--accent-color);
+        color: var(--accent-color);
+        background: rgba(187, 134, 252, 0.1);
+      }
+
       /* Hauptbereich */
       #display-area {
         height: 50vh;
@@ -103,19 +110,19 @@
       #content-container {
         margin: 12vh 10px 0;
       }
-      .tr-it {
+      .tr-first {
         color: var(--secondary-color);
         font-size: 1.15rem;
         font-weight: 600;
         margin-bottom: 8px;
       }
-      .tr-de {
+      .tr-second {
         font-size: 1.15rem;
         opacity: 0.7;
         margin-bottom: 25px;
       }
 
-      /* OPTIMIERTER REPEAT BUTTON */
+      /* REPEAT BUTTON */
       .repeat-btn {
         padding: 40px 60px;
         min-width: 200px;
@@ -123,7 +130,7 @@
         background: rgba(187, 134, 252, 0.05);
         border: 2px solid var(--accent-color);
         color: var(--accent-color);
-        border-radius: 5px; /* Rundere Ecken für besseres Daumengefühl */
+        border-radius: 5px;
         cursor: pointer;
         font-weight: bold;
         font-size: 1.1rem;
@@ -132,7 +139,7 @@
       }
       
       .repeat-btn:active {
-        transform: scale(0.92); /* Deutliches Drück-Feedback */
+        transform: scale(0.92);
         background: rgba(187, 134, 252, 0.2);
       }
 
@@ -141,7 +148,7 @@
         width: 100%;
       }
 
-      /* OPTIMIERTER NEXT BUTTON */
+      /* NEXT BUTTON */
       .next-btn {
         width: 100%;
         height: 100%;
@@ -160,7 +167,7 @@
 
       .next-btn:active {
         background: #252525;
-        transform: scale(0.98); /* Minimale Stauchung gibt Gefühl von Tiefe */
+        transform: scale(0.98);
       }
 
       .next-btn:disabled {
@@ -178,9 +185,10 @@
   </head>
   <body>
     <div class="top-controls">
+      <button id="order-toggle" onclick="toggleOrder()" class="top-btn state-order">🇮🇹 ➔ 🇩🇪</button>
       <button id="it-toggle" onclick="cycleIt()" class="top-btn">IT: --</button>
       <button id="de-toggle" onclick="cycleDe()" class="top-btn">DE: --</button>
-      <button onclick="changeIndex()" class="top-btn">Change Index</button>
+      <button onclick="changeIndex()" class="top-btn">Index</button>
     </div>
 
     <div id="display-area">
@@ -207,6 +215,7 @@
       let settings = {
         itRepeat: parseInt(localStorage.getItem("itRepeat") || "1"),
         deRepeat: parseInt(localStorage.getItem("deRepeat") || "1"),
+        order: localStorage.getItem("speechOrder") || "IT_DE" // 'IT_DE' oder 'DE_IT'
       };
 
       async function loadTexts() {
@@ -235,35 +244,60 @@
         updateButtonsUI();
       }
 
+      function toggleOrder() {
+        settings.order = settings.order === "IT_DE" ? "DE_IT" : "IT_DE";
+        save();
+        updateButtonsUI();
+        renderData();
+      }
+
       function save() {
         localStorage.setItem("itRepeat", settings.itRepeat);
         localStorage.setItem("deRepeat", settings.deRepeat);
+        localStorage.setItem("speechOrder", settings.order);
       }
 
       function updateButtonsUI() {
         const itBtn = document.getElementById("it-toggle");
         const deBtn = document.getElementById("de-toggle");
+        const orderBtn = document.getElementById("order-toggle");
+        
         itBtn.innerHTML = `🇮🇹 IT: ${settings.itRepeat === 0 ? "AUS" : settings.itRepeat + "x"}`;
         itBtn.className = "top-btn " + (settings.itRepeat === 0 ? "state-off" : "state-" + settings.itRepeat + "x");
+        
         deBtn.innerHTML = `🇩🇪 DE: ${settings.deRepeat === 0 ? "AUS" : "1x"}`;
         deBtn.className = "top-btn " + (settings.deRepeat === 0 ? "state-off" : "state-1x");
+
+        orderBtn.innerHTML = settings.order === "IT_DE" ? "🇮🇹 ➔ 🇩🇪" : "🇩🇪 ➔ 🇮🇹";
       }
 
       function speakCurrent() {
         const item = texts[getCurrentIndex()];
         if (!item) return;
         window.speechSynthesis.cancel();
-        for (let i = 0; i < settings.itRepeat; i++) {
-          const m = new SpeechSynthesisUtterance(item.lang1);
-          m.lang = "it-IT";
-          
-          window.speechSynthesis.speak(m);
-        }
-        for (let i = 0; i < settings.deRepeat; i++) {
-          const m = new SpeechSynthesisUtterance(item.lang2);
-          m.lang = "de-DE";
-          
-          window.speechSynthesis.speak(m);
+
+        const playIt = () => {
+          for (let i = 0; i < settings.itRepeat; i++) {
+            const m = new SpeechSynthesisUtterance(item.lang1);
+            m.lang = "it-IT";
+            window.speechSynthesis.speak(m);
+          }
+        };
+
+        const playDe = () => {
+          for (let i = 0; i < settings.deRepeat; i++) {
+            const m = new SpeechSynthesisUtterance(item.lang2);
+            m.lang = "de-DE";
+            window.speechSynthesis.speak(m);
+          }
+        };
+
+        if (settings.order === "IT_DE") {
+          playIt();
+          playDe();
+        } else {
+          playDe();
+          playIt();
         }
       }
 
@@ -275,12 +309,17 @@
         const idx = getCurrentIndex();
         const container = document.getElementById("content-container");
         const nextBtn = document.querySelector(".next-btn");
+        
         if (idx >= texts.length) {
           container.innerHTML = "Ende!";
           nextBtn.disabled = true;
           return;
         }
-        container.innerHTML = `<div class="tr-it">${texts[idx].lang1}</div><div class="tr-de">${texts[idx].lang2}</div>`;
+
+        const firstLang = settings.order === "IT_DE" ? texts[idx].lang1 : texts[idx].lang2;
+        const secondLang = settings.order === "IT_DE" ? texts[idx].lang2 : texts[idx].lang1;
+
+        container.innerHTML = `<div class="tr-first">${firstLang}</div><div class="tr-second">${secondLang}</div>`;
         document.getElementById("repeat-btn-el").style.display = "inline-block";
         document.getElementById("counter-display").innerHTML = `${idx + 1} von ${texts.length}`;
         nextBtn.disabled = false;
