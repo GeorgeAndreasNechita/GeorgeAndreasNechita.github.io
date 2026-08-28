@@ -1,2834 +1,668 @@
 [
-  {
-    "lang1": "L'austerità non è la risposta.",
-    "lang2": "Die Ärmlichkeitskürzungen sind nicht die Lösung."
-  },
-  {
-    "lang1": "Il welfare deve essere globale.",
-    "lang2": "Der Wohlfahrtsstaat muss global sein."
-  },
-  {
-    "lang1": "Risparmia energia per il futuro.",
-    "lang2": "Spare Energie für die Zukunft."
-  },
-  {
-    "lang1": "Yasuní protegga la biodiversità.",
-    "lang2": "Yasuní schütze die Biodiversität."
-  },
-  {
-    "lang1": "Energiewende è possibile.",
-    "lang2": "Energiewende ist möglich."
-  },
-  {
-    "lang1": "Domesticità italiana vs. globale.",
-    "lang2": "Italienische Domizile versus globale Modelle."
-  },
-  {
-    "lang1": "Sostanze chimiche dannose.",
-    "lang2": "Schädliche Chemikalien."
-  },
-  {
-    "lang1": "Risorse naturali devono proteggersi.",
-    "lang2": "Natürliche Ressourcen müssen geschützt werden."
-  },
-  {
-    "lang1": "Il cambiamento climatico è urgente.",
-    "lang2": "Klimawandel ist dringend."
-  },
-  {
-    "lang1": "Carbono zero con riciclo.",
-    "lang2": "Null-Umweltbelastung durch Recycling."
-  },
-  {
-    "lang1": "Pensioni per tutti.",
-    "lang2": "Pensionsversorgung für alle."
-  },
-  {
-    "lang1": "Il Nord e il Sud unis.",
-    "lang2": "Norden und Süden vereint."
-  },
-  {
-    "lang1": "Sostenibilità per la giustizia.",
-    "lang2": "Nachhaltigkeit für Gerechtigkeit."
-  },
-  {
-    "lang1": "Parchi naturali a protezione.",
-    "lang2": "Naturschutzparks geschützt."
-  },
-  {
-    "lang1": "Educazione per la sostenibilità.",
-    "lang2": "Bildung für Nachhaltigkeit."
-  },
-  {
-    "lang1": "Politiche per l'uguaglianza.",
-    "lang2": "Politiken für Gleichstellung."
-  },
-  {
-    "lang1": "L'ambiente è un diritto.",
-    "lang2": "Die Umwelt ist ein Recht."
-  },
-  {
-    "lang1": "Energia rinnovabile obbligatoria.",
-    "lang2": "Erneuerbare Energie ist Pflicht."
-  },
-  {
-    "lang1": "Innovazione per un futuro.",
-    "lang2": "Innovation für die Zukunft."
-  },
-  {
-    "lang1": "Risparmia acqua ora.",
-    "lang2": "Spare Wasser jetzt."
-  },
-  {
-    "lang1": "L'energia rinnovabile è chiave.",
-    "lang2": "Die erneuerbare Energie ist entscheidend."
-  },
-  {
-    "lang1": "Riduciamo il nostro footprint.",
-    "lang2": "Senken wir unseren Fußabdruck."
-  },
-  {
-    "lang1": "Sostegno sociale: un diritto.",
-    "lang2": "Soziale Sicherheit: ein Recht."
-  },
-  {
-    "lang1": "Politiche ambientali rigorose.",
-    "lang2": "Rigide Umweltpolitiken."
-  },
-  {
-    "lang1": "Energiewende necessaria.",
-    "lang2": "Energiewende notwendig."
-  },
-  {
-    "lang1": "Benessere sociale primario.",
-    "lang2": "Soziales Wohlergehen als Erstes."
-  },
-  {
-    "lang1": "Sostenibilità economico-sociale.",
-    "lang2": "Wirtschafts- und soziale Nachhaltigkeit."
-  },
-  {
-    "lang1": "Politiche iniquamente distribuite.",
-    "lang2": "Unfair verteilte Politiken."
-  },
-  {
-    "lang1": "Global South deve crescere.",
-    "lang2": "Globaler Süden muss wachsen."
-  },
-  {
-    "lang1": "Conservazione del Yasuní.",
-    "lang2": "Yasuní-Konservierung."
-  },
-  {
-    "lang1": "Risorse umane sottoutilizzate.",
-    "lang2": "Untermenschen-Ressourcen."
-  },
-  {
-    "lang1": "Rifondazione politica necessaria.",
-    "lang2": "Politische Neuorientierung notwendig."
-  },
-  {
-    "lang1": "Sviluppo sostenibile per tutti.",
-    "lang2": "Nachhaltiger Entwicklung für alle."
-  },
-  {
-    "lang1": "Risorse energetiche rinnovabili.",
-    "lang2": "Erneuerbare Energiesysteme."
-  },
-  {
-    "lang1": "Economia del Nord vs. Sud.",
-    "lang2": "Nord- und Südekonometrie."
-  },
-  {
-    "lang1": "Riflessioni sulla democrazia.",
-    "lang2": "Demokratieflexionen."
-  },
-  {
-    "lang1": "Sovrapposizione politica italiana.",
-    "lang2": "Italienische politische Überlappung."
-  },
-  {
-    "lang1": "Risparmio energetico obbligatorio.",
-    "lang2": "Energetisches Sparen verpflichtend."
-  },
-  {
-    "lang1": "Riforma della welfare è urgente.",
-    "lang2": "Die Wohlfahrtspolitik muss dringend überarbeitet werden."
-  },
-  {
-    "lang1": "Politiche per un futuro sostenibile.",
-    "lang2": "Politiken für eine nachhaltige Zukunft."
-  },
-  {
-    "lang1": "Energiewende in Europa.",
-    "lang2": "Energiewende in Europa."
-  },
-  {
-    "lang1": "Inversioni in rinnovabili cruciali.",
-    "lang2": "Investitionen in Erneuerbare Energien sind entscheidend."
-  },
-  {
-    "lang1": "Reducazione del consumo energetico.",
-    "lang2": "Energieträgerverbrauch reduzieren."
-  },
-  {
-    "lang1": "Sostenibilità ambientale in primo piano.",
-    "lang2": "UmweltNachhaltigkeit ist von Vornherein wichtig."
-  },
-  {
-    "lang1": "Yasuní e il patto per la terra.",
-    "lang2": "Yasuní und der Pakt für die Erde."
-  },
-  {
-    "lang1": "Equità tra Nord e Sud.",
-    "lang2": "Gerechtigkeit zwischen Norden und Süden."
-  },
-  {
-    "lang1": "Innovazione per l'energia pulita.",
-    "lang2": "Innovation für saubere Energie."
-  },
-  {
-    "lang1": "Conservazione dell'ecosistema.",
-    "lang2": "Ecosystem-Bewahrung."
-  },
-  {
-    "lang1": "Sicurezza alimentare garantita.",
-    "lang2": "Versorgungssicherheit gewährleistet."
-  },
-  {
-    "lang1": "Politiche sociali inclusive.",
-    "lang2": "Inklusivere Sozialpolitik."
-  },
-  {
-    "lang1": "Sviluppo sostenibile a livello globale.",
-    "lang2": "Globaler nachhaltiger Entwicklung."
-  },
-  {
-    "lang1": "Risposta alle emergenze climatiche.",
-    "lang2": "Klimakatastrophen-Response."
-  },
-  {
-    "lang1": "Protezione dei diritti indigeni.",
-    "lang2": "Befestigung der Rechte der Indigene."
-  },
-  {
-    "lang1": "Economie del Nord e del Sud.",
-    "lang2": "Nord- und Südekonomien."
-  },
-  {
-    "lang1": "Politiche energetiche sostenibili.",
-    "lang2": "Nachhaltige Energiewege."
-  },
-  {
-    "lang1": "Riduzione dell'impronta carbonica.",
-    "lang2": "Kohlenstoffsignatur reduzieren."
-  },
-  {
-    "lang1": "Il partito è diventato più progressista.",
-    "lang2": "Die Partei ist progressiver geworden."
-  },
-  {
-    "lang1": "Come ridurre il consumo di carbone?",
-    "lang2": "Wie kann man den Kohlenbergbau reduzieren?"
-  },
-  {
-    "lang1": "Riflette sulle politiche sociali.",
-    "lang2": "Reflektiere über die Sozialpolitiken."
-  },
-  {
-    "lang1": "Innovazioni che migliorano la qualità.",
-    "lang2": "Innovationen, die die Qualität verbessern."
-  },
-  {
-    "lang1": "La politica climatica è critica.",
-    "lang2": "Die Klimapolitik ist kritisch."
-  },
-  {
-    "lang1": "Impatto ambientale ridotto.",
-    "lang2": "Umweltaufwand reduziert."
-  },
-  {
-    "lang1": "Il modello di sviluppo sostenibile.",
-    "lang2": "Das nachhaltige Entwicklungsmuster."
-  },
-  {
-    "lang1": "Perché sostenere l'Energiewende?",
-    "lang2": "Warum unterstützen wir die Energiewende?"
-  },
-  {
-    "lang1": "Migliori servizi sanitari per tutti.",
-    "lang2": "Bessere Gesundheitsdienste für alle."
-  },
-  {
-    "lang1": "Risorse naturali a rischio.",
-    "lang2": "Naturliche Ressourcen unter Bedrohung."
-  },
-  {
-    "lang1": "Come proteggere la biodiversità?",
-    "lang2": "Wie kann man die Biodiversität schützen?"
-  },
-  {
-    "lang1": "Riduzione delle emissioni industriali.",
-    "lang2": "Reduzierung industrieller Emissionen."
-  },
-  {
-    "lang1": "Il sistema pensionistico è in crisi.",
-    "lang2": "Das Rentensystem ist in Krisen."
-  },
-  {
-    "lang1": "Promuovere la collaborazione internazionale.",
-    "lang2": "Die internationale Zusammenarbeit fördern."
-  },
-  {
-    "lang1": "Pensioni più equilibrate.",
-    "lang2": "Gerechtere Renten."
-  },
-  {
-    "lang1": "Energia rinnovabile a livello locale.",
-    "lang2": "Erneuerbare Energie auf lokaler Ebene."
-  },
-  {
-    "lang1": "Innovazioni che riducono il consumo.",
-    "lang2": "Innovationen, die den Konsum reduzieren."
-  },
-  {
-    "lang1": "Come migliorare la sicurezza alimentare?",
-    "lang2": "Wie kann man die Lebensmittelsicherheit verbessern?"
-  },
-  {
-    "lang1": "Strategie per ridurre il CO2.",
-    "lang2": "Strategien zur CO2-Reduktion."
-  },
-  {
-    "lang1": "Riflettere sulle politiche di sussidio.",
-    "lang2": "Reflektieren Sie über die Subventionspolitiken."
-  },
-  {
-    "lang1": "Riforma del sistema sanitario.",
-    "lang2": "Sanitärsystemreform."
-  },
-  {
-    "lang1": "Come ridurre le disuguaglianze economiche?",
-    "lang2": "Wie können wir die wirtschaftlichen Ungleichheiten verringern?"
-  },
-  {
-    "lang1": "Italia e Ecuador: modelli politici.",
-    "lang2": "Italien und Ecuador: politische Modelle."
-  },
-  {
-    "lang1": "Sostenibilità energetica necessaria.",
-    "lang2": "Energetische Nachhaltigkeit notwendig."
-  },
-  {
-    "lang1": "Por qué invertir en riego eficiente?",
-    "lang2": "Warum man effiziente Bewässerung investieren sollte."
-  },
-  {
-    "lang1": "Come aumentare la partecipazione sociale?",
-    "lang2": "Wie können wir die soziale Beteiligung erhöhen?"
-  },
-  {
-    "lang1": "Italia e Nord Europa: differenze.",
-    "lang2": "Italien und Nordeuropa: Unterschiede."
-  },
-  {
-    "lang1": "Sussidi al lavoro: beneficio o problema?",
-    "lang2": "Arbeitslöhne: Vorteil oder Problem?"
-  },
-  {
-    "lang1": "Come ridurre l'uso dei fertilizzanti?",
-    "lang2": "Wie kann der Einsatz von Düngemitteln reduziert werden?"
-  },
-  {
-    "lang1": "Italia e Yasuní: contrasto.",
-    "lang2": "Italien und Yasuní: Kontrast."
-  },
-  {
-    "lang1": "Come affrontare la povertà?",
-    "lang2": "Wie kann die Armut angegangen werden?"
-  },
-  {
-    "lang1": "Italia e Germania: politiche contrastanti.",
-    "lang2": "Italien und Deutschland: konträre Politiken."
-  },
-  {
-    "lang1": "Risorse naturali: conservazione o sfruttamento?",
-    "lang2": "Naturalschätze: Erhaltung oder Ausbeutung?"
-  },
-  {
-    "lang1": "Italia e Sud America: relazioni economiche.",
-    "lang2": "Italien und Südamerika: wirtschaftliche Beziehungen."
-  },
-  {
-    "lang1": "Come promuovere l'innovazione?",
-    "lang2": "Wie kann die Innovation gefördert werden?"
-  },
-  {
-    "lang1": "Sistema educativo: miglioramenti necessari.",
-    "lang2": "Bildungssystem: Verbesserungen notwendig."
-  },
-  {
-    "lang1": "Come ridurre il consumo di plastica?",
-    "lang2": "Wie kann der Plastikverbrauch reduziert werden?"
-  },
-  {
-    "lang1": "Italia e Asia: scambi commerciali.",
-    "lang2": "Italien und Asien: Handelsbeziehungen."
-  },
-  {
-    "lang1": "L'educazione è chiave per il futuro.",
-    "lang2": "Die Bildung ist der Schlüssel zum Zukunftsfeld."
-  },
-  {
-    "lang1": "Riduzione delle emissioni di CO2 necessaria.",
-    "lang2": "Die Reduzierung der CO2-Emissionen ist notwendig."
-  },
-  {
-    "lang1": "Come si riduce il cambiamento climatico?",
-    "lang2": "Wie kann das Klimawandel-Abbrechen erreicht werden?"
-  },
-  {
-    "lang1": "Investimenti sostenibili sono cruciali.",
-    "lang2": "Die nachhaltigen Investitionen sind entscheidend."
-  },
-  {
-    "lang1": "Energiewende è indispensabile.",
-    "lang2": "Die Energiewende ist unbedingt notwendig."
-  },
-  {
-    "lang1": "Come implementare la Energiewende?",
-    "lang2": "Wie kann die Energiewende umgesetzt werden?"
-  },
-  {
-    "lang1": "Sostenibilità ambientale, obbligo di tutti.",
-    "lang2": "Die Umwelt Nachhaltigkeit ist Pflicht für alle."
-  },
-  {
-    "lang1": "Cambiamento climatico non si negoziabile.",
-    "lang2": "Der Klimawandel ist nicht verhandelbar."
-  },
-  {
-    "lang1": "Governo deve agire subito.",
-    "lang2": "Der Regierung muss sofort gehandelt werden."
-  },
-  {
-    "lang1": "Risorse naturali devono essere gestite.",
-    "lang2": "Die natürlichen Ressourcen müssen verwaltet werden."
-  },
-  {
-    "lang1": "Come proteggere la Yasuní?",
-    "lang2": "Wie kann die Yasuní geschützt werden?"
-  },
-  {
-    "lang1": "Sistemi economici del Nord vs Sud.",
-    "lang2": "Wirtschaftsmodelle des Norden vs Südens."
-  },
-  {
-    "lang1": "Quali politiche sociali per il futuro?",
-    "lang2": "Welche sozialen Politiken für die Zukunft?"
-  },
-  {
-    "lang1": "Risorse umane sono fondamentali.",
-    "lang2": "Menschliche Ressourcen sind grundlegend wichtig."
-  },
-  {
-    "lang1": "Cambiamento climatico ha priorità.",
-    "lang2": "Der Klimawandel hat Vorrang."
-  },
-  {
-    "lang1": "Come migliorare le politiche sociali?",
-    "lang2": "Wie können die sozialen Politiken verbessert werden?"
-  },
-  {
-    "lang1": "Sostenibilità è un obbligo.",
-    "lang2": "Nachhaltigkeit ist Pflicht."
-  },
-  {
-    "lang1": "Climatico: chi, cosa, quando?",
-    "lang2": "Klimatischer: wer, was, wann?"
-  },
-  {
-    "lang1": "Sicurezza alimentare per tutti.",
-    "lang2": "Sicherheit der Nahrung für alle."
-  },
-  {
-    "lang1": "Come rispettare l'ambiente?",
-    "lang2": "Wie kann der Umwelt Respekt gezahlt werden?"
-  },
-  {
-    "lang1": "Il sistema di assistenza sociale è insufficiente.",
-    "lang2": "Das Sozialsystem ist unzureichend."
-  },
-  {
-    "lang1": "Come ridurre il dischetto della popolazione?",
-    "lang2": "Wie kann man die Bevölkerungszahl verringern?"
-  },
-  {
-    "lang1": "L'Italia sta adottando misure sostenibili.",
-    "lang2": "Die Schweiz nimmt nachhaltige Maßnahmen vor."
-  },
-  {
-    "lang1": "Il governo deve aumentare i fondi per la ricerca.",
-    "lang2": "Der Staat muss den Forschungsbudget erhöhen."
-  },
-  {
-    "lang1": "Perché l'Energiewende va veloce?",
-    "lang2": "Warum geht die Energiewende so schnell voran?"
-  },
-  {
-    "lang1": "La politica energetica è chiave per il futuro.",
-    "lang2": "Die Energiopolitik ist entscheidend für die Zukunft."
-  },
-  {
-    "lang1": "Il Yasuní deve essere protetto.",
-    "lang2": "Der Yasuní muss geschützt werden."
-  },
-  {
-    "lang1": "Come regolamentare le energie rinnovabili?",
-    "lang2": "Wie kann man die nachwachsenden Energiequellen regeln?"
-  },
-  {
-    "lang1": "L'Italia ha un sistema sanitario avanzato.",
-    "lang2": "Die Schweiz hat ein fortschrittliches Gesundheitswesen."
-  },
-  {
-    "lang1": "Perché il Nord è più ricco?",
-    "lang2": "Warum ist der Norden reicher?"
-  },
-  {
-    "lang1": "Il Sud deve sviluppare l'economia.",
-    "lang2": "Südosteuropa muss die Wirtschaft modernisieren."
-  },
-  {
-    "lang1": "La migrazione è un tema politico.",
-    "lang2": "Die Migration ist ein politisches Thema."
-  },
-  {
-    "lang1": "Ridurre il consumo di carbone.",
-    "lang2": "Kohlenstoffverbrauch reduzieren."
-  },
-  {
-    "lang1": "Il parco naturale è in pericolo.",
-    "lang2": "Der Naturpark ist in Gefahr."
-  },
-  {
-    "lang1": "Come migliorare l'istruzione?",
-    "lang2": "Wie kann man die Bildung verbessern?"
-  },
-  {
-    "lang1": "L'Italia ha un alto tasso di disoccupazione.",
-    "lang2": "Die Arbeitslosigkeit in Italien ist hoch."
-  },
-  {
-    "lang1": "Il cambiamento climatico richiede azione.",
-    "lang2": "Klimawandel erfordert Maßnahmen."
-  },
-  {
-    "lang1": "Promuovere l'agricoltura biologica.",
-    "lang2": "Biologische Landwirtschaft fördern."
-  },
-  {
-    "lang1": "Come attuare politiche ambientali sostenibili?",
-    "lang2": "Wie können nachhaltige Umweltvorhaben umgesetzt werden?"
-  },
-  {
-    "lang1": "Ridurre la poveranza nel Sud.",
-    "lang2": "Armut im Süden reduzieren."
-  },
-  {
-    "lang1": "Lavoro in Italia crea più ricchezza.",
-    "lang2": "Der Job im Italia bringt mehr Wohlstand."
-  },
-  {
-    "lang1": "Sistemi sociali: quali modelli funzionano meglio?",
-    "lang2": "Sozialsysteme: Welche Modelle funktionieren am besten?"
-  },
-  {
-    "lang1": "Energiewende: Energia rinnovabile per tutti.",
-    "lang2": "Energiewende: Erneuerbare Energie für alle."
-  },
-  {
-    "lang1": "Ridurre il carbone con tecnologie moderne.",
-    "lang2": "Kohlenstoff verringern mit modernen Technologien."
-  },
-  {
-    "lang1": "Comparare politiche per la crescita economica.",
-    "lang2": "Politiken zur wirtschaftlichen Entwicklung vergleichen."
-  },
-  {
-    "lang1": "Yasuní: proteggere la biodiversità.",
-    "lang2": "Yasuní: Biodiversität schützen."
-  },
-  {
-    "lang1": "Sviluppo sostenibile: un obbligo.",
-    "lang2": "Nachhaltiges Wachstum: ein Pflichten."
-  },
-  {
-    "lang1": "Conservazione ambientale: un investimento.",
-    "lang2": "Umweltschutz: ein Investition."
-  },
-  {
-    "lang1": "Come migliorare il welfare in Ecuador?",
-    "lang2": "Wie man das Wohlfahrtssystem in Ecuador verbessern kann?"
-  },
-  {
-    "lang1": "Energia rinnovabile: un futuro comune.",
-    "lang2": "Erneuerbare Energie: ein gemeinsamer Zukunft."
-  },
-  {
-    "lang1": "Risparmio energetico: tutti possiamo contribuire.",
-    "lang2": "Energieeinsparung: Wir alle können mitwirken."
-  },
-  {
-    "lang1": "Impatto ambientale: politica e responsabilità.",
-    "lang2": "Umweltaspeck: Politik und Verantwortung."
-  },
-  {
-    "lang1": "Economia sostenibile: un obiettivo comune.",
-    "lang2": "Nachhaltige Wirtschaft: ein gemeinsamer Ziel."
-  },
-  {
-    "lang1": "Come ridurre la povertà in Ecuador?",
-    "lang2": "Wie man die Armut in Ecuador verringern kann?"
-  },
-  {
-    "lang1": "Sostegno sociale: chi ne ha bisogno?",
-    "lang2": "Sozialhilfe: Wer braucht sie?"
-  },
-  {
-    "lang1": "Energia ecológica: una soluzione a lungo termine.",
-    "lang2": "Ökologische Energie: eine langlebige Lösung."
-  },
-  {
-    "lang1": "Comparare politiche sociali: Nord vs. Sud.",
-    "lang2": "Politiken im Vergleich: Nord vs. Süden."
-  },
-  {
-    "lang1": "Sistema di welfare: un'opportunità per tutti.",
-    "lang2": "Wohlfahrtsystem: eine Chance für alle."
-  },
-  {
-    "lang1": "Sviluppo verde: un futuro per tutti.",
-    "lang2": "Grüne Entwicklung: ein Zukunft für alle."
-  },
-  {
-    "lang1": "Conservazione dell'acqua: un obbligo.",
-    "lang2": "Wasserbewahrung: ein Pflicht."
-  },
-  {
-    "lang1": "Sostieni i giovani leader.",
-    "lang2": "Stütze die jungen Führer."
-  },
-  {
-    "lang1": "Maggioranza favorevole al cambio.",
-    "lang2": "Mehrheit für den Wandel."
-  },
-  {
-    "lang1": "Riduci il consumo energetico.",
-    "lang2": "Verringere deinen Energieverbrauch."
-  },
-  {
-    "lang1": "Promuovere l'uguaglianza sull'isola.",
-    "lang2": "Fördere die Gleichheit auf der Insel."
-  },
-  {
-    "lang1": "Quale modello di welfare?",
-    "lang2": "Welches Wohlfahrtsmodell?"
-  },
-  {
-    "lang1": "Energiewende richiesta.",
-    "lang2": "Energiewende gefordert."
-  },
-  {
-    "lang1": "Sostenibilità a tutti i livelli.",
-    "lang2": "Nachhaltigkeit auf allen Ebenen."
-  },
-  {
-    "lang1": "Yasuní e il patto ambientale.",
-    "lang2": "Yasuní und der Umweltpakt."
-  },
-  {
-    "lang1": "Risparmio energetico necessario.",
-    "lang2": "Energieeffizienz ist notwendig."
-  },
-  {
-    "lang1": "Carbono zero come obiettivo.",
-    "lang2": "Null Kohlendioxid als Ziel."
-  },
-  {
-    "lang1": "Pacto ambiental urgente.",
-    "lang2": "Ungewöhnlicher Umweltpakt."
-  },
-  {
-    "lang1": "Riflessioni su Yasuní.",
-    "lang2": "Überlegungen zum Yasuní."
-  },
-  {
-    "lang1": "Energia rinnovabile primaria.",
-    "lang2": "Erneuerbare Energie als Priorität."
-  },
-  {
-    "lang1": "Risparmio energetico come obiettivo.",
-    "lang2": "Energieeffizienz als Ziel."
-  },
-  {
-    "lang1": "Energia sostenibile, futuro.",
-    "lang2": "Nachhaltige Energie, Zukunft."
-  },
-  {
-    "lang1": "Sviluppo sostenibile, futuro.",
-    "lang2": "Nachhaltiger Entwicklung, Zukunft."
-  },
-  {
-    "lang1": "Risorse naturali in pericolo.",
-    "lang2": "Natürliche Ressourcen in Gefahr."
-  },
-  {
-    "lang1": "Riduzione delle emissioni.",
-    "lang2": "Emissionen reduzieren."
-  },
-  {
-    "lang1": "Sviluppo sostenibile è necessario.",
-    "lang2": "Dauerhafter Entwicklung ist notwendig."
-  },
-  {
-    "lang1": "Come implementare politiche ambientali?",
-    "lang2": "Wie umsetzen wir Umweltpolitiken?"
-  },
-  {
-    "lang1": "Risparmio energetico a scuola.",
-    "lang2": "Energetisches Sparverhalten in Schulen."
-  },
-  {
-    "lang1": "Promozione delle energie rinnovabili.",
-    "lang2": "Förderung erneuerbarer Energien."
-  },
-  {
-    "lang1": "Inversioni in tecnologie verdi.",
-    "lang2": "Investitionen in grüne Technologien."
-  },
-  {
-    "lang1": "Sistema di sicurezza sociale.",
-    "lang2": "Sozialversicherungssystem."
-  },
-  {
-    "lang1": "Casi di successo del Yasuní.",
-    "lang2": "Erfolgsfälle des Yasuní."
-  },
-  {
-    "lang1": "Comparazione tra Nord e Sud.",
-    "lang2": "Vergleich zwischen Norden und Süden."
-  },
-  {
-    "lang1": "Riforma del sistema politico.",
-    "lang2": "Politikreform."
-  },
-  {
-    "lang1": "Come ridurre la povertà?",
-    "lang2": "Wie kann man Armut reduzieren?"
-  },
-  {
-    "lang1": "Bilancio energetico del Paese.",
-    "lang2": "Energiedurchsatz des Landes."
-  },
-  {
-    "lang1": "Finanziamento delle politiche sociali.",
-    "lang2": "Finanzierung sozialer Politiken."
-  },
-  {
-    "lang1": "Aumento della produttività.",
-    "lang2": "Steigerung der Produktivität."
-  },
-  {
-    "lang1": "Innovazioni nel settore elettrico.",
-    "lang2": "Innovationen im Elektrizitätssektor."
-  },
-  {
-    "lang1": "Come gestire i residui?",
-    "lang2": "Wie man Abfall verwalten kann?"
-  },
-  {
-    "lang1": "Il ruolo delle energie rinnovabili.",
-    "lang2": "Die Rolle erneuerbarer Energien."
-  },
-  {
-    "lang1": "Strategie per ridurre il segno netto.",
-    "lang2": "Strategien zur Reduzierung des Netto-Beitrags."
-  },
-  {
-    "lang1": "Abbiamo bisogno di un sistema energetico sostenibile.",
-    "lang2": "Wir brauchen eine nachhaltige Energiestrategie."
-  },
-  {
-    "lang1": "Cambiamento climatico è una questione di urgente attenzione.",
-    "lang2": "Klimawandel ist eine dringende Angelegenheit."
-  },
-  {
-    "lang1": "L'educazione è la chiave per la crescita economica.",
-    "lang2": "Die Bildung ist der Schlüssel zur wirtschaftlichen Entwicklung."
-  },
-  {
-    "lang1": "Energiewende richiede un piano chiaro.",
-    "lang2": "Die Energiewende erfordert klare Pläne."
-  },
-  {
-    "lang1": "Il partecipazione civile è fondamentale.",
-    "lang2": "Die zivile Beteiligung ist wesentlich."
-  },
-  {
-    "lang1": "Risparmio energetico: un dovere per tutti.",
-    "lang2": "Energieeinsparung: ein Verantwortung für alle."
-  },
-  {
-    "lang1": "L'Italia e l'Ecuador: politiche comparate.",
-    "lang2": "Italien und Ecuador: vergleichbare Politiken."
-  },
-  {
-    "lang1": "Dove si trova il futuro della sostenibilità?",
-    "lang2": "Wo befindet sich der Zukunft der Nachhaltigkeit?"
-  },
-  {
-    "lang1": "Pensioni: un problema per entrambe le nazioni.",
-    "lang2": "Pensionen: ein Problem für beide Länder."
-  },
-  {
-    "lang1": "Crescita economica con equità.",
-    "lang2": "Wirtschaftswachstum mit Gerechtigkeit."
-  },
-  {
-    "lang1": "Global North vs. Global South.",
-    "lang2": "Global Nord und Global Süden."
-  },
-  {
-    "lang1": "Sostegno alle politiche sociali.",
-    "lang2": "Unterstützung für soziale Politiken."
-  },
-  {
-    "lang1": "Energia rinnovabile per tutti.",
-    "lang2": "Energiewende für alle."
-  },
-  {
-    "lang1": "Risparmio energetico: un passo avanti.",
-    "lang2": "Energieeinsparung: ein Fortschritt."
-  },
-  {
-    "lang1": "L'ambiente non ha confini.",
-    "lang2": "Die Umwelt kennt keine Grenzen."
-  },
-  {
-    "lang1": "Innovazione per un futuro sostenibile.",
-    "lang2": "Innovation für eine nachhaltige Zukunft."
-  },
-  {
-    "lang1": "Conservazione ambientale: una responsabilità.",
-    "lang2": "Umweltbewahrung: eine Verantwortung."
-  },
-  {
-    "lang1": "Risorse naturali: gestione sostenibile.",
-    "lang2": "Naturressourcen: nachhaltige Verwaltung."
-  },
-  {
-    "lang1": "Energia rinnovabile: il futuro.",
-    "lang2": "Energiewende: die Zukunft."
-  },
-  {
-    "lang1": "Il partito deve promuovere l'equità.",
-    "lang2": "Der Partei sollte Gerechtigkeit fördern."
-  },
-  {
-    "lang1": "Quale modello economico funziona meglio?",
-    "lang2": "Welches Wirtschaftsmodell funktioniert am besten?"
-  },
-  {
-    "lang1": "Ridurre il carbon Footprint è urgente.",
-    "lang2": "Kürzlich zu senken den Kohlenschuhabdruck ist notwendig."
-  },
-  {
-    "lang1": "Come implementare Yasuní?",
-    "lang2": "Wie kann man Yasuní umsetzen?"
-  },
-  {
-    "lang1": "L'energia rinnovabile è la soluzione.",
-    "lang2": "Erneuerbare Energien sind die Lösung."
-  },
-  {
-    "lang1": "Perché l'Edilizia Sostenibile?",
-    "lang2": "Warum die nachhaltige Baubranche?"
-  },
-  {
-    "lang1": "Riforma del welfare è necessaria.",
-    "lang2": "Eine Reform des Sozialstaates ist notwendig."
-  },
-  {
-    "lang1": "Diplomazia per il clima.",
-    "lang2": "Diplomatie für den Klimawandel."
-  },
-  {
-    "lang1": "Il consumo responsabile.",
-    "lang2": "Verantwortungsvoller Verbrauch."
-  },
-  {
-    "lang1": "Come proteggere l'ambiente?",
-    "lang2": "Wie kann man den Umweltschutz fördern?"
-  },
-  {
-    "lang1": "Promuovere l'innovazione.",
-    "lang2": "Förderung der Innovation."
-  },
-  {
-    "lang1": "Riciclaggio obbligatorio.",
-    "lang2": "Kreislaufwirtschaft ist Pflicht."
-  },
-  {
-    "lang1": "Energiewende è necessaria.",
-    "lang2": "Die Energiewende ist notwendig."
-  },
-  {
-    "lang1": "Politiche per la crescita sostenibile.",
-    "lang2": "Politiken für nachhaltige Wachstum."
-  },
-  {
-    "lang1": "Come agire contro la disuguaglianza?",
-    "lang2": "Wie kann man gegen Ungleichheit handeln?"
-  },
-  {
-    "lang1": "Innovazione tecnologica.",
-    "lang2": "Technologische Innovation."
-  },
-  {
-    "lang1": "Sostenibilità sociale.",
-    "lang2": "Soziale Nachhaltigkeit."
-  },
-  {
-    "lang1": "Il governo sta migliorando la sicurezza sociale.",
-    "lang2": "Das Regime verbessert die Sozialversicherung."
-  },
-  {
-    "lang1": "Come risolvere i problemi ambientali?",
-    "lang2": "Wie lösen wir die Umweltprobleme?"
-  },
-  {
-    "lang1": "Adottare energie rinnovabili è cruciale.",
-    "lang2": "Die Nutzung erneuerbarer Energien ist entscheidend."
-  },
-  {
-    "lang1": "Perché ridurre la povertà in Ecuador?",
-    "lang2": "Warum reduzieren wir die Armut in Ecuador?"
-  },
-  {
-    "lang1": "Il Yasuní ha salvato milioni di animali.",
-    "lang2": "Der Yasuní hat Millionen von Tieren gerettet."
-  },
-  {
-    "lang1": "Ridurre il carbon Footprint è un dovere.",
-    "lang2": "Den Kohlenstofffussabdruck zu reduzieren ist ein Pflicht."
-  },
-  {
-    "lang1": "La Energiewende sta portando benefici.",
-    "lang2": "Die Energiewende bringt Vorteile."
-  },
-  {
-    "lang1": "I sistemi sociali differiscono tra Nord e Sud.",
-    "lang2": "Die Sozialsysteme unterscheiden sich zwischen Norden und Süden."
-  },
-  {
-    "lang1": "Come migliorare l'accesso alla sanità?",
-    "lang2": "Wie verbessern wir den Zugang zur Gesundheitsversorgung?"
-  },
-  {
-    "lang1": "Il sistema italiano è più decentralizzato.",
-    "lang2": "Das italienische System ist mehr zentralisiert."
-  },
-  {
-    "lang1": "Perché investire nella ricerca?",
-    "lang2": "Warum investieren wir in die Forschung?"
-  },
-  {
-    "lang1": "Il clima cambia, dev'essere gestito.",
-    "lang2": "Das Klima wechselt, es muss verwaltet werden."
-  },
-  {
-    "lang1": "L'educazione è la chiave.",
-    "lang2": "Die Bildung ist der Schlüssel."
-  },
-  {
-    "lang1": "Promuovere la sostenibilità è importante.",
-    "lang2": "Die Förderung der Nachhaltigkeit ist wichtig."
-  },
-  {
-    "lang1": "I programmi sociali devono migliorare.",
-    "lang2": "Die Sozialprogramme müssen verbessert werden."
-  },
-  {
-    "lang1": "Ridurre l'uso dei combustibili fossili è urgente.",
-    "lang2": "Der Rückgang der fossilen Energien ist dringend notwendig."
-  },
-  {
-    "lang1": "La cooperazione internazionale è necessaria.",
-    "lang2": "Die internationale Zusammenarbeit ist notwendig."
-  },
-  {
-    "lang1": "Perché difendere i diritti umani?",
-    "lang2": "Warum verteidigen wir die Menschenrechte?"
-  },
-  {
-    "lang1": "L'industria italica è leader.",
-    "lang2": "Die italienische Industrie ist an der Spitze."
-  },
-  {
-    "lang1": "La partecipazione dei giovani è cruciale.",
-    "lang2": "Die Beteiligung der Jugendlichen ist entscheidend."
-  },
-  {
-    "lang1": "Il sistema di welfare in Italia è inefficiente.",
-    "lang2": "Der Wohlfahrtsystem in Italien ist ineffizient."
-  },
-  {
-    "lang1": "Come ridurre le emissioni di carbonio in Ecuador?",
-    "lang2": "Wie kann man Kohlenstoffemissionen in Ecuador reduzieren?"
-  },
-  {
-    "lang1": "Promuovere le energie rinnovabili è cruciale.",
-    "lang2": "Die Förderung erneuerbarer Energien ist entscheidend."
-  },
-  {
-    "lang1": "La politica climatica è un obbligo.",
-    "lang2": "Die klimapolitische Verantwortung ist unumgänglich."
-  },
-  {
-    "lang1": "L'energiewende di Berlino è un modello.",
-    "lang2": "Die Energiewende in Berlin ist ein Beispiel."
-  },
-  {
-    "lang1": "La Yasuní-Initiativa protegge la biodiversità.",
-    "lang2": "Die Yasuní-Initiative schützt die Biodiversität."
-  },
-  {
-    "lang1": "Il Nord ha responsabilità verso il Sud.",
-    "lang2": "Der Norden hat Verantwortung gegenüber dem Süden."
-  },
-  {
-    "lang1": "Rifiutare l'economia lineare è necessario.",
-    "lang2": "Die Ablehnung der linearen Wirtschaft ist notwendig."
-  },
-  {
-    "lang1": "Il carbon footprint è elevato in Germania.",
-    "lang2": "Der Kohlenstofffussprint ist hoch in Deutschland."
-  },
-  {
-    "lang1": "Cambia le politiche per un futuro sostenibile.",
-    "lang2": "Ändere die Politik für eine nachhaltige Zukunft."
-  },
-  {
-    "lang1": "La transizione energetica è urgente.",
-    "lang2": "Die energiewandlung ist dringend nötig."
-  },
-  {
-    "lang1": "Il Nord deve supportare il Sud.",
-    "lang2": "Der Norden muss den Süden unterstützen."
-  },
-  {
-    "lang1": "Innovare per una crescita sostenibile.",
-    "lang2": "Innovieren für eine nachhaltige Wachstum."
-  },
-  {
-    "lang1": "Clima: azioni urgenti richieste.",
-    "lang2": "Klima: dringende Maßnahmen erforderlich."
-  },
-  {
-    "lang1": "Il welfare di Ecuador è in crisi.",
-    "lang2": "Der Wohlfahrtszustand in Ecuador ist in Krise."
-  },
-  {
-    "lang1": "Promuoviamo l'energia solare in Ecuador.",
-    "lang2": "Wir fördern die Sonnenenergie in Ecuador."
-  },
-  {
-    "lang1": "Il Nord deve sostenere il Sud economicamente.",
-    "lang2": "Der Norden muss den Süden wirtschaftlich unterstützen."
-  },
-  {
-    "lang1": "L'economia verde è il futuro.",
-    "lang2": "Die grüne Wirtschaft ist das Zukunftskonzept."
-  },
-  {
-    "lang1": "Il Nord ha un ruolo cruciale.",
-    "lang2": "Der Norden spielt eine entscheidende Rolle."
-  },
-  {
-    "lang1": "Riduci l'impatto ambientale.",
-    "lang2": "Verringere den Umweltaufwand."
-  },
-  {
-    "lang1": "Riforma pensione in discussione.",
-    "lang2": "Die Rentensystemreform wird diskutiert."
-  },
-  {
-    "lang1": "Quali misure per ridurre l'occupazione nera?",
-    "lang2": "Welche Maßnahmen zur Reduzierung der Schwarzarbeit?"
-  },
-  {
-    "lang1": "Sostenibilità energetica: obiettivo 2050.",
-    "lang2": "Energiesicherheit: Ziel 2050."
-  },
-  {
-    "lang1": "Conservazione del Yasuní: obbligo etico.",
-    "lang2": "Die Yasuní-Conservation: ethischer Pflichten."
-  },
-  {
-    "lang1": "Energiewende vs. politica energetica globale.",
-    "lang2": "Energiewende vs. globale Energiapolitik."
-  },
-  {
-    "lang1": "Innovazione tecnologica per il clima.",
-    "lang2": "Technologische Innovation für den Klimawandel."
-  },
-  {
-    "lang1": "Come ridurre le emissioni di carbonio?",
-    "lang2": "Wie kann der Kohlenstoffausstoß reduziert werden?"
-  },
-  {
-    "lang1": "Sistema di welfare: quale futuro?",
-    "lang2": "Wohlfahrtssystem: welchen zukünftigen Weg?"
-  },
-  {
-    "lang1": "Politiche sociali: quale equità?",
-    "lang2": "Sozialpolitik: welcher Gerechtigkeit?"
-  },
-  {
-    "lang1": "Ecuador vs. Italia: politiche nazionali.",
-    "lang2": "Ecuador vs. Italien: nationale Politiken."
-  },
-  {
-    "lang1": "Economie del Sud vs. Nord: convergenza?",
-    "lang2": "Südliche vs. nördliche Wirtschaften: Konvergenz?"
-  },
-  {
-    "lang1": "Strategie di riduzione del footprint.",
-    "lang2": "Strategien zur Reduzierung des Fußabdrucks."
-  },
-  {
-    "lang1": "Risorse naturali: bilancio ambientale.",
-    "lang2": "Natürliche Ressourcen: ökologischer Haushalt."
-  },
-  {
-    "lang1": "Come proteggere i diritti dei lavoratori?",
-    "lang2": "Wie kann die Arbeitnehmerrechte geschützt werden?"
-  },
-  {
-    "lang1": "Energia rinnovabile: investimenti cruciali.",
-    "lang2": "Erneuerbare Energie: entscheidende Investitionen."
-  },
-  {
-    "lang1": "Quali politiche per la crescita sostenibile?",
-    "lang2": "Welche Politiken zur nachhaltigen Wachstum?"
-  },
-  {
-    "lang1": "Sviluppo sostenibile: obiettivi a lungo termine.",
-    "lang2": "Nachhaltiger Wachstum: langfristige Ziele."
-  },
-  {
-    "lang1": "Risorse umane: investimento fondamentale.",
-    "lang2": "Menschliche Ressourcen: entscheidender Investition."
-  },
-  {
-    "lang1": "Riduzione carbonistica.",
-    "lang2": "Kohlenstoffreduktion."
-  },
-  {
-    "lang1": "Sistema economico Nord.",
-    "lang2": "Wirtschaftssystem des Norden."
-  },
-  {
-    "lang1": "Politica sociale italiana.",
-    "lang2": "Italienische Sozialpolitik."
-  },
-  {
-    "lang1": "Domestica vs. internazionale.",
-    "lang2": "Domestisch vs. international."
-  },
-  {
-    "lang1": "Sostenibilità economica.",
-    "lang2": "Wirtschafts sustainability."
-  },
-  {
-    "lang1": "Risorse naturali limitate.",
-    "lang2": "Eingeschränkte Naturressourcen."
-  },
-  {
-    "lang1": "Modello economico sud.",
-    "lang2": "Südliches Wirtschaftsmodell."
-  },
-  {
-    "lang1": "Risorse idriche compartimentate.",
-    "lang2": "Geteilte Wasserressourcen."
-  },
-  {
-    "lang1": "Politiche sociali contrastanti.",
-    "lang2": "Widersprechende Sozialpolitiken."
-  },
-  {
-    "lang1": "Domestico e internazionale.",
-    "lang2": "Domestisch und international."
-  },
-  {
-    "lang1": "Parchi naturali protetti.",
-    "lang2": "Schützte Naturparks."
-  },
-  {
-    "lang1": "Tecnologie rinnovabili.",
-    "lang2": "Erneuerbare Energietechnologien."
-  },
-  {
-    "lang1": "Conservazione ambientale.",
-    "lang2": "Umweltbewahrung."
-  },
-  {
-    "lang1": "Strategie di riduzione dell'eco.",
-    "lang2": "Eco-reduzierungsstrategien."
-  },
-  {
-    "lang1": "Politiche ambientali ecosostenibili.",
-    "lang2": "Umwelt-ecosustainability-Politiken."
-  },
-  {
-    "lang1": "Il governo sta implementando misure antiselvicida.",
-    "lang2": "Das Regime fordert Maßnahmen zur Bekämpfung des Waldabholzes."
-  },
-  {
-    "lang1": "Risparmia energia per un futuro sostenibile.",
-    "lang2": "Ersparne Energie für eine nachhaltige Zukunft."
-  },
-  {
-    "lang1": "Quale modello socio-economico preferisci?",
-    "lang2": "Welches sozioökonomisches Modell bevorzugen Sie?"
-  },
-  {
-    "lang1": "Il welfare è fondamentale per la società.",
-    "lang2": "Das Wohlfahrtsystem ist für die Gesellschaft unerlässlich."
-  },
-  {
-    "lang1": "Por qué no adoptar energías renovables?",
-    "lang2": "Warum sollten wir nicht nachwachsende Energien nutzen?"
-  },
-  {
-    "lang1": "Il Yasuní è un patrimonio mondiale.",
-    "lang2": "Das Yasuní ist ein weltweit erwartetes Erbe."
-  },
-  {
-    "lang1": "Come ridurre il nostro impianto di carbonio?",
-    "lang2": "Wie können wir unseren Kohlenstofffussabdruck reduzieren?"
-  },
-  {
-    "lang1": "Cambiare comportamenti per un ambiente migliore.",
-    "lang2": "Ändern Sie Verhaltensweisen für einen besseren Umweltstatus."
-  },
-  {
-    "lang1": "Politiche di crescita verde necessarie.",
-    "lang2": "Nötige politische Maßnahmen für grüne Wachstum."
-  },
-  {
-    "lang1": "Come regolare l'energia in Ecuador?",
-    "lang2": "Wie können wir die Energie in Ecuador regeln?"
-  },
-  {
-    "lang1": "Risparmia energia per ridurre il danno al clima.",
-    "lang2": "Ersparne Energie, um den Klimawandel zu reduzieren."
-  },
-  {
-    "lang1": "Il welfare è essenziale per la stabilità sociale.",
-    "lang2": "Das Wohlfahrtsystem ist für die soziale Stabilität wesentlich."
-  },
-  {
-    "lang1": "Impostare obiettivi per il 100% rinnovabile.",
-    "lang2": "Setzen Sie Ziele für 100% erneuerbare Energie."
-  },
-  {
-    "lang1": "Come proteggere i suoli amazzonici?",
-    "lang2": "Wie können wir den Amazonas-Boden schützen?"
-  },
-  {
-    "lang1": "L'energiewende è cruciale per il futuro.",
-    "lang2": "Die Energiwende ist entscheidend für die Zukunft."
-  },
-  {
-    "lang1": "Promuovere il bilancio equo tra Nord e Sud.",
-    "lang2": "Förderung eines gerechten Budgets zwischen Nord und Süd."
-  },
-  {
-    "lang1": "Come gestire i rifiuti per un ambiente sano.",
-    "lang2": "Wie können wir Abfall verwalten, um einen gesunden Umweltzustand zu bewahren?"
-  },
-  {
-    "lang1": "Clima e giustizia sociale devono andare di pari passo.",
-    "lang2": "Klima und soziale Gerechtigkeit müssen nebeneinander gehen."
-  },
-  {
-    "lang1": "Sostenibilità attraverso la gestione del territorio.",
-    "lang2": "Nachhaltigkeit durch Territorialverwaltung."
-  },
-  {
-    "lang1": "Cambiare abitudini per un futuro sostenibile.",
-    "lang2": "Ändern Sie Gewohnheiten für eine nachhaltige Zukunft."
-  },
-  {
-    "lang1": "Riduzione emisfero meridionale.",
-    "lang2": "Südhemisphärische Reduzierung."
-  },
-  {
-    "lang1": "Migliori politiche sociali.",
-    "lang2": "Bessere Sozialpolitiken."
-  },
-  {
-    "lang1": "Cambio climatico globale.",
-    "lang2": "Globaler Klimawandel."
-  },
-  {
-    "lang1": "Conservazione forestale urgente.",
-    "lang2": "Bauliche Waldschutzmaßnahmen notwendig."
-  },
-  {
-    "lang1": "Sostegno ai paesi in via di sviluppo.",
-    "lang2": "Unterstützung für Entwicklungsländer."
-  },
-  {
-    "lang1": "Governo locale innovativo.",
-    "lang2": "Innovative kommunale Regierung."
-  },
-  {
-    "lang1": "Risorse naturali sostenibili.",
-    "lang2": "Nachhaltige Naturressourcen."
-  },
-  {
-    "lang1": "Finanziamento per progetti sostenibili.",
-    "lang2": "Finanzierung für nachhaltige Projekte."
-  },
-  {
-    "lang1": "Sistemi di welfare diversi.",
-    "lang2": "Verschiedene Sozialsysteme."
-  },
-  {
-    "lang1": "Popolazione in crescita costante.",
-    "lang2": "Ständiger Bevölkerungsanstieg."
-  },
-  {
-    "lang1": "Sviluppo equo tra nazioni.",
-    "lang2": "Gerechter Entwicklungsumweg zwischen Nationen."
-  },
-  {
-    "lang1": "Popolazione in età lavorativa.",
-    "lang2": "Arbeitsfähige Bevölkerung."
-  },
-  {
-    "lang1": "Risorse umane sostenibili.",
-    "lang2": "Nachhaltige menschliche Ressourcen."
-  },
-  {
-    "lang1": "Sostenibilità economica globale.",
-    "lang2": "Wirtschaftliche Nachhaltigkeit weltweit."
-  },
-  {
-    "lang1": "Ambiente protetto con leggi.",
-    "lang2": "Umweltbeschützung durch Gesetze."
-  },
-  {
-    "lang1": "Il governo sta riformando il sistema di sicurezza sociale.",
-    "lang2": "Der Staat überarbeitet das Sozialversicherungssystem."
-  },
-  {
-    "lang1": "Come si può migliorare la governance del Yasuní?",
-    "lang2": "Wie kann die Verwaltung des Yasuní verbessert werden?"
-  },
-  {
-    "lang1": "Ridurre il carbone nelle auto è possibile.",
-    "lang2": "Es ist möglich, den Kohlenstoffgehalt in den Autos zu reduzieren."
-  },
-  {
-    "lang1": "Quali politiche sono efficaci per la transizione energetica?",
-    "lang2": "Welche Politiken sind effektiv für die energiewende?"
-  },
-  {
-    "lang1": "Il paese sta adattando il sistema di riscaldamento.",
-    "lang2": "Das Land überarbeitet das Heizungssystem."
-  },
-  {
-    "lang1": "Cosa significa un carbone zero nel futuro?",
-    "lang2": "Was bedeutet ein kohlenstofffreier Zukunft?"
-  },
-  {
-    "lang1": "Implementare l'Energiewende richiede un piano.",
-    "lang2": "Die Umsetzung der energiewende erfordert einen Plan."
-  },
-  {
-    "lang1": "Energia rinnovabile è l'avvenire.",
-    "lang2": "Energiesparung ist die Zukunft."
-  },
-  {
-    "lang1": "Il governo sta migliorando i servizi sociali.",
-    "lang2": "Der Staat verbessert die Sozialleistungen."
-  },
-  {
-    "lang1": "Come si può aumentare la partecipazione democratica?",
-    "lang2": "Wie kann die demokratische Beteiligung gesteigert werden?"
-  },
-  {
-    "lang1": "Il paese sta diventando sempre più sostenibile.",
-    "lang2": "Das Land wird immer umweltfreundlicher."
-  },
-  {
-    "lang1": "Risparmio energetico è chiave.",
-    "lang2": "Energieeffizienz ist entscheidend."
-  },
-  {
-    "lang1": "Energia pulita è un obiettivo per tutti.",
-    "lang2": "Erneuerbare Energie ist ein Ziel für alle."
-  },
-  {
-    "lang1": "Il paese sta proteggendo l'ecosistema.",
-    "lang2": "Das Land schützt den Ökosystem."
-  },
-  {
-    "lang1": "Cosa sta causando il cambiamento climatico?",
-    "lang2": "Was verursacht den Klimawandel?"
-  },
-  {
-    "lang1": "Ridurre le emissioni di carbonio è urgente.",
-    "lang2": "Die Kohlenstoffemissionen müssen dringend reduziert werden."
-  },
-  {
-    "lang1": "Il governo sta implementando misure sostenibili.",
-    "lang2": "Der Staat implementiert nachhaltige Maßnahmen."
-  },
-  {
-    "lang1": "Cosa è più efficiente, energia nucleare o renneweable?",
-    "lang2": "Was ist effizienter: nukleare Energie oder erneuerbare Energie?"
-  },
-  {
-    "lang1": "Il paese sta creando posti di lavoro sostenibili.",
-    "lang2": "Das Land schafft nachhaltige Arbeitsplätze."
-  },
-  {
-    "lang1": "Come proteggere l'Amazzonia?",
-    "lang2": "Wie kann man die Amazone schützen?"
-  },
-  {
-    "lang1": "Italia deve adottare una nuova legge sul clima.",
-    "lang2": "Italien muss eine neue Klimagesetzgebung einführen."
-  },
-  {
-    "lang1": "Quale modello economico per il Sud Globale?",
-    "lang2": "Welches wirtschaftliches Modell für den Globalen Süden?"
-  },
-  {
-    "lang1": "Risparmio energetico: una soluzione per tutti.",
-    "lang2": "Energetische Effizienz: Eine Lösung für alle."
-  },
-  {
-    "lang1": "Il governo deve finanziare le rinnovabili.",
-    "lang2": "Der Staat muss erneuerbare Energien finanzieren."
-  },
-  {
-    "lang1": "Energiewende: un passo verso il futuro.",
-    "lang2": "Energiewende: Ein Schritt in Richtung Zukunft."
-  },
-  {
-    "lang1": "Por qué Yasuní importa para la biodiversidad.",
-    "lang2": "Warum das Yasuní-Waldgebiet für die Biodiversität wichtig ist."
-  },
-  {
-    "lang1": "Italia e Ecuador: due approcci diversi.",
-    "lang2": "Italien und Ecuador: zwei unterschiedliche Ansätze."
-  },
-  {
-    "lang1": "Ridurre le emissioni di carbonio: un obbligo.",
-    "lang2": "Kohlenstoffemissionen reduzieren: Ein Pflicht."
-  },
-  {
-    "lang1": "Benessere sociale: un diritto universale.",
-    "lang2": "Soziale Wohlfahrt: Ein universelles Recht."
-  },
-  {
-    "lang1": "Come affrontare la disuguaglianza economica?",
-    "lang2": "Wie kann die wirtschaftliche Ungleichheit angegangen werden?"
-  },
-  {
-    "lang1": "Italia e Global North: politiche diverse.",
-    "lang2": "Italien und Global North: unterschiedliche Politiken."
-  },
-  {
-    "lang1": "Sostegno alle famiglie: un investimento necessario.",
-    "lang2": "Familienunterstützung: Ein notwendiges Investitionsschwerpunkt."
-  },
-  {
-    "lang1": "Perché l'educazione è chiave.",
-    "lang2": "Warum die Bildung eine Schlüsselrolle spielt."
-  },
-  {
-    "lang1": "Risorse naturali: un patrimonio comune.",
-    "lang2": "Natürliche Ressourcen: ein gemeinsames Erbe."
-  },
-  {
-    "lang1": "Il futuro: un'opportunità per tutti.",
-    "lang2": "Der Zukunftsaufbau: Eine Chance für alle."
-  },
-  {
-    "lang1": "Energia rinnovabile: un obbligo etico.",
-    "lang2": "Erneuerbare Energien: ein ethisches Engagement."
-  },
-  {
-    "lang1": "Italia e Yasuní: due percorsi diversi.",
-    "lang2": "Italien und Yasuní: zwei verschiedene Wege."
-  },
-  {
-    "lang1": "Economia verde: un futuro sostenibile.",
-    "lang2": "Grüne Wirtschaft: ein nachhaltiges Zukunftspotenzial."
-  },
-  {
-    "lang1": "Il governo sta implementando nuove misure.",
-    "lang2": "Das Regime setzt neue Maßnahmen um."
-  },
-  {
-    "lang1": "Come ridurre l'impatto sul clima?",
-    "lang2": "Wie kann der Klimawirkung reduziert werden?"
-  },
-  {
-    "lang1": "Stiamo aumentando il budget per la sicurezza sociale.",
-    "lang2": "Wir erhöhen den Haushalt für die Sozialversicherung."
-  },
-  {
-    "lang1": "Perché adottare politiche di sostenibilità?",
-    "lang2": "Warum sollten wir nachhaltige Politiken einführen?"
-  },
-  {
-    "lang1": "Risparmia energia per ridurre il calore.",
-    "lang2": "Sparre Elektrizität, um die Temperatur zu senken."
-  },
-  {
-    "lang1": "Dove è la più grande differenza?",
-    "lang2": "Wo gibt es die größte Unterschiedlichkeit?"
-  },
-  {
-    "lang1": "L'energiewende sta avanzando.",
-    "lang2": "Die Energiewende fortschreitet."
-  },
-  {
-    "lang1": "Come si contrasta l'ineguaglianza?",
-    "lang2": "Wie kann die Ungleichheit bekämpft werden?"
-  },
-  {
-    "lang1": "Risparmia acqua per proteggere l'ambiente.",
-    "lang2": "Sparre Wasser, um die Umwelt zu schützen."
-  },
-  {
-    "lang1": "Quale modello economico è più efficace?",
-    "lang2": "Welches wirtschaftliches Modell ist am effektivsten?"
-  },
-  {
-    "lang1": "Cambiare i nostri comportamenti è cruciale.",
-    "lang2": "Die Veränderung unserer Verhaltensweisen ist entscheidend."
-  },
-  {
-    "lang1": "L'economia del Global South è in crescita.",
-    "lang2": "Die Wirtschaft des Global South wächst."
-  },
-  {
-    "lang1": "Come ridurre le emissioni industriali?",
-    "lang2": "Wie können industrielle Emissionen reduziert werden?"
-  },
-  {
-    "lang1": "Sostituisci le luci a gas con LED.",
-    "lang2": "Ersetze Gasbeleuchtungen durch LED-Beleuchtung."
-  },
-  {
-    "lang1": "Il Yasuní fa parte del patrimonio globale.",
-    "lang2": "Das Yasuní ist Teil des globalen Erbes."
-  },
-  {
-    "lang1": "Cosa significa la transizione energetica?",
-    "lang2": "Was bedeutet die energetische Transwaltung?"
-  },
-  {
-    "lang1": "Adoptiamo una politica di cibo locale.",
-    "lang2": "Wir sollten eine örtliche Ernährungsrichtlinie einführen."
-  },
-  {
-    "lang1": "Il sistema di welfare è inefficiente.",
-    "lang2": "Das Wohlfahrtsystem ist ineffizient."
-  },
-  {
-    "lang1": "Come ridurre l'impatto sull'ambiente?",
-    "lang2": "Wie kann der Umweltauswirkungen verringert werden?"
-  },
-  {
-    "lang1": "Bis quando durerà la crisi economica?",
-    "lang2": "Wie lange wird die wirtschaftliche Krise andauern?"
-  },
-  {
-    "lang1": "Raggiungere gli obiettivi sostenibili.",
-    "lang2": "Die nachhaltigen Ziele zu erreichen."
-  },
-  {
-    "lang1": "Il paese deve ridurre le emissioni.",
-    "lang2": "Das Land muss die Emissionen reduzieren."
-  },
-  {
-    "lang1": "Comparare modelli economici.",
-    "lang2": "Wirtschaftsmodelle vergleichen."
-  },
-  {
-    "lang1": "Sostenibilità per tutti.",
-    "lang2": "Nachhaltigkeit für alle."
-  },
-  {
-    "lang1": "Bilancio energetico del futuro.",
-    "lang2": "Energetisches Budget für die Zukunft."
-  },
-  {
-    "lang1": "Promuovere la trasparenza.",
-    "lang2": "Transparenz fördern."
-  },
-  {
-    "lang1": "Rilevare il consumo.",
-    "lang2": "Verbrauch messen."
-  },
-  {
-    "lang1": "Sostenibilità ambientale e sociale.",
-    "lang2": "Umwelt- und soziale Nachhaltigkeit."
-  },
-  {
-    "lang1": "Conservare il patrimonio naturale.",
-    "lang2": "Natürliches Erbe schützen."
-  },
-  {
-    "lang1": "Come ridurre il footprint?",
-    "lang2": "Wie kann der Fußabdruck reduziert werden?"
-  },
-  {
-    "lang1": "Rispettare il diritto alla sostenibilità.",
-    "lang2": "Das Recht auf Nachhaltigkeit respektieren."
-  },
-  {
-    "lang1": "Il partito si impegni a ridurre.",
-    "lang2": "Der Partei wird geheißen, die Reduzierung zu beschleunigen."
-  },
-  {
-    "lang1": "Piano di risparmio energetico.",
-    "lang2": "Energetische Sparmaßnahmen plänen."
-  },
-  {
-    "lang1": "Risorse per il welfare.",
-    "lang2": "Ressourcen für das Wohlfahrtsmodell."
-  },
-  {
-    "lang1": "Energiewende necessita investimenti.",
-    "lang2": "Die Energiewende erfordert Investitionen."
-  },
-  {
-    "lang1": "Politiche per la duratura.",
-    "lang2": "Politiken für die Nachhaltigkeit."
-  },
-  {
-    "lang1": "Come ridurre il consumo?",
-    "lang2": "Wie kann der Konsum reduziert werden?"
-  },
-  {
-    "lang1": "Sostenibilità ambientale prima.",
-    "lang2": "Umweltbewusstsein muss vordringlich sein."
-  },
-  {
-    "lang1": "Sistemi di trasporto sostenibili.",
-    "lang2": "Nachhaltige Verkehrssysteme."
-  },
-  {
-    "lang1": "Come migliorare la qualità dell'aria?",
-    "lang2": "Wie kann die Luftqualität verbessert werden?"
-  },
-  {
-    "lang1": "Investimenti nelle rinnovabili.",
-    "lang2": "Investitionen in erneuerbare Energie."
-  },
-  {
-    "lang1": "Piani di riduzione dei gas.",
-    "lang2": "Pläne zur Reduzierung der Gasemissionen."
-  },
-  {
-    "lang1": "Come promuovere la biodiversità?",
-    "lang2": "Wie kann die Biodiversität fördern?"
-  },
-  {
-    "lang1": "Economia verde in discussione.",
-    "lang2": "Die grüne Wirtschaft wird diskutiert."
-  },
-  {
-    "lang1": "Come gestire il cambiamento climatico?",
-    "lang2": "Wie kann das Klimawandel managen?"
-  },
-  {
-    "lang1": "Politiche di solidarietà internazionale.",
-    "lang2": "Internationale Solidaritätspolitiken."
-  },
-  {
-    "lang1": "Sostenibilità energetica a lungo termine.",
-    "lang2": "Langfristige Energetische Nachhaltigkeit."
-  },
-  {
-    "lang1": "Come garantire la sostenibilità?",
-    "lang2": "Wie kann die Nachhaltigkeit gewährleistet werden?"
-  },
-  {
-    "lang1": "Piano di sviluppo sostenibile.",
-    "lang2": "Plan für nachhaltiges Wachstum."
-  },
-  {
-    "lang1": "Il governo ha adottato nuove misure.",
-    "lang2": "Das Regierungs hat neue Maßnahmen verabschiedet."
-  },
-  {
-    "lang1": "Come ridurre il bilancio di guerra?",
-    "lang2": "Wie kann man den Kriegsbudget reduzieren?"
-  },
-  {
-    "lang1": "Il sistema di sicurezza sociale è in crisi.",
-    "lang2": "Das Sozialsystem ist in Not."
-  },
-  {
-    "lang1": "Rinnovabili: l'energia del futuro.",
-    "lang2": "Erneuerbare Energien: Die Energie des zukunftsweisenden."
-  },
-  {
-    "lang1": "La Yasuní integra l'ecologia economica.",
-    "lang2": "Die Yasuní integriert ökonomische und ökologische Aspekte."
-  },
-  {
-    "lang1": "Come gestire l'immigrazione sostenibile?",
-    "lang2": "Wie kann man nachhaltige Einwanderung organisieren?"
-  },
-  {
-    "lang1": "La politica climatica deve essere più stringente.",
-    "lang2": "Die Klimapolitik muss strenger sein."
-  },
-  {
-    "lang1": "Il bilancio del carbon footprint è negativo.",
-    "lang2": "Der Kohlenschuh-Bilanz ist negativ."
-  },
-  {
-    "lang1": "L'economia verde sta crescendo.",
-    "lang2": "Die grüne Wirtschaft wächst."
-  },
-  {
-    "lang1": "Il welfare stato deve essere migliorato.",
-    "lang2": "Der Sozialstaat muss verbessert werden."
-  },
-  {
-    "lang1": "Energiewende: il passo giusto.",
-    "lang2": "Energiewende: der richtige Schritt."
-  },
-  {
-    "lang1": "Il sistema economico globale è disuguale.",
-    "lang2": "Das globale Wirtschaftssystem ist ungleich verteilt."
-  },
-  {
-    "lang1": "L'Italia sottoscrive il patto climatico.",
-    "lang2": "Italien unterzeichnet den Klimaabkommen."
-  },
-  {
-    "lang1": "Quali politiche per l'educazione sostenibile?",
-    "lang2": "Welche politischen Maßnahmen für nachhaltige Bildung?"
-  },
-  {
-    "lang1": "Il welfare degli Stati Uniti è diverso.",
-    "lang2": "Die amerikanische Sozialversicherung unterscheidet sich."
-  },
-  {
-    "lang1": "La politica fiscale può influenzare l'economia.",
-    "lang2": "Die Fiskalpolitik kann die Wirtschaft beeinflussen."
-  },
-  {
-    "lang1": "Il futuro appartiene alle energie rinnovabili.",
-    "lang2": "Das Zukunft gehört den erneuerbaren Energien."
-  },
-  {
-    "lang1": "Il bilancio energetico è fondamentale.",
-    "lang2": "Die Energiestruktur ist grundlegend."
-  },
-  {
-    "lang1": "Risparmio energetico: una responsabilità collettiva.",
-    "lang2": "Energeispar: eine kollektive Verantwortung."
-  },
-  {
-    "lang1": "Economia sostenibile come modello.",
-    "lang2": "Nachhaltige Wirtschaft als Modell."
-  },
-  {
-    "lang1": "Il partito si concentra sulla crescita economica sostenibile.",
-    "lang2": "Der Partei liegt eine nachhaltige wirtschaftliche Entwicklung vor."
-  },
-  {
-    "lang1": "Come ridurre il consumo di carburante negli autobus?",
-    "lang2": "Wie kann der Kraftstoffverbrauch im Busverkehr reduziert werden?"
-  },
-  {
-    "lang1": "La politica fiscale favorisce la piccola imprenditoria.",
-    "lang2": "Die fiskalische Politik fördert die kleine Wirtschaft."
-  },
-  {
-    "lang1": "Riduzione delle emissioni industriali richiesta.",
-    "lang2": "Die Verringerung der industriellen Emissionen wird gefordert."
-  },
-  {
-    "lang1": "Innovazioni tecnologiche per la sostenibilità ambientale.",
-    "lang2": "Technologische Innovationen für die Umwelt nachhaltig."
-  },
-  {
-    "lang1": "Governo deve aumentare l’investimento in igiene.",
-    "lang2": "Der Regierung ist ein Anstieg der Investitionen in Hygiene zu zukommen."
-  },
-  {
-    "lang1": "Come affrontare la disuguaglianza sociale?",
-    "lang2": "Wie kann die soziale Ungleichheit angegangen werden?"
-  },
-  {
-    "lang1": "Pensioni sviluppatrici di welfare.",
-    "lang2": "Pensionsysteme sind Träger von Sozialwirtschaft."
-  },
-  {
-    "lang1": "Energiewende necessita di sostegno politico.",
-    "lang2": "Die Energiewende erfordert politische Unterstützung."
-  },
-  {
-    "lang1": "Yasuní e l'ecologia del pianeta.",
-    "lang2": "Yasuní und die Ökologie der Erde."
-  },
-  {
-    "lang1": "Cambio climatico richiede azione urgente.",
-    "lang2": "Klimawandel erfordert dringliche Maßnahmen."
-  },
-  {
-    "lang1": "Gestione sostenibile delle risorse idriche.",
-    "lang2": "Nachhaltige Wasserressourcenmanagement."
-  },
-  {
-    "lang1": "Sviluppo sostenibile: un obiettivo globale.",
-    "lang2": "Nachhaltige Entwicklung: ein globales Ziel."
-  },
-  {
-    "lang1": "Crescita economica equa per tutti.",
-    "lang2": "Gerechte wirtschaftliche Entwicklung für alle."
-  },
-  {
-    "lang1": "Energia rinnovabile: un passo verso la sostenibilità.",
-    "lang2": "Erneuerbare Energie: ein Schritt zur Nachhaltigkeit."
-  },
-  {
-    "lang1": "Sostegno alle famiglie con minori.",
-    "lang2": "Unterstützung für Familien mit Kindern."
-  },
-  {
-    "lang1": "Riduzione dei carbon-footprints per tutti.",
-    "lang2": "Kürzungen des Carbon-Footprints für alle."
-  },
-  {
-    "lang1": "Cooperazione internazionale per il clima.",
-    "lang2": "Internationale Zusammenarbeit für den Klimaschutz."
-  },
-  {
-    "lang1": "Sviluppo sostenibile congiunto.",
-    "lang2": "Gemeinsames nachhaltiges Entwicklung."
-  },
-  {
-    "lang1": "Il governo sta adottando misure per ridurre il bilancio.",
-    "lang2": "Das Regime erkennt Maßnahmen an, um den Haushalt zu verkleinern."
-  },
-  {
-    "lang1": "Quali strumenti economici utilizza il Nord per influenzare il Sud?",
-    "lang2": "Welche wirtschaftlichen Instrumente nutzt der Norden, um den Süden zu beeinflussen?"
-  },
-  {
-    "lang1": "Il sistema di sicurezza sociale è fondamentale per la stabilità.",
-    "lang2": "Der Sozialstaat ist für die Stabilität entscheidend."
-  },
-  {
-    "lang1": "Come implementare l'Energiewende in Ecuador?",
-    "lang2": "Wie kann die Energiewende in Ecuador umgesetzt werden?"
-  },
-  {
-    "lang1": "Il Yasuní deve essere protetto per la biodiversità.",
-    "lang2": "Yasuní muss geschützt werden, um die Biodiversität zu erhalten."
-  },
-  {
-    "lang1": "Ridurre la traccia di carbonio è cruciale.",
-    "lang2": "Die Reduzierung des Kohlenstoff Fußabdrucks ist entscheidend."
-  },
-  {
-    "lang1": "Prestare servizi sanitari ai poveri è fondamentale.",
-    "lang2": "Die Bereitstellung medizinischer Versorgung für Arme ist entscheidend."
-  },
-  {
-    "lang1": "Che politiche sociali stanno implementando in Italia?",
-    "lang2": "Welche Sozialpolitiken werden in Italien umgesetzt?"
-  },
-  {
-    "lang1": "Cosa cambia con l'Energiewende?",
-    "lang2": "Was ändert sich mit der Energiewende?"
-  },
-  {
-    "lang1": "Il carbonio è un problema globale.",
-    "lang2": "Kohlenstoff ist ein globales Problem."
-  },
-  {
-    "lang1": "Il sistema italiano di protezione sociale è avanzato.",
-    "lang2": "Der italienische Sozialschutzsystem ist fortschrittlich."
-  },
-  {
-    "lang1": "Come gestire le emissioni in Ecuador?",
-    "lang2": "Wie können die Emissionen in Ecuador managen?"
-  },
-  {
-    "lang1": "Risparmio energetico è fondamentale.",
-    "lang2": "Energieeinsparung ist entscheidend."
-  },
-  {
-    "lang1": "Il sistema di sicurezza sociale in Ecuador è in crisi.",
-    "lang2": "Der Sozialstaat in Ecuador steht vor einer Krise."
-  },
-  {
-    "lang1": "Imporre misure ambientali è necessario.",
-    "lang2": "Die Umweltnormen müssen eingeführt werden."
-  },
-  {
-    "lang1": "Come affrontare le emissioni in Ecuador?",
-    "lang2": "Wie kann man in Ecuador die Emissionen bekämpfen?"
-  },
-  {
-    "lang1": "Il sistema italiano di protezione ambientale è robusto.",
-    "lang2": "Der italienische Umweltschutzsystem ist robust."
-  },
-  {
-    "lang1": "Imporre politiche sostenibili è urgente.",
-    "lang2": "Sustainable Politiken müssen dringend umgesetzt werden."
-  },
-  {
-    "lang1": "Il sistema di protezione ambientale è efficace.",
-    "lang2": "Der Umweltschutzsystem ist effektiv."
-  },
-  {
-    "lang1": "Il welfare è fondamentale.",
-    "lang2": "Der Wohlfahrtssystem ist grundlegend."
-  },
-  {
-    "lang1": "Cambiamento climatico: azione urgente.",
-    "lang2": "Klimawandel: dringende Maßnahmen."
-  },
-  {
-    "lang1": "Energia rinnovabile: futuro sicuro.",
-    "lang2": "Erneuerbare Energie: sicherer Zukunft."
-  },
-  {
-    "lang1": "Politica sociale: obiettivo equità.",
-    "lang2": "Sozialpolitik: Ziel Gerechtigkeit."
-  },
-  {
-    "lang1": "Yasuní: rispetto per la natura.",
-    "lang2": "Yasuní: Naturerarespektion."
-  },
-  {
-    "lang1": "Energiewende: passo cruciale.",
-    "lang2": "Energiewende: entscheidender Schritt."
-  },
-  {
-    "lang1": "Domestico vs. internazionale: differenze.",
-    "lang2": "Domestisch vs. internationale Unterschiede."
-  },
-  {
-    "lang1": "Reduzione carbonio: obiettivo comune.",
-    "lang2": "Kohlenstoffreduzierung: gemeinsames Ziel."
-  },
-  {
-    "lang1": "Modello Nord-Sud: critica necessaria.",
-    "lang2": "Nord-Süd-Modell: notwendige Kritik."
-  },
-  {
-    "lang1": "Politiche equilibrate: risultati positivi.",
-    "lang2": "Gerechte Politik: positive Ergebnisse."
-  },
-  {
-    "lang1": "Sistema economico: diversità.",
-    "lang2": "Wirtschaftssystem: Vielfalt."
-  },
-  {
-    "lang1": "Politiche ecologiche: impatto positivo.",
-    "lang2": "Ökologische Politik: positiver Einfluss."
-  },
-  {
-    "lang1": "Conservazione ecosistema: priorità.",
-    "lang2": "Ecosystem-Bewahrung: Priorität."
-  },
-  {
-    "lang1": "Sostenibilità sociale: investimento forte.",
-    "lang2": "Soziale Nachhaltigkeit: starke Investitionen."
-  },
-  {
-    "lang1": "Regolamentazione ambientale: obbligo.",
-    "lang2": "Umweltregulierung: Pflicht."
-  },
-  {
-    "lang1": "Domestico vs. globale: confronto.",
-    "lang2": "Domestisch vs. global: Vergleich."
-  },
-  {
-    "lang1": "Sostegno ai poveri: necessità urgente.",
-    "lang2": "Armutshilfe: dringende Notwendigkeit."
-  },
-  {
-    "lang1": "Politica climatica: azione immediata.",
-    "lang2": "Klimapolitik: sofortige Aktion."
-  },
-  {
-    "lang1": "Il governo ha implementato nuovi tassi.",
-    "lang2": "Das Regime hat neue Steuersätze eingeführt."
-  },
-  {
-    "lang1": "C'è bisogno di un piano d'azione.",
-    "lang2": "Es ist notwendig, einen Handlungseinsatz zu entwickeln."
-  },
-  {
-    "lang1": "Le politiche sociali sono critiche.",
-    "lang2": "Die Sozialpolitiken sind kritisch."
-  },
-  {
-    "lang1": "Come ridurre l'impatto ambientale?",
-    "lang2": "Wie kann der Umweltaufwand reduziert werden?"
-  },
-  {
-    "lang1": "Il modello di Energiewende è efficace.",
-    "lang2": "Das Energiewende-Modell ist effektiv."
-  },
-  {
-    "lang1": "Sostanze chimiche vanno ridotte.",
-    "lang2": "Chemikalien müssen reduziert werden."
-  },
-  {
-    "lang1": "Innovazione tecnologica è chiave.",
-    "lang2": "Technologische Innovation ist entscheidend."
-  },
-  {
-    "lang1": "L'agricoltura biologica promuova.",
-    "lang2": "Biolandwirtschaft muss gefördert werden."
-  },
-  {
-    "lang1": "Ecuador e Italia differiscono.",
-    "lang2": "Ecuador und Italien unterscheiden sich."
-  },
-  {
-    "lang1": "Sostenibilità è fondamentale.",
-    "lang2": "Nachhaltigkeit ist grundlegend."
-  },
-  {
-    "lang1": "Risorse naturali vanno proteggere.",
-    "lang2": "Natürliche Ressourcen müssen geschützt werden."
-  },
-  {
-    "lang1": "Come affrontare l'inquinamento?",
-    "lang2": "Wie kann das Verschmutzen bekämpft werden?"
-  },
-  {
-    "lang1": "L'economia verde è necessaria.",
-    "lang2": "Die grüne Wirtschaft ist erforderlich."
-  },
-  {
-    "lang1": "Inversioni in R&D sono cruciali.",
-    "lang2": "Investitionen in Forschung und Entwicklung sind entscheidend."
-  },
-  {
-    "lang1": "Sicurezza alimentare è urgente.",
-    "lang2": "Ernährungssicherheit ist dringend."
-  },
-  {
-    "lang1": "L'educazione ambientale è indispensabile.",
-    "lang2": "Umweltbildung ist unerlässlich."
-  },
-  {
-    "lang1": "Energia rinnovabile è la soluzione.",
-    "lang2": "Erneuerbare Energie ist die Lösung."
-  },
-  {
-    "lang1": "Come aumentare l'efficienza energetica?",
-    "lang2": "Wie kann die Energieeffizienz erhöht werden?"
-  },
-  {
-    "lang1": "Sostegno sociale a tutti.",
-    "lang2": "Soziale Unterstützung für alle."
-  },
-  {
-    "lang1": "Il cambiamento climatico è reale.",
-    "lang2": "Der Klimawandel ist real."
-  },
-  {
-    "lang1": "Riforma fiscale per la giustizia.",
-    "lang2": "Fiscalreform für Gerechtigkeit."
-  },
-  {
-    "lang1": "Investire nel futuro dell'energia.",
-    "lang2": "Investitionen in die Zukunft der Energie."
-  },
-  {
-    "lang1": "Promozione del consumo sostenibile.",
-    "lang2": "Förderung des nachhaltigen Verbrauchers."
-  },
-  {
-    "lang1": "Come ridurre la poveraggine in Ecuador?",
-    "lang2": "Wie kann man Armut in Ecuador verringern?"
-  },
-  {
-    "lang1": "Sostegno alle famiglie in bisogno.",
-    "lang2": "Unterstützung für Familien im Notfall."
-  },
-  {
-    "lang1": "Pensioni regolamentate per tutti.",
-    "lang2": "Reglementierte Renten für alle."
-  },
-  {
-    "lang1": "Energiewende necessaria per il clima.",
-    "lang2": "Energiewende notwendig für den Klimawandel."
-  },
-  {
-    "lang1": "Conservazione del Yasuní biodiverso.",
-    "lang2": "Biodiversitätsbewahrung im Yasuní."
-  },
-  {
-    "lang1": "Come affrontare la disuguaglianza?",
-    "lang2": "Wie man Ungleichheit angehen kann?"
-  },
-  {
-    "lang1": "Strategie per ridurre il carbon footprint.",
-    "lang2": "Strategien zur Verringerung des Kohlenstoffspurteils."
-  },
-  {
-    "lang1": "Ecuador vs Italia: politiche sociali.",
-    "lang2": "Ecuador vs. Italien: soziale Politiken."
-  },
-  {
-    "lang1": "Come finanziare la rinnovabilità.",
-    "lang2": "Wie man die Erneuerbarkeit finanzieren kann."
-  },
-  {
-    "lang1": "Risparmio energetico per la casa.",
-    "lang2": "Energetisches Sparen für die Wohnung."
-  },
-  {
-    "lang1": "Come affrontare la crisi climatica?",
-    "lang2": "Wie man die klimatische Krise angehen kann?"
-  },
-  {
-    "lang1": "Sostenibilità come obiettivo.",
-    "lang2": "Nachhaltigkeit als Ziel."
-  },
-  {
-    "lang1": "Investire nella ricerca eucarica.",
-    "lang2": "Investitionen in die eucharische Forschung."
-  },
-  {
-    "lang1": "Come garantire l'accesso all'energia.",
-    "lang2": "Wie man den Zugang zur Energie garantieren kann."
-  },
-  {
-    "lang1": "Lavoro sostenibile per tutti.",
-    "lang2": "Dauerhafte Arbeit für alle."
-  },
-  {
-    "lang1": "Come proteggere il patrimonio naturale.",
-    "lang2": "Wie man das natürliche Erbe schützen kann."
-  },
-  {
-    "lang1": "Il sistema di sicurezza sociale italiano è più ampio.",
-    "lang2": "Der italienische Sozialstaat ist breiter."
-  },
-  {
-    "lang1": "Perché l’Ecuador ha scelto il patto di solidarietà?",
-    "lang2": "Warum hat Ecuador den Solidaritätspakt gewählt?"
-  },
-  {
-    "lang1": "Implementiamo misure di economia energetica.",
-    "lang2": "Wir umsetzen Energiesparmaßnahmen."
-  },
-  {
-    "lang1": "Come ridurre il dischetto di carbonio in città?",
-    "lang2": "Wie reduzieren wir die Stadtcarbonfootprint?"
-  },
-  {
-    "lang1": "La transizione verso le energie rinnovabili è urgente.",
-    "lang2": "Die Übergang zu erneuerbaren Energien ist dringend."
-  },
-  {
-    "lang1": "Global South e Global North, diversi modelli.",
-    "lang2": "Global Süden und Global Nord, unterschiedliche Modelle."
-  },
-  {
-    "lang1": "Riforma del sistema di pensioni in Italia.",
-    "lang2": "Pensionensystemreform in Italien."
-  },
-  {
-    "lang1": "Promuoviamo l’uso di veicoli elettrici.",
-    "lang2": "Wir fördern den Einsatz von Elektrofahrzeugen."
-  },
-  {
-    "lang1": "Il modello Energiewende ha successo.",
-    "lang2": "Das Modell der Energiewende ist erfolgreich."
-  },
-  {
-    "lang1": "Come migliorare il servizio sanitario?",
-    "lang2": "Wie verbessern wir die Gesundheitsversorgung?"
-  },
-  {
-    "lang1": "Sostituiamo le fonti fossili con rinnovabili.",
-    "lang2": "Wir ersetzen fossile Energiequellen durch erneuerbare."
-  },
-  {
-    "lang1": "Il patto federale per l’energia.",
-    "lang2": "Der Bundesvertrag für die Energie."
-  },
-  {
-    "lang1": "Conserviamo il Yasuní con il Fondo.",
-    "lang2": "Wir schützen den Yasuní mit dem Fonds."
-  },
-  {
-    "lang1": "Miglioriamo la mobilità sostenibile.",
-    "lang2": "Wir verbessern die nachhaltige Mobilität."
-  },
-  {
-    "lang1": "Siamo contro l’exploitation forestale.",
-    "lang2": "Wir sind gegen die Forstausbeutung."
-  },
-  {
-    "lang1": "Raggiungiamo gli obiettivi climatici.",
-    "lang2": "Wir erreichen die klimapolitischen Ziele."
-  },
-  {
-    "lang1": "Il sistema assistenziale italiano è efficace.",
-    "lang2": "Das italienische Wohlfahrtsystem ist effektiv."
-  },
-  {
-    "lang1": "Come aumentare il recupero del materiale?",
-    "lang2": "Wie erhöhen wir den Materialrecycling?"
-  },
-  {
-    "lang1": "Il cambiamento climatico minaccia la biodiversità.",
-    "lang2": "Der Klimawandel bedroht die Biodiversität."
-  },
-  {
-    "lang1": "Riduci la tua traccia di carbonio.",
-    "lang2": "Reduziere deine Carbonfootprint."
-  },
-  {
-    "lang1": "Costruire un futuro sostenibile.",
-    "lang2": "Bauen Sie ein nachhaltiges Zukunft."
-  },
-  {
-    "lang1": "Risparmio energetico: un dovere.",
-    "lang2": "Energieeinsparung: ein Pflicht."
-  },
-  {
-    "lang1": "Promuovere politiche sociali equilibrate.",
-    "lang2": "Förderung gerechter sozialer Politiken."
-  },
-  {
-    "lang1": "Governo responsabile per l'ambiente.",
-    "lang2": "Verantwortungsvoller Umweltstaat."
-  },
-  {
-    "lang1": "Energiewende verso il biogas.",
-    "lang2": "Energiewende zum Biogas."
-  },
-  {
-    "lang1": "Yasuní: riserve irrinunciabili.",
-    "lang2": "Yasuní: unverzichtbare Reserven."
-  },
-  {
-    "lang1": "Reduzione carbonio: obiettivo urgente.",
-    "lang2": "Kohlenstoffreduktion: dringliches Ziel."
-  },
-  {
-    "lang1": "Finanziamento per la giustizia sociale.",
-    "lang2": "Finanzierung für soziale Gerechtigkeit."
-  },
-  {
-    "lang1": "Economia globale: disparità persistente.",
-    "lang2": "Weltwirtschaft: anhaltende Ungleichheit."
-  },
-  {
-    "lang1": "Ambiente a rischio: azione immediata.",
-    "lang2": "Umgang mit dem Umwelt: sofortige Maßnahmen."
-  },
-  {
-    "lang1": "Risorse limitate: usi sostenibili.",
-    "lang2": "Eingeschränkte Ressourcen: nachhaltige Nutzung."
-  },
-  {
-    "lang1": "Condividere la ricchezza equamente.",
-    "lang2": "Reichtum gerecht teilen."
-  },
-  {
-    "lang1": "Ecuador e Italia: politiche paragonate.",
-    "lang2": "Ecuador und Italien: vergleichbare Politiken."
-  },
-  {
-    "lang1": "Risparmio energetico: chi lo farà.",
-    "lang2": "Energieeffizienz: wer wird es tun."
-  },
-  {
-    "lang1": "Economia verde: una soluzione.",
-    "lang2": "Grüne Wirtschaft: eine Lösung."
-  },
-  {
-    "lang1": "Sviluppo sostenibile: un obiettivo.",
-    "lang2": "Nachhaltigem Wachstum: ein Ziel."
-  },
-  {
-    "lang1": "Energia rinnovabile: futuro luminoso.",
-    "lang2": "Erneuerbare Energie: heller Zukunft."
-  },
-  {
-    "lang1": "Risorse naturali: gestire con cura.",
-    "lang2": "Natürliche Ressourcen: aufsichtig verwaltung."
-  },
-  {
-    "lang1": "Politiche sociali per tutti.",
-    "lang2": "Sozialpolitiken für alle."
-  },
-  {
-    "lang1": "Supporto alle piccole imprese.",
-    "lang2": "Unterstützung für kleine Unternehmen."
-  },
-  {
-    "lang1": "Energia rinnovabile chiave.",
-    "lang2": "Erneuerbare Energien sind Schlüssel."
-  },
-  {
-    "lang1": "Sistema sanitario perfetto.",
-    "lang2": "Perfektes Gesundheitssystem."
-  },
-  {
-    "lang1": "Amministrazione locale responsabile.",
-    "lang2": "Verantwortliche kommunale Verwaltung."
-  },
-  {
-    "lang1": "Ambiente a rischio globale.",
-    "lang2": "Globale Umweltbedrohung."
-  },
-  {
-    "lang1": "Governi del Sud indeboliti.",
-    "lang2": "Regierungen des Südens schwächer."
-  },
-  {
-    "lang1": "Protezione dei diritti delle donne.",
-    "lang2": "Schutz der Frauenrechte."
-  },
-  {
-    "lang1": "Riforma delle pensioni urgente.",
-    "lang2": "Unerlässliche Rentenreform."
-  },
-  {
-    "lang1": "Sostenibilità ambientale primaria.",
-    "lang2": "Umweltbewusstsein als Priorität."
-  },
-  {
-    "lang1": "Economia verde possibile.",
-    "lang2": "Grüne Wirtschaft möglich."
-  },
-  {
-    "lang1": "Investimenti in ricerca.",
-    "lang2": "Investitionen in Forschung."
-  },
-  {
-    "lang1": "Risorse naturali amministrate.",
-    "lang2": "Natürliche Ressourcen verwalten."
-  },
-  {
-    "lang1": "Carbon footprint ridotto.",
-    "lang2": "Karboneigness reduziert."
-  },
-  {
-    "lang1": "Politiche di sviluppo sostenibile.",
-    "lang2": "Nachhaltige Entwicklungspolitiken."
-  },
-  {
-    "lang1": "Il governo deve ridurre le emissioni.",
-    "lang2": "Das Regierungsverbot muss die Emissionen reduzieren."
-  },
-  {
-    "lang1": "Come si realizza l'indipendenza energetica?",
-    "lang2": "Wie kann die Energieautonomie erreicht werden?"
-  },
-  {
-    "lang1": "L'Europa adotterà nuove politiche.",
-    "lang2": "Europa wird neue Politiken einführen."
-  },
-  {
-    "lang1": "Quali misure per il cambiamento climatico?",
-    "lang2": "Welche Maßnahmen zum Klimaschutz?"
-  },
-  {
-    "lang1": "Il welfare state è un diritto.",
-    "lang2": "Der Wohlfahrtsstaat ist ein Recht."
-  },
-  {
-    "lang1": "Come gestire i flussi migratori?",
-    "lang2": "Wie können die Flüchtlingsströme verwalten?"
-  },
-  {
-    "lang1": "Il partecipazione alla democrazia.",
-    "lang2": "Die Beteiligung am Demokratiedeal."
-  },
-  {
-    "lang1": "L'industria rinnovabile è l'avvenire.",
-    "lang2": "Die erneuerbare Industrie ist das Zukunftsbild."
-  },
-  {
-    "lang1": "Yasuní vs. energia nucleare.",
-    "lang2": "Yasuní oder nukleare Energie."
-  },
-  {
-    "lang1": "L'economia solidale in Ecuador.",
-    "lang2": "Die solidare Wirtschaft in Ecuador."
-  },
-  {
-    "lang1": "Il voto ecologico come strategia.",
-    "lang2": "Das Umweltwahlrecht als Strategie."
-  },
-  {
-    "lang1": "L'educazione per il futuro.",
-    "lang2": "Die Bildung für die Zukunft."
-  },
-  {
-    "lang1": "La sostenibilità come valore.",
-    "lang2": "Die Nachhaltigkeit als Wert."
-  },
-  {
-    "lang1": "Il dialogo tra Nord e Sud.",
-    "lang2": "Der Dialog zwischen Norden und Süden."
-  },
-  {
-    "lang1": "La politica energetica di Energiewende.",
-    "lang2": "Die Energiewende-Energiopolitik."
-  },
-  {
-    "lang1": "Il diritto a un ambiente sano.",
-    "lang2": "Der Recht auf eine gesunde Umwelt."
-  },
-  {
-    "lang1": "Il divieto delle materie prime non sostenibili.",
-    "lang2": "Der Verbot nicht nachhaltiger Rohstoffe."
-  },
-  {
-    "lang1": "La partecipazione dei giovani alla politica.",
-    "lang2": "Die Beteiligung junger Menschen an der Politik."
-  },
-  {
-    "lang1": "Riduzione del deficit.",
-    "lang2": "Reduktion des Defizits."
-  },
-  {
-    "lang1": "Sostegno alle famiglie.",
-    "lang2": "Unterstützung für Familien."
-  },
-  {
-    "lang1": "Maggiori investimenti in R&amp;D.",
-    "lang2": "Größere Investitionen in Forschung und Entwicklung."
-  },
-  {
-    "lang1": "Promozione dell'agricoltura biologica.",
-    "lang2": "Förderung biologischer Landwirtschaft."
-  },
-  {
-    "lang1": "Sicurezza alimentare globale.",
-    "lang2": "Globale Nahrungssicherheit."
-  },
-  {
-    "lang1": "Sviluppo sostenibile.",
-    "lang2": "Nachhaltiges Wachstum."
-  },
-  {
-    "lang1": "Energiewende per la transizione.",
-    "lang2": "Energiewende zur Transparenz."
-  },
-  {
-    "lang1": "Supporto alla piccola agricoltura.",
-    "lang2": "Unterstützung für kleine Landwirte."
-  },
-  {
-    "lang1": "Sistema sanitario migliore.",
-    "lang2": "Besseres Gesundheitssystem."
-  },
-  {
-    "lang1": "Giustizia sociale in Ecuador.",
-    "lang2": "Soziale Gerechtigkeit in Ecuador."
-  },
-  {
-    "lang1": "Migliorare la bilanciabilità.",
-    "lang2": "Verbessern der Finanzierbarkeit."
-  },
-  {
-    "lang1": "Sostenibilità dei servizi pubblici.",
-    "lang2": "Nachhaltigkeit der öffentlichen Dienste."
-  },
-  {
-    "lang1": "Migliorare la qualità dell'acqua.",
-    "lang2": "Verbessern der Wasserqualität."
-  },
-  {
-    "lang1": "Risorse umane per la sostenibilità.",
-    "lang2": "Menschenressourcen für Nachhaltigkeit."
-  },
-  {
-    "lang1": "Economia della solidarietà.",
-    "lang2": "Wirtschaft der Solidarität."
-  },
-  {
-    "lang1": "Riforma sociale necessaria.",
-    "lang2": "Sozialreform erforderlich."
-  },
-  {
-    "lang1": "Energiewende ha successo.",
-    "lang2": "Die Energiewende gelingt."
-  },
-  {
-    "lang1": "Bassa tassazione incentiva consumo.",
-    "lang2": "Niedrige Steuern fördern den Konsum."
-  },
-  {
-    "lang1": "Risorse naturali protette.",
-    "lang2": "Natürliche Ressourcen geschützt."
-  },
-  {
-    "lang1": "Cambiamento climatico urgente.",
-    "lang2": "Klimawandel dringlich."
-  },
-  {
-    "lang1": "Sostenibilità ambientale chiave.",
-    "lang2": "Umweltbewusstsein wichtig."
-  },
-  {
-    "lang1": "Risorse Ecuadoriane limitate.",
-    "lang2": "Ecuadorische Ressourcen begrenzt."
-  },
-  {
-    "lang1": "Economia verde promossa.",
-    "lang2": "Die grüne Wirtschaft gefördert."
-  },
-  {
-    "lang1": "Politiche sociali efficaci.",
-    "lang2": "Wirksame Sozialpolitiken."
-  },
-  {
-    "lang1": "Carbono inquinante.",
-    "lang2": "Kohlenstoffbelastend."
-  },
-  {
-    "lang1": "Pensioni migliorate.",
-    "lang2": "Verbesserte Renten."
-  },
-  {
-    "lang1": "Industria sostenibile esorta.",
-    "lang2": "Der nachhaltige Industrie aufruft."
-  },
-  {
-    "lang1": "Sviluppo sostenibile obiettivo.",
-    "lang2": "Nachhaltiges Wachstum Ziel."
-  },
-  {
-    "lang1": "Energia rinnovabile prioritaria.",
-    "lang2": "Erneuerbare Energie优先."
-  },
-  {
-    "lang1": "Conservazione per generazioni future.",
-    "lang2": "Für die zukünftige Erhaltung."
-  },
-  {
-    "lang1": "Economia circulaire adottata.",
-    "lang2": "Die kreisfähige Wirtschaft eingeführt."
-  },
-  {
-    "lang1": "Risorse naturali sfruttate.",
-    "lang2": "Die natürlichen Ressourcen ausgenutzt."
-  },
-  {
-    "lang1": "Ricchezza sociale valorizzata.",
-    "lang2": "Die soziale Werte geschätzt."
-  },
-  {
-    "lang1": "Energia rinnovabile necessaria.",
-    "lang2": "Erneuerbare Energie notwendig."
-  },
-  {
-    "lang1": "Raggiungiamo gli obiettivi di sostenibilità.",
-    "lang2": "Wir erreichen die Nachhaltigkeitsziele."
-  },
-  {
-    "lang1": "La politica sociale è chiave.",
-    "lang2": "Die Sozialpolitik ist entscheidend."
-  },
-  {
-    "lang1": "Pensioni equilibrate per tutti.",
-    "lang2": "Gerechte Renten für alle."
-  },
-  {
-    "lang1": "L'economia locale cresce.",
-    "lang2": "Die lokale Wirtschaft wächst."
-  },
-  {
-    "lang1": "Inversioni in energia rinnovabile.",
-    "lang2": "Investitionen in erneuerbare Energie."
-  },
-  {
-    "lang1": "Conservazione dell'Yasuní.",
-    "lang2": "Die Erhaltung des Yasuní."
-  },
-  {
-    "lang1": "Strategie di riduzione del CO2.",
-    "lang2": "CO2-Reduktionsstrategien."
-  },
-  {
-    "lang1": "Sostegno alle piccole aziende.",
-    "lang2": "Unterstützung für kleine Unternehmen."
-  },
-  {
-    "lang1": "Il welfare è un diritto.",
-    "lang2": "Das Wohlfahrtssystem ist ein Recht."
-  },
-  {
-    "lang1": "Promuoviamo l'agricoltura sostenibile.",
-    "lang2": "Wir fördern nachhaltige Landwirtschaft."
-  },
-  {
-    "lang1": "Confronto tra Ecuador e Italia.",
-    "lang2": "Vergleich Ecuador und Italien."
-  },
-  {
-    "lang1": "Miglioramento delle infrastrutture.",
-    "lang2": "Verbesserung der Infrastruktur."
-  },
-  {
-    "lang1": "Reduciamo l'impatto sull'ambiente.",
-    "lang2": "Wir reduzieren den Umweltausfall."
-  },
-  {
-    "lang1": "Investimenti in ricerche sostenibili.",
-    "lang2": "Investitionen in nachhaltige Forschung."
-  },
-  {
-    "lang1": "Aumento dei salai per tutti.",
-    "lang2": "Lohnerhöhung für alle."
-  },
-  {
-    "lang1": "Tecnologie per la sostenibilità.",
-    "lang2": "Technologien für die Nachhaltigkeit."
-  },
-  {
-    "lang1": "Il sistema di welfare italiano è inefficiente.",
-    "lang2": "Das italienische Sozialsystem ist ineffizient."
-  },
-  {
-    "lang1": "Perché la politica ambientale in Ecuador è fallita?",
-    "lang2": "Warum ist die UmweltPolitik in Ecuador gescheitert?"
-  },
-  {
-    "lang1": "Promuoviamo l'energia rinnovabile in tutta l'Europa.",
-    "lang2": "Wir fördern erneuerbare Energie in ganz Europa."
-  },
-  {
-    "lang1": "Riduciamo il nostro impatto sull'ambiente.",
-    "lang2": "Senkung unseres Umweltauswirkungs."
-  },
-  {
-    "lang1": "Come si può migliorare l'educazione in Ecuador?",
-    "lang2": "Wie kann die Bildung in Ecuador verbessert werden?"
-  },
-  {
-    "lang1": "Il Nord global vs. Sud globale: una discussione.",
-    "lang2": "Nordglobales vs. Sudglobales: ein Gespräch."
-  },
-  {
-    "lang1": "Il Yasuní dell'energia rinnovabile.",
-    "lang2": "Der Yasuní der erneuerbaren Energie."
-  },
-  {
-    "lang1": "La transizione verso le energie rinnovabili.",
-    "lang2": "Die Übergang zum Einsatz erneuerbarer Energien."
-  },
-  {
-    "lang1": "Il piano per un futuro sostenibile.",
-    "lang2": "Das Konzept für eine nachhaltige Zukunft."
-  },
-  {
-    "lang1": "Come ridurre il consumo di carbone.",
-    "lang2": "Wie kann der Kohlenstoffsverbrauch reduziert werden?"
-  },
-  {
-    "lang1": "Innovazione per la sostenibilità.",
-    "lang2": "Innovation für Nachhaltigkeit."
-  },
-  {
-    "lang1": "Perché l'energia solare è il futuro.",
-    "lang2": "Warum die Solarenergie das Zukunft ist."
-  },
-  {
-    "lang1": "Energiewende: un percorso verso il futuro.",
-    "lang2": "Energiewende: ein Weg in die Zukunft."
-  },
-  {
-    "lang1": "L'importanza della sostenibilità.",
-    "lang2": "Die Bedeutung der Nachhaltigkeit."
-  },
-  {
-    "lang1": "Il modello economico del Nord vs. Sud.",
-    "lang2": "Das Wirtschaftsmodell des Nordens vs. Südens."
-  },
-  {
-    "lang1": "Risparmiamo energia per il futuro.",
-    "lang2": "Energie sparen für die Zukunft."
-  },
-  {
-    "lang1": "Come migliorare i sistemi di welfare.",
-    "lang2": "Wie Sozialsysteme verbessern können."
-  },
-  {
-    "lang1": "Ridurre le emissioni carboniche.",
-    "lang2": "Kohlenstoffspeichelerreichen reduzieren."
-  },
-  {
-    "lang1": "Impatto sull'ambiente: una discussione.",
-    "lang2": "Umweltauswirkungen: ein Gespräch."
-  },
-  {
-    "lang1": "Il ruolo dell'innovazione in Ecuador.",
-    "lang2": "Die Rolle der Innovation in Ecuador."
-  },
-  {
-    "lang1": "Riforma del welfare.",
-    "lang2": "Die Wohlfahrtsgesetzgebung überdenken."
-  },
-  {
-    "lang1": "Risparmio energetico possibile.",
-    "lang2": "Energeisparmaßnahmen sind möglich."
-  },
-  {
-    "lang1": "Yasuní integrazione sostenibile.",
-    "lang2": "Yasuní integrieren in nachhaltige Lösungen."
-  },
-  {
-    "lang1": "Politiche per l'ambiente.",
-    "lang2": "Umweltpolitik."
-  },
-  {
-    "lang1": "Carbono zero possibile.",
-    "lang2": "Kohlenstoffneutrales Ziel möglich."
-  },
-  {
-    "lang1": "Economia verde iniziata.",
-    "lang2": "Die grüne Wirtschaft begonnen."
-  },
-  {
-    "lang1": "Sostenibilità della politica.",
-    "lang2": "Die nachhaltige Politik."
-  },
-  {
-    "lang1": "Innovazione tecnologica per la sostenibilità.",
-    "lang2": "Technologische Innovationen für Nachhaltigkeit."
-  },
-  {
-    "lang1": "Ecuador e l'Italia in parità.",
-    "lang2": "Ecuador und Italien auf gleicher Ebene."
-  },
-  {
-    "lang1": "Risorse umane protette.",
-    "lang2": "Menschliche Ressourcen geschützt."
-  },
-  {
-    "lang1": "Governo responsabile necessario.",
-    "lang2": "Verantwortungsbewusstes Regieren notwendig."
-  },
-  {
-    "lang1": "Risparmio energetico promosso.",
-    "lang2": "Energeisparmaßnahmen gefördert."
-  },
-  {
-    "lang1": "Economia del Global South.",
-    "lang2": "Global-Süden-Wirtschaft."
-  },
-  {
-    "lang1": "Il sistema di sicurezza sociale è essenziale.",
-    "lang2": "Das Sozialsystem ist von grundlegender Bedeutung."
-  },
-  {
-    "lang1": "Come si può ridurre l'occupazione sostenuta?",
-    "lang2": "Wie kann man die nachhaltige Beschäftigung reduzieren?"
-  },
-  {
-    "lang1": "La transizione energetica richiede impegno.",
-    "lang2": "Die Energiewende erfordert Engagement."
-  },
-  {
-    "lang1": "L'Energiewende sostituisce le fonti rinnovabili.",
-    "lang2": "Die Energiewende ersetzt erneuerbare Energiequellen."
-  },
-  {
-    "lang1": "Il Yasuní ha salvaguardato l'ecosistema.",
-    "lang2": "Der Yasuní hat das Ökosystem geschützt."
-  },
-  {
-    "lang1": "Come promuovere la crescita economica sostenibile?",
-    "lang2": "Wie kann eine nachhaltige wirtschaftliche Entwicklung gefördert werden?"
-  },
-  {
-    "lang1": "Il patto di carbono è fondamentale.",
-    "lang2": "Der Kohlenstoffpakt ist grundlegend."
-  },
-  {
-    "lang1": "Perché l'Italia adotta le riforme?",
-    "lang2": "Warum nimmt Italien die Reformen an?"
-  },
-  {
-    "lang1": "Il Nord aiuta il Sud con la sostenibilità.",
-    "lang2": "Der Norden unterstützt den Süden bei der Nachhaltigkeit."
-  },
-  {
-    "lang1": "Il welfare deve essere ampio.",
-    "lang2": "Der Wohlfahrtsstaat muss umfassend sein."
-  },
-  {
-    "lang1": "Per quali politiche il Nord ha responsabilità?",
-    "lang2": "Für welche politischen Maßnahmen trägt der Norden Verantwortung?"
-  },
-  {
-    "lang1": "La politica pubblica deve proteggere.",
-    "lang2": "Die öffentliche Politik muss schützen."
-  },
-  {
-    "lang1": "Il welfare sistema è obsoleto.",
-    "lang2": "Der Wohlfahrtsstaat ist veraltet."
-  },
-  {
-    "lang1": "Il Nord investe nel Sud.",
-    "lang2": "Der Norden investiert im Süden."
-  },
-  {
-    "lang1": "Perché il sistema di riscaldamento è inefficiente?",
-    "lang2": "Warum ist das Heizsystem ineffizient?"
-  },
-  {
-    "lang1": "Il patto di cooperazione è vitale.",
-    "lang2": "Der Zusammenarbeitspakt ist entscheidend."
-  },
-  {
-    "lang1": "Come implementare le riforme ambientali?",
-    "lang2": "Wie können die Umweltreformen umgesetzt werden?"
-  },
-  {
-    "lang1": "Il Nord fornisce tecnologia.",
-    "lang2": "Der Norden liefert Technologie."
-  },
-  {
-    "lang1": "Perché promuovere l'innovazione?",
-    "lang2": "Warum soll Innovation gefördert werden?"
-  }
+  { "lang1": "Possiamo rivedere questo punto?", "lang2": "Können wir diesen Punkt noch einmal durchgehen?" },
+  { "lang1": "Non ho capito bene questa spiegazione.", "lang2": "Ich habe diese Erklärung nicht ganz verstanden." },
+  { "lang1": "Puoi ripetere più lentamente, per favore?", "lang2": "Könntest du das bitte langsamer wiederholen?" },
+  { "lang1": "Come si pronuncia questa parola?", "lang2": "Wie wird dieses Wort ausgesprochen?" },
+  { "lang1": "C'è una differenza tra questi due termini?", "lang2": "Gibt es einen Unterschied zwischen diesen beiden Begriffen?" },
+  { "lang1": "Qual è la regola grammaticale qui?", "lang2": "Was ist hier die grammatikalische Regel?" },
+  { "lang1": "Puoi farmi un esempio pratico?", "lang2": "Kannst du mir ein praktisches Beispiel geben?" },
+  { "lang1": "Questa frase suona naturale?", "lang2": "Klingt dieser Satz natürlich?" },
+  { "lang1": "Ho fatto degli errori in questo esercizio?", "lang2": "Habe ich in dieser Übung Fehler gemacht?" },
+  { "lang1": "Come posso dire questo in modo più formale?", "lang2": "Wie kann ich das formeller ausdrücken?" },
+  { "lang1": "Possiamo fare una breve pausa?", "lang2": "Können wir eine kurze Pause machen?" },
+  { "lang1": "Qual è il compito per la prossima volta?", "lang2": "Was ist die Hausaufgabe für das nächste Mal?" },
+  { "lang1": "Mi mandi le note della lezione?", "lang2": "Schickst du mir die Notizen der Stunde?" },
+  { "lang1": "Possiamo spostare il nostro appuntamento?", "lang2": "Können wir unseren Termin verschieben?" },
+  { "lang1": "Grazie mille per la pazienza.", "lang2": "Vielen Dank für deine Geduld." },
+  { "lang1": "Oggi vorrei concentrarmi sulla conversazione.", "lang2": "Heute möchte ich mich auf die Konversation konzentrieren." },
+  { "lang1": "Ho delle domande sui verbi irregolari.", "lang2": "Ich habe Fragen zu den unregelmäßigen Verben." },
+  { "lang1": "Come si traduce questa frase nel contesto?", "lang2": "Wie übersetzt man diesen Satz im Kontext?" },
+  { "lang1": "Puoi correggere la mia pronuncia?", "lang2": "Kannst du meine Aussprache korrigieren?" },
+  { "lang1": "Non riesco a trovare la parola giusta.", "lang2": "Ich kann das passende Wort nicht finden." },
+  { "lang1": "Cosa significa questa espressione idiomatica?", "lang2": "Was bedeutet dieser redensartliche Ausdruck?" },
+  { "lang1": "È meglio usare questo verbo o l'altro?", "lang2": "Ist es besser, dieses Verb oder das andere zu verwenden?" },
+  { "lang1": "Puoi scriverlo nella chat?", "lang2": "Kannst du das in den Chat schreiben?" },
+  { "lang1": "Mi senti bene?", "lang2": "Hörst du mich gut?" },
+  { "lang1": "La mia connessione internet è un po' lenta.", "lang2": "Meine Internetverbindung ist etwas langsam." },
+  { "lang1": "Possiamo ripassare quello che abbiamo fatto la settimana scorsa?", "lang2": "Können wir wiederholen, was wir letzte Woche gemacht haben?" },
+  { "lang1": "Qual è la differenza tra questi sinomimi?", "lang2": "Was ist der Unterschied zwischen diesen Synonymen?" },
+  { "lang1": "Ho scritto un breve testo, puoi leggerlo?", "lang2": "Ich habe einen kurzen Text geschrieben, kannst du ihn lesen?" },
+  { "lang1": "Questo tempo verbale si usa spesso nel parlato?", "lang2": "Wird diese Zeitform in der gesprochenen Sprache oft verwendet?" },
+  { "lang1": "Qual è l'opposto di questa parola?", "lang2": "Was ist das Gegenteil von diesem Wort?" },
+  { "lang1": "Puoi darmi un feedback sul mio accento?", "lang2": "Kannst du mir Feedback zu meinem Akzent geben?" },
+  { "lang1": "Non ricordo la coniugazione di questo verbo.", "lang2": "Ich erinnere mich nicht an die Konjugation dieses Verbs." },
+  { "lang1": "Qual è la preposizione corretta da usare qui?", "lang2": "Welche Präposition ist hier richtig?" },
+  { "lang1": "Possiamo parlare di un argomento d'attualità?", "lang2": "Können wir über ein aktuelles Thema sprechen?" },
+  { "lang1": "Vorrei migliorare il mio vocabolario professionale.", "lang2": "Ich möchte meinen Wortschatz für den Beruf verbessern." },
+  { "lang1": "Come posso strutturare meglio questo discorso?", "lang2": "Wie kann ich diese Rede besser strukturieren?" },
+  { "lang1": "Qual è la regola per la posizione del verbo?", "lang2": "Was ist die Regel für die Stellung des Verbs?" },
+  { "lang1": "Questo errore è molto grave?", "lang2": "Ist dieser Fehler sehr schlimm?" },
+  { "lang1": "Puoi consigliarmi un libro per il mio livello?", "lang2": "Kannst du mir ein Buch für mein Niveau empfehlen?" },
+  { "lang1": "Ci sono eccezioni a questa regola?", "lang2": "Gibt es Ausnahmen von dieser Regel?" },
+  { "lang1": "Come si usa questa particella?", "lang2": "Wie benutzt man diese Partikel?" },
+  { "lang1": "Ho ascoltato un podcast ma non ho capito tutto.", "lang2": "Ich habe einen Podcast gehört, aber nicht alles verstanden." },
+  { "lang1": "Possiamo esercitarci con i pronomi?", "lang2": "Können wir die Pronomen üben?" },
+  { "lang1": "Qual è la sfumatura di significato qui?", "lang2": "Was ist die Nuance der Bedeutung hier?" },
+  { "lang1": "Si dice così anche nel linguaggio colloquiale?", "lang2": "Sagt man das auch in der Umgangssprache?" },
+  { "lang1": "Mi spieghi il congiuntivo in modo semplice?", "lang2": "Erklärst du mir den Konjunktiv auf einfache Weise?" },
+  { "lang1": "Possiamo fare un gioco di ruolo?", "lang2": "Können wir ein Rollenspiel machen?" },
+  { "lang1": "Qual è la struttura di questa frase complessa?", "lang2": "Wie ist die Struktur dieses komplexen Satzes?" },
+  { "lang1": "Mi mandi un link con altri esercizi?", "lang2": "Schickst du mir einen Link mit weiteren Übungen?" },
+  { "lang1": "Sono molto stanco oggi, possiamo fare cose leggere?", "lang2": "Ich bin heute sehr müde, können wir etwas Leichtes machen?" },
+  { "lang1": "Cosa faremo nella lezione di oggi?", "lang2": "Was machen wir in der heutigen Stunde?" },
+  { "lang1": "Ho preparato una lista di domande.", "lang2": "Ich habe eine Liste mit Fragen vorbereitet." },
+  { "lang1": "Puoi condividere lo schermo?", "lang2": "Kannst du den Bildschirm teilen?" },
+  { "lang1": "Vedi la mia presentazione?", "lang2": "Siehst du meine Präsentation?" },
+  { "lang1": "Ci vediamo la prossima settimana alla solita ora?", "lang2": "Sehen wir uns nächste Woche zur gewohnten Zeit?" },
+  { "lang1": "Mi spiace, devo cancellare la lezione di domani.", "lang2": "Es tut mir leid, ich muss die Stunde morgen absagen." },
+  { "lang1": "Possiamo recuperare questa lezione più avanti?", "lang2": "Können wir diese Stunde später nachholen?" },
+  { "lang1": "Qual è il metodo migliore per memorizzare i vocaboli?", "lang2": "Was ist die beste Methode, um Wortschatz zu lernen?" },
+  { "lang1": "Mi servono più esercizi sull'ascolto.", "lang2": "Ich brauche mehr Hörverständnisübungen." },
+  { "lang1": "Come va la mia intonazione?", "lang2": "Wie ist meine Intonation?" },
+  { "lang1": "È corretto dire così?", "lang2": "Ist es richtig, das so zu sagen?" },
+  { "lang1": "Non sono sicuro di quale caso usare.", "lang2": "Ich bin mir nicht sicher, welchen Fall ich verwenden soll." },
+  { "lang1": "Puoi spiegarmelo con altre parole?", "lang2": "Kannst du mir das mit anderen Worten erklären?" },
+  { "lang1": "Questa parola ha un doppio significato?", "lang2": "Hat dieses Wort eine doppeltsinnige Bedeutung?" },
+  { "lang1": "Vorrei preparare un colloquio di lavoro.", "lang2": "Ich möchte mich auf ein Vorstellungsgespräch vorbereiten." },
+  { "lang1": "Come posso iniziare una mail formale?", "lang2": "Wie kann ich eine formelle E-Mail beginnen?" },
+  { "lang1": "Qual è la differenza di uso tra questi due tempi?", "lang2": "Was ist der Unterschied in der Verwendung dieser zwei Zeiten?" },
+  { "lang1": "Possiamo leggere questo articolo insieme?", "lang2": "Können wir diesen Artikel zusammen lesen?" },
+  { "lang1": "Mi aiuti a correggere questa lettera?", "lang2": "Hilfst du mir, diesen Brief zu korrigieren?" },
+  { "lang1": "Non mi viene in mente il nome di quel tempo verbale.", "lang2": "Mir fällt der Name dieser Zeitform nicht ein." },
+  { "lang1": "C'è qualche scorciatoia per ricordare questa regola?", "lang2": "Gibt es eine Eselsbrücke, um sich diese Regel zu merken?" },
+  { "lang1": "Questa costruzione è tipica del linguaggio scritto?", "lang2": "Ist diese Konstruktion typisch für die Schriftsprache?" },
+  { "lang1": "Come posso esprimere il mio parere in modo educato?", "lang2": "Wie kann ich meine Meinung höflich ausdrücken?" },
+  { "lang1": "Possiamo fare una simulazione di esame?", "lang2": "Können wir eine Prüfungssimulation machen?" },
+  { "lang1": "Quali sono le parole chiave di questo testo?", "lang2": "Was sind die Schlüsselwörter dieses Textes?" },
+  { "lang1": "Come si traduce questa metafora?", "lang2": "Wie übersetzt man diese Metapher?" },
+  { "lang1": "Ho capito la regola, ma mi manca la pratica.", "lang2": "Ich habe die Regel verstanden, aber mir fehlt die Praxis." },
+  { "lang1": "Puoi darmi un altro esempio, per favore?", "lang2": "Kannst du mir bitte noch ein Beispiel geben?" },
+  { "lang1": "Questo termine viene usato anche in Austria o Svizzera?", "lang2": "Wird dieser Begriff auch in Österreich oder der Schweiz verwendet?" },
+  { "lang1": "Come posso migliorare la mia fluidità nel parlare?", "lang2": "Wie kann ich meinen Redefluss verbessern?" },
+  { "lang1": "Ci sono dei falsi amici che dovrei evitare?", "lang2": "Gibt es falsche Freunde, die ich vermeiden sollte?" },
+  { "lang1": "Vorrei concentrarmi sulla scrittura questa settimana.", "lang2": "Ich möchte mich diese Woche auf das Schreiben konzentrieren." },
+  { "lang1": "Qual è la differenza di registro tra queste parole?", "lang2": "Was ist der Sprachniveau-Unterschied zwischen diesen Wörtern?" },
+  { "lang1": "Mi spieghi la differenza tra questi due connettivi?", "lang2": "Erklärst du mir den Unterschied zwischen diesen zwei Konnektoren?" },
+  { "lang1": "Cosa ne pensi del mio progresso finora?", "lang2": "Was denkst du über meinen bisherigen Fortschritt?" },
+  { "lang1": "Come posso fare per non tradurre sempre dalla mia lingua madre?", "lang2": "Wie kann ich vermeiden, immer aus meiner Muttersprache zu übersetzen?" },
+  { "lang1": "Questa frase ha un senso compiuto?", "lang2": "Macht dieser Satz einen Sinn?" },
+  { "lang1": "Devo usare l'indicativo o il congiuntivo in questo caso?", "lang2": "Muss ich in diesem Fall den Indikativ oder den Konjunktiv verwenden?" },
+  { "lang1": "Qual è il plurale di questo sostantivo?", "lang2": "Was ist die Pluralform dieses Substantivs?" },
+  { "lang1": "Questo aggettivo va prima o dopo il nome?", "lang2": "Steht dieses Adjektiv vor oder nach dem Nomen?" },
+  { "lang1": "Mi aiuti a pronunciare le vocali aperte e chiuse?", "lang2": "Hilfst du mir, die offenen und geschlossenen Vokale auszusprechen?" },
+  { "lang1": "Come posso declinare questo pronome?", "lang2": "Wie dekliniere ich dieses Pronomen?" },
+  { "lang1": "Possiamo rivedere la forma passiva?", "lang2": "Können wir das Passiv noch einmal durchgehen?" },
+  { "lang1": "Qual è il prefisso separabile qui?", "lang2": "Was ist hier das trennbare Präfix?" },
+  { "lang1": "Quando si usa questa preposizione articolata?", "lang2": "Wann verwendet man diese verschmolzene Präposition?" },
+  { "lang1": "C'è un modo più breve per dire la stessa cosa?", "lang2": "Gibt es eine kürzere Möglichkeit, dasselbe zu sagen?" },
+  { "lang1": "Qual è il tono di questa frase?", "lang2": "Welcher Tonfall liegt in diesem Satz?" },
+  { "lang1": "Come posso evitare di ripetere la stessa parola?", "lang2": "Wie kann ich vermeiden, dasselbe Wort zu wiederholen?" },
+  { "lang1": "Mi dai dei consigli per l'ascolto autonomo?", "lang2": "Gibst du mir Tipps für das selbstständige Hörverstehen?" },
+  { "lang1": "Qual è il livello di questo testo?", "lang2": "Welches Niveau hat dieser Text?" },
+  { "lang1": "Possiamo fare un riassunto dei punti principali?", "lang2": "Können wir die Hauptpunkte zusammenfassen?" },
+  { "lang1": "Come posso usare correttamente le congiunzioni?", "lang2": "Wie verwende ich Konjunktionen richtig?" },
+  { "lang1": "Questa frase contiene un'ambiguità?", "lang2": "Enthält dieser Satz eine Zweideutigkeit?" },
+  { "lang1": "Mi mostri come si scrive questa parola?", "lang2": "Zeigst du mir, wie man dieses Wort schreibt?" },
+  { "lang1": "Come si esprime un dubbio in modo naturale?", "lang2": "Wie drückt man Zweifel auf natürliche Weise aus?" },
+  { "lang1": "Quali sono gli errori più comuni che faccio?", "lang2": "Was sind die häufigsten Fehler, die ich mache?" },
+  { "lang1": "Possiamo lavorare sulle mie lacune grammaticali?", "lang2": "Können wir an meinen grammatikalischen Lücken arbeiten?" },
+  { "lang1": "Come posso fare per parlare più velocemente?", "lang2": "Wie kann ich schneller sprechen lernen?" },
+  { "lang1": "Questa parola si usa solo nel parlato o anche nello scritto?", "lang2": "Wird dieses Wort nur beim Sprechen oder auch beim Schreiben verwendet?" },
+  { "lang1": "Qual è la differenza tra questi due verbi modali?", "lang2": "Was ist der Unterschied zwischen diesen beiden Modalverben?" },
+  { "lang1": "Mi dai un riscontro sulla mia comprensione del testo?", "lang2": "Gibst du mir Rückmeldung zu meinem Textverständnis?" },
+  { "lang1": "Possiamo fare un esercizio di traduzione inversa?", "lang2": "Können wir eine Rückübersetzungsübung machen?" },
+  { "lang1": "Come si forma il participio passato di questo verbo?", "lang2": "Wie bildet man das Partizip Perfekt dieses Verbs?" },
+  { "lang1": "Qual è la struttura corretta della frase subordinata?", "lang2": "Was ist die richtige Struktur des Nebensatzes?" },
+  { "lang1": "Come posso esprimere un'ipotesi nel passato?", "lang2": "Wie drücke ich eine Hypothese in der Vergangenheit aus?" },
+  { "lang1": "Qual è la funzione di questo avverbio?", "lang2": "Was ist die Funktion dieses Adverbs?" },
+  { "lang1": "Possiamo analizzare la grammatica di questa canzone?", "lang2": "Können wir die Grammatik dieses Liedes analysieren?" },
+  { "lang1": "Come posso migliorare la mia punteggiatura?", "lang2": "Wie kann ich meine Zeichensetzung verbessern?" },
+  { "lang1": "Ci sono dei verbi reggenti che devo memorizzare?", "lang2": "Gibt es bestimmte Verben mit fester Präposition, die ich lernen muss?" },
+  { "lang1": "Come si usa il discorso indiretto?", "lang2": "Wie verwendet man die indirekte Rede?" },
+  { "lang1": "Possiamo fare un'esercitazione sui pronomi relativi?", "lang2": "Können wir eine Übung zu den Relativpronomen machen?" },
+  { "lang1": "Qual è il registro linguistico più adatto per questa situazione?", "lang2": "Welches Sprachniveau passt am besten zu dieser Situation?" },
+  { "lang1": "Come posso rendere questa frase più fluida?", "lang2": "Wie kann ich diesen Satz flüssiger machen?" },
+  { "lang1": "Mi spiegati l'uso delle particelle pronominali?", "lang2": "Erklärst du mir die Verwendung der Pronominalpartikeln?" },
+  { "lang1": "Qual è la differenza tra un verbo transitivo e intransitivo in questo contesto?", "lang2": "Was ist der Unterschied zwischen einem transitiven und intransitiven Verb in diesem Kontext?" },
+  { "lang1": "Possiamo lavorare sulla comprensione orale oggi?", "lang2": "Können wir heute am Hörverstehen arbeiten?" },
+  { "lang1": "Come posso arricchire le mie descrizioni?", "lang2": "Wie kann ich meine Beschreibungen reichhaltiger gestalten?" },
+  { "lang1": "Quali sono i connettivi logici più usati?", "lang2": "Was sind die am häufigsten verwendeten logischen Verknüpfungen?" },
+  { "lang1": "Come si forma la forma riflessiva di questo verbo?", "lang2": "Wie bildet man die Reflexivform dieses Verbs?" },
+  { "lang1": "Possiamo fare degli esercizi di fonetica?", "lang2": "Können wir ein paar Phonetikübungen machen?" },
+  { "lang1": "Qual è la regola per l'accordo del participio?", "lang2": "Was ist die Regel für die Angleichung des Partizips?" },
+  { "lang1": "Come posso argomentare la mia tesi in modo efficace?", "lang2": "Wie kann ich meine Argumente wirksam begründen?" },
+  { "lang1": "C'è un sinonimo meno comune per questa parola?", "lang2": "Gibt es ein weniger gebräuchliches Synonym für dieses Wort?" },
+  { "lang1": "Come posso esprimere rabbia o disappunto in modo educato?", "lang2": "Wie drücke ich Ärger oder Enttäuschung höflich aus?" },
+  { "lang1": "Possiamo fare un test di livello la settimana prossima?", "lang2": "Können wir nächste Woche einen Einstufungstest machen?" },
+  { "lang1": "Qual è la differenza tra queste due forme verbali?", "lang2": "Was ist der Unterschied zwischen diesen beiden Verbformen?" },
+  { "lang1": "Come posso memorizzare meglio le reggenze verbali?", "lang2": "Wie kann ich mir Verbverbindungen besser merken?" },
+  { "lang1": "Questo termine appartiene a un gergo specifico?", "lang2": "Gehört dieser Begriff zu einem bestimmten Fachjargon?" },
+  { "lang1": "Possiamo discutere un tema di attualità socio-politica?", "lang2": "Können wir ein gesellschaftspolitisch aktuelles Thema diskutieren?" },
+  { "lang1": "Come si traduce questo concetto filosofico?", "lang2": "Wie übersetzt man dieses philosophische Konzept?" },
+  { "lang1": "Qual è l'impatto di questa scelta stilistica?", "lang2": "Welche Wirkung hat diese stilistische Wahl?" },
+  { "lang1": "Possiamo analizzare la struttura di questo saggio?", "lang2": "Können wir die Struktur dieses Essays analysieren?" },
+  { "lang1": "Come posso esprimere sfumature di certezza o dubbio?", "lang2": "Wie kann ich Nuancen von Gewissheit oder Zweifel ausdrücken?" },
+  { "lang1": "Qual è il ruolo di questo elemento sintattico?", "lang2": "Welche Rolle spielt dieses syntaktische Element?" },
+  { "lang1": "Possiamo esercitarci nell'uso dei verbi frasali?", "lang2": "Können wir die Verwendung von Phraseologismen üben?" },
+  { "lang1": "Come posso rendere il mio stile di scrittura più accademico?", "lang2": "Wie kann ich meinen Schreibstil akademischer gestalten?" },
+  { "lang1": "Qual è la differenza tra uso letterale e figurato?", "lang2": "Was ist der Unterschied zwischen wörtlicher und übertragener Bedeutung?" },
+  { "lang1": "Come si declinano gli aggettivi sostantivati?", "lang2": "Wie werden substantivierte Adjektive deklineiert?" },
+  { "lang1": "Possiamo fare un esercizio di paratassi e ipotassi?", "lang2": "Können wir eine Übung zu Parataxe und Hypotaxe machen?" },
+  { "lang1": "Qual è l'origine etimologica di questa parola?", "lang2": "Was ist der etymologische Ursprung dieses Wortes?" },
+  { "lang1": "Come posso gestire le pause nel discorso?", "lang2": "Wie gehe ich mit Sprechpausen um?" },
+  { "lang1": "Quali sono le strategie per superare un blocco linguistico?", "lang2": "Welche Strategien gibt es, um eine Sprachblockade zu überwinden?" },
+  { "lang1": "Possiamo esaminare questo testo da una prospettiva critica?", "lang2": "Können wir diesen Text aus einer kritischen Perspektive betrachten?" },
+  { "lang1": "Come varia questo termine nei diversi dialetti regionali?", "lang2": "Wie variiert dieser Begriff in den verschiedenen regionalen Dialekten?" },
+  { "lang1": "Qual è il valore stilistico di questa inversione?", "lang2": "Welchen stilistischen Wert hat diese Inversion?" },
+  { "lang1": "Possiamo fare un'analisi del testo dal punto di vista coesivo?", "lang2": "Können wir den Text auf seine Kohäsion hin analysieren?" },
+  { "lang1": "Come posso esprimere ironia in modo sottile?", "lang2": "Wie kann ich Ironie subtil ausdrücken?" },
+  { "lang1": "Qual è la differenza tra denotazione e connotazione in questo testo?", "lang2": "Was ist der Unterschied zwischen Denotation und Konnotation in diesem Text?" },
+  { "lang1": "Possiamo rivedere l'uso delle proposizioni implicite ed esplicite?", "lang2": "Können wir die Verwendung von impliziten und expliziten Sätzen wiederholen?" },
+  { "lang1": "Come posso fare per migliorare l'intonazione nelle domande?", "lang2": "Wie kann ich die Intonation bei Fragen verbessern?" },
+  { "lang1": "Quali sono i neologismi più diffusi in questo ambito?", "lang2": "Was sind die gebräuchlichsten Neologismen in diesem Bereich?" },
+  { "lang1": "Possiamo analizzare il registro di questa lettera formale?", "lang2": "Können wir das Sprachniveau dieses formellen Briefes analysieren?" },
+  { "lang1": "Come si esprime un vincolo condizionale complesso?", "lang2": "Wie drückt man eine komplexe bedingte Einschränkung aus?" },
+  { "lang1": "Qual è la differenza tra discorso diretto, indiretto e indiretto libero?", "lang2": "Was ist der Unterschied zwischen direkter, indirekter und freier indirekter Rede?" },
+  { "lang1": "Possiamo fare un lavoro di riformulazione di questo paragrafo?", "lang2": "Können wir diesen Absatze umformulieren?" },
+  { "lang1": "Come posso usare i connettivi per creare transizioni più fluide?", "lang2": "Wie verwende ich Konnektoren für flüssigere Übergänge?" },
+  { "lang1": "Qual è la funzione pragmatica di questa esclamazione?", "lang2": "Was ist die pragmatische Funktion dieses Ausrufs?" },
+  { "lang1": "Possiamo esaminare le metafore concettuali presenti nel testo?", "lang2": "Können wir die im Text enthaltenen konzeptuellen Metaphern untersuchen?" },
+  { "lang1": "Come si distingue il senso oggettivo da quello soggettivo?", "lang2": "Wie unterscheidet man die objektive von der subjektiven Bedeutung?" },
+  { "lang1": "Quali sono i marcatori del discorso più adatti in un dibattito?", "lang2": "Welche Diskursmarker eignen sich am besten für eine Debatte?" },
+  { "lang1": "Possiamo fare un esercizio di sintesi di un articolo lungo?", "lang2": "Können wir das Zusammenfassen eines langen Artikels üben?" },
+  { "lang1": "Come posso evitare i calchi linguistici dalla mia lingua madre?", "lang2": "Wie vermeide ich Lehnübersetzungen aus meiner Muttersprache?" },
+  { "lang1": "Qual è il ruolo del contesto nella scelta del lessico?", "lang2": "Welche Rolle spielt der Kontext bei der Wortwahl?" },
+  { "lang1": "Possiamo analizzare le strutture passive e le loro alternative?", "lang2": "Können wir Passivstrukturen und ihre Alternativen analysieren?" },
+  { "lang1": "Come si esprime l'impersonalità in modo elegante?", "lang2": "Wie drückt man Unpersönlichkeit auf elegante Weise aus?" },
+  { "lang1": "Quali sono le regole per la punteggiatura nelle citazioni?", "lang2": "Was sind die Regeln für die Zeichensetzung bei Zitaten?" },
+  { "lang1": "Possiamo fare un lavoro sulla coerenza argomentativa?", "lang2": "Können wir an der argumentativen Kohärenz arbeiten?" },
+  { "lang1": "Come posso sfumare un'affermazione per renderla meno perentoria?", "lang2": "Wie kann ich eine Aussage abmildern, um sie weniger absolut zu machen?" },
+  { "lang1": "Qual è la differenza tra un arcaismo e un termine letterario?", "lang2": "Was ist der Unterschied zwischen einem Archaismus und einem literarischen Begriff?" },
+  { "lang1": "Possiamo analizzare la metrica di questa poesia?", "lang2": "Können wir das Metrum dieses Gedichts analysieren?" },
+  { "lang1": "Come posso distinguere i vari registri del linguaggio parlato?", "lang2": "Wie unterscheide ich die verschiedenen Register der gesprochenen Sprache?" },
+  { "lang1": "Qual è la funzione del prefisso in questo verbo composto?", "lang2": "Welche Funktion hat das Präfix in diesem zusammengesetzten Verb?" },
+  { "lang1": "Possiamo lavorare sull'uso dei pronomi combinati?", "lang2": "Können wir an der Verwendung kombinierter Pronomen arbeiten?" },
+  { "lang1": "Come si esprime una concessione in una frase complessa?", "lang2": "Wie drückt man ein Zugeständnis in einem komplexen Satz aus?" },
+  { "lang1": "Quali sono le locuzioni prepositive più usate nel linguaggio giurico?", "lang2": "Was sind die gebräuchlichsten Präpositionalgefüge in der Rechtssprache?" },
+  { "lang1": "Possiamo fare una simulazione di colloquio accademico?", "lang2": "Können wir ein akademisches Bewerbungsgespräch simulieren?" },
+  { "lang1": "Come posso migliorare la comprensione dei madrelingua quando parlano velocemente?", "lang2": "Wie kann ich Muttersprachler besser verstehen, wenn sie schnell sprechen?" },
+  { "lang1": "Qual è la differenza tra focalizzazione e enfasi nella frase?", "lang2": "Was ist der Unterschied zwischen Fokussierung und Betonung im Satz?" },
+  { "lang1": "Possiamo esaminare la struttura narrativa di questo racconto?", "lang2": "Können wir die Erzählstruktur dieser Geschichte untersuchen?" },
+  { "lang1": "Come si usano i modi indefiniti per subordinare le frasi?", "lang2": "Wie verwendet man unbestimmte Modi zur Satzunterordnung?" },
+  { "lang1": "Quali sono i criteri per scegliere tra due sinonimi apparenti?", "lang2": "Was sind die Kriterien zur Auswahl zwischen zwei scheinbaren Synonymen?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla concordanza dei tempi?", "lang2": "Können wir eine Übung zur Zeitenfolge machen?" },
+  { "lang1": "Come posso esprimere causa ed effetto in modo vario?", "lang2": "Wie kann ich Ursache und Wirkung abwechslungsreich ausdrücken?" },
+  { "lang1": "Qual è il valore del congiuntivo nelle proposizioni relative?", "lang2": "Welchen Wert hat der Konjunktiv in Relativsätzen?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di modo?", "lang2": "Können wir die Verwendung von Modaladverbien analysieren?" },
+  { "lang1": "Come posso evitare ridondanze nel testo?", "lang2": "Wie kann ich Redundanzen im Text vermeiden?" },
+  { "lang1": "Quali sono i termini tecnici più usati nell'economia?", "lang2": "Was sind die am häufigsten verwendeten Fachbegriffe in der Wirtschaft?" },
+  { "lang1": "Possiamo fare un esercizio di dettato per migliorare l'ortografia?", "lang2": "Können wir ein Diktat machen, um die Rechtschreibung zu verbessern?" },
+  { "lang1": "Come si usa il condizionale per esprimere un desiderio non realizzabile?", "lang2": "Wie verwendet man den Konditional, um einen unerfüllbaren Wunsch auszudrücken?" },
+  { "lang1": "Qual è la funzione del participio presente con valore aggettivale?", "lang2": "Welche Funktion hat das Partizip Präsens mit adjektivischem Wert?" },
+  { "lang1": "Possiamo esaminare la costruzione delle frasi scisse?", "lang2": "Können wir den Aufbau von Spalt-Sätzen untersuchen?" },
+  { "lang1": "Come posso esprimere una condizione irrealizzabile nel passato?", "lang2": "Wie drücke ich eine unmöglich erfüllbare Bedingung in der Vergangenheit aus?" },
+  { "lang1": "Quali sono le principali differenze tra la lingua scritta e parlata?", "lang2": "Was sind die Hauptunterschiede zwischen geschriebener und gesprochener Sprache?" },
+  { "lang1": "Possiamo lavorare sull'ampliamento del vocabolario astratto?", "lang2": "Können wir an der Erweiterung des abstrakten Wortschatzes arbeiten?" },
+  { "lang1": "Come si usano le interiezioni per esprimere emozioni nel parlato?", "lang2": "Wie verwendet man Interjektionen, um Emotionen beim Sprechen auszudrücken?" },
+  { "lang1": "Qual è il valore modale di questo verbo ausiliare?", "lang2": "Welchen modalen Wert hat dieses Hilfsverb?" },
+  { "lang1": "Possiamo fare un'analisi sintattica di questo periodo articolato?", "lang2": "Können wir eine Satzanalyse dieses komplexen Satzgefüges machen?" },
+  { "lang1": "Come posso rendere le mie spiegazioni più chiare ed efficaci?", "lang2": "Wie kann ich meine Erklärungen klarer und wirksamer gestalten?" },
+  { "lang1": "Quali sono le collocazioni verbali più frequenti in questo ambito?", "lang2": "Was sind die häufigsten verbalen Kollokationen in diesem Bereich?" },
+  { "lang1": "Possiamo esercitarci nell'uso dei pronomi indefiniti?", "lang2": "Können wir die Verwendung von Indefinitpronomen üben?" },
+  { "lang1": "Come si esprimono le sfumature di tempo progressivo o continuo?", "lang2": "Wie drückt man Nuancen der Verlaufsform aus?" },
+  { "lang1": "Qual è la differenza tra suffissi accrescitivi e diminutivi?", "lang2": "Was ist der Unterschied zwischen Vergrößerungs- und Verkleinerungssuffixen?" },
+  { "lang1": "Possiamo analizzare l'uso della punteggiatura nei testi letterari?", "lang2": "Können wir die Verwendung der Zeichensetzung in literarischen Texten analysieren?" },
+  { "lang1": "Come posso sviluppare un'argomentazione logica e ben strutturata?", "lang2": "Wie kann ich eine logische und gut strukturierte Argumentation aufbauen?" },
+  { "lang1": "Quali sono le espressioni idiomatiche legate a questo tema?", "lang2": "Was sind die redensartlichen Ausdrücke im Zusammenhang mit diesem Thema?" },
+  { "lang1": "Possiamo lavorare sulla comprensione di testi specialistici?", "lang2": "Können wir am Verständnis von Fachtexten arbeiten?" },
+  { "lang1": "Come posso adattare il mio registro al pubblico che ho di fronte?", "lang2": "Wie kann ich mein Sprachniveau an das Zielpublikum anpassen?" },
+  { "lang1": "Qual è la funzione del gerundio nelle proposizioni subordinate?", "lang2": "Welche Funktion hat das Gerundium in Nebensätzen?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla trasformazione da attivo a passivo?", "lang2": "Können wir eine Übung zur Umwandlung von Aktiv in Passiv machen?" },
+  { "lang1": "Come si usano i pronomi dimostrativi per fare riferimento al testo precedente?", "lang2": "Wie verwendet man Demonstrativpronomen, um auf den vorherigen Text Bezug zu nehmen?" },
+  { "lang1": "Quali sono le strategie per migliorare la fluidezza nella lettura?", "lang2": "Welche Strategien gibt es, um flüssiger zu lesen?" },
+  { "lang1": "Possiamo analizzare le figure retoriche usate in questo articolo?", "lang2": "Können wir die in diesem Artikel verwendeten rhetorischen Figuren analysieren?" },
+  { "lang1": "Come posso esprimere disappunto in ambito professionale in modo educato?", "lang2": "Wie kann ich Enttäuschung im beruflichen Umfeld höflich ausdrücken?" },
+  { "lang1": "Qual è il ruolo dei connettivi avversativi nel discorso?", "lang2": "Welche Rolle spielen adversative Konnektoren im Diskurs?" },
+  { "lang1": "Possiamo fare un ripasso generale dei tempi passati?", "lang2": "Können wir eine allgemeine Wiederholung der Vergangenheitszeiten machen?" },
+  { "lang1": "Come si usano le forme impersonali per dare istruzioni?", "lang2": "Wie verwendet man unpersönliche Formen, um Anweisungen zu geben?" },
+  { "lang1": "Quali sono gli errori di pronuncia tipici degli studenti della mia lingua?", "lang2": "Was sind typische Aussprachefehler von Lernenden aus meiner Muttersprache?" },
+  { "lang1": "Possiamo fare un esercizio di abbinamento tra termini e definizioni?", "lang2": "Können wir eine Übung zum Zuordnen von Begriffen und Definitionen machen?" },
+  { "lang1": "Come si esprime l'imminenza di un'azione?", "lang2": "Wie drückt man das bevorstehende Stattfinden einer Handlung aus?" },
+  { "lang1": "Qual è la differenza tra valore denotativo e valore pragmatico?", "lang2": "Was ist der Unterschied zwischen denotativem und pragmatischem Wert?" },
+  { "lang1": "Possiamo esaminare la differenza di significato tra verbi simili?", "lang2": "Können wir den Bedeutungsunterschied zwischen ähnlichen Verben untersuchen?" },
+  { "lang1": "Come posso utilizzare le mappe mentali per organizzare le mie idee?", "lang2": "Wie kann ich Mindmaps nutzen, um meine Gedanken zu strukturieren?" },
+  { "lang1": "Quali sono i prefissi più usati per formare gli opposti?", "lang2": "Was sind die am häufigsten verwendeten Präfixe zur Bildung von Gegenteilen?" },
+  { "lang1": "Possiamo fare un'analisi del lessico politico usato in questa notizia?", "lang2": "Können wir den in dieser Nachricht verwendeten politischen Wortschatz analysieren?" },
+  { "lang1": "Come posso variare i connettivi per non ripetere 'ma' e 'perché'?", "lang2": "Wie kann ich Konnektoren variieren, um 'aber' und 'weil' nicht zu wiederholen?" },
+  { "lang1": "Qual è la funzione del pronome pleonastico in questo testo?", "lang2": "Welche Funktion hat das pleonastische Pronomen in diesem Text?" },
+  { "lang1": "Possiamo esercitarci nell'uso dei pronomi possessivi con le parti del corpo?", "lang2": "Können wir die Verwendung von Possessivpronomen bei Körperteilen üben?" },
+  { "lang1": "Come si esprime una probabilità futura sulla base di evidenze attuali?", "lang2": "Wie drückt man eine zukünftige Wahrscheinlichkeit auf der Grundlage aktueller Hinweise aus?" },
+  { "lang1": "Quali sono i criteri per la suddivisione in sillabe di parole complesse?", "lang2": "Was sind die Kriterien für die Silbentrennung bei komplexen Wörtern?" },
+  { "lang1": "Possiamo fare un lavoro sulla comprensione di un testo giornalistico?", "lang2": "Können wir am Verständnis eines journalistischen Textes arbeiten?" },
+  { "lang1": "Come si usano i suffissi per modificare la sfumatura di un aggettivo?", "lang2": "Wie verwendet man Suffixe, um die Nuance eines Adjektivs zu verändern?" },
+  { "lang1": "Qual è la differenza tra l'uso del presente e del passato prossimo nel racconto?", "lang2": "Was ist der Unterschied zwischen der Verwendung von Präsens und Perfekt beim Erzählen?" },
+  { "lang1": "Possiamo analizzare le forme di cortesia nelle email di lavoro?", "lang2": "Können wir Höflichkeitsformen in geschäftlichen E-Mails analysieren?" },
+  { "lang1": "Come si può esprimere una sensazione fisica in modo preciso?", "lang2": "Wie kann man eine körperliche Empfindung präzise ausdrücken?" },
+  { "lang1": "Quali sono le differenze nell'uso dei tempi tra scritto e parlato?", "lang2": "Was sind die Unterschiede in der Zeitenverwendung zwischen Schrift- und Gesprochener Sprache?" },
+  { "lang1": "Possiamo fare un esercizio sulla derivazione delle parole?", "lang2": "Können wir eine Übung zur Wortbildung machen?" },
+  { "lang1": "Come si usano le locuzioni temporali per strutturare una cronologia?", "lang2": "Wie verwendet man zeitliche Ausdrücke, um eine Chronologie zu strukturieren?" },
+  { "lang1": "Qual è il ruolo dell'intonazione nelle frasi esclamative?", "lang2": "Welche Rolle spielt die Intonation bei Ausruferesätzen?" },
+  { "lang1": "Possiamo analizzare il testo di un discorso celebre?", "lang2": "Können wir den Text einer berühmten Rede analysieren?" },
+  { "lang1": "Come posso esprimere la certezza assoluta riguardo a un fatto?", "lang2": "Wie kann ich absolute Gewissheit bezüglich einer Tatsache ausdrücken?" },
+  { "lang1": "Quali sono i suffissi più comuni per formare nomi astratti da aggettivi?", "lang2": "Was sind die häufigsten Suffixe zur Bildung abstrakter Nomen aus Adjektiven?" },
+  { "lang1": "Possiamo esercitarci nell'uso delle espressioni di quantità?", "lang2": "Können wir die Verwendung von Mengenangaben üben?" },
+  { "lang1": "Come si usano i modi verbali per esprimere un desiderio non realizzabile?", "lang2": "Wie verwendet man Verbmodi, um einen unerfüllbaren Wunsch auszudrücken?" },
+  { "lang1": "Qual è la differenza tra sintassi semplice e complessa in questo brano?", "lang2": "Was ist der Unterschied zwischen einfacher und komplexer Syntax in dieser Passage?" },
+  { "lang1": "Possiamo fare un lavoro sulla coesione testuale attraverso i pronomi?", "lang2": "Können wir an der Textkohäsion durch Pronomen arbeiten?" },
+  { "lang1": "Come posso esprimere l'incertezza senza usare il congiuntivo?", "lang2": "Wie kann ich Unsicherheit ausdrücken, ohne den Konjunktiv zu verwenden?" },
+  { "lang1": "Quali sono le regole per la formazione dei plurali irregolari?", "lang2": "Was sind die Regeln für die Bildung unregelmäßiger Pluralformen?" },
+  { "lang1": "Possiamo analizzare un testo pubblicitario per vederne le strategie linguistiche?", "lang2": "Können wir einen Werbetext analysieren, um seine sprachlichen Strategien zu sehen?" },
+  { "lang1": "Come si usa il discorso indiretto per riportare un'opinione altrui?", "lang2": "Wie verwendet man die indirekte Rede, um eine fremde Meinung wiederzugeben?" },
+  { "lang1": "Qual è la funzione delle proposizioni causali nel testo?", "lang2": "Welche Funktion haben Kausalsätze im Text?" },
+  { "lang1": "Possiamo esercitarci sulla differenza tra accentuazione tonica e fonetica?", "lang2": "Können wir den Unterschied zwischen Wortakzent und phonetischer Betonung üben?" },
+  { "lang1": "Come posso migliorare la coordinazione delle proposizioni in una frase lunga?", "lang2": "Wie kann ich die Koordination von Sätzen in einem langen Satz verbessern?" },
+  { "lang1": "Quali sono i termini scientifici di base che dovrei conoscere?", "lang2": "Was sind die grundlegenden wissenschaftlichen Begriffen, die ich kennen sollte?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla trasformazione delle frasi da esplicite a implicite?", "lang2": "Können wir eine Übung zur Umwandlung von expliziten in implizite Sätze machen?" },
+  { "lang1": "Come si esprime una concessione usando espressioni formali?", "lang2": "Wie drückt man ein Zugeständnis mit formellen Ausdrücken aus?" },
+  { "lang1": "Qual è la funzione del verbo ausiliare nei tempi composti?", "lang2": "Welche Funktion hat das Hilfsverb in den zusammengesetzten Zeiten?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi focalizzatori?", "lang2": "Können wir die Verwendung von Fokusadverbien analysieren?" },
+  { "lang1": "Come posso evitare gli errori di accordo tra soggetto e verbo?", "lang2": "Wie kann ich Fehler bei der Subjekt-Verb-Kongruenz vermeiden?" },
+  { "lang1": "Quali sono le regole per l'uso delle maiuscole nei nomi propri e nei titoli?", "lang2": "Was sind die Regeln für die Großschreibung von Eigennamen und Titeln?" },
+  { "lang1": "Possiamo fare un lavoro di analisi sul vocabolario legato all'innovazione?", "lang2": "Können wir eine Analyse des Wortschatzes im Bereich Innovation machen?" },
+  { "lang1": "Come si esprime una causa efficiente nelle frasi passive?", "lang2": "Wie drückt man den Urheber in Passivsätzen aus?" },
+  { "lang1": "Qual è il valore pragmatica dell'uso del passivo nei testi scientifici?", "lang2": "Welchen pragmatischen Wert hat die Verwendung des Passivs in wissenschaftlichen Texten?" },
+  { "lang1": "Possiamo fare un esercizio sulla punteggiatura nei dialoghi diretti?", "lang2": "Können wir eine Übung zur Zeichensetzung in direkten Dialogen machen?" },
+  { "lang1": "Come si possono evitare i ripetitivi connettivi temporali nel racconto?", "lang2": "Wie kann man wiederholende Zeitverknüpfungen beim Erzählen vermeiden?" },
+  { "lang1": "Quali sono i sostantivi derivati dai verbi più usati in ambito burocratico?", "lang2": "Was sind die am häufigsten von Verben abgeleiteten Nomen in der Behördensprache?" },
+  { "lang1": "Possiamo analizzare l'uso delle proposizioni temporali introdotte da congiunzioni diverse?", "lang2": "Können wir die Verwendung von Temporalsätzen analysieren, die durch verschiedene Konjunktionen eingeleitet werden?" },
+  { "lang1": "Come posso esprimere una condizione sufficiente ma non necessaria?", "lang2": "Wie kann ich eine hinreichende, aber nicht notwendige Bedingung ausdrücken?" },
+  { "lang1": "Qual è la differenza di uso tra le diverse forme del condizionale?", "lang2": "Was ist der Unterschied in der Verwendung der verschiedenen Konditionalformen?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla comprensione di un testo argomentativo?", "lang2": "Können wir eine Übung zum Verständnis eines argumentativen Textes machen?" },
+  { "lang1": "Come si esprime l'opinione personale senza usare 'secondo me'?", "lang2": "Wie drückt man die persönliche Meinung aus, ohne 'meiner Meinung nach' zu verwenden?" },
+  { "lang1": "Quali sono i suffissi usati per formare gli aggettivi di relazione?", "lang2": "Was sind die Suffixe zur Bildung von Beziehungsadjektiven?" },
+  { "lang1": "Possiamo analizzare l'uso delle figure retoriche nei testi poetici?", "lang2": "Können wir die Verwendung von Stilmitteln in poetischen Texten analysieren?" },
+  { "lang1": "Come si può esprimere la necessità in modo meno diretto?", "lang2": "Wie kann man Notwendigkeit weniger direkt ausdrücken?" },
+  { "lang1": "Qual è la funzione del prefisso 'ri-' nei verbi di azione?", "lang2": "Welche Funktion hat das Präfix 'wieder-' bei Handlungsverben?" },
+  { "lang1": "Possiamo fare un esercizio di riscrittura cambiando il punto di vista narrativo?", "lang2": "Können wir eine Umschreibübung machen, indem wir die Erzählperspektive ändern?" },
+  { "lang1": "Come si usano i pronomi relativi complessi nelle frasi subordinate?", "lang2": "Wie verwendet man komplexe Relativpronomen in Nebensätzen?" },
+  { "lang1": "Quali sono le strategie per migliorare l'organizzazione del paragrafo?", "lang2": "Welche Strategien gibt es zur Verbesserung der Absatzorganisation?" },
+  { "lang1": "Possiamo analizzare l'uso dei verbi modali per esprimere supposizioni?", "lang2": "Können wir die Verwendung von Modalverben zum Ausdrücken von Vermutungen analysieren?" },
+  { "lang1": "Come posso esprimere la gradualità di un processo?", "lang2": "Wie kann ich die Stufenhaftigkeit eines Prozesses ausdrücken?" },
+  { "lang1": "Qual è la differenza tra congiunzioni coordinanti e subordinanti?", "lang2": "Was ist der Unterschied zwischen nebenordnenden und unterordnenden Konjunktionen?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso dei pronomi riflessivi reciproci?", "lang2": "Können wir an der Verwendung reziproker Reflexivpronomen arbeiten?" },
+  { "lang1": "Come si forma la voce passiva con i verbi modali?", "lang2": "Wie bildet man das Passiv mit Modalverben?" },
+  { "lang1": "Quali sono le costruzioni sintattiche più complesse da evitare nell'orale?", "lang2": "Was sind die komplexesten syntaktischen Konstruktionen, die man beim Sprechen vermeiden sollte?" },
+  { "lang1": "Possiamo analizzare la struttura delle frasi ipotetiche del terzo tipo?", "lang2": "Können wir die Struktur von Konditionalsätzen des dritten Typs analysieren?" },
+  { "lang1": "Come posso fare per rendere il mio discorso più persuasivo?", "lang2": "Wie kann ich meine Rede überzeugender gestalten?" },
+  { "lang1": "Quali sono i termini più adatti per esprimere un contrasto sfumato?", "lang2": "Was sind die am besten geeigneten Begriffe, um einen nuancierten Kontrast auszudrücken?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla comprensione dei testi accademici?", "lang2": "Können wir eine Übung zum Verständnis akademischer Texte machen?" },
+  { "lang1": "Come si esprime l'accordo parziale con l'interlocutore?", "lang2": "Wie drückt man eine teilweise Zustimmung mit dem Gesprächspartner aus?" },
+  { "lang1": "Qual è il valore stilistico dell'uso dell'imperfetto nel racconto?", "lang2": "Welchen stilistischen Wert hat die Verwendung des Imperfekts beim Erzählen?" },
+  { "lang1": "Possiamo analizzare l'uso delle particelle pronominali nei verbi pronominali?", "lang2": "Können wir die Verwendung von Pronominalpartikeln bei pronominalen Verben analysieren?" },
+  { "lang1": "Come posso strutturare una conclusione efficace in un testo scritto?", "lang2": "Wie kann ich einen wirksamen Schluss in einem geschriebenen Text strukturieren?" },
+  { "lang1": "Quali sono i connettivi più adatti per introdurre un esempio?", "lang2": "Was sind die am besten geeigneten Konnektoren, um ein Beispiel einzuführen?" },
+  { "lang1": "Possiamo fare un esercizio di trasformazione del discorso da diretto a indiretto?", "lang2": "Können wir eine Übung zur Umwandlung von direkter in indirekte Rede machen?" },
+  { "lang1": "Come si usano i modi indefiniti per compattare il testo?", "lang2": "Wie verwendet man unbestimmte Modi, um den Text zu verdichten?" },
+  { "lang1": "Qual è la differenza tra valore temporale e valore logico delle congiunzioni?", "lang2": "Was ist der Unterschied zwischen dem zeitlichen und dem logischen Wert von Konjunktionen?" },
+  { "lang1": "Possiamo analizzare l'uso degli aggettivi qualificativi nel testo descrittivo?", "lang2": "Können wir die Verwendung von deskriptiven Adjektiven im beschreibenden Text analysieren?" },
+  { "lang1": "Come posso esprimere una riserva su un'affermazione precedente?", "lang2": "Wie kann ich einen Vorbehalt zu einer vorherigen Aussage ausdrücken?" },
+  { "lang1": "Quali sono le regole per la formazione delle parole composte?", "lang2": "Was sind die Regeln für die Bildung zusammengesetzter Wörter?" },
+  { "lang1": "Possiamo fare un lavoro sulla distinzione tra registro formale e informale?", "lang2": "Können wir an der Unterscheidung zwischen formellem und informellem Sprachniveau arbeiten?" },
+  { "lang1": "Come si usano i pronomi personali con funzione di complemento indiretto?", "lang2": "Wie verwendet man Personalpronomen als indirektes Objekt?" },
+  { "lang1": "Qual è la funzione del suffisso '-mente' nella formazione degli avverbi?", "lang2": "Welche Funktion hat das Suffix '-weise' bei der Adverbbildung?" },
+  { "lang1": "Possiamo analizzare l'uso dei tempi verbali nei testi storici?", "lang2": "Können wir die Verwendung von Zeitformen in historischen Texten analysieren?" },
+  { "lang1": "Come posso esprimere un'ipotesi nel futuro con diversi gradi di certezza?", "lang2": "Wie kann ich eine Hypothese in der Zukunft mit verschiedenen Gewissheitsgraden ausdrücken?" },
+  { "lang1": "Quali sono i criteri per l'uso delle virgolette nel testo scritto?", "lang2": "Was sind die Kriterien für die Verwendung von Anführungszeichen im geschriebenen Text?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle preposizioni composte?", "lang2": "Können wir eine Übung zur Verwendung zusammengesetzter Präpositionen machen?" },
+  { "lang1": "Come si forma il superlativo relativo degli aggettivi?", "lang2": "Wie bildet man den relativen Superlativ von Adjektiven?" },
+  { "lang1": "Qual è la differenza tra l'uso del gerundio e del participio presente?", "lang2": "Was ist der Unterschied zwischen der Verwendung des Gerundiums und des Partizips Präsens?" },
+  { "lang1": "Possiamo analizzare l'uso dei pronomi dimostrativi nel testo argomentativo?", "lang2": "Können wir die Verwendung von Demonstrativpronomen im argumentativen Text analysieren?" },
+  { "lang1": "Come posso migliorare la coerenza logica tra i paragrafi?", "lang2": "Wie kann ich die logische Kohärenz zwischen den Absätzen verbessern?" },
+  { "lang1": "Quali sono i prefissi d'origine greca e latina più comuni nel lessico scientifico?", "lang2": "Was sind die häufigsten Präfixe griechischen und lateinischen Ursprungs im wissenschaftlichen Wortschatz?" },
+  { "lang1": "Possiamo fare un esercizio di sintesi di un testo complesso?", "lang2": "Können wir eine Übung zur Zusammenfassung eines komplexen Textes machen?" },
+  { "lang1": "Come si usano le costruzioni implicite per semplificare la sintassi?", "lang2": "Wie verwendet man implizite Konstruktionen, um die Syntax zu vereinfachen?" },
+  { "lang1": "Qual è la funzione delle proposizioni concessive nel discorso persuasivo?", "lang2": "Welche Funktion haben Konzessionssätze in der überzeugenden Rede?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di frequenza e la loro posizione nella frase?", "lang2": "Können wir die Verwendung von Häufigkeitsadverbien und ihre Stellung im Satz analysieren?" },
+  { "lang1": "Come posso esprimere l'incertezza riguardo a un evento passato?", "lang2": "Wie kann ich Unsicherheit bezüglich eines vergangenen Ereignisses ausdrücken?" },
+  { "lang1": "Quali sono i sostantivi che cambiano significato a seconda del genere?", "lang2": "Was sind Substantive, die je nach Genus ihre Bedeutung ändern?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle forme pronominali enfatiche?", "lang2": "Können wir an der Verwendung emphatischer Pronominalformen arbeiten?" },
+  { "lang1": "Come si usano i verbi fraseologici per esprimere le fasi di un'azione?", "lang2": "Wie verwendet man phraseologische Verben, um die Phasen einer Handlung auszudrücken?" },
+  { "lang1": "Qual è la differenza tra l'uso del congiuntivo e dell'indicativo nelle proposizioni oggettive?", "lang2": "Was ist der Unterschied zwischen der Verwendung von Konjunktiv und Indikativ in Objektsätzen?" },
+  { "lang1": "Possiamo analizzare l'uso dei connettivi conclusivi nel testo argomentativo?", "lang2": "Können wir die Verwendung von schlussfolgernden Konnektoren im argumentativen Text analysieren?" },
+  { "lang1": "Come posso variare le strutture sintattiche per rendere la scrittura più dinamica?", "lang2": "Wie kann ich Satzstrukturen variieren, um das Schreiben dynamischer zu gestalten?" },
+  { "lang1": "Quali sono i suffissi usati per formare i nomi di agente?", "lang2": "Was sind die Suffixe zur Bildung von Täterbezeichnungen?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle proposizioni finali?", "lang2": "Können wir eine Übung zur Verwendung von Finalsätzen machen?" },
+  { "lang1": "Come si forma il comparativo di uguaglianza e di maggioranza?", "lang2": "Wie bildet man den Komparativ der Gleichheit und der Überlegenheit?" },
+  { "lang1": "Qual è la funzione del pronome relativo 'cui' con le preposizioni?", "lang2": "Welche Funktion hat das Relativpronomen 'welcher/e/s' mit Präpositionen?" },
+  { "lang1": "Possiamo analizzare l'uso dei verbi servili con le forme passive?", "lang2": "Können wir die Verwendung von Modalverben mit Passivformen analysieren?" },
+  { "lang1": "Come posso esprimere un'alternativa tra due opzioni in modo formale?", "lang2": "Wie kann ich eine Alternative zwischen zwei Optionen formell ausdrücken?" },
+  { "lang1": "Quali sono le regole per la concordanza degli aggettivi con più sostantivi?", "lang2": "Was sind die Regeln für die Angleichung von Adjektiven an mehrere Substantive?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle proposizioni modali ed strumentali?", "lang2": "Können wir an der Verwendung von Modal- und Instrumentalsätzen arbeiten?" },
+  { "lang1": "Come si usano le forme pronominali per evitare le ripetizioni dei nomi di luogo?", "lang2": "Wie verwendet man Pronominalformen, um Wiederholungen von Ortsnamen zu vermeiden?" },
+  { "lang1": "Qual è la differenza tra uso proprio e uso traslato di un verbo?", "lang2": "Was ist der Unterschied zwischen der eigentlichen und der übertragenen Verwendung eines Verbs?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di luogo e la loro deissi?", "lang2": "Können wir die Verwendung von Ortsadverbien und ihre Deixis analysieren?" },
+  { "lang1": "Come posso esprimere una conseguenza logica in modo elegante?", "lang2": "Wie kann ich eine logische Schlussfolgerung auf elegante Weise ausdrücken?" },
+  { "lang1": "Quali sono i prefissi privativi più comuni nella formazione delle parole?", "lang2": "Was sind die häufigsten verneinenden Präfixe bei der Wortbildung?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle proposizioni consecutive?", "lang2": "Können wir eine Übung zur Verwendung von Konsekutivsätzen machen?" },
+  { "lang1": "Come si usano i modi verbali nelle proposizioni dubitative?", "lang2": "Wie verwendet man Verbmodi in Zweifelsätzen?" },
+  { "lang1": "Qual è la funzione del pronome 'ne' nelle costruzioni partitive?", "lang2": "Welche Funktion hat das Pronomen 'davon' in partitiven Konstruktionen?" },
+  { "lang1": "Possiamo analizzare l'uso delle locuzioni avverbiali nel testo descrittivo?", "lang2": "Können wir die Verwendung von Adverbialgefügen im beschreibenden Text analysieren?" },
+  { "lang1": "Come posso esprimere la frequenza di un evento in modo preciso?", "lang2": "Wie kann ich die Häufigkeit eines Ereignisses präzise ausdrücken?" },
+  { "lang1": "Quali sono le regole per l'elisione e il troncamento?", "lang2": "Was sind die Regeln für Elision und Apokope?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle proposizioni eccettive e limitative?", "lang2": "Können wir an der Verwendung von Ausnahme- und Einschränkungssätzen arbeiten?" },
+  { "lang1": "Come si usano i pronomi combinati con i verbi al gerundio e all'infinito?", "lang2": "Wie verwendet man kombinierte Pronomen mit Verben im Gerundium und Infinitiv?" },
+  { "lang1": "Qual è la differenza tra un verbo pronominale e uno riflessivo?", "lang2": "Was ist der Unterschied zwischen einem pronominalen und einem reflexiven Verb?" },
+  { "lang1": "Possiamo analizzare l'uso dei connettivi temporali nel testo narrativo?", "lang2": "Können wir die Verwendung von Zeitverknüpfungen im narrativen Text analysieren?" },
+  { "lang1": "Come posso esprimere la mia approvazione in modo formale?", "lang2": "Wie kann ich meine Zustimmung formell ausdrücken?" },
+  { "lang1": "Quali sono i suffissi diminutivi e vezzeggiativi più usati?", "lang2": "Was sind die am häufigsten verwendeten Verkleinerungs- und Verniedlichungssuffixe?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle proposizioni comparative?", "lang2": "Können wir eine Übung zur Verwendung von Komparativsätzen machen?" },
+  { "lang1": "Come si forma il participio passato dei verbi irregolari della seconda coniugazione?", "lang2": "Wie bildet man das Partizip Perfekt der unregelmäßigen Verben der zweiten Konjugation?" },
+  { "lang1": "Qual è la funzione delle proposizioni avversative nel testo argomentativo?", "lang2": "Welche Funktion haben Adversativsätze im argumentativen Text?" },
+  { "lang1": "Possiamo analizzare l'uso degli aggettivi dimostrativi e la loro funzione deittica?", "lang2": "Können wir die Verwendung von Demonstrativadjektiven und ihre deiktische Funktion analysieren?" },
+  { "lang1": "Come posso esprimere il possesso in modo formale ed elegante?", "lang2": "Wie kann ich Besitz formell und elegant ausdrücken?" },
+  { "lang1": "Quali sono le regole per la formazione dei plurali dei nomi composti?", "lang2": "Was sind die Regeln für die Pluralbildung von zusammengesetzten Nomen?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle proposizioni esplicative e illustrative?", "lang2": "Können wir an der Verwendung von Erklärungs- und Erläuterungssätzen arbeiten?" },
+  { "lang1": "Come si usano le forme pronominali con i verbi impersonali?", "lang2": "Wie verwendet man Pronominalformen bei unpersönlichen Verben?" },
+  { "lang1": "Qual è la differenza tra l'uso dell'indicativo e del congiuntivo dopo le congiunzioni temporali?", "lang2": "Was ist der Unterschied zwischen der Verwendung von Indikativ und Konjunktiv nach Zeitkonjunktionen?" },
+  { "lang1": "Possiamo analizzare l'uso dei verbi causativi nelle strutture sintattiche complesse?", "lang2": "Können wir die Verwendung von Kausalverben in komplexen Satzstrukturen analysieren?" },
+  { "lang1": "Come posso esprimere la durata di un'azione nel passato che continua nel presente?", "lang2": "Wie kann ich die Dauer einer Handlung in der Vergangenheit ausdrücken, die in der Gegenwart andauert?" },
+  { "lang1": "Quali sono i prefissi intensificatori usati nella formazione degli aggettivi?", "lang2": "Was sind die verstärkenden Präfixe bei der Adjektivbildung?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle proposizioni ipotetiche del secondo tipo?", "lang2": "Können wir eine Übung zur Verwendung von Konditionalsätzen des zweiten Typs machen?" },
+  { "lang1": "Come si forma il futuro anteriore e qual è il suo valore modale?", "lang2": "Wie bildet man das Futur II und was ist sein modaler Wert?" },
+  { "lang1": "Qual è la funzione del pronome 'ci' con valore locativo e astratto?", "lang2": "Welche Funktion hat das Pronomen 'da/dort' mit lokaler und abstrakter Bedeutung?" },
+  { "lang1": "Possiamo analizzare l'uso delle locuzioni prepositive nel linguaggio formale?", "lang2": "Können wir die Verwendung von Präpositionalgefügen in der formellen Sprache analysieren?" },
+  { "lang1": "Come posso esprimere una limitazione rispetto a un'affermazione generale?", "lang2": "Wie kann ich eine Einschränkung gegenüber einer allgemeinen Aussage ausdrücken?" },
+  { "lang1": "Quali sono i suffissi usati per formare gli aggettivi dai nomi geografici?", "lang2": "Was sind die Suffixe zur Bildung von Adjektiven aus geographischen Namen?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle proposizioni esclamative e desiderative?", "lang2": "Können wir an der Verwendung von Ausrufe- und Wunschsätzen arbeiten?" },
+  { "lang1": "Come si usano i pronomi personali atoni nella posizione enclitica?", "lang2": "Wie verwendet man unbetonte Personalpronomen in enklitischer Position?" },
+  { "lang1": "Qual è la differenza tra l'uso del trapassato prossimo e del trapassato remoto?", "lang2": "Was ist der Unterschied zwischen der Verwendung von Plusquamperfekt und Präteritum?" },
+  { "lang1": "Possiamo analizzare l'uso dei connettivi spaziali nei testi descrittivi?", "lang2": "Können wir die Verwendung von Raumverknüpfungen in beschreibenden Texten analysieren?" },
+  { "lang1": "Come posso esprimere l'incertezza in modo sfumato ed elegante?", "lang2": "Wie kann ich Unsicherheit auf nuancierte und elegante Weise ausdrücken?" },
+  { "lang1": "Quali sono i prefissi d'origine latina usati per indicare opposizione o direzione?", "lang2": "Was sind die Präfixe lateinischen Ursprungs zur Bezeichnung von Gegensatz oder Richtung?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle proposizioni aggiuntive ed eccettive?", "lang2": "Können wir eine Übung zur Verwendung von Hinzufügungs- und Ausnahmesätzen machen?" },
+  { "lang1": "Come si forma il participio presente e qual è la sua funzione sintattica?", "lang2": "Wie bildet man das Partizip Präsens und was ist seine syntaktische Funktion?" },
+  { "lang1": "Qual è la funzione del pronome dimostrativo 'ciò' nel discorso formale?", "lang2": "Welche Funktion hat das Demonstrativpronomen 'dies' in der formellen Rede?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di affermazione e negazione nelle risposte complesse?", "lang2": "Können wir die Verwendung von Bejahungs- und Verneinungsadverbien in komplexen Antworten analysieren?" },
+  { "lang1": "Possiamo rivedere l'assegnazione dei compiti a casa?", "lang2": "Können wir die Hausaufgabenverteilung noch einmal durchgehen?" },
+  { "lang1": "Come posso correggere questo errore ricorrente?", "lang2": "Wie kann ich diesen wiederkehrenden Fehler korrigieren?" },
+  { "lang1": "C'è una scorciatoia mentale per ricordare questa eccezione?", "lang2": "Gibt es eine Eselsbrücke, um sich diese Ausnahme zu merken?" },
+  { "lang1": "Puoi ripetere la differenza tra questi due concetti?", "lang2": "Kannst du den Unterschied zwischen diesen beiden Konzepten wiederholen?" },
+  { "lang1": "Vorrei fare più esercizi di produzione scritta.", "lang2": "Ich möchte mehr Übungen zur schriftlichen Produktion machen." },
+  { "lang1": "Come si dice questo termine in ambito accademico?", "lang2": "Wie sagt man diesen Begriff im akademischen Bereich?" },
+  { "lang1": "Possiamo fare un riassunto dei punti chiave della lezione?", "lang2": "Können wir die Kernpunkte der Stunde zusammenfassen?" },
+  { "lang1": "Qual è il modo migliore per ampliare il mio vocabolario?", "lang2": "Was ist der beste Weg, um meinen Wortschatz zu erweitern?" },
+  { "lang1": "Puoi spiegarmelo di nuovo da un'altra prospettiva?", "lang2": "Kannst du mir das noch einmal aus einer anderen Perspektive erklären?" },
+  { "lang1": "Questa espressione è adatta a una lettera formale?", "lang2": "Ist dieser Ausdruck für einen formellen Brief geeignet?" },
+  { "lang1": "Come posso argomentare la mia tesi in modo più efficace?", "lang2": "Wie kann ich meine These wirksamer begründen?" },
+  { "lang1": "Quali sono i connettivi più usati nei testi argomentativi?", "lang2": "Was sind die am häufigsten verwendeten Konnektoren in argumentativen Texten?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla comprensione del testo?", "lang2": "Können wir eine Übung zum Textverständnis machen?" },
+  { "lang1": "Come si esprime una preferenza in modo sfumato?", "lang2": "Wie drückt man eine Vorliebe nuanciert aus?" },
+  { "lang1": "Qual è la sfumatura di significato tra questi due verbi?", "lang2": "Was ist der Bedeutungsunterschied zwischen diesen beiden Verben?" },
+  { "lang1": "Puoi darmi un riscontro sulla mia pronuncia delle vocali?", "lang2": "Kannst du mir Rückmeldung zur Aussprache meiner Vokale geben?" },
+  { "lang1": "Possiamo esercitarci nell'uso delle proposizioni subordinate?", "lang2": "Können wir die Verwendung von Nebensätzen üben?" },
+  { "lang1": "Come posso rendere la mia scrittura più fluida ed elegante?", "lang2": "Wie kann ich meinen Schreibstil flüssiger und eleganter gestalten?" },
+  { "lang1": "Quali sono le collocazioni verbali più frequenti in questo testo?", "lang2": "Was sind die häufigsten verbalen Kollokationen in diesem Text?" },
+  { "lang1": "Possiamo analizzare la struttura di questo articolo scientifico?", "lang2": "Können wir die Struktur dieses wissenschaftlichen Artikels analysieren?" },
+  { "lang1": "Come si esprime l'accordo parziale durante un dibattito?", "lang2": "Wie drückt man bei einer Debatte eine teilweise Zustimmung aus?" },
+  { "lang1": "Qual è la differenza tra registro formale e colloquiale qui?", "lang2": "Was ist hier der Unterschied zwischen formellem und umgangssprachlichem Register?" },
+  { "lang1": "Puoi consigliarmi un podcast adatto al mio livello?", "lang2": "Kannst du mir einen Podcast empfehlen, der für mein Niveau geeignet ist?" },
+  { "lang1": "Possiamo fare un lavoro di rifinitura sul mio saggio?", "lang2": "Können wir meinen Essay noch etwas verfeinern?" },
+  { "lang1": "Come posso evitare di fare calchi dalla mia lingua madre?", "lang2": "Wie kann ich vermeiden, Lehnübersetzungen aus meiner Muttersprache zu machen?" },
+  { "lang1": "Qual è il valore pragmatica di questa figura retorica?", "lang2": "Welchen pragmatischen Wert hat diese rhetorische Figur?" },
+  { "lang1": "Possiamo esercitarci nell'uso del discorso indiretto?", "lang2": "Können wir die Verwendung der indirekten Rede üben?" },
+  { "lang1": "Come si formula una domanda d'esame in modo corretto?", "lang2": "Wie formuliert man eine Prüfungsfrage richtig?" },
+  { "lang1": "Quali sono le strategie per superare un blocco durante l'orale?", "lang2": "Welche Strategien gibt es, um eine Blockade beim mündlichen Sprechen zu überwinden?" },
+  { "lang1": "Possiamo fare una simulazione di colloquio di lavoro?", "lang2": "Können wir ein Vorstellungsgespräch simulieren?" },
+  { "lang1": "Come posso strutturare un'introduzione efficace?", "lang2": "Wie kann ich eine wirksame Einleitung strukturieren?" },
+  { "lang1": "Qual è la funzione del congiuntivo in questa frase?", "lang2": "Welche Funktion hat der Konjunktiv in diesem Satz?" },
+  { "lang1": "Possiamo rivedere la coniugazione dei verbi irregolari?", "lang2": "Können wir die Konjugation der unregelmäßigen Verben wiederholen?" },
+  { "lang1": "Come si esprime una concessione in modo formale?", "lang2": "Wie drückt man ein Zugeständnis auf formelle Weise aus?" },
+  { "lang1": "Quali sono i sinonimi più adatti per evitare ripetizioni?", "lang2": "Was sind die am besten geeigneten Synonyme, um Wiederholungen zu vermeiden?" },
+  { "lang1": "Possiamo analizzare l'uso delle preposizioni articolate?", "lang2": "Können wir die Verwendung der verschmolzenen Präpositionen analysieren?" },
+  { "lang1": "Come si traduce questa metafora in modo naturale?", "lang2": "Wie übersetzt man diese Metapher auf natürliche Weise?" },
+  { "lang1": "Qual è il significato esatto di questa espressione idiomatica?", "lang2": "Was ist die genaue Bedeutung dieses redensartlichen Ausdrucks?" },
+  { "lang1": "Possiamo lavorare sulla comprensione di un testo di attualità?", "lang2": "Können wir am Verständnis eines aktuellen Textes arbeiten?" },
+  { "lang1": "Come posso migliorare la mia intonazione nelle frasi complesse?", "lang2": "Wie kann ich meine Intonation bei komplexen Sätzen verbessern?" },
+  { "lang1": "Quali sono le regole per l'accordo del participio passato?", "lang2": "Was sind die Regeln für die Angleichung des Partizips Perfekt?" },
+  { "lang1": "Possiamo fare un esercizio di riscrittura del paragrafo?", "lang2": "Können wir eine Übung zur Umformulierung des Absatzes machen?" },
+  { "lang1": "Come si usano i pronomi combinati in questa struttura?", "lang2": "Wie verwendet man kombinierte Pronomen in dieser Struktur?" },
+  { "lang1": "Qual è la differenza tra uso letterale e figurato di questo termine?", "lang2": "Was ist der Unterschied zwischen wörtlicher und übertragener Bedeutung dieses Begriffs?" },
+  { "lang1": "Possiamo esaminare le figure retoriche presenti nel brano?", "lang2": "Können wir die im Abschnitt enthaltenen Stilmittel untersuchen?" },
+  { "lang1": "Come posso esprimere il mio disappunto in modo educato?", "lang2": "Wie kann ich meine Enttäuschung höflich ausdrücken?" },
+  { "lang1": "Quali sono i prefissi più usati per formare i contrari?", "lang2": "Was sind die am häufigsten verwendeten Präfixe zur Bildung von Gegenteilen?" },
+  { "lang1": "Possiamo fare una sessione dedicata unicamente alla conversazione?", "lang2": "Können wir eine Sitzung machen, die sich ausschließlich der Konversation widmet?" },
+  { "lang1": "Come si forma la voce passiva con i verbi modali?", "lang2": "Wie bildet man das Passiv mit Modalverben?" },
+  { "lang1": "Qual è la regola per la posizione degli aggettivi?", "lang2": "Was ist die Regel für die Stellung der Adjektive?" },
+  { "lang1": "Possiamo analizzare le differenze tra lingua scritta e parlata?", "lang2": "Können wir die Unterschiede zwischen Schrift- und Gesprochener Sprache analysieren?" },
+  { "lang1": "Come si esprime una condizione irrealizzabile nel passato?", "lang2": "Wie drückt man eine unmöglich erfüllbare Bedingung in der Vergangenheit aus?" },
+  { "lang1": "Quali sono i connettivi temporali più adatti per un racconto?", "lang2": "Was sind die am besten geeigneten Zeitverknüpfungen für eine Erzählung?" },
+  { "lang1": "Possiamo lavorare sulla punteggiatura nei testi complessi?", "lang2": "Können wir an der Zeichensetzung in komplexen Texten arbeiten?" },
+  { "lang1": "Come posso sfumare una critica per renderla costruttiva?", "lang2": "Wie kann ich eine Kritik abmildern, um sie konstruktiv zu gestalten?" },
+  { "lang1": "Qual è l'origine etimologica di questa parola?", "lang2": "Was ist der etymologische Ursprung dieses Wortes?" },
+  { "lang1": "Possiamo fare un'esercitazione sui pronomi relativi complessi?", "lang2": "Können wir eine Übung zu den komplexen Relativpronomen machen?" },
+  { "lang1": "Come si usano i modi indefiniti per subordinare le frasi?", "lang2": "Wie verwendet man unbestimmte Modi zur Satzunterordnung?" },
+  { "lang1": "Quali sono i termini tecnici fondamentali in questo settore?", "lang2": "Was sind die grundlegenden Fachbegriffe in diesem Bereich?" },
+  { "lang1": "Possiamo analizzare il tono di questo messaggio formale?", "lang2": "Können wir den Tonfall dieser formellen Nachricht analysieren?" },
+  { "lang1": "Come posso fare per non ripetere sempre le stesse parole?", "lang2": "Wie kann ich vermeiden, immer dieselben Wörter zu wiederholen?" },
+  { "lang1": "Qual è la funzione delle proposizioni causali nel testo?", "lang2": "Welche Funktion haben Kausalsätze im Text?" },
+  { "lang1": "Possiamo fare un esercizio di dettato per la spelling?", "lang2": "Können wir eine Diktatübung für die Rechtschreibung machen?" },
+  { "lang1": "Come si esprime la certezza assoluta in un'argomentazione?", "lang2": "Wie drückt man absolute Gewissheit in einer Argumentation aus?" },
+  { "lang1": "Quali sono i suffissi derivativi più comuni per i sostantivi?", "lang2": "Was sind die häufigsten Ableitungssuffixe für Substantive?" },
+  { "lang1": "Possiamo analizzare le strutture sintattiche di questo brano?", "lang2": "Können wir die Satzstrukturen dieses Abschnitts analysieren?" },
+  { "lang1": "Come posso strutturare un'email di presentazione?", "lang2": "Wie kann ich eine Vorstellungsemail strukturieren?" },
+  { "lang1": "Qual è la differenza tra l'uso del presente e del passato?", "lang2": "Was ist der Unterschied zwischen der Verwendung von Präsens und Vergangenheit?" },
+  { "lang1": "Possiamo fare un ripasso delle regole sull'uso degli articoli?", "lang2": "Können wir die Regeln zur Verwendung der Artikel wiederholen?" },
+  { "lang1": "Come si esprime l'imminenza di un evento nel futuro?", "lang2": "Wie drückt man das bevorstehende Stattfinden eines Ereignisses in der Zukunft aus?" },
+  { "lang1": "Quali sono le strategie per migliorare l'ascolto attivo?", "lang2": "Welche Strategien gibt es zur Verbesserung des aktiven Zuhörens?" },
+  { "lang1": "Possiamo esaminare le varie forme di subordinazione?", "lang2": "Können wir die verschiedenen Formen der Satzunterordnung untersuchen?" },
+  { "lang1": "Come si formulano le domande indirette nel discorso formale?", "lang2": "Wie formuliert man indirekte Fragen in der formellen Sprache?" },
+  { "lang1": "Qual è il ruolo dei marcatori del discorso nella conversazione?", "lang2": "Welche Rolle spielen Diskursmarker im Gespräch?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla declinazione degli aggettivi?", "lang2": "Können wir eine Übung zur Deklination der Adjektive machen?" },
+  { "lang1": "Come posso esprimere una riserva su un progetto?", "lang2": "Wie kann ich einen Vorbehalt zu einem Projekt ausdrücken?" },
+  { "lang1": "Quali sono le costruzioni impersonali più utilizzate?", "lang2": "Was sind die am häufigsten verwendeten unpersönlichen Konstruktionen?" },
+  { "lang1": "Possiamo analizzare il lessico specialistico di questa materia?", "lang2": "Können wir den Fachwortschatz dieses Fachgebiets analysieren?" },
+  { "lang1": "Come si usano i verbi pronominali in questo contesto?", "lang2": "Wie verwendet man pronominale Verben in diesem Kontext?" },
+  { "lang1": "Qual è la differenza tra un sinonimo assoluto e relativo?", "lang2": "Was ist der Unterschied zwischen einem absoluten und einem relativen Synonym?" },
+  { "lang1": "Possiamo lavorare sull'efficacia della mia conclusione?", "lang2": "Können wir an der Wirksamkeit meines Schlusssatzes arbeiten?" },
+  { "lang1": "Come posso rendere le mie descrizioni più dettagliate?", "lang2": "Wie kann ich meine Beschreibungen detaillierter gestalten?" },
+  { "lang1": "Quali sono gli errori morfologici più frequenti?", "lang2": "Was sind die häufigsten morphologischen Fehler?" },
+  { "lang1": "Possiamo fare un test di autovalutazione del livello?", "lang2": "Können wir einen Test zur Selbsteinschätzung des Niveaus machen?" },
+  { "lang1": "Come si esprime la frequenza di un'azione nel passato?", "lang2": "Wie drückt man die Häufigkeit einer Handlung in der Vergangenheit aus?" },
+  { "lang1": "Qual è la funzione delle proposizioni concessive nel dibattito?", "lang2": "Welche Funktion haben Konzessionssätze in der Debatte?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di modo?", "lang2": "Können wir die Verwendung von Modaladverbien analysieren?" },
+  { "lang1": "Come posso evitare di usare sempre le stesse congiunzioni?", "lang2": "Wie kann ich vermeiden, immer dieselben Konjunktionen zu verwenden?" },
+  { "lang1": "Quali sono i falsi amici più insidiosi da memorizzare?", "lang2": "Was sind die tückischsten falschen Freunde, die man sich merken sollte?" },
+  { "lang1": "Possiamo fare un'esercitazione di traduzione dall'italiano al tedesco?", "lang2": "Können wir eine Übersetzung vom Italienischen ins Deutsche machen?" },
+  { "lang1": "Come si esprime una necessità urgente in ambito professionale?", "lang2": "Wie drückt man eine dringende Notwendigkeit im beruflichen Umfeld aus?" },
+  { "lang1": "Qual è la differenza tra linguaggio denotativo e connotativo?", "lang2": "Was ist der Unterschied zwischen denotativer und konnotativer Sprache?" },
+  { "lang1": "Possiamo lavorare sulla coerenza tematica del mio testo?", "lang2": "Können wir an der thematischen Kohärenz meines Textes arbeiten?" },
+  { "lang1": "Come si usano le locuzioni prepositive più complesse?", "lang2": "Wie verwendet man die komplexeren Präpositionalgefüge?" },
+  { "lang1": "Quali sono i suffissi usati per creare gli aggettivi di appartenenza?", "lang2": "Was sind die Suffixe zur Bildung von Zugehörigkeitsadjektiven?" },
+  { "lang1": "Possiamo analizzare le forme di cortesia nel registro scritto?", "lang2": "Können wir die Höflichkeitsformen in der Schriftsprache analysieren?" },
+  { "lang1": "Come posso esprimere il mio punto di vista in modo diplomatico?", "lang2": "Wie kann ich meinen Standpunkt diplomatisch ausdrücken?" },
+  { "lang1": "Qual è la funzione del pronome pleonastico nella frase?", "lang2": "Welche Funktion hat das pleonastische Pronomen im Satz?" },
+  { "lang1": "Possiamo fare un esercizio di abbinamento tra verbi e preposizioni?", "lang2": "Können wir eine Übung zur Zuordnung von Verben und Präpositionen machen?" },
+  { "lang1": "Come si esprime una probabilità basata su dati oggettivi?", "lang2": "Wie drückt man eine Wahrscheinlichkeit auf der Grundlage objektiver Daten aus?" },
+  { "lang1": "Quali sono le regole principali per la punteggiatura nei dialoghi?", "lang2": "Was sind die Hauptregeln für die Zeichensetzung in Dialogen?" },
+  { "lang1": "Possiamo lavorare sull'arricchimento del lessico astratto?", "lang2": "Können wir an der Bereicherung des abstrakten Wortschatzes arbeiten?" },
+  { "lang1": "Come si usano i pronomi dimostrativi per evitare ripetizioni?", "lang2": "Wie verwendet man Demonstrativpronomen, um Wiederholungen zu vermeiden?" },
+  { "lang1": "Qual è la differenza di significato tra questi due prefissi?", "lang2": "Was ist der Bedeutungsunterschied zwischen diesen beiden Präfixen?" },
+  { "lang1": "Possiamo analizzare l'uso delle strutture condizionali complesse?", "lang2": "Können wir die Verwendung komplexer Konditionalstrukturen analysieren?" },
+  { "lang1": "Come posso rendere una presentazione orale più coinvolgente?", "lang2": "Wie kann ich eine mündliche Präsentation ansprechender gestalten?" },
+  { "lang1": "Quali sono i connettivi conclusivi più efficaci per un saggio?", "lang2": "Was sind die wirksamsten schlussfolgernden Konnektoren für einen Essay?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla trasformazione delle frasi da attive a passive?", "lang2": "Können wir eine Übung zur Umwandlung von Aktiv- in Passivsätze machen?" },
+  { "lang1": "Come si esprime una causa indiretta in modo elegante?", "lang2": "Wie drückt man eine indirekte Ursache auf elegante Weise aus?" },
+  { "lang1": "Qual è il valore modale dell'imperfetto in questo contesto?", "lang2": "Welchen modalen Wert hat das Imperfekt in diesem Kontext?" },
+  { "lang1": "Possiamo lavorare sulla fluidità dell'esposizione orale?", "lang2": "Können wir an der Flüssigkeit des mündlichen Vortrags arbeiten?" },
+  { "lang1": "Come si usano le forme riflessive con valore reciproco?", "lang2": "Wie verwendet man Reflexivformen mit reziproker Bedeutung?" },
+  { "lang1": "Quali sono i sostantivi derivati dai verbi di movimento più comuni?", "lang2": "Was sind die häufigsten von Bewegungsverben abgeleiteten Substantive?" },
+  { "lang1": "Possiamo analizzare l'uso dei tempi verbali nella narrazione al passato?", "lang2": "Können wir die Verwendung von Zeitformen bei der Erzählung in der Vergangenheit analysieren?" },
+  { "lang1": "Come posso esprimere la mia perplessità in modo rispettoso?", "lang2": "Wie kann ich meine Ratlosigkeit respektvoll ausdrücken?" },
+  { "lang1": "Qual è la differenza tra un verbo transitivo e uno intransitivo qui?", "lang2": "Was ist hier der Unterschied zwischen einem transitiven und einem intransitiven Verb?" },
+  { "lang1": "Possiamo fare un esercizio sulla formazione delle parole composte?", "lang2": "Können wir eine Übung zur Bildung zusammengesetzter Wörter machen?" },
+  { "lang1": "Come si usano le interiezioni per gestire i turni di parola?", "lang2": "Wie verwendet man Interjektionen, um das Sprecherwechsel zu steuern?" },
+  { "lang1": "Quali sono le norme per l'uso delle maiuscole nei titoli professionali?", "lang2": "Was sind die Regeln für die Großschreibung von Berufsbezeichnungen?" },
+  { "lang1": "Possiamo lavorare sull'uso corretto degli avverbi focalizzatori?", "lang2": "Können wir an der richtigen Verwendung von Fokusadverbien arbeiten?" },
+  { "lang1": "Come si esprime una relazione di causa-effetto in modo formale?", "lang2": "Wie drückt man ein Ursache-Wirkung-Verhältnis auf formelle Weise aus?" },
+  { "lang1": "Qual è la funzione del participio presente con valore relativo?", "lang2": "Welche Funktion hat das Partizip Präsens mit Relativwert?" },
+  { "lang1": "Possiamo analizzare l'uso delle proposizioni eccettive?", "lang2": "Können wir die Verwendung von Ausnahmesätzen analysieren?" },
+  { "lang1": "Come posso evitare di usare espressioni troppo generiche?", "lang2": "Wie kann ich vermeiden, zu allgemeine Ausdrücke zu verwenden?" },
+  { "lang1": "Quali sono i termini colloquiali più diffusi tra i giovani?", "lang2": "Was sind die gebräuchlichsten umgangssprachlichen Begriffe unter Jugendlichen?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla comprensione di un testo letterario?", "lang2": "Können wir eine Übung zum Verständnis eines literarischen Textes machen?" },
+  { "lang1": "Come si usano i pronomi personali in funzione di complemento oggetto?", "lang2": "Wie verwendet man Personalpronomen als direktes Objekt?" },
+  { "lang1": "Qual è la differenza tra registro accademico e burocratico?", "lang2": "Was ist der Unterschied zwischen akademischem und behördlichem Sprachniveau?" },
+  { "lang1": "Possiamo lavorare sulla struttura logica dei paragrafi?", "lang2": "Können wir an der logischen Struktur der Absätze arbeiten?" },
+  { "lang1": "Come si esprime una forte opposizione in una dibattito formale?", "lang2": "Wie drückt man in einer formellen Debatte starken Widerspruch aus?" },
+  { "lang1": "Quali sono i prefissi d'origine greca più usati nel lessico medico?", "lang2": "Was sind die am häufigsten verwendeten Präfixe griechischen Ursprungs im medizinischen Wortschatz?" },
+  { "lang1": "Possiamo analizzare l'uso delle proposizioni temporali implicite?", "lang2": "Können wir die Verwendung von impliziten Temporalsätzen analysieren?" },
+  { "lang1": "Come posso variare gli incipit delle mie frasi per rendere il testo dinamico?", "lang2": "Wie kann ich den Anfang meiner Sätze variieren, um den Text dynamisch zu gestalten?" },
+  { "lang1": "Qual è la funzione del congiuntivo nelle proposizioni relative?", "lang2": "Welche Funktion hat der Konjunktiv in Relativsätzen?" },
+  { "lang1": "Possiamo fare un esercizio di paratrassi e ipotassi?", "lang2": "Können wir eine Übung zu Parataxe und Hypotaxe machen?" },
+  { "lang1": "Come si usano i pronomi indefiniti per indicare una quantità imprecisata?", "lang2": "Wie verwendet man Indefinitpronomen, um eine unbestimmte Menge anzugeben?" },
+  { "lang1": "Quali sono le strategie per migliorare la memoria a lungo termine dei vocaboli?", "lang2": "Welche Strategien gibt es zur Verbesserung des Langzeitgedächtnisses für Wortschatz?" },
+  { "lang1": "Possiamo analizzare il valore pragmatico delle domande retoriche?", "lang2": "Können wir den pragmatischen Wert von rhetorischen Fragen analysieren?" },
+  { "lang1": "Come si esprime una limitazione rispetto a una regola generale?", "lang2": "Wie drückt man eine Einschränkung gegenüber einer allgemeinen Regel aus?" },
+  { "lang1": "Qual è la differenza tra l'uso dei tempi passati nel parlato e nello scritto?", "lang2": "Was ist der Unterschied zwischen der Verwendung von Vergangenheitszeiten beim Sprechen und Schreiben?" },
+  { "lang1": "Possiamo fare un lavoro sulla precisazione del significato dei termini tecnici?", "lang2": "Können wir an der Präzisierung der Bedeutung von Fachbegriffen arbeiten?" },
+  { "lang1": "Come si usano i suffissi alterativi per modificare il senso di un nome?", "lang2": "Wie verwendet man Abwandlungssuffixe, um die Bedeutung eines Nomens zu verändern?" },
+  { "lang1": "Quali sono le espressioni idiomatiche più comuni legate al mondo del lavoro?", "lang2": "Was sind die gebräuchlichsten redensartlichen Ausdrücke der Arbeitswelt?" },
+  { "lang1": "Possiamo analizzare le forme di passivo impersonale?", "lang2": "Können wir die Formen des unpersönlichen Passivs analysieren?" },
+  { "lang1": "Come posso esprimere l'incertezza senza sembrare impreparato?", "lang2": "Wie kann ich Unsicherheit ausdrücken, ohne unvorbereitet zu wirken?" },
+  { "lang1": "Qual è la funzione del pronome relativo 'che' in posizione di soggetto?", "lang2": "Welche Funktion hat das Relativpronomen 'das/der/die' als Subjekt?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla comprensione di un discorso orale veloci?", "lang2": "Können wir eine Übung zum Verständnis einer schnellen mündlichen Rede machen?" },
+  { "lang1": "Come si usano le proposizioni finali implicite ed esplicite?", "lang2": "Wie verwendet man implizite und explizite Finalsätze?" },
+  { "lang1": "Quali sono le regole per la concordanza dei tempi al congiuntivo?", "lang2": "Was sind die Regeln für die Zeitenfolge im Konjunktiv?" },
+  { "lang1": "Possiamo analizzare l'uso delle locuzioni avverbiali di tempo?", "lang2": "Können wir die Verwendung von temporalen Adverbialgefügen analysieren?" },
+  { "lang1": "Come posso rendere più incisiva la mia argomentazione iniziale?", "lang2": "Wie kann ich meine anfängliche Argumentation prägnanter gestalten?" },
+  { "lang1": "Qual è la differenza tra valore modale ed epistemico di un verbo?", "lang2": "Was ist der Unterschied zwischen modalem und epistemischem Wert eines Verbs?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle proposizioni modali?", "lang2": "Können wir an der Verwendung von Modalsätzen arbeiten?" },
+  { "lang1": "Come si usano i pronomi personali tonici per dare enfasi?", "lang2": "Wie verwendet man betonte Personalpronomen, um Nachdruck zu verleihen?" },
+  { "lang1": "Quali sono i sostantivi plurali che hanno una doppia forma con significati diversi?", "lang2": "Was sind Pluralnomen, die zwei Formen mit verschiedenen Bedeutungen haben?" },
+  { "lang1": "Possiamo analizzare l'uso delle proposizioni concessive implicite?", "lang2": "Können wir die Verwendung von impliziten Konzessionssätzen analysieren?" },
+  { "lang1": "Come posso esprimere la gradazione di un aggettivo in modo vario?", "lang2": "Wie kann ich die Steigerung eines Adjektivs abwechslungsreich ausdrücken?" },
+  { "lang1": "Qual è la funzione del gerundio composto nella sintassi?", "lang2": "Welche Funktion hat das zusammengesetzte Gerundium in der Syntax?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla declinazione dei pronomi dimostrativi?", "lang2": "Können wir eine Übung zur Deklination der Demonstrativpronomen machen?" },
+  { "lang1": "Come si forma il comparativo di minoranza ed equivalenza?", "lang2": "Wie bildet man den Komparativ der Minderheit und der Gleichheit?" },
+  { "lang1": "Quali sono i prefissi d'origine latina più usati nei termini giuridici?", "lang2": "Was sind die am häufigsten verwendeten Präfixe lateinischen Ursprungs in Rechtstermini?" },
+  { "lang1": "Possiamo analizzare l'uso delle proposizioni limitative?", "lang2": "Können wir die Verwendung von Einschränkungssätzen analysieren?" },
+  { "lang1": "Come posso esprimere il mio scetticismo su una notizia in modo formale?", "lang2": "Wie kann ich meine Skepsis bezüglich einer Nachricht formell ausdrücken?" },
+  { "lang1": "Qual è la differenza tra l'uso dell'indicativo e del condizionale nelle ipotetiche?", "lang2": "Was ist der Unterschied zwischen der Verwendung von Indikativ und Konditional in Hypothesen?" },
+  { "lang1": "Possiamo fare un esercizio di identificazione degli errori sintattici?", "lang2": "Können wir eine Übung zur Identifizierung von syntaktischen Fehlern machen?" },
+  { "lang1": "Come si usano i verbi fraseologici per indicare l'inizio o la fine di un'azione?", "lang2": "Wie verwendet man phraseologische Verben, um den Anfang oder das Ende einer Handlung anzuzeigen?" },
+  { "lang1": "Quali sono le regole per la formazione dei nomi derivati dagli aggettivi?", "lang2": "Was sind die Regeln für die Bildung von Nomen, die von Adjektiven abgeleitet sind?" },
+  { "lang1": "Possiamo analizzare l'uso delle locuzioni congiuntive più rari?", "lang2": "Können wir die Verwendung seltenerer Konjunktionalgefüge analysieren?" },
+  { "lang1": "Come posso strutturare una presentazione di dati statistici?", "lang2": "Wie kann ich eine Präsentation von statistischen Daten strukturieren?" },
+  { "lang1": "Qual è la funzione delle proposizioni interrogative indirette nel testo?", "lang2": "Welche Funktion haben indirekte Fragesätze im Text?" },
+  { "lang1": "Possiamo fare un lavoro di revisione dello stile su questo paragrafo?", "lang2": "Können wir eine stilistische Überarbeitung dieses Absatzes machen?" },
+  { "lang1": "Come si esprime una concessione usando strutture sintattiche complesse?", "lang2": "Wie drückt man ein Zugeständnis mit komplexen Satzstrukturen aus?" },
+  { "lang1": "Quali sono i connettivi più usati per esprimere un'opposizione netta?", "lang2": "Was sind die am häufigsten verwendeten Konnektoren zum Ausdrücken eines klaren Gegensatzes?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di dubbio ed esitazione?", "lang2": "Können wir die Verwendung von Zweifel- und Zögerungsadverbien analysieren?" },
+  { "lang1": "Come posso evitare di usare strutture sintattiche troppo ripetitive?", "lang2": "Wie kann ich vermeiden, zu wiederholende Satzstrukturen zu verwenden?" },
+  { "lang1": "Qual è la differenza tra valore temporale e causale della congiunzione 'poiché'?", "lang2": "Was ist der Unterschied zwischen zeitlichem und kausalem Wert der Konjunktion 'da'?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla concordanza dei tempi nei periodi complessi?", "lang2": "Können wir eine Übung zur Zeitenfolge in komplexen Satzgefügen machen?" },
+  { "lang1": "Come si usano i pronomi relativi per unire due frasi indipendenti?", "lang2": "Wie verwendet man Relativpronomen, um zwei selbstständige Sätze zu verbinden?" },
+  { "lang1": "Quali sono i suffissi usati per formare i sostantivi di azione?", "lang2": "Was sind die Suffixe zur Bildung von Handlungsnomen?" },
+  { "lang1": "Possiamo analizzare l'uso delle proposizioni consecutive esplicite?", "lang2": "Können wir die Verwendung von expliziten Konsekutivsätzen analysieren?" },
+  { "lang1": "Come posso esprimere l'incredulità di fronte a un fatto sorprendente?", "lang2": "Wie kann ich Unglauben angesichts einer überraschenden Tatsache ausdrücken?" },
+  { "lang1": "Qual è la funzione del participio passato in funzione di aggettivo?", "lang2": "Welche Funktion hat das Partizip Perfekt als Adjektiv?" },
+  { "lang1": "Possiamo fare un esercizio sulla distinzione dei registri linguistici nei testi d'esempio?", "lang2": "Können wir eine Übung zur Unterscheidung von Sprachniveaus in Beispieltexten machen?" },
+  { "lang1": "Come si usano le forme impersonali per dare raccomandazioni generiche?", "lang2": "Wie verwendet man unpersönliche Formen, um allgemeine Empfehlungen zu geben?" },
+  { "lang1": "Quali sono le differenze nell'uso dei verbi modali tra il parlato e lo scritto?", "lang2": "Was sind die Unterschiede in der Verwendung von Modalverben zwischen Gesprochener und Schriftsprache?" },
+  { "lang1": "Possiamo analizzare l'uso delle strutture frasali scisse per dare enfasi?", "lang2": "Können wir die Verwendung von Spalt-Satzstrukturen zur Betonung analysieren?" },
+  { "lang1": "Come posso esprimere la mia solidarietà con un'opinione espressa?", "lang2": "Wie kann ich meine Solidarität mit einer geäußerten Meinung ausdrücken?" },
+  { "lang1": "Qual è la regola per l'uso delle preposizioni con i nomi geografici?", "lang2": "Was ist die Regel für die Verwendung von Präpositionen bei geographischen Namen?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle proposizioni aggiuntive?", "lang2": "Können wir an der Verwendung von Hinzufügungsätzen arbeiten?" },
+  { "lang1": "Come si forma il futuro semplice e quali sono le sue irregolarità principali?", "lang2": "Wie bildet man das Futur I und was sind seine wichtigsten Unregelmäßigkeiten?" },
+  { "lang1": "Qual è la funzione del pronome 'ne' in funzione locativa?", "lang2": "Welche Funktion hat das Pronomen 'davon' in lokaler Funktion?" },
+  { "lang1": "Possiamo analizzare l'uso degli aggettivi possessivi con i termini di parentela?", "lang2": "Können wir die Verwendung von Possessivadjektiven bei Verwandtschaftsbezeichnungen analysieren?" },
+  { "lang1": "Come posso esprimere una condizione necessaria ed essenziale?", "lang2": "Wie kann ich eine notwendige und wesentliche Bedingung ausdrücken?" },
+  { "lang1": "Quali sono i prefissi d'origine latina per indicare un'azione ripetuta?", "lang2": "Was sind die Präfixe lateinischen Ursprungs zur Bezeichnung einer wiederholten Handlung?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla comprensione di una conferenza online?", "lang2": "Können wir eine Übung zum Verständnis einer Online-Konferenz machen?" },
+  { "lang1": "Come si usano i modi verbali nelle proposizioni concessive esplicite?", "lang2": "Wie verwendet man Verbmodi in expliziten Konzessionssätzen?" },
+  { "lang1": "Qual è la differenza di uso tra le diverse forme del congiuntivo?", "lang2": "Was ist der Unterschied in der Verwendung der verschiedenen Konjunktivformen?" },
+  { "lang1": "Possiamo analizzare l'uso delle locuzioni avverbiali di affermazione?", "lang2": "Können wir die Verwendung von Bejahungsadverbialgefügen analysieren?" },
+  { "lang1": "Come posso strutturare una risposta articolata a una domanda d'esame?", "lang2": "Wie kann ich eine ausführliche Antwort auf eine Prüfungsfrage strukturieren?" },
+  { "lang1": "Quali sono le strategie per individuare l'idea principale di un paragrafo?", "lang2": "Welche Strategien gibt es zur Erkennung der Hauptidee eines Absatzes?" },
+  { "lang1": "Possiamo fare un lavoro sulla trasformazione delle frasi da implicite a esplicite?", "lang2": "Können wir an der Umwandlung von impliziten in explizite Sätze arbeiten?" },
+  { "lang1": "Come si usano i pronomi personali atoni in presenza di più verbi?", "lang2": "Wie verwendet man unbetonte Personalpronomen beim Vorhandensein mehrerer Verben?" },
+  { "lang1": "Qual è la funzione della punteggiatura nella comprensione della struttura sintattica?", "lang2": "Welche Funktion hat die Zeichensetzung beim Verständnis der syntaktischen Struktur?" },
+  { "lang1": "Possiamo analizzare l'uso dei verbi servili al passato con i diversi ausiliari?", "lang2": "Können wir die Verwendung von Modalverben in der Vergangenheit mit verschiedenen Hilfsverben analysieren?" },
+  { "lang1": "Come posso esprimere un dubbio motivato in un contesto formale?", "lang2": "Wie kann ich einen begründeten Zweifel in einem formellen Kontext ausdrücken?" },
+  { "lang1": "Quali sono i suffissi più comuni per formare aggettivi da sostantivi?", "lang2": "Was sind die häufigsten Suffixe zur Bildung von Adjektiven aus Substantiven?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla comprensione di un testo d'opinione?", "lang2": "Können wir eine Übung zum Verständnis eines Meinungsbeitrags machen?" },
+  { "lang1": "Come si forma il condizionale composto e qual è il suo valore temporale?", "lang2": "Wie bildet man den Konditional II und was ist sein zeitlicher Wert?" },
+  { "lang1": "Qual è la funzione del pronome 'ci' con i verbi che indicano stato in luogo?", "lang2": "Welche Funktion hat das Pronomen 'da/dort' bei Verben des Sich-Befindens?" },
+  { "lang1": "Possiamo analizzare l'uso delle proposizioni temporali introdotte da congiunzioni composte?", "lang2": "Können wir die Verwendung von Temporalsätzen analysieren, die durch zusammengesetzte Konjunktionen eingeleitet werden?" },
+  { "lang1": "Come posso esprimere una valutazione critica in modo costruttivo?", "lang2": "Wie kann ich eine kritische Bewertung konstruktiv ausdrücken?" },
+  { "lang1": "Quali sono i prefissi intensificatori di origine greca più diffusi?", "lang2": "Was sind die gebräuchlichsten verstärkenden Präfixe griechischen Ursprungs?" },
+  { "lang1": "Possiamo fare un esercizio di riscrittura formale di un messaggio informale?", "lang2": "Können wir eine Übung zur formellen Umformulierung einer informellen Nachricht machen?" },
+  { "lang1": "Come si usano i pronomi personali tonici dopo le preposizioni?", "lang2": "Wie verwendet man betonte Personalpronomen nach Präpositionen?" },
+  { "lang1": "Qual è la differenza di significato tra i vari tempi del passato?", "lang2": "Was ist der Bedeutungsunterschied zwischen den verschiedenen Vergangenheitszeiten?" },
+  { "lang1": "Possiamo analizzare l'uso dei connettivi di spiccata enfasi?", "lang2": "Können wir die Verwendung von Verknüpfungen mit starker Betonung analysieren?" },
+  { "lang1": "Come posso esprimere il mio accordo con le riserve espresse dall'interlocutore?", "lang2": "Wie kann ich meine Zustimmung zu den vom Gesprächspartner geäußerten Vorbehalten ausdrücken?" },
+  { "lang1": "Quali sono le regole per la formazione dei nomi collettivi?", "lang2": "Was sind die Regeln für die Bildung von Kollektivnomen?" },
+  { "lang1": "Possiamo fare una sessione di ripasso sui concetti sintattici più complessi?", "lang2": "Können wir eine Wiederholungssitzung zu den komplexesten syntaktischen Konzepten machen?" },
+  { "lang1": "Come si usano le costruzioni sintattiche per esprimere una conseguenza inaspettata?", "lang2": "Wie verwendet man Satzstrukturen, um eine unerwartete Folge auszudrücken?" },
+  { "lang1": "Qual è la funzione del participio passato nelle proposizioni assolute?", "lang2": "Welche Funktion hat das Partizip Perfekt in absoluten Sätzen?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di quantità nelle comparazioni?", "lang2": "Können wir die Verwendung von Mengenadverbien bei Vergleichen analysieren?" },
+  { "lang1": "Come posso arricchire la mia prosa con espressioni più varie?", "lang2": "Wie kann ich meine Prosa mit abwechslungsreicheren Ausdrücken bereichern?" },
+  { "lang1": "Quali sono i termini tecnici usati nell'ambito delle scienze umane?", "lang2": "Was sind die im Bereich der Geisteswissenschaften verwendeten Fachbegriffe?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla comprensione dei testi di saggistica?", "lang2": "Können wir eine Übung zum Verständnis von Sachbuchtexten machen?" },
+  { "lang1": "Come si forma la voce passiva con i tempi composti?", "lang2": "Wie bildet man das Passiv in den zusammengesetzten Zeiten?" },
+  { "lang1": "Qual è la differenza tra proposizione coordinata e subordinata?", "lang2": "Was ist der Unterschied zwischen beiordnendem und unterordnendem Satz?" },
+  { "lang1": "Possiamo analizzare l'uso dei pronomi indefiniti con valore negativo?", "lang2": "Können wir die Verwendung von Indefinitpronomen mit negativer Bedeutung analysieren?" },
+  { "lang1": "Come posso esprimere l'importanza relativa di due fattori distinti?", "lang2": "Wie kann ich die relative Bedeutung von zwei verschiedenen Faktoren ausdrücken?" },
+  { "lang1": "Quali sono le regole per la punteggiatura nelle elenchi puntati?", "lang2": "Was sind die Regeln für die Zeichensetzung in Aufzählungen?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle proposizioni modali esplicite?", "lang2": "Können wir an der Verwendung von expliziten Modalsätzen arbeiten?" },
+  { "lang1": "Come si usano i verbi pronominali per esprimere uno stato d'animo?", "lang2": "Wie verwendet man pronominale Verben, um einen Gemütszustand auszudrücken?" },
+  { "lang1": "Qual è la funzione del congiuntivo nelle proposizioni comparative?", "lang2": "Welche Funktion hat der Konjunktiv in Komparativsätzen?" },
+  { "lang1": "Possiamo analizzare l'uso degli aggettivi determinativi nel contesto formale?", "lang2": "Können wir die Verwendung von bestimmenden Adjektiven im formellen Kontext analysieren?" },
+  { "lang1": "Come posso strutturare una sintesi di un dibattito complesso?", "lang2": "Wie kann ich eine Zusammenfassung einer komplexen Debatte strukturieren?" },
+  { "lang1": "Quali sono i connettivi più usati per introdurre un'illustrazione?", "lang2": "Was sind die am häufigsten verwendeten Konnektoren zur Einführung einer Erläuterung?" },
+  { "lang1": "Possiamo fare un'esercitazione sulla trasformazione del discorso da indiretto a diretto?", "lang2": "Können wir eine Übung zur Umwandlung von indirekter in direkte Rede machen?" },
+  { "lang1": "Come si usano i modi indefiniti per indicare la contemporaneità delle azioni?", "lang2": "Wie verwendet man unbestimmte Modi, um die Gleichzeitigkeit von Handlungen anzuzeigen?" },
+  { "lang1": "Qual è la differenza tra valore denotativo e connotativo nei termini politici?", "lang2": "Was ist der Unterschied zwischen denotativem und konnotativem Wert in politischen Begriffen?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di tempo per organizzare la narrazione?", "lang2": "Können wir die Verwendung von Zeitadverbien zur Organisation der Erzählung analysieren?" },
+  { "lang1": "Come posso esprimere una riserva su un'ipotesi scientifica?", "lang2": "Wie kann ich einen Vorbehalt zu einer wissenschaftlichen Hypothese ausdrücken?" },
+  { "lang1": "Quali sono i prefissi usati per formare i verbi derivati dai sostantivi?", "lang2": "Was sind die Suffixe zur Bildung von Verben, die von Substantiven abgeleitet sind?" },
+  { "lang1": "Possiamo fare un lavoro sulla distinzione tra l'uso del presente storico e del passato?", "lang2": "Können wir an der Unterscheidung zwischen der Verwendung des historischen Präsens und der Vergangenheit arbeiten?" },
+  { "lang1": "Come si usano le forme pronominali per creare strutture passive sintetiche?", "lang2": "Wie verwendet man Pronominalformen, um synthetische Passivstrukturen zu schaffen?" },
+  { "lang1": "Qual è la funzione delle proposizioni interrogative indirette nel discorso accademico?", "lang2": "Welche Funktion haben indirekte Fragesätze in der akademischen Rede?" },
+  { "lang1": "Possiamo analizzare l'uso dei tempi verbali nelle notizie di cronaca?", "lang2": "Können wir die Verwendung von Zeitformen in Nachrichtenmeldungen analysieren?" },
+  { "lang1": "Come posso esprimere una sfumatura di certezza usando gli avverbi modali?", "lang2": "Wie kann ich eine Gewissheitsnuance unter Verwendung von Modaladverbien ausdrücken?" },
+  { "lang1": "Quali sono i criteri per l'uso dei segni di punteggiatura forti e deboli?", "lang2": "Was sind die Kriterien für die Verwendung von starken und schwachen Satzzeichen?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle proposizioni condizionali implicite?", "lang2": "Können wir eine Übung zur Verwendung von impliziten Konditionalsätzen machen?" },
+  { "lang1": "Come si forma il superlativo assoluto degli aggettivi con i prefissi?", "lang2": "Wie bildet man den absoluten Superlativ von Adjektiven mit Präfixen?" },
+  { "lang1": "Qual è la differenza tra l'uso del gerundio presente e passato?", "lang2": "Was ist der Unterschied zwischen der Verwendung des Gerundiums Präsens und Perfekt?" },
+  { "lang1": "Possiamo analizzare l'uso dei pronomi dimostrativi per creare coesione testuale?", "lang2": "Können wir die Verwendung von Demonstrativpronomen zur Schaffung von Textkohäsion analysieren?" },
+  { "lang1": "Come posso migliorare la chiarezza delle mie argomentazioni scritte?", "lang2": "Wie kann ich die Klarheit meiner schriftlichen Argumente verbessern?" },
+  { "lang1": "Quali sono i prefissi d'origine greca più usati nei termini filosofici?", "lang2": "Was sind die am häufigsten verwendeten Präfixe griechischen Ursprungs in philosophischen Begriffen?" },
+  { "lang1": "Possiamo fare un esercizio di sintesi di un articolo di giornale articolato?", "lang2": "Können wir eine Übung zur Zusammenfassung eines ausführlichen Zeitungsartikels machen?" },
+  { "lang1": "Come si usano le costruzioni implicite con le preposizioni articolarie?", "lang2": "Wie verwendet man implizite Konstruktionen mit verschmolzenen Präpositionen?" },
+  { "lang1": "Qual è la funzione delle proposizioni concessive nel testo argomentativo?", "lang2": "Welche Funktion haben Konzessionssätze im argumentativen Text?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di luogo per definire la prospettiva spaziale?", "lang2": "Können wir die Verwendung von Ortsadverbien zur Definition der räumlichen Perspektive analysieren?" },
+  { "lang1": "Come posso esprimere l'incertezza riguardo a una previsione futura?", "lang2": "Wie kann ich Unsicherheit bezüglich einer zukünftigen Vorhersage ausdrücken?" },
+  { "lang1": "Quali sono i sostantivi che hanno plurali diversi a seconda del contesto di uso?", "lang2": "Was sind Substantive, die je nach Anwendungskontext unterschiedliche Pluralformen haben?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle forme pronominali pleonastiche?", "lang2": "Können wir an der Verwendung pleonastischer Pronominalformen arbeiten?" },
+  { "lang1": "Come si usano i verbi fraseologici per indicare la continuità di un'azione?", "lang2": "Wie verwendet man phraseologische Verben, um die Kontinuität einer Handlung anzuzeigen?" },
+  { "lang1": "Qual è la differenza tra l'uso del congiuntivo e dell'indicativo nelle proposizioni relative?", "lang2": "Was ist der Unterschied zwischen der Verwendung von Konjunktiv und Indikativ in Relativsätzen?" },
+  { "lang1": "Possiamo analizzare l'uso dei connettivi conclusivi nel discorso formale?", "lang2": "Können wir die Verwendung von schlussfolgernden Konnektoren in der formellen Rede analysieren?" },
+  { "lang1": "Come posso variare le strutture sintattiche per rendere l'esposizione più vivace?", "lang2": "Wie kann ich Satzstrukturen variieren, um die Darstellung lebendiger zu gestalten?" },
+  { "lang1": "Quali sono i suffissi usati per formare i nomi di luogo e d'origine?", "lang2": "Was sind die Suffixe zur Bildung von Orts- und Herkunftsbezeichnungen?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle proposizioni finali esplicite?", "lang2": "Können wir eine Übung zur Verwendung von expliziten Finalsätzen machen?" },
+  { "lang1": "Come si forma il comparativo di maggioranza per gli aggettivi irregolari?", "lang2": "Wie bildet man den Komparativ der Überlegenheit für unregelmäßige Adjektive?" },
+  { "lang1": "Qual è la funzione del pronome relativo 'il quale' nelle proposizioni subordinate complesse?", "lang2": "Welche Funktion hat das Relativpronomen 'welcher/e/s' in komplexen Nebensätzen?" },
+  { "lang1": "Possiamo analizzare l'uso dei verbi modali con le forme passive nei testi accademici?", "lang2": "Können wir die Verwendung von Modalverben mit Passivformen in akademischen Texten analysieren?" },
+  { "lang1": "Come posso esprimere un'alternativa complessa tra più opzioni in modo chiaro?", "lang2": "Wie kann ich eine komplexe Alternative zwischen mehreren Optionen klar ausdrücken?" },
+  { "lang1": "Quali sono le regole per la concordanza degli aggettivi con sostantivi di genere diverso?", "lang2": "Was sind die Regeln für die Angleichung von Adjektiven an Substantive unterschiedlichen Genus?" },
+  { "lang1": "Possiamo fare un lavoro sull'uso delle proposizioni modali ed strumentali implicite?", "lang2": "Können wir an der Verwendung von impliziten Modal- und Instrumentalsätzen arbeiten?" },
+  { "lang1": "Come si usano le forme pronominali per evitare le ripetizioni dei nomi di persona?", "lang2": "Wie verwendet man Pronominalformen, um Wiederholungen von Personennamen zu vermeiden?" },
+  { "lang1": "Qual è la differenza tra uso proprio e uso traslato degli aggettivi?", "lang2": "Was ist der Unterschied zwischen der eigentlichen und der übertragenen Verwendung von Adjektiven?" },
+  { "lang1": "Possiamo analizzare l'uso degli avverbi di luogo nella descrizione degli ambienti?", "lang2": "Können wir die Verwendung von Ortsadverbien bei der Beschreibung von Umgebungen analysieren?" },
+  { "lang1": "Come posso esprimere una conseguenza logica in modo persuasivo?", "lang2": "Wie kann ich eine logische Schlussfolgerung überzeugend ausdrücken?" },
+  { "lang1": "Quali sono i prefissi d'origine greca e latina usati per esprimere negazione o privazione?", "lang2": "Was sind die Präfixe griechischen und lateinischen Ursprungs zur Bezeichnung von Verneinung oder Privation?" },
+  { "lang1": "Possiamo fare un'esercitazione sull'uso delle proposizioni consecutive implicite?", "lang2": "Können wir eine Übung zur Verwendung von impliziten Konsekutivsätzen machen?" },
+  { "lang1": "Come si usano i modi verbali nelle proposizioni dubitative ed dubitative indirette?", "lang2": "Wie verwendet man Verbmodi in direkten und indirekten Zweifelsätzen?" },
+  { "lang1": "Qual è la funzione del pronome 'ne' nelle costruzioni pronominali complesse?", "lang2": "Welche Funktion hat das Pronomen 'davon' in komplexen Pronominalkonstruktionen?" },
+  { "lang1": "Possiamo analizzare l'uso delle locuzioni avverbiali per esprimere il grado di certezza?", "lang2": "Können wir die Verwendung von Adverbialgefügen zum Ausdrücken des Gewissheitsgrades analysieren?" }
 ]
