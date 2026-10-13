@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="de" class="h-full">
+<html lang="de" class="h-full dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -155,30 +155,9 @@
         <nav class="hidden md:flex space-x-1">
           <button
             type="button"
-            onclick="switchTab('generator')"
-            id="nav-generator"
             class="px-4 py-2 rounded-lg text-sm font-medium transition-colors bg-green-50 text-green-700 dark:bg-green-900/30 dark:text-green-400"
           >
             <i class="fa-solid fa-wand-magic-sparkles mr-2"></i>Generator
-          </button>
-          <button
-            type="button"
-            onclick="switchTab('vocabulary')"
-            id="nav-vocabulary"
-            class="px-4 py-2 rounded-lg text-sm font-medium transition-colors text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700"
-          >
-            <i class="fa-solid fa-book-bookmark mr-2"></i>Saved (<span
-              id="saved-count"
-              >0</span
-            >)
-          </button>
-          <button
-            type="button"
-            onclick="switchTab('trainer')"
-            id="nav-trainer"
-            class="px-4 py-2 rounded-lg text-sm font-medium transition-colors text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700"
-          >
-            <i class="fa-solid fa-brain mr-2"></i>Trainer
           </button>
         </nav>
 
@@ -195,43 +174,16 @@
               class="absolute top-1 right-1 w-2.5 h-2.5 rounded-full bg-green-500 ring-2 ring-white dark:ring-slate-800"
             ></span>
           </button>
-          <button
-            type="button"
-            onclick="toggleDarkMode()"
-            class="p-2.5 rounded-xl bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:scale-105 transition-transform"
-            title="Toggle Theme"
-          >
-            <i id="theme-icon" class="fa-solid fa-moon"></i>
-          </button>
         </div>
       </div>
-      <!-- Mobile Nav bar -->
       <div
         class="md:hidden flex border-t border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800"
       >
         <button
           type="button"
-          onclick="switchTab('generator')"
-          id="mob-nav-generator"
           class="flex-1 py-3 text-center text-xs font-medium text-green-600 dark:text-green-400 border-b-2 border-green-600"
         >
           Generator
-        </button>
-        <button
-          type="button"
-          onclick="switchTab('vocabulary')"
-          id="mob-nav-vocabulary"
-          class="flex-1 py-3 text-center text-xs font-medium text-slate-500 dark:text-slate-400"
-        >
-          Saved
-        </button>
-        <button
-          type="button"
-          onclick="switchTab('trainer')"
-          id="mob-nav-trainer"
-          class="flex-1 py-3 text-center text-xs font-medium text-slate-500 dark:text-slate-400"
-        >
-          Trainer
         </button>
       </div>
     </header>
@@ -298,7 +250,7 @@
               <input
                 type="range"
                 id="sentence-count"
-                min="2"
+                min="1"
                 max="8"
                 value="4"
                 oninput="document.getElementById('count-val').innerText = this.value"
@@ -353,160 +305,6 @@
         <div id="results-container" class="space-y-6"></div>
       </section>
 
-      <!-- TAB 2: SAVED SENTENCES VIEW -->
-      <section id="view-vocabulary" class="hidden space-y-6">
-        <div
-          class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 bg-white dark:bg-slate-800 p-6 rounded-3xl border border-slate-200 dark:border-slate-700"
-        >
-          <div>
-            <h2 class="text-xl font-bold">Saved Sentences & Vocabulary</h2>
-            <p class="text-xs text-slate-500 dark:text-slate-400">
-              Review your personal collection of German learning cards.
-            </p>
-          </div>
-          <div class="flex flex-wrap items-center gap-2">
-            <input
-              type="text"
-              id="search-saved"
-              oninput="renderSavedSentences()"
-              placeholder="Search saved..."
-              class="rounded-xl border border-slate-300 dark:border-slate-600 bg-slate-50 dark:bg-slate-900 px-3 py-2 text-xs focus:ring-2 focus:ring-green-500 focus:outline-none"
-            />
-            <button
-              type="button"
-              onclick="exportData()"
-              class="px-4 py-2 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-xs font-semibold rounded-xl transition"
-            >
-              <i class="fa-solid fa-download mr-1.5"></i>Export JSON
-            </button>
-            <label
-              class="px-4 py-2 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-xs font-semibold rounded-xl transition cursor-pointer"
-            >
-              <i class="fa-solid fa-upload mr-1.5"></i>Import
-              <input
-                type="file"
-                id="import-file"
-                onchange="importData(event)"
-                accept=".json"
-                class="hidden"
-              />
-            </label>
-          </div>
-        </div>
-
-        <div id="saved-results-container" class="space-y-6"></div>
-      </section>
-
-      <!-- TAB 3: FLASHCARD TRAINER VIEW -->
-      <section id="view-trainer" class="hidden space-y-6 max-w-2xl mx-auto">
-        <div
-          class="bg-white dark:bg-slate-800 rounded-3xl p-6 sm:p-8 border border-slate-200 dark:border-slate-700 text-center space-y-6 shadow-sm"
-        >
-          <div class="flex justify-between items-center">
-            <span
-              id="trainer-progress"
-              class="text-xs font-semibold px-3 py-1 rounded-full bg-green-100 dark:bg-green-900/40 text-green-700 dark:text-green-300"
-              >Card 1 of 5</span
-            >
-            <button
-              type="button"
-              onclick="initTrainer()"
-              class="text-xs font-semibold text-green-600 hover:underline"
-            >
-              <i class="fa-solid fa-rotate-right mr-1"></i>Shuffle / Restart
-            </button>
-          </div>
-
-          <!-- Flashcard Element -->
-          <div
-            id="flashcard-wrapper"
-            class="perspective-1000 w-full h-72 cursor-pointer"
-            onclick="flipCard()"
-          >
-            <div
-              id="flashcard-inner"
-              class="relative w-full h-full duration-500 transform-style-3d shadow-xl rounded-3xl"
-            >
-              <!-- Front (German) -->
-              <div
-                class="absolute inset-0 w-full h-full bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-3xl p-8 flex flex-col justify-between backface-hidden border border-slate-700"
-              >
-                <div
-                  class="flex justify-between items-center text-xs text-slate-400"
-                >
-                  <span
-                    id="trainer-level"
-                    class="uppercase font-bold tracking-wider"
-                    >B1</span
-                  >
-                  <span
-                    ><i class="fa-regular fa-hand-pointer mr-1"></i>Click to
-                    flip</span
-                  >
-                </div>
-                <div class="my-auto space-y-3">
-                  <p
-                    id="trainer-german"
-                    class="text-2xl sm:text-3xl font-bold tracking-tight text-green-400"
-                  >
-                    Guten Tag!
-                  </p>
-                  <p class="text-xs text-slate-400 italic" id="trainer-topic">
-                    Topic: Greetings
-                  </p>
-                </div>
-                <div class="text-xs text-slate-400 text-center">
-                  German Sentence
-                </div>
-              </div>
-              <!-- Back (English & Grammar) -->
-              <div
-                class="absolute inset-0 w-full h-full bg-white dark:bg-slate-700 text-slate-800 dark:text-white rounded-3xl p-8 flex flex-col justify-between backface-hidden rotate-y-180 border border-slate-200 dark:border-slate-600"
-              >
-                <div
-                  class="flex justify-between items-center text-xs text-slate-500 dark:text-slate-400"
-                >
-                  <span class="font-bold">Translation & Grammar</span>
-                  <span>Flip back</span>
-                </div>
-                <div class="my-auto space-y-3 text-left">
-                  <p
-                    id="trainer-english"
-                    class="text-xl font-semibold text-slate-900 dark:text-white"
-                  >
-                    Good day!
-                  </p>
-                  <p
-                    id="trainer-grammar"
-                    class="text-xs text-slate-600 dark:text-slate-300 bg-slate-100 dark:bg-slate-800 p-3 rounded-xl border border-slate-200 dark:border-slate-700"
-                  ></p>
-                </div>
-                <div class="text-xs text-slate-400 text-center">
-                  English Translation
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <!-- Trainer Controls -->
-          <div class="flex justify-center space-x-4 pt-4">
-            <button
-              type="button"
-              onclick="trainerNext(-1)"
-              class="px-6 py-3 bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 font-semibold rounded-2xl text-sm transition"
-            >
-              <i class="fa-solid fa-arrow-left mr-2"></i>Previous
-            </button>
-            <button
-              type="button"
-              onclick="trainerNext(1)"
-              class="px-6 py-3 bg-green-600 hover:bg-green-700 text-white font-semibold rounded-2xl text-sm transition shadow-lg shadow-green-600/20"
-            >
-              Next Card<i class="fa-solid fa-arrow-right ml-2"></i>
-            </button>
-          </div>
-        </div>
-      </section>
     </main>
 
     <!-- Toast Notification Container -->
@@ -623,27 +421,28 @@
           .value.trim();
 
         const jsonSchemaHint = `
-Respond strictly with a JSON array containing exactly ${count} objects.
-Each object must strictly match this format:
-[
-  {
-    "german": "Sentence in German",
-    "english": "Sentence in English",
-    "level": "${level}",
-    "topic": "${topic}",
-    "grammarTip": "Brief grammar tip in English",
-    "vocabulary": [
-      { "word": "word", "translation": "translation", "partOfSpeech": "noun/verb/adj" }
-    ]
-  }
-]`.trim();
+Respond strictly with a valid JSON object in this exact format, with no markdown formatting or extra text outside the JSON:
+{
+  "sentences": [
+    {
+      "german": "Sentence in German",
+      "english": "Sentence in English",
+      "level": "${level}",
+      "topic": "${topic}",
+      "grammarTip": "Brief grammar tip in English",
+      "vocabulary": [
+        { "word": "word", "translation": "translation", "partOfSpeech": "noun/verb/adj" }
+      ]
+    }
+  ]
+}`.trim();
 
         const promptText =
           customPrompt ||
           `Generate exactly ${count} German sentences suitable for CEFR level ${level} about the topic: "${topic}". ${jsonSchemaHint}`;
 
         const systemPrompt =
-          "You are an expert German language teacher. Output ONLY a valid JSON array with no extra markdown formatting or conversational text.";
+          "You are an expert German language teacher. Output ONLY valid JSON matching the requested schema. Do not include markdown code blocks or conversational filler.";
 
         document.getElementById("loading-container").classList.remove("hidden");
         document.getElementById("results-container").innerHTML = "";
@@ -707,38 +506,7 @@ Each object must strictly match this format:
         }
       };
 
-      // Theme Toggle
-      window.toggleDarkMode = function () {
-        document.documentElement.classList.toggle("dark");
-        const isDark = document.documentElement.classList.contains("dark");
-        document.getElementById("theme-icon").className = isDark
-          ? "fa-solid fa-sun"
-          : "fa-solid fa-moon";
-      };
-
-      // Tab Switching
-      window.switchTab = function (tabId) {
-        ["generator", "vocabulary", "trainer"].forEach((t) => {
-          document.getElementById(`view-${t}`).classList.add("hidden");
-          document.getElementById(`nav-${t}`).className =
-            "px-4 py-2 rounded-lg text-sm font-medium transition-colors text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700";
-          const mobBtn = document.getElementById(`mob-nav-${t}`);
-          if (mobBtn)
-            mobBtn.className =
-              "flex-1 py-3 text-center text-xs font-medium text-slate-500 dark:text-slate-400 border-b-2 border-transparent";
-        });
-
-        document.getElementById(`view-${tabId}`).classList.remove("hidden");
-        document.getElementById(`nav-${tabId}`).className =
-          "px-4 py-2 rounded-lg text-sm font-medium transition-colors bg-green-50 text-green-700 dark:bg-green-900/30 dark:text-green-400";
-        const mobActive = document.getElementById(`mob-nav-${tabId}`);
-        if (mobActive)
-          mobActive.className =
-            "flex-1 py-3 text-center text-xs font-medium text-green-600 dark:text-green-400 border-b-2 border-green-600";
-
-        if (tabId === "vocabulary") renderSavedSentences();
-        if (tabId === "trainer") initTrainer();
-      };
+      document.documentElement.classList.add("dark");
 
       // Presets
       window.applyPreset = function (type) {
@@ -838,17 +606,6 @@ Each object must strictly match this format:
                   item.topic || "General"
                 }</span>
               </div>
-              <div class="flex items-center space-x-2">
-                <button type="button" onclick="toggleSaveSentence(${index}, ${isSavedView})" class="p-2 rounded-xl text-xs font-semibold transition ${
-            isSaved
-              ? "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300"
-              : "bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:bg-slate-200"
-          }">
-                  <i class="fa-solid fa-bookmark"></i> ${
-                    isSaved ? "Saved" : "Save"
-                  }
-                </button>
-              </div>
             </div>
             <div class="space-y-2">
               <p class="text-xl font-bold text-slate-900 dark:text-white">${
@@ -869,157 +626,6 @@ Each object must strictly match this format:
         });
       };
 
-      window.renderSavedSentences = function () {
-        const query =
-          document.getElementById("search-saved")?.value.toLowerCase() || "";
-        const filtered = window.savedSentences.filter(
-          (s) =>
-            (s.german && s.german.toLowerCase().includes(query)) ||
-            (s.english && s.english.toLowerCase().includes(query)) ||
-            (s.topic && s.topic.toLowerCase().includes(query))
-        );
-        renderSentences(filtered, "saved-results-container", true);
-      };
-
-      window.toggleSaveSentence = function (index, isSavedView) {
-        const list = isSavedView
-          ? window.savedSentences
-          : window.currentGeneratedSentences;
-        const item = list[index];
-        const existingIndex = window.savedSentences.findIndex(
-          (s) => s.german === item.german
-        );
-
-        if (existingIndex > -1) {
-          window.savedSentences.splice(existingIndex, 1);
-          showToast("Removed from saved vocabulary.");
-        } else {
-          window.savedSentences.push(item);
-          showToast("Saved to vocabulary collection!");
-        }
-
-        localStorage.setItem(
-          "deutsch_saved_ollama",
-          JSON.stringify(window.savedSentences)
-        );
-        updateSavedCount();
-
-        if (isSavedView) {
-          renderSavedSentences();
-        } else {
-          renderSentences(window.currentGeneratedSentences, "results-container");
-        }
-      };
-
-      window.updateSavedCount = function () {
-        document.getElementById("saved-count").innerText =
-          window.savedSentences.length;
-      };
-
-      window.exportData = function () {
-        const dataStr =
-          "data:text/json;charset=utf-8," +
-          encodeURIComponent(JSON.stringify(window.savedSentences, null, 2));
-        const dlAnchor = document.createElement("a");
-        dlAnchor.setAttribute("href", dataStr);
-        dlAnchor.setAttribute("download", "deutschmaster_saved.json");
-        document.body.appendChild(dlAnchor);
-        dlAnchor.click();
-        dlAnchor.remove();
-        showToast("Vocabulary exported successfully!");
-      };
-
-      window.importData = function (event) {
-        const file = event.target.files[0];
-        if (!file) return;
-        const reader = new FileReader();
-        reader.onload = function (e) {
-          try {
-            const imported = JSON.parse(e.target.result);
-            if (Array.isArray(imported)) {
-              window.savedSentences = imported;
-              localStorage.setItem(
-                "deutsch_saved_ollama",
-                JSON.stringify(window.savedSentences)
-              );
-              updateSavedCount();
-              renderSavedSentences();
-              showToast("Vocabulary imported successfully!");
-            } else {
-              throw new Error("Invalid format");
-            }
-          } catch (err) {
-            console.error(err);
-            showToast("Failed to import file. Invalid JSON structure.", "error");
-          }
-        };
-        reader.readAsText(file);
-      };
-
-      // Flashcard Trainer
-      window.initTrainer = function () {
-        window.trainerIndex = 0;
-        window.isFlipped = false;
-        document.getElementById("flashcard-inner").style.transform =
-          "rotateY(0deg)";
-        updateTrainerCard();
-      };
-
-      window.flipCard = function () {
-        window.isFlipped = !window.isFlipped;
-        const inner = document.getElementById("flashcard-inner");
-        inner.style.transform = window.isFlipped
-          ? "rotateY(180deg)"
-          : "rotateY(0deg)";
-      };
-
-      window.trainerNext = function (dir) {
-        const source =
-          window.savedSentences.length > 0
-            ? window.savedSentences
-            : window.currentGeneratedSentences;
-        if (!source || source.length === 0) {
-          showToast(
-            "No cards available to train. Save some sentences first!",
-            "error"
-          );
-          return;
-        }
-        window.trainerIndex =
-          (window.trainerIndex + dir + source.length) % source.length;
-        window.isFlipped = false;
-        document.getElementById("flashcard-inner").style.transform =
-          "rotateY(0deg)";
-        updateTrainerCard();
-      };
-
-      window.updateTrainerCard = function () {
-        const source =
-          window.savedSentences.length > 0
-            ? window.savedSentences
-            : window.currentGeneratedSentences;
-        if (!source || source.length === 0) {
-          document.getElementById("trainer-german").innerText =
-            "No sentences available";
-          document.getElementById("trainer-english").innerText =
-            "Please generate or save sentences first.";
-          document.getElementById("trainer-progress").innerText = "Card 0 of 0";
-          return;
-        }
-        const item = source[window.trainerIndex];
-        document.getElementById("trainer-german").innerText = item.german || "";
-        document.getElementById("trainer-english").innerText = item.english || "";
-        document.getElementById("trainer-level").innerText = item.level || "B1";
-        document.getElementById("trainer-topic").innerText = `Topic: ${
-          item.topic || "General"
-        }`;
-        document.getElementById("trainer-grammar").innerHTML = item.grammarTip
-          ? `<strong>Grammar:</strong> ${item.grammarTip}`
-          : "No specific grammar tip.";
-        document.getElementById("trainer-progress").innerText = `Card ${
-          window.trainerIndex + 1
-        } of ${source.length}`;
-      };
     </script>
   </body>
 </html>
