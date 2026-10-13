@@ -154,6 +154,7 @@
               >
               <select
                 id="cefr-level"
+                onchange="persistGeneratorSettings()"
                 class="w-full rounded-xl border border-slate-300 dark:border-slate-600 bg-slate-50 dark:bg-slate-900 px-4 py-3 text-sm focus:ring-2 focus:ring-green-500 focus:outline-none"
               >
                 <option value="A1">A1 - Beginner (Breakthrough)</option>
@@ -173,12 +174,12 @@
               <label
                 for="topic-input"
                 class="block text-sm font-semibold mb-2 text-slate-700 dark:text-slate-300"
-                >Topic / Scenario</label
+                >Topic / Scenario & Extra Wants</label
               >
               <input
                 type="text"
                 id="topic-input"
-                placeholder="e.g., Ordering food in Berlin"
+                placeholder="e.g., Ordering food in Berlin; short phrases, 8–12 words, beginner-friendly"
                 value="Ordering food in a traditional restaurant"
                 oninput="persistGeneratorSettings()"
                 class="w-full rounded-xl border border-slate-300 dark:border-slate-600 bg-slate-50 dark:bg-slate-900 px-4 py-3 text-sm focus:ring-2 focus:ring-green-500 focus:outline-none"
@@ -271,6 +272,7 @@
       function loadStoredGeneratorSettings() {
         const savedTopic = localStorage.getItem("deutsch_generator_topic");
         const savedCount = localStorage.getItem("deutsch_generator_count");
+        const savedLevel = localStorage.getItem("deutsch_generator_level");
 
         if (savedTopic) {
           document.getElementById("topic-input").value = savedTopic;
@@ -279,6 +281,10 @@
         if (savedCount) {
           document.getElementById("sentence-count").value = savedCount;
           document.getElementById("count-val").innerText = savedCount;
+        }
+
+        if (savedLevel) {
+          document.getElementById("cefr-level").value = savedLevel;
         }
       }
 
@@ -290,6 +296,10 @@
         localStorage.setItem(
           "deutsch_generator_count",
           document.getElementById("sentence-count").value
+        );
+        localStorage.setItem(
+          "deutsch_generator_level",
+          document.getElementById("cefr-level").value
         );
       }
 
