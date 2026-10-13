@@ -234,6 +234,7 @@
                 id="topic-input"
                 placeholder="e.g., Ordering food in Berlin"
                 value="Ordering food in a traditional restaurant"
+                oninput="persistGeneratorSettings()"
                 class="w-full rounded-xl border border-slate-300 dark:border-slate-600 bg-slate-50 dark:bg-slate-900 px-4 py-3 text-sm focus:ring-2 focus:ring-green-500 focus:outline-none"
               />
             </div>
@@ -253,7 +254,7 @@
                 min="1"
                 max="8"
                 value="4"
-                oninput="document.getElementById('count-val').innerText = this.value"
+                oninput="document.getElementById('count-val').innerText = this.value; persistGeneratorSettings();"
                 class="w-full accent-green-600 mt-3"
               />
             </div>
@@ -283,10 +284,10 @@
               type="button"
               onclick="generateSentences()"
               id="generate-btn"
-              class="px-8 py-3.5 bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700 text-white font-semibold rounded-xl shadow-lg shadow-green-600/20 transition-all flex items-center space-x-2"
+              class="px-5 py-2.5 bg-gradient-to-r from-green-600 to-emerald-600 hover:from-green-700 hover:to-emerald-700 text-white font-semibold rounded-xl shadow-lg shadow-green-600/20 transition-all flex items-center space-x-2 text-sm"
             >
-              <i class="fa-solid fa-wand-magic-sparkles"></i>
-              <span>Generate Sentences</span>
+              <i class="fa-solid fa-wand-magic-sparkles text-xs"></i>
+              <span>Generate</span>
             </button>
           </div>
         </div>
@@ -320,15 +321,35 @@
         localStorage.getItem("deutsch_saved_ollama") || "[]"
       );
       window.currentGeneratedSentences = [];
-      window.trainerIndex = 0;
-      window.isFlipped = false;
+
+      function loadStoredGeneratorSettings() {
+        const savedTopic = localStorage.getItem("deutsch_generator_topic");
+        const savedCount = localStorage.getItem("deutsch_generator_count");
+
+        if (savedTopic) {
+          document.getElementById("topic-input").value = savedTopic;
+        }
+
+        if (savedCount) {
+          document.getElementById("sentence-count").value = savedCount;
+          document.getElementById("count-val").innerText = savedCount;
+        }
+      }
+
+      function persistGeneratorSettings() {
+        localStorage.setItem(
+          "deutsch_generator_topic",
+          document.getElementById("topic-input").value.trim()
+        );
+        localStorage.setItem(
+          "deutsch_generator_count",
+          document.getElementById("sentence-count").value
+        );
+      }
 
       window.addEventListener("DOMContentLoaded", () => {
         checkOllamaStatus();
-        updateSavedCount();
-        if (window.savedSentences.length > 0) {
-          window.currentGeneratedSentences = [...window.savedSentences];
-        }
+        loadStoredGeneratorSettings();
       });
 
       window.checkOllamaStatus = function () {
@@ -429,7 +450,6 @@ Respond strictly with a valid JSON object in this exact format, with no markdown
       "english": "Sentence in English",
       "level": "${level}",
       "topic": "${topic}",
-      "grammarTip": "Brief grammar tip in English",
       "vocabulary": [
         { "word": "word", "translation": "translation", "partOfSpeech": "noun/verb/adj" }
       ]
@@ -615,11 +635,6 @@ Respond strictly with a valid JSON object in this exact format, with no markdown
                 item.english || ""
               }</p>
             </div>
-            ${
-              item.grammarTip
-                ? `<div class="p-3 rounded-2xl bg-slate-50 dark:bg-slate-900 text-xs text-slate-600 dark:text-slate-400 border border-slate-100 dark:border-slate-800"><i class="fa-solid fa-lightbulb text-amber-500 mr-1.5"></i><strong>Grammar Tip:</strong> ${item.grammarTip}</div>`
-                : ""
-            }
             ${vocabHtml}
           `;
           container.appendChild(card);
